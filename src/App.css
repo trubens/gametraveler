@@ -1,0 +1,163 @@
+/* Kartet trykkes i én grå farge slik at markører og rute står ut */
+.leaflet-container {
+  background: #e4e4e6;
+  font-family: var(--font-sans);
+}
+
+.leaflet-tile-pane,
+.leaflet-gl-layer canvas {
+  filter: grayscale(1) contrast(0.92) brightness(1.04);
+}
+
+.leaflet-control-zoom.leaflet-bar {
+  border: 2px solid var(--color-ink);
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.leaflet-control-zoom.leaflet-bar a {
+  width: 44px;
+  height: 44px;
+  line-height: 42px;
+  font-size: 22px;
+  color: var(--color-ink);
+  border-radius: 0;
+}
+
+.leaflet-control-zoom.leaflet-bar a:hover {
+  background: var(--color-yellow);
+}
+
+.leaflet-control-attribution {
+  font-size: 12px;
+  background: rgb(255 255 255 / 0.85) !important;
+}
+
+/* Enkeltmarkør: magenta trykkprikk med hvit kant, stort treffområde */
+.gt-marker {
+  display: grid;
+  place-items: center;
+  background: none;
+  border: none;
+}
+
+.gt-marker span {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--color-magenta);
+  border: 2.5px solid #fff;
+  box-shadow: 0 1px 3px rgb(18 18 20 / 0.45);
+  transition: transform 200ms var(--ease-out-expo);
+}
+
+.gt-marker:hover span {
+  transform: scale(1.3);
+}
+
+.gt-marker.is-active span {
+  width: 22px;
+  height: 22px;
+  background: var(--color-ink);
+  border-color: var(--color-yellow);
+  border-width: 3.5px;
+}
+
+.gt-marker.is-dimmed span {
+  background: #9a9aa0;
+  box-shadow: none;
+}
+
+/* Brukerens egen posisjon */
+.gt-user {
+  display: grid;
+  place-items: center;
+  background: none;
+  border: none;
+}
+
+.gt-user span {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--color-cyan);
+  border: 3px solid #fff;
+  box-shadow: 0 0 0 2px var(--color-ink);
+}
+
+/* Klynge: sort sidetall-kule */
+.gt-cluster {
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--color-ink);
+  color: #fff;
+  border: 3px solid #fff;
+  box-shadow: 0 2px 6px rgb(18 18 20 / 0.35);
+  font-weight: 750;
+  font-stretch: 80%;
+  font-variant-numeric: tabular-nums;
+  transition: background-color 150ms ease-out;
+}
+
+.gt-cluster.is-single {
+  background: var(--color-magenta);
+  border-width: 2.5px;
+}
+
+.gt-cluster:hover {
+  background: var(--color-magenta);
+}
+
+/* Navnelapp på aktivt sted og reisestopp, satt som en bildetekst */
+.leaflet-tooltip.gt-label {
+  padding: 3px 8px;
+  border: none;
+  border-radius: 0;
+  background: var(--color-ink);
+  color: #fff;
+  box-shadow: none;
+  font-family: var(--font-sans);
+  font-size: 14px;
+  font-weight: 700;
+  font-stretch: 85%;
+  white-space: nowrap;
+}
+
+.leaflet-tooltip.gt-label::before {
+  display: none;
+}
+
+/* Reiseruten for valgt spill tegnes inn */
+.gt-route {
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  animation: gt-draw 1100ms var(--ease-out-expo) 150ms forwards;
+}
+
+@keyframes gt-draw {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+/* Panelet glir inn fra kanten */
+.gt-panel {
+  animation: gt-slide-in 420ms var(--ease-out-expo);
+}
+
+@keyframes gt-slide-in {
+  from {
+    transform: translateX(-24px);
+    opacity: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  @keyframes gt-slide-in {
+    from {
+      transform: translateY(40px);
+      opacity: 0;
+    }
+  }
+}

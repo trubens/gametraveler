@@ -1,0 +1,112 @@
+@import "@fontsource-variable/archivo/wdth.css";
+@import "tailwindcss";
+
+/* Trykksak-palett: blankt papir, sort trykksverte og CMYK-prosessfarger */
+@theme {
+  --font-sans: "Archivo Variable", system-ui, sans-serif;
+
+  --color-paper: #f7f7f5;
+  --color-sheet: #ffffff;
+  --color-ink: #121214;
+  --color-ink-soft: #46464d;
+  --color-rule: #d9d9dc;
+  --color-magenta: #d4006f;
+  --color-magenta-deep: #a8005a;
+  --color-cyan: #00a3e0;
+  --color-yellow: #ffe100;
+
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+:root {
+  font-family: var(--font-sans);
+  line-height: 1.5;
+  color: var(--color-ink);
+  background: var(--color-paper);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  accent-color: var(--color-magenta);
+}
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  min-width: 320px;
+}
+
+::selection {
+  background: var(--color-yellow);
+  color: var(--color-ink);
+}
+
+/* I base-laget slik at utility-klasser kan overstyre fokusringen */
+@layer base {
+  :focus-visible {
+    outline: 3px solid var(--color-magenta);
+    outline-offset: 2px;
+  }
+}
+
+/* Overskrifter i smal, tung bredde, som magasintitler */
+.headline {
+  font-stretch: 68%;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  text-wrap: balance;
+}
+
+.numerals {
+  font-variant-numeric: tabular-nums lining-nums;
+}
+
+.thin-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-ink-soft) transparent;
+}
+
+/* Dobbel slider: to range-felt oppå hverandre der bare håndtakene tar imot klikk */
+.gt-range {
+  pointer-events: none;
+  appearance: none;
+  background: transparent;
+}
+.gt-range::-webkit-slider-runnable-track { appearance: none; background: transparent; height: 0; }
+.gt-range::-moz-range-track { background: transparent; height: 0; }
+.gt-range::-moz-range-thumb {
+  appearance: none;
+  pointer-events: auto;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: #fff;
+  border: 3px solid var(--color-ink);
+  cursor: grab;
+}
+.gt-range::-webkit-slider-thumb {
+  appearance: none;
+  pointer-events: auto;
+  width: 24px;
+  height: 24px;
+  margin-top: -12px;
+  border-radius: 50%;
+  background: #fff;
+  border: 3px solid var(--color-ink);
+  cursor: grab;
+}
+.gt-range:active::-webkit-slider-thumb { cursor: grabbing; background: var(--color-yellow); }
+.gt-range:active::-moz-range-thumb { cursor: grabbing; background: var(--color-yellow); }
+.gt-range:focus-visible { outline: none; }
+.gt-range:focus-visible::-webkit-slider-thumb { outline: 3px solid var(--color-magenta); outline-offset: 2px; }
+.gt-range:focus-visible::-moz-range-thumb { outline: 3px solid var(--color-magenta); outline-offset: 2px; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

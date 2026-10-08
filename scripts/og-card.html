@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<style>
+  @font-face {
+    font-family: "Archivo";
+    src: url("/node_modules/@fontsource-variable/archivo/files/archivo-latin-wdth-normal.woff2") format("woff2");
+    font-weight: 100 900;
+    font-stretch: 62% 125%;
+  }
+  body { margin: 0; background: #444; }
+  #card {
+    position: relative; width: 1200px; height: 630px; overflow: hidden;
+    background: #121214; color: #fff; font-family: "Archivo", sans-serif;
+  }
+  .route { position: absolute; inset: 0; }
+  .title { position: absolute; left: 72px; top: 96px; font-weight: 800; font-stretch: 68%; font-size: 168px; line-height: 0.88; letter-spacing: -0.01em; text-transform: uppercase; }
+  .title span { color: #ffe100; }
+  .sub { position: absolute; left: 76px; top: 420px; font-size: 40px; font-weight: 500; color: #fff; }
+  .line { position: absolute; left: 76px; top: 500px; font-size: 28px; font-weight: 600; font-variant-numeric: tabular-nums; color: rgba(255,255,255,0.72); }
+  .line b { color: #ffe100; font-weight: 600; }
+  .rule { position: absolute; left: 76px; right: 72px; top: 476px; height: 3px; background: #fff; }
+  .rule::after { content: ""; position: absolute; left: 0; right: 0; top: 7px; height: 1px; background: #fff; }
+  #icons { display: flex; gap: 20px; padding: 20px; align-items: flex-start; }
+</style>
+</head>
+<body>
+  <div id="card">
+    <svg class="route" viewBox="0 0 1200 630" fill="none">
+      <path d="M700 560 C 790 470, 880 520, 940 420 S 1060 230, 1130 150" stroke="#d4006f" stroke-width="7" stroke-linecap="round"/>
+      <circle cx="700" cy="560" r="13" fill="#d4006f" stroke="#fff" stroke-width="5"/>
+      <circle cx="940" cy="420" r="13" fill="#d4006f" stroke="#fff" stroke-width="5"/>
+      <circle cx="1130" cy="150" r="18" fill="#121214" stroke="#ffe100" stroke-width="8"/>
+      <circle cx="820" cy="120" r="10" fill="#d4006f" stroke="#fff" stroke-width="4"/>
+      <circle cx="1010" cy="560" r="10" fill="#d4006f" stroke="#fff" stroke-width="4"/>
+    </svg>
+    <div class="title">Game<br /><span>Traveller</span></div>
+    <div class="rule"></div>
+    <div class="sub">Where video games take place</div>
+    <div class="line">Over <b>200 games</b> on a world map of real places, from <b>3100 BC</b> to the far future</div>
+  </div>
+  <div id="icons">
+    <img id="i32" src="/favicon.svg" width="32" height="32" />
+    <img id="i180" src="/favicon.svg" width="180" height="180" />
+    <img id="i192" src="/favicon.svg" width="192" height="192" />
+    <img id="i512" src="/favicon.svg" width="512" height="512" />
+  </div>
+</body>
+</html>
