@@ -1,0 +1,16 @@
+{
+  "id": "french-polynesia",
+  "name": "French Polynesia",
+  "aliases": [
+    "Fr. Polynesia"
+  ],
+  "position": {
+    "lat": -17.63,
+    "lon": -149.46
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/French_Polynesia",
+  "description": "France's only overseas country, an island collectivity far out in the South Pacific."
+}

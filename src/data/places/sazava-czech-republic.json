@@ -1,0 +1,13 @@
+{
+  "id": "sazava-czech-republic",
+  "name": "Sázava, Czech Republic",
+  "position": {
+    "lat": 49.8719,
+    "lon": 14.8967
+  },
+  "scale": "area",
+  "parentId": "czech-republic",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/S%C3%A1zava_(town)",
+  "description": "A small town on the Sázava river in Central Bohemia."
+}

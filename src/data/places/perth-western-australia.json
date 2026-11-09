@@ -1,0 +1,12 @@
+{
+  "id": "perth-western-australia",
+  "name": "Perth, Western Australia",
+  "position": {
+    "lat": -31.95,
+    "lon": 115.86
+  },
+  "scale": "area",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Perth",
+  "description": "The capital and largest city of Western Australia, and the fourth largest city in the country."
+}

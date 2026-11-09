@@ -1,0 +1,13 @@
+{
+  "id": "nurburgring-germany",
+  "name": "Nürburgring, Germany",
+  "position": {
+    "lat": 50.3356,
+    "lon": 6.9475
+  },
+  "scale": "site",
+  "parentId": "germany",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/N%C3%BCrburgring",
+  "description": "A vast motorsport complex around the village of Nürburg in Rhineland-Palatinate, Germany."
+}

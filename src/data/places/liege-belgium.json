@@ -1,0 +1,19 @@
+{
+  "id": "liege-belgium",
+  "name": "Liège, Belgium",
+  "position": {
+    "lat": 50.6397,
+    "lon": 5.5706
+  },
+  "scale": "area",
+  "parentId": "belgium",
+  "placeType": "city",
+  "aliases": [
+    "Liege",
+    "Luik"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Li%C3%A8ge",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Li%C3%A8ge",
+  "description": "A city in the Meuse valley in eastern Belgium, capital of the province of Liège and the main economic and cultural centre of Wallonia.",
+  "descriptionSource": "wikipedia"
+}

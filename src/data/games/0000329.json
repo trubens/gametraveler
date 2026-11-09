@@ -1,0 +1,39 @@
+{
+  "id": 329,
+  "name": "MotoGP 2",
+  "year": 2001,
+  "series": "MotoGP",
+  "developer": "Namco",
+  "publisher": "Namco",
+  "locations": [
+    {
+      "placeId": "mugello-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 5 of 16 in the 2001 MotoGP season."
+    },
+    {
+      "placeId": "suzuka-international-racing-course-japan",
+      "note": "Raced as the Japanese Grand Prix, the opening round of the 2001 MotoGP season."
+    },
+    {
+      "placeId": "circuit-de-barcelona-catalunya-spain",
+      "note": "Raced as the Catalan Grand Prix, round 6 of 16 in the 2001 MotoGP season."
+    },
+    {
+      "placeId": "tt-circuit-assen-netherlands",
+      "note": "Raced as the Gauloises Dutch TT, round 7 of 16 in the 2001 MotoGP season."
+    },
+    {
+      "placeId": "bugatti-circuit-le-mans-france",
+      "note": "Raced as the French Grand Prix, round 4 of 16 in the 2001 MotoGP season."
+    },
+    {
+      "placeId": "sachsenring-germany",
+      "note": "Raced as the German Grand Prix, round 9 of 16 in the 2001 MotoGP season."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/MotoGP_2",
+  "genres": [
+    "Racing"
+  ]
+}

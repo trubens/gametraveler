@@ -1,0 +1,19 @@
+{
+  "id": 1000201,
+  "name": "The Plague Doctor of Wippra",
+  "year": 2022,
+  "developer": "Electrocosmos",
+  "publisher": "Assemble Entertainment",
+  "locations": [
+    {
+      "placeId": "wippra-germany",
+      "note": "The medieval plague story is set in the small town of Wippra.",
+      "source": "https://store.steampowered.com/app/1811740/The_Plague_Doctor_of_Wippra/"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://store.steampowered.com/app/1811740/The_Plague_Doctor_of_Wippra/",
+  "genres": [
+    "Adventure"
+  ]
+}

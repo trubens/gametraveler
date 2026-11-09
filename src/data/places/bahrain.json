@@ -1,0 +1,13 @@
+{
+  "id": "bahrain",
+  "name": "Bahrain",
+  "position": {
+    "lat": 26.06,
+    "lon": 50.55
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bahrain",
+  "description": "An island kingdom off the eastern side of the Arabian Peninsula in West Asia."
+}

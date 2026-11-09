@@ -1,0 +1,94 @@
+{
+  "id": 19,
+  "name": "Assassin's Creed II",
+  "aliases": [
+    "AC",
+    "AC II",
+    "AC 2"
+  ],
+  "year": 2009,
+  "publisher": "Ubisoft",
+  "series": "Assassin's Creed",
+  "developer": "Ubisoft Montreal",
+  "locations": [
+    {
+      "placeId": "florence-italy",
+      "note": "Ezio's story begins in Florence, where his family is betrayed and executed."
+    },
+    {
+      "placeId": "monteriggioni-italy",
+      "note": "Ezio flees with his family to his uncle Mario's villa in Monteriggioni, which becomes his base of operations."
+    },
+    {
+      "placeId": "san-gimignano-italy",
+      "note": "The towers of San Gimignano are a Tuscan hunting ground for Templar targets."
+    },
+    {
+      "placeId": "forli-italy",
+      "note": "Ezio helps Caterina Sforza defend the city of Forlì."
+    },
+    {
+      "placeId": "venice-italy",
+      "note": "Venice's canals and rooftops host Ezio's hunt for the Templar conspirators."
+    },
+    {
+      "placeId": "vatican-city",
+      "note": "The Vatican is the stage for the game's final confrontation."
+    },
+    {
+      "placeId": "santa-maria-del-fiore-florence-italy",
+      "note": "Ezio climbs the Duomo's dome and campanile over Florence."
+    },
+    {
+      "placeId": "palazzo-vecchio-florence-italy",
+      "note": "The Auditore family is hanged in front of the Palazzo Vecchio, where Ezio's story begins."
+    },
+    {
+      "placeId": "ponte-vecchio-florence-italy",
+      "note": "The Ponte Vecchio is one of the bridges Ezio runs across the Arno."
+    },
+    {
+      "placeId": "santa-croce-florence-italy",
+      "note": "Santa Croce is among the Florentine churches Ezio scales."
+    },
+    {
+      "placeId": "st-marks-basilica-venice-italy",
+      "note": "Ezio flies Leonardo's machine over Venice and lands by St Mark's Basilica."
+    },
+    {
+      "placeId": "rialto-bridge-venice-italy",
+      "note": "The Rialto Bridge carries chases across the Grand Canal."
+    }
+  ],
+  "storyYears": [
+    1476,
+    1499
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_II",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Ubisoft_Montreal",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "ezio",
+      "name": "Ezio's revenge",
+      "characters": [
+        "Ezio Auditore da Firenze"
+      ],
+      "stops": [
+        "florence-italy",
+        "monteriggioni-italy",
+        "san-gimignano-italy",
+        "florence-italy",
+        "forli-italy",
+        "venice-italy",
+        "vatican-city"
+      ],
+      "note": "From his family's execution in Florence to the vault under the Vatican.",
+      "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_II"
+    }
+  ]
+}

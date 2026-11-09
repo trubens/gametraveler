@@ -1,0 +1,27 @@
+{
+  "id": 352,
+  "name": "Project CARS 3",
+  "year": 2020,
+  "series": "Project CARS",
+  "developer": "Slightly Mad Studios",
+  "publisher": "Bandai Namco Entertainment",
+  "locations": [
+    {
+      "placeId": "brands-hatch-uk",
+      "note": "Returns from earlier Project CARS games with two layouts, the Grand Prix circuit and the short Indy loop."
+    },
+    {
+      "placeId": "interlagos-circuit-sao-paulo-brazil",
+      "note": "The headline track addition over Project CARS 2, shown in the game's first reveal and raced on the Brazilian Grand Prix circuit."
+    },
+    {
+      "placeId": "circuito-de-jerez-spain",
+      "note": "One of the real circuits added in Project CARS 3, raced on a single road-course layout."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Project_CARS_3",
+  "genres": [
+    "Racing"
+  ]
+}

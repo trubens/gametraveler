@@ -1,0 +1,31 @@
+{
+  "id": 1000392,
+  "name": "Persona 2: Eternal Punishment",
+  "aliases": [
+    "Shin Megami Tensei: Persona 2 – Eternal Punishment"
+  ],
+  "year": 2000,
+  "series": "Persona",
+  "publisher": "Atlus",
+  "developer": "Atlus",
+  "genres": [
+    "RPG"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Persona_2:_Eternal_Punishment",
+  "reviewed": "2026-11-06",
+  "locations": [
+    {
+      "placeId": "japan",
+      "aliases": [
+        "Sumaru City",
+        "Sumaru"
+      ],
+      "settingType": "fictionalized",
+      "note": "Months later in Sumaru City, the reporter Maya Amano chases the Joker Curse and uncovers the New World Order; when the city is raised into the sky as part of the spaceship Torifune, the party storms it and brings Sumaru back down.",
+      "source": "https://en.wikipedia.org/wiki/Persona_2:_Eternal_Punishment"
+    }
+  ],
+  "storyYears": [
+    1999
+  ]
+}

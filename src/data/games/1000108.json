@@ -1,0 +1,45 @@
+{
+  "id": 1000108,
+  "name": "Life Is Strange",
+  "year": 2015,
+  "publisher": "Square Enix",
+  "series": "Life Is Strange",
+  "developer": "Dontnod Entertainment",
+  "locations": [
+    {
+      "placeId": "arcadia-bay-fictional-oregon-usa",
+      "settingType": "fictionalized",
+      "note": "Max Caulfield finds she can rewind time, saves her childhood friend Chloe Price and hunts for the missing Rachel Amber from Blackwell Academy to the Prescotts' barn and the junkyard, while a tornado gathers over the town and its lighthouse.",
+      "source": "https://en.wikipedia.org/wiki/Life_Is_Strange_(video_game)"
+    },
+    {
+      "placeId": "san-francisco-usa",
+      "note": "In the timeline where Jefferson is caught, Max flies to a San Francisco gallery with Principal Wells to see her winning photo shown, and a call to Chloe reveals the storm has hit Arcadia Bay anyway.",
+      "source": "https://en.wikipedia.org/wiki/Life_Is_Strange_(video_game)"
+    }
+  ],
+  "storyYears": [
+    2013
+  ],
+  "source": "https://en.wikipedia.org/wiki/Life_Is_Strange",
+  "reviewed": "2026-11-02",
+  "genres": [
+    "Interactive Drama"
+  ],
+  "routes": [
+    {
+      "id": "max",
+      "name": "Max Caulfield",
+      "characters": [
+        "Max Caulfield"
+      ],
+      "stops": [
+        "arcadia-bay-fictional-oregon-usa",
+        "san-francisco-usa",
+        "arcadia-bay-fictional-oregon-usa"
+      ],
+      "note": "A week at Blackwell Academy in Arcadia Bay, a flight to a San Francisco gallery and a race back through collapsing timelines to the lighthouse as the storm arrives.",
+      "source": "https://en.wikipedia.org/wiki/Life_Is_Strange_(video_game)"
+    }
+  ]
+}

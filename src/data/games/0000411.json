@@ -1,0 +1,21 @@
+{
+  "id": 411,
+  "name": "Mean Streets",
+  "year": 1989,
+  "series": "Tex Murphy",
+  "developer": "Access Software / The Code Monkeys (ports)",
+  "publisher": "Access Software",
+  "locations": [
+    {
+      "placeId": "san-francisco-usa",
+      "note": "Tex Murphy investigates a scientist's death in a future San Francisco."
+    }
+  ],
+  "storyYears": [
+    2033
+  ],
+  "source": "https://en.wikipedia.org/wiki/Mean_Streets_(video_game)",
+  "genres": [
+    "Adventure"
+  ]
+}

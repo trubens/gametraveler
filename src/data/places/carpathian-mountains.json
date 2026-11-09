@@ -1,0 +1,16 @@
+{
+  "id": "carpathian-mountains",
+  "name": "Carpathian Mountains",
+  "position": {
+    "lat": 47.0,
+    "lon": 25.5
+  },
+  "scale": "area",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Carpathians"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carpathian_Mountains",
+  "description": "A mountain arc of about 1,500 kilometres across Central and Eastern Europe, from Slovakia and Poland through Ukraine to Romania.",
+  "descriptionSource": "wikipedia"
+}

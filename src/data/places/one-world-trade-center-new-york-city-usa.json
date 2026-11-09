@@ -1,0 +1,14 @@
+{
+  "id": "one-world-trade-center-new-york-city-usa",
+  "name": "One World Trade Center, New York City, USA",
+  "position": {
+    "lat": 40.7127,
+    "lon": -74.0134
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/One_World_Trade_Center",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/One_World_Trade_Center",
+  "description": "The main tower of the rebuilt World Trade Center in Lower Manhattan, also known as the Freedom Tower."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "jostedalsbreen-norway",
+  "name": "Jostedalsbreen, Norway",
+  "position": {
+    "lat": 61.6863,
+    "lon": 7.1837
+  },
+  "scale": "area",
+  "parentId": "norway",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jostedalsbreen_National_Park",
+  "description": "The largest glacier on the European mainland, protected within a national park of the same name in Norway."
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1000284,
+  "name": "Indiana Jones and the Infernal Machine",
+  "year": 1999,
+  "series": "Indiana Jones",
+  "developer": "LucasArts",
+  "publisher": "LucasArts",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "storyYears": [
+    1947
+  ],
+  "source": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Infernal_Machine",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "canyonlands-national-park-usa",
+      "note": "1947: Sophia Hapgood, now with the CIA, finds Indy at his dig in the Canyonlands and tells him the Soviets are excavating Babylon."
+    },
+    {
+      "placeId": "babylon-iraq",
+      "note": "In the ruins of the Etemenanki Indy reads the true story of the Tower of Babel; the game returns here for the Infernal Machine and the Aetherium at the end."
+    },
+    {
+      "placeId": "kazakhstan",
+      "note": "The first machine part, in a monastery in the mountains of the Kazakh SSR."
+    },
+    {
+      "placeId": "palawan-philippines",
+      "note": "The second part lies inside an active volcano on Palawan."
+    },
+    {
+      "placeId": "mexico",
+      "note": "An Olmec valley in Mexico holds the third part; Indy is captured by the Soviets at the end of it."
+    },
+    {
+      "placeId": "canary-islands-spain",
+      "note": "Indy wakes as a prisoner on a Soviet ship in the waters of the Canary Islands and breaks out."
+    },
+    {
+      "placeId": "meroe-sudan",
+      "note": "The last part waits in a tomb near Meroë, in the desert of Anglo-Egyptian Sudan."
+    },
+    {
+      "placeId": "peru",
+      "note": "The bonus level returns to the Peruvian temple from the opening of Raiders of the Lost Ark, with another golden idol in a secret room."
+    }
+  ],
+  "routes": [
+    {
+      "id": "the-four-parts",
+      "name": "The four parts of the Infernal Machine",
+      "characters": [
+        "Indiana Jones",
+        "Sophia Hapgood"
+      ],
+      "stops": [
+        "canyonlands-national-park-usa",
+        "babylon-iraq",
+        "kazakhstan",
+        "palawan-philippines",
+        "mexico",
+        "canary-islands-spain",
+        "meroe-sudan",
+        "babylon-iraq"
+      ],
+      "note": "From the dig in Utah to Babylon, out to the four machine parts and back to Babylon for the finale; the Peru bonus level is outside the story.",
+      "source": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Infernal_Machine"
+    }
+  ]
+}

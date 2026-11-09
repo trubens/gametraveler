@@ -1,0 +1,17 @@
+{
+  "id": "altes-theater-leipzig-germany",
+  "name": "Altes Theater, Leipzig, Germany",
+  "position": {
+    "lat": 51.3439,
+    "lon": 12.3722
+  },
+  "scale": "site",
+  "parentId": "leipzig-germany",
+  "placeType": "venue",
+  "aliases": [
+    "Old Theatre"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Altes_Theater_(Leipzig)",
+  "description": "Leipzig's first theatre building, opened in 1766 on the Fleischerplatz at the north-west corner of the ring, destroyed in 1943; the tram stop at Goerdelerring stands on the site.",
+  "descriptionSource": "wikipedia"
+}

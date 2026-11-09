@@ -1,0 +1,13 @@
+{
+  "id": "lesbos-greece",
+  "name": "Lesbos, Greece",
+  "position": {
+    "lat": 39.1641,
+    "lon": 26.2777
+  },
+  "scale": "area",
+  "parentId": "greece",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lesbos",
+  "description": "A Greek island lying in the north-eastern Aegean Sea, also spelled Lesvos."
+}

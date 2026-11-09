@@ -1,0 +1,18 @@
+{
+  "id": "lyceum-eger-hungary",
+  "name": "Lyceum, Eger, Hungary",
+  "position": {
+    "lat": 47.8993,
+    "lon": 20.3764
+  },
+  "scale": "site",
+  "parentId": "eger-hungary",
+  "placeType": "landmark",
+  "aliases": [
+    "Eszterházy Lyceum",
+    "Camera obscura"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Eszterh%C3%A1zy_K%C3%A1roly_Catholic_University",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eszterh%C3%A1zy_K%C3%A1roly_Catholic_University",
+  "description": "The home of the university founded in Eger in 1774 and later named for its founder, Bishop Károly Eszterházy."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "speicherstadt-hamburg-germany",
+  "name": "Speicherstadt, Hamburg, Germany",
+  "position": {
+    "lat": 53.5433,
+    "lon": 9.9919
+  },
+  "scale": "site",
+  "parentId": "hamburg-germany",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Speicherstadt",
+  "description": "The largest warehouse district in the world, red-brick blocks on oak piles between the canals of the old free port, built from 1883.",
+  "descriptionSource": "wikipedia"
+}

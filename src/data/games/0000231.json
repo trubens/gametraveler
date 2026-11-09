@@ -1,0 +1,28 @@
+{
+  "id": 231,
+  "name": "Midnight Club: Street Racing",
+  "aliases": [
+    "MC",
+    "MC Street Racing"
+  ],
+  "year": 2000,
+  "publisher": "Rockstar Games",
+  "series": "Midnight Club",
+  "developer": "Angel Studios",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "The street-racing career begins in a condensed New York with recognizable Manhattan streets and landmarks."
+    },
+    {
+      "placeId": "london-uk",
+      "note": "The career continues in a stylized London where racers navigate recognizable streets and landmarks at night."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Midnight_Club:_Street_Racing",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Rockstar_Games",
+  "genres": [
+    "Racing"
+  ]
+}

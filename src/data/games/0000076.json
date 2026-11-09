@@ -1,0 +1,75 @@
+{
+  "id": 76,
+  "name": "Secret Files 3",
+  "year": 2012,
+  "publisher": "Deep Silver",
+  "series": "Secret Files",
+  "developer": "Animation Arts",
+  "locations": [
+    {
+      "placeId": "berlin-germany",
+      "note": "Nina's fiancé Max is arrested in Berlin, and she searches his museum office for answers."
+    },
+    {
+      "placeId": "gobekli-tepe-turkey",
+      "note": "Nina explores the ancient temple complex at Potbelly Hill and finds Emre trapped inside."
+    },
+    {
+      "placeId": "florence-italy",
+      "note": "Asleep on the flight to San Francisco, Nina dreams herself into the Florence of 1477, follows the stolen amphora to Leonardo da Vinci's workshop and cracks the code on his cylinder.",
+      "source": "https://gameboomers.com/wtcheats/pcSs/SecretFiles3/SecretFiles3.htm"
+    },
+    {
+      "placeId": "san-francisco-usa",
+      "note": "A painting exhibition at the Palace of Fine Arts and a meeting on Alcatraz move the hunt here."
+    },
+    {
+      "placeId": "cadiz-spain",
+      "note": "Seized by the enemy's guards after Alcatraz, Nina wakes drugged in the hold of an aircraft carrier loading cargo at Cadiz and tampers with the cargo marks to find a way out.",
+      "source": "https://gameboomers.com/wtcheats/pcSs/SecretFiles3/SecretFiles3.htm"
+    },
+    {
+      "placeId": "cern-switzerland",
+      "note": "The research facility where the mystery of the secret machine unfolds."
+    },
+    {
+      "placeId": "santorini-greece",
+      "note": "The Guardians' headquarters lie on the sea floor off Santorini."
+    },
+    {
+      "placeId": "alexandria-egypt",
+      "note": "A 48 BC prologue: robed figures pay a thief to destroy papyrus scrolls in Alexandria."
+    }
+  ],
+  "storyYears": [
+    -48,
+    2012
+  ],
+  "source": "https://en.wikipedia.org/wiki/Secret_Files_3",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Deep_Silver",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "nina",
+      "name": "Nina Kalenkov",
+      "characters": [
+        "Nina Kalenkov",
+        "Max Gruber"
+      ],
+      "stops": [
+        "berlin-germany",
+        "gobekli-tepe-turkey",
+        "san-francisco-usa",
+        "cadiz-spain",
+        "cern-switzerland",
+        "santorini-greece",
+        "cern-switzerland"
+      ],
+      "note": "From Max's arrest in Berlin to the buried temple of Potbelly Hill, the fire-scarred Palace of Fine Arts and Alcatraz, a captive's passage through Cadiz to CERN, down to the Guardians' base off Santorini and back to stop the machine.",
+      "source": "https://gameboomers.com/wtcheats/pcSs/SecretFiles3/SecretFiles3.htm"
+    }
+  ]
+}

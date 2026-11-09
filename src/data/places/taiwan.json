@@ -1,0 +1,13 @@
+{
+  "id": "taiwan",
+  "name": "Taiwan",
+  "position": {
+    "lat": 23.65,
+    "lon": 120.87
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Taiwan",
+  "description": "An island country in East Asia, lying off the coast of mainland China."
+}

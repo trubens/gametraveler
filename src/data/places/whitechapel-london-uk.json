@@ -1,0 +1,17 @@
+{
+  "id": "whitechapel-london-uk",
+  "name": "Whitechapel, London, UK",
+  "position": {
+    "lat": 51.5164,
+    "lon": -0.0692
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "neighborhood",
+  "aliases": [
+    "Buck's Row"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Whitechapel",
+  "description": "The East End district of Victorian slums and the Ripper murders, east of the City.",
+  "descriptionSource": "wikipedia"
+}

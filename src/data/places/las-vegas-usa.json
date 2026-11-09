@@ -1,0 +1,16 @@
+{
+  "id": "las-vegas-usa",
+  "name": "Las Vegas, USA",
+  "position": {
+    "lat": 36.1699,
+    "lon": -115.1398
+  },
+  "scale": "area",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Las_Vegas",
+  "description": "Nevada's casino city in the Mojave Desert.",
+  "parentId": "nevada-usa",
+  "aliases": [
+    "Las Vegas, Nevada, USA"
+  ]
+}

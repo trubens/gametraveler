@@ -1,0 +1,19 @@
+{
+  "id": "libertalia-legendary-madagascar",
+  "name": "Libertalia, Madagascar",
+  "position": {
+    "lat": -16.9667,
+    "lon": 49.8667
+  },
+  "scale": "area",
+  "parentId": "madagascar",
+  "placeType": "area",
+  "legendary": true,
+  "aliases": [
+    "Libertatia",
+    "New Devon"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Libertalia",
+  "source": "https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End",
+  "description": "The pirate colony said to have been founded in Madagascar in the late 17th century, known only from Captain Charles Johnson's account and probably invented. Pinned at Île Sainte-Marie, the old pirate haven off Madagascar's east coast where Uncharted 4's opening map stops; the exact spot is a guess."
+}

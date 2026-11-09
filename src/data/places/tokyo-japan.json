@@ -1,0 +1,13 @@
+{
+  "id": "tokyo-japan",
+  "name": "Tokyo, Japan",
+  "position": {
+    "lat": 35.6895,
+    "lon": 139.6917
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tokyo",
+  "description": "Japan's capital and largest city."
+}

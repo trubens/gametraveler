@@ -1,0 +1,62 @@
+{
+  "id": 255,
+  "name": "Deus Ex: Invisible War",
+  "year": 2003,
+  "publisher": "Eidos Interactive",
+  "series": "Deus Ex",
+  "developer": "Ion Storm",
+  "locations": [
+    {
+      "placeId": "chicago-usa",
+      "note": "The game opens as a terrorist attack destroys Chicago and Alex D is evacuated from the Tarsus Academy."
+    },
+    {
+      "placeId": "seattle-usa",
+      "note": "Alex wakes in the Tarsus facility in Seattle and takes faction missions in the city's upper and lower levels."
+    },
+    {
+      "placeId": "cairo-egypt",
+      "note": "Alex follows the factions to Cairo and its arcology, investigating ApostleCorp."
+    },
+    {
+      "placeId": "trier-germany",
+      "note": "In Trier, by the Porta Nigra, Alex reaches the facility the rival factions are fighting over."
+    },
+    {
+      "placeId": "antarctica",
+      "note": "Alex goes to Antarctica, to the base where ApostleCorp's secrets are kept."
+    },
+    {
+      "placeId": "liberty-island-new-york-city-usa",
+      "note": "The finale on Liberty Island, beside the statue's remains, where a surviving node of the pre-Collapse communication network decides which faction rules."
+    }
+  ],
+  "storyYears": [
+    2072
+  ],
+  "source": "https://en.wikipedia.org/wiki/Deus_Ex:_Invisible_War",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Eidos_Interactive",
+  "genres": [
+    "Action RPG"
+  ],
+  "routes": [
+    {
+      "id": "alex-d",
+      "name": "Alex D",
+      "characters": [
+        "Alex D"
+      ],
+      "stops": [
+        "chicago-usa",
+        "seattle-usa",
+        "cairo-egypt",
+        "trier-germany",
+        "antarctica",
+        "liberty-island-new-york-city-usa"
+      ],
+      "note": "Alex D escapes the destruction of Chicago and follows the factions from Seattle to Cairo, Trier and Antarctica, ending on Liberty Island.",
+      "source": "https://en.wikipedia.org/wiki/Deus_Ex:_Invisible_War"
+    }
+  ]
+}

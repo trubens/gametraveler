@@ -1,0 +1,80 @@
+{
+  "id": 82,
+  "name": "Uncharted 3: Drake's Deception",
+  "year": 2011,
+  "publisher": "Sony Computer Entertainment",
+  "series": "Uncharted",
+  "developer": "Naughty Dog",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "Drake and Sully's deal over Francis Drake's ring in a London pub goes sour and starts the hunt."
+    },
+    {
+      "placeId": "cartagena-colombia",
+      "note": "Flashback to teenage Nate meeting Sully while chasing Drake's ring in Cartagena."
+    },
+    {
+      "placeId": "syria",
+      "note": "A Crusader citadel in Syria hides the second half of a key amulet."
+    },
+    {
+      "placeId": "yemen",
+      "note": "Drake, Sully and Elena find a tomb in Yemen that points the way to the lost city of Ubar."
+    },
+    {
+      "placeId": "rub-al-khali-saudi-arabia",
+      "note": "Drake wanders the Empty Quarter desert and finds Ubar, the Atlantis of the Sands."
+    },
+    {
+      "placeId": "france",
+      "note": "A ruined French chateau hides the first half of the amulet in Crusader crypts."
+    }
+  ],
+  "routes": [
+    {
+      "id": "drake-sullivan",
+      "name": "Drake and Sullivan",
+      "characters": [
+        "Nathan Drake",
+        "Victor Sullivan"
+      ],
+      "stops": [
+        "london-uk",
+        "cartagena-colombia",
+        "london-uk",
+        "france",
+        "syria",
+        "yemen",
+        "rub-al-khali-saudi-arabia"
+      ],
+      "note": "Cartagena is a twenty-years-earlier flashback. Nate and Sully later investigate France before rejoining the others in Yemen.",
+      "source": "https://en.wikipedia.org/wiki/Uncharted_3:_Drake%27s_Deception"
+    },
+    {
+      "id": "frazer-cutter",
+      "name": "Frazer and Cutter",
+      "characters": [
+        "Chloe Frazer",
+        "Charlie Cutter"
+      ],
+      "stops": [
+        "syria",
+        "yemen",
+        "rub-al-khali-saudi-arabia"
+      ],
+      "note": "Their Syria investigation runs in parallel to Nate and Sully's visit to France; they reunite in Yemen.",
+      "source": "https://en.wikipedia.org/wiki/Uncharted_3:_Drake%27s_Deception"
+    }
+  ],
+  "storyYears": [
+    2011
+  ],
+  "source": "https://en.wikipedia.org/wiki/Uncharted_3:_Drake%27s_Deception",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Naughty_Dog",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

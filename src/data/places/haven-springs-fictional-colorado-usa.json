@@ -1,0 +1,18 @@
+{
+  "id": "haven-springs-fictional-colorado-usa",
+  "name": "Haven Springs, Colorado, USA",
+  "position": {
+    "lat": 39.7467,
+    "lon": -105.4806
+  },
+  "scale": "area",
+  "parentId": "colorado-usa",
+  "placeType": "city",
+  "fictional": true,
+  "aliases": [
+    "Idaho Springs"
+  ],
+  "source": "https://www.youtube.com/watch?v=WyX1bWRQfFA",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Idaho_Springs,_Colorado",
+  "description": "The invented Rocky Mountain mining town of Life Is Strange: True Colors, where most people work for the Typhon mining company. Deck Nine has shown Idaho Springs, in Clear Creek Canyon west of Denver, as an inspiration, so the pin stands there."
+}

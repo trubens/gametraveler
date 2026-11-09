@@ -1,0 +1,12 @@
+{
+  "id": "india",
+  "name": "India",
+  "position": {
+    "lat": 20.5937,
+    "lon": 78.9629
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/India",
+  "description": "A South Asian country of continental scale, the seventh largest in the world and the most populous of all."
+}

@@ -1,0 +1,24 @@
+{
+  "id": 493,
+  "name": "Tokyo Mirage Sessions ♯FE",
+  "year": 2015,
+  "developer": "Atlus",
+  "publisher": "Nintendo",
+  "locations": [
+    {
+      "placeId": "tokyo-japan",
+      "note": "The performers' story takes players to recognizable Tokyo districts including Shibuya."
+    },
+    {
+      "placeId": "shibuya-tokyo-japan",
+      "note": "Shibuya's streets and the 109 building are the idols' home ground."
+    }
+  ],
+  "storyYears": [
+    2015
+  ],
+  "source": "https://en.wikipedia.org/wiki/Tokyo_Mirage_Sessions_%E2%99%AFFE",
+  "genres": [
+    "Action RPG"
+  ]
+}

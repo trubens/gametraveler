@@ -1,0 +1,23 @@
+{
+  "id": 501,
+  "name": "Midtown Madness 2",
+  "year": 2000,
+  "series": "Midtown Madness",
+  "developer": "Angel Studios",
+  "publisher": "Microsoft",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "Street races explore recognizable recreations of London and San Francisco."
+    },
+    {
+      "placeId": "san-francisco-usa",
+      "note": "Street races explore recognizable recreations of London and San Francisco."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Midtown_Madness_2",
+  "genres": [
+    "Racing"
+  ]
+}

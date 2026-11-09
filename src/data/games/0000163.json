@@ -1,0 +1,22 @@
+{
+  "id": 163,
+  "name": "Max Payne",
+  "year": 2001,
+  "publisher": "Gathering of Developers",
+  "series": "Max Payne",
+  "developer": "Remedy Entertainment",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "DEA agent Max Payne hunts his family's killers through a snowbound New York underworld."
+    }
+  ],
+  "storyYears": [
+    2001
+  ],
+  "source": "https://en.wikipedia.org/wiki/Max_Payne_(video_game)",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Third-Person Shooter"
+  ]
+}

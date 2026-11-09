@@ -1,0 +1,19 @@
+{
+  "id": 358,
+  "name": "Race – The Official WTCC Game",
+  "year": 2006,
+  "series": "Race",
+  "developer": "SimBin Studios",
+  "publisher": "SimBin Studios",
+  "locations": [
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "The World Touring Car Championship includes playable races at Monza."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Race_%E2%80%93_The_Official_WTCC_Game",
+  "genres": [
+    "Racing"
+  ]
+}

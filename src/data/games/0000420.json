@@ -1,0 +1,21 @@
+{
+  "id": 420,
+  "name": "Versailles 1685",
+  "year": 1997,
+  "series": "Versailles",
+  "developer": "Cryo Interactive Entertainment",
+  "publisher": "Cryo Interactive Entertainment / Canal+ Multimedia / Réunion des Musées Nationaux",
+  "locations": [
+    {
+      "placeId": "versailles-france",
+      "note": "Players explore the Palace of Versailles while investigating a threat against Louis XIV."
+    }
+  ],
+  "storyYears": [
+    1685
+  ],
+  "source": "https://en.wikipedia.org/wiki/Versailles_1685",
+  "genres": [
+    "Adventure"
+  ]
+}

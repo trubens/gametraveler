@@ -1,0 +1,23 @@
+{
+  "id": 447,
+  "name": "Call of Duty: Finest Hour",
+  "year": 2004,
+  "series": "Call of Duty",
+  "developer": "Spark Unlimited",
+  "publisher": "Activision",
+  "locations": [
+    {
+      "placeId": "stalingrad-volgograd-russia",
+      "note": "The Soviet campaign begins with fighting in Stalingrad."
+    }
+  ],
+  "storyYears": [
+    1942
+  ],
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Finest_Hour",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Activision",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

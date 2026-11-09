@@ -1,0 +1,13 @@
+{
+  "id": "buenos-aires-argentina",
+  "name": "Buenos Aires, Argentina",
+  "position": {
+    "lat": -34.6037,
+    "lon": -58.3816
+  },
+  "scale": "area",
+  "parentId": "argentina",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buenos_Aires",
+  "placeType": "city",
+  "description": "Argentina's capital and largest city."
+}

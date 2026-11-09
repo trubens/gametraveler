@@ -1,0 +1,13 @@
+{
+  "id": "gibraltar",
+  "name": "Gibraltar",
+  "position": {
+    "lat": 36.1408,
+    "lon": -5.3536
+  },
+  "scale": "area",
+  "placeType": "region",
+  "source": "https://en.wikipedia.org/wiki/Gibraltar",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gibraltar",
+  "description": "A British territory and city at the southern tip of Iberia, on the Bay of Gibraltar where the Mediterranean meets the Atlantic."
+}

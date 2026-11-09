@@ -1,0 +1,12 @@
+{
+  "id": "england-uk",
+  "name": "England, UK",
+  "position": {
+    "lat": 52.3555,
+    "lon": -1.1743
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/England",
+  "description": "The largest of the countries that make up the United Kingdom, covering most of Great Britain and more than a hundred smaller islands."
+}

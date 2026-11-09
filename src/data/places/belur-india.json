@@ -1,0 +1,13 @@
+{
+  "id": "belur-india",
+  "name": "Belur, India",
+  "position": {
+    "lat": 13.1656,
+    "lon": 75.8652
+  },
+  "scale": "area",
+  "parentId": "india",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Belur,_Karnataka",
+  "description": "A town in the Hassan district of Karnataka."
+}

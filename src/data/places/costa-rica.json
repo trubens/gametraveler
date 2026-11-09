@@ -1,0 +1,14 @@
+{
+  "id": "costa-rica",
+  "name": "Costa Rica",
+  "position": {
+    "lat": 9.93,
+    "lon": -84.08
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Costa_Rica",
+  "description": "A Central American country between Nicaragua and Panama, with volcanoes, cloud forest and no army since 1948.",
+  "descriptionSource": "wikipedia"
+}

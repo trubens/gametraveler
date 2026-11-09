@@ -1,0 +1,24 @@
+{
+  "id": 1000222,
+  "name": "Nancy Drew: Treasure in the Royal Tower",
+  "year": 2001,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "wisconsin-usa",
+      "aliases": [
+        "Wickford Castle"
+      ],
+      "settingType": "fictionalized",
+      "note": "Snowed in at the Wickford Castle ski lodge, Nancy chases a thief through secret passages and finds Marie Antoinette's tower, rebuilt there, with her journal and a lost diamond."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Treasure_in_the_Royal_Tower",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

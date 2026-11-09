@@ -1,0 +1,14 @@
+{
+  "id": "harbin-china",
+  "name": "Harbin, China",
+  "position": {
+    "lat": 45.8038,
+    "lon": 126.535
+  },
+  "scale": "area",
+  "parentId": "china",
+  "source": "https://en.wikipedia.org/wiki/Harbin",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Harbin",
+  "placeType": "city",
+  "description": "Capital and largest city of Heilongjiang."
+}

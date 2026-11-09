@@ -1,0 +1,13 @@
+{
+  "id": "lithuania",
+  "name": "Lithuania",
+  "position": {
+    "lat": 55.1,
+    "lon": 24.09
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lithuania",
+  "description": "A country in the Baltic region of Europe, set among its Baltic neighbours."
+}

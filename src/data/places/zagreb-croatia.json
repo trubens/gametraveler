@@ -1,0 +1,14 @@
+{
+  "id": "zagreb-croatia",
+  "name": "Zagreb, Croatia",
+  "position": {
+    "lat": 45.8131,
+    "lon": 15.9775
+  },
+  "scale": "area",
+  "parentId": "croatia",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Zagreb",
+  "description": "The Croatian capital, the base of the Croatia Rally's tarmac stages in the hills around it.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "san-andreas-countryside-fictionalized-california-and-nevada",
+  "name": "San Andreas countryside, USA",
+  "position": {
+    "lat": 36.8,
+    "lon": -119.4
+  },
+  "scale": "area",
+  "placeType": "region",
+  "fictional": true,
+  "aliases": [
+    "San Andreas countryside (fictionalized California and Nevada)"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/California",
+  "description": "A compressed California and Nevada countryside between three invented cities. Pinned in the Central Valley."
+}

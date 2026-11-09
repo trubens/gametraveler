@@ -1,0 +1,14 @@
+{
+  "id": "gatineau-fictional-france",
+  "name": "Gatineau, France",
+  "position": {
+    "lat": 50.95,
+    "lon": 1.95
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "fictional": true,
+  "source": "https://www.gameboomers.com/wtcheats/pcSs/Secretfiles2/secretfiles2.htm",
+  "description": "The invented ruined town of Secret Files 2, burned to the ground in 1658 by the sect behind Zandona's prophecies. The game puts it near the French coast where the Calypso's survivors wash ashore after the ship sinks in the North Sea; the pin on the Côte d'Opale is a guess."
+}

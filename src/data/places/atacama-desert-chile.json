@@ -1,0 +1,13 @@
+{
+  "id": "atacama-desert-chile",
+  "name": "Atacama Desert, Chile",
+  "position": {
+    "lat": -24.5,
+    "lon": -69.25
+  },
+  "scale": "area",
+  "parentId": "chile",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Atacama_Desert",
+  "description": "A desert plateau on the Pacific coast of South America, in the north of Chile."
+}

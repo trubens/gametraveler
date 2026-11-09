@@ -1,0 +1,16 @@
+{
+  "id": "canyonlands-national-park-usa",
+  "name": "Canyonlands National Park, USA",
+  "aliases": [
+    "Canyonlands"
+  ],
+  "position": {
+    "lat": 38.1669,
+    "lon": -109.7597
+  },
+  "scale": "area",
+  "parentId": "utah-usa",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Canyonlands_National_Park",
+  "description": "A national park of canyons in south-eastern Utah, near the town of Moab."
+}

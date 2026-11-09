@@ -1,0 +1,14 @@
+{
+  "id": "reichstag-berlin-germany",
+  "name": "Reichstag, Berlin, Germany",
+  "position": {
+    "lat": 52.5186,
+    "lon": 13.3761
+  },
+  "scale": "site",
+  "parentId": "berlin-germany",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Reichstag_building",
+  "description": "The parliament building of 1894, burnt in 1933, stormed in 1945 and rebuilt under Norman Foster's glass dome for the Bundestag.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "mount-fuji-japan",
+  "name": "Mount Fuji, Japan",
+  "position": {
+    "lat": 35.3608,
+    "lon": 138.7275
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Fuji-san",
+    "Fujisan"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mount_Fuji",
+  "description": "Japan's highest mountain, a 3,776-metre volcano south-west of Tokyo, snow-capped most of the year.",
+  "descriptionSource": "wikipedia"
+}

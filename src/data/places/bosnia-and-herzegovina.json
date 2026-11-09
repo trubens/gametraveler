@@ -1,0 +1,12 @@
+{
+  "id": "bosnia-and-herzegovina",
+  "name": "Bosnia and Herzegovina",
+  "scale": "area",
+  "position": {
+    "lat": 43.92,
+    "lon": 17.68
+  },
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+  "description": "A country in south-eastern Europe, often shortened to Bosnia-Herzegovina or simply Bosnia."
+}

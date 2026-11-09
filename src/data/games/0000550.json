@@ -1,0 +1,20 @@
+{
+  "id": 550,
+  "name": "A Highland Song",
+  "year": 2023,
+  "publisher": "inkle",
+  "developer": "inkle",
+  "locations": [
+    {
+      "placeId": "scottish-highlands-uk",
+      "settingType": "fictionalized",
+      "note": "Moira McKinnon runs away from home and crosses the Highlands' hills and valleys to reach her uncle's lighthouse on the coast."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/A_Highland_Song",
+  "genres": [
+    "Adventure",
+    "Action-Platformer"
+  ]
+}

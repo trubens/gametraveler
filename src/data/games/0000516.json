@@ -1,0 +1,20 @@
+{
+  "id": 516,
+  "name": "Amber's Blood",
+  "year": 2012,
+  "publisher": "MDNA Games",
+  "developer": "MDNA Games",
+  "locations": [
+    {
+      "placeId": "norrkoping-sweden",
+      "note": "Carol's friend Stina finds a 1999 obituary for a grandfather she thought had died long before, and Carol looks into it around photographed Norrköping."
+    }
+  ],
+  "storyYears": [
+    2012
+  ],
+  "source": "https://en.wikipedia.org/wiki/Carol_Reed_Mysteries",
+  "genres": [
+    "Adventure"
+  ]
+}

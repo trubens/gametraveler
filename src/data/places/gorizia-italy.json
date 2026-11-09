@@ -1,0 +1,14 @@
+{
+  "id": "gorizia-italy",
+  "name": "Gorizia, Italy",
+  "position": {
+    "lat": 45.9333,
+    "lon": 13.6167
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gorizia",
+  "description": "A town in Friuli-Venezia Giulia at the foot of the Julian Alps, on the Slovenian border.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "hejaz-saudi-arabia",
+  "name": "Hejaz, Saudi Arabia",
+  "position": {
+    "lat": 25.0,
+    "lon": 38.8
+  },
+  "scale": "area",
+  "parentId": "saudi-arabia",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hejaz",
+  "description": "The western region of Arabia along the Red Sea, with Mecca and Medina, where the Hejaz railway was raided during the Arab Revolt of 1916 to 1918.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "siberia-russia",
+  "name": "Siberia, Russia",
+  "position": {
+    "lat": 61.524,
+    "lon": 105.3188
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Siberia",
+  "description": "The immense region of North Asia stretching from the Ural Mountains to the Pacific Ocean."
+}

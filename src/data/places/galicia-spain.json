@@ -1,0 +1,13 @@
+{
+  "id": "galicia-spain",
+  "name": "Galicia, Spain",
+  "scale": "area",
+  "position": {
+    "lat": 42.8,
+    "lon": -8.1
+  },
+  "parentId": "spain",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Galicia_(Spain)",
+  "description": "Spain's north-western region on the Iberian Peninsula, made up of the provinces of A Coruña, Lugo, Ourense and Pontevedra."
+}

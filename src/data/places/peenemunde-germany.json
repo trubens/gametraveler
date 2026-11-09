@@ -1,0 +1,17 @@
+{
+  "id": "peenemunde-germany",
+  "name": "Peenemünde, Germany",
+  "position": {
+    "lat": 54.1333,
+    "lon": 13.7667
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "city",
+  "aliases": [
+    "Peenemunde"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Peenemünde",
+  "description": "A village on the Baltic island of Usedom, where the V-2 rocket was developed and tested at the army research centre.",
+  "descriptionSource": "wikipedia"
+}

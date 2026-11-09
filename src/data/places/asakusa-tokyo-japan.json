@@ -1,0 +1,13 @@
+{
+  "id": "asakusa-tokyo-japan",
+  "name": "Asakusa, Tokyo, Japan",
+  "position": {
+    "lat": 35.7148,
+    "lon": 139.7967
+  },
+  "scale": "site",
+  "parentId": "tokyo-japan",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Asakusa",
+  "description": "A district of Taitō in Tokyo."
+}

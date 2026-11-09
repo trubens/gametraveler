@@ -1,0 +1,14 @@
+{
+  "id": "unter-den-linden-berlin-germany",
+  "name": "Unter den Linden, Berlin, Germany",
+  "position": {
+    "lat": 52.517,
+    "lon": 13.3889
+  },
+  "scale": "site",
+  "parentId": "berlin-germany",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Unter_den_Linden",
+  "description": "The lime-tree boulevard from the Berlin Palace to the Brandenburg Gate, with the opera, the university and the Zeughaus along it.",
+  "descriptionSource": "wikipedia"
+}

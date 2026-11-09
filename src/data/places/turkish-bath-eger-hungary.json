@@ -1,0 +1,16 @@
+{
+  "id": "turkish-bath-eger-hungary",
+  "name": "Turkish Bath, Eger, Hungary",
+  "position": {
+    "lat": 47.8975,
+    "lon": 20.38
+  },
+  "scale": "site",
+  "parentId": "eger-hungary",
+  "placeType": "venue",
+  "aliases": [
+    "Török fürdő"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Yoomurjak%27s_Ring",
+  "description": "An early-17th-century Ottoman bath in Eger, still in use as a thermal bath under its domed roof."
+}

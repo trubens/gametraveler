@@ -1,0 +1,12 @@
+{
+  "id": "brands-hatch-uk",
+  "name": "Brands Hatch, UK",
+  "position": {
+    "lat": 51.3569,
+    "lon": 0.2633
+  },
+  "scale": "site",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brands_Hatch",
+  "description": "A motor racing circuit at West Kingsdown in the county of Kent, England."
+}

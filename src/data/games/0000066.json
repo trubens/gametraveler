@@ -1,0 +1,81 @@
+{
+  "id": 66,
+  "name": "Broken Sword: The Angel of Death",
+  "aliases": [
+    "Broken Sword 4",
+    "Secrets of the Ark: A Broken Sword Adventure"
+  ],
+  "year": 2006,
+  "publisher": "THQ / The Adventure Company",
+  "series": "Broken Sword",
+  "developer": "Revolution Software",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "George runs a New York bail bonds office when Anna Maria and her manuscript draw in the mob."
+    },
+    {
+      "placeId": "istanbul-turkey",
+      "note": "A citadel beneath Topkapi Palace yields a golden cherub and gets George arrested."
+    },
+    {
+      "placeId": "rome-italy",
+      "note": "Anna Maria's Rome apartment holds a photo of her as a nun by the Vatican walls and a ticket to Phoenix; George comes back to it, and to the Black Cat club, between his visits to the Vatican."
+    },
+    {
+      "placeId": "phoenix-usa",
+      "note": "Nico investigates a Phoenix facility where a weapon is being built."
+    },
+    {
+      "placeId": "topkapi-palace-istanbul-turkey",
+      "note": "A hidden citadel lies beneath the Topkapı Palace."
+    },
+    {
+      "placeId": "vatican-city",
+      "note": "George slips into the wafer factory of a Vatican monastery and finds Anna Maria's file; the finale is in the catacombs beneath, where Nico is chained to the Ark and Gianelli tries to summon the Angel of Death.",
+      "source": "https://www.gameboomers.com/wtcheats/pcBb/BS4WT/BS4.htm"
+    }
+  ],
+  "storyYears": [
+    2006
+  ],
+  "source": "https://en.wikipedia.org/wiki/Broken_Sword:_The_Angel_of_Death",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Revolution_Software",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "george",
+      "name": "George",
+      "characters": [
+        "George Stobbart"
+      ],
+      "stops": [
+        "new-york-city-usa",
+        "istanbul-turkey",
+        "rome-italy",
+        "vatican-city",
+        "rome-italy",
+        "vatican-city"
+      ],
+      "note": "Twice to the Vatican: New York (the bail bonds office, Anna Maria's hotel, Martino's meat plant), Istanbul (the Pasha Palace hotel, Topkapı and the jail), Rome, the Vatican wafer factory, back to Rome for the Black Cat club and the apartment, and the Vatican again for the catacombs.",
+      "source": "https://www.gameboomers.com/wtcheats/pcBb/BS4WT/BS4.htm"
+    },
+    {
+      "id": "nico",
+      "name": "Nico",
+      "characters": [
+        "Nicole Collard"
+      ],
+      "stops": [
+        "istanbul-turkey",
+        "phoenix-usa",
+        "vatican-city"
+      ],
+      "note": "Nico breaks George out of the Istanbul jail dressed as a nun, is playable only in Phoenix, where she investigates Maynard's facility, and ends up chained to the Ark beneath the Vatican.",
+      "source": "https://www.gameboomers.com/wtcheats/pcBb/BS4WT/BS4.htm"
+    }
+  ]
+}

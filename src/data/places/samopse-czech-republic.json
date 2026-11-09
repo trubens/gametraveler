@@ -1,0 +1,17 @@
+{
+  "id": "samopse-czech-republic",
+  "name": "Samopše, Czech Republic",
+  "position": {
+    "lat": 49.8614,
+    "lon": 14.93
+  },
+  "scale": "area",
+  "parentId": "czech-republic",
+  "placeType": "city",
+  "aliases": [
+    "Samopesh"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Samopše",
+  "description": "A village on the Sázava, the parish that Talmberk and Mrchojedy belong to today.",
+  "descriptionSource": "wikipedia"
+}

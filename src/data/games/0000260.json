@@ -1,0 +1,25 @@
+{
+  "id": 260,
+  "name": "Sniper Elite",
+  "aliases": [
+    "Sniper Elite Berlin 1945"
+  ],
+  "year": 2005,
+  "publisher": "MC2 France / Namco Hometek",
+  "series": "Sniper Elite",
+  "developer": "Rebellion Developments",
+  "locations": [
+    {
+      "placeId": "berlin-germany",
+      "note": "Karl Fairburne operates among Berlin's ruined streets during the final battle of the war."
+    }
+  ],
+  "storyYears": [
+    1945
+  ],
+  "source": "https://en.wikipedia.org/wiki/Sniper_Elite_(video_game)",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Tactical Shooter"
+  ]
+}

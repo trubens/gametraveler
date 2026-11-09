@@ -1,0 +1,25 @@
+{
+  "id": 1000197,
+  "name": "The Sinking City 2",
+  "year": 2026,
+  "series": "The Sinking City",
+  "developer": "Frogwares",
+  "publisher": "Frogwares",
+  "locations": [
+    {
+      "placeId": "arkham-fictional-massachusetts",
+      "settingType": "fictionalized",
+      "note": "The sequel's standalone story takes place in a flood-stricken 1920s Arkham.",
+      "source": "https://news.xbox.com/en-us/2026/08/18/the-sinking-city-2-survival-horror/"
+    }
+  ],
+  "storyYears": [
+    1920,
+    1929
+  ],
+  "source": "https://news.xbox.com/en-us/2026/08/18/the-sinking-city-2-survival-horror/",
+  "genres": [
+    "Adventure",
+    "Survival Horror"
+  ]
+}

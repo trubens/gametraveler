@@ -1,0 +1,13 @@
+{
+  "id": "gulf-of-oman",
+  "name": "Gulf of Oman",
+  "position": {
+    "lat": 24.8,
+    "lon": 57.8
+  },
+  "scale": "area",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gulf_of_Oman",
+  "description": "The gulf that connects the Arabian Sea with the Strait of Hormuz, between the coasts of Oman and Iran.",
+  "descriptionSource": "wikipedia"
+}

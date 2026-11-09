@@ -1,0 +1,18 @@
+{
+  "id": "shadow-moses-fictional-fox-islands-alaska-usa",
+  "name": "Shadow Moses Island, Alaska",
+  "position": {
+    "lat": 53.7833,
+    "lon": -166.5833
+  },
+  "scale": "area",
+  "parentId": "alaska-usa",
+  "placeType": "island",
+  "fictional": true,
+  "aliases": [
+    "Shadow Moses"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_(1998_video_game)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fox_Islands_(Alaska)",
+  "description": "The invented island of the nuclear weapons disposal facility in Metal Gear Solid, which the game puts in Alaska's Fox Archipelago. The pin stands on the real Fox Islands of the eastern Aleutians."
+}

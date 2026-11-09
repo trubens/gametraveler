@@ -1,0 +1,48 @@
+{
+  "id": 246,
+  "name": "Marvel's Spider-Man: Miles Morales",
+  "year": 2020,
+  "publisher": "Sony Interactive Entertainment",
+  "series": "Marvel's Spider-Man",
+  "developer": "Insomniac Games",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "With Peter away, Miles guards a snowbound Manhattan over Christmas as Roxxon and the Underground go to war.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_Miles_Morales"
+    },
+    {
+      "placeId": "harlem-new-york-city-usa",
+      "note": "Miles's new home: the Underground and Roxxon fight in its streets, Krieger rigs the Nuform reactor at Roxxon Plaza to destroy Harlem, and Rio and Aaron evacuate it while Miles stops Phin.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_Miles_Morales"
+    },
+    {
+      "placeId": "trinity-church-new-york-city-usa",
+      "note": "In the post-credits scene Miles leaves the award he won with Phin on top of Trinity Church, in her memory.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_Miles_Morales"
+    }
+  ],
+  "storyYears": [
+    2019
+  ],
+  "source": "https://en.wikipedia.org/wiki/Spider-Man:_Miles_Morales",
+  "reviewed": "2026-11-06",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "miles",
+      "name": "Miles Morales",
+      "characters": [
+        "Miles Morales"
+      ],
+      "stops": [
+        "harlem-new-york-city-usa",
+        "trinity-church-new-york-city-usa"
+      ],
+      "note": "From the battle for Harlem to Miles's tribute to Phin on top of Trinity Church.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_Miles_Morales"
+    }
+  ]
+}

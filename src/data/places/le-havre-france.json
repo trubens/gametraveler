@@ -1,0 +1,13 @@
+{
+  "id": "le-havre-france",
+  "name": "Le Havre, France",
+  "position": {
+    "lat": 49.4944,
+    "lon": 0.1079
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Le_Havre",
+  "description": "A major port city on the Normandy coast of northern France."
+}

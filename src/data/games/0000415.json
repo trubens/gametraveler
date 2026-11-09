@@ -1,0 +1,25 @@
+{
+  "id": 415,
+  "name": "Tesla Effect: A Tex Murphy Adventure",
+  "year": 2014,
+  "series": "Tex Murphy",
+  "developer": "Big Finish Games",
+  "publisher": "Atlus",
+  "locations": [
+    {
+      "placeId": "san-francisco-usa",
+      "aliases": [
+        "Chandler Avenue"
+      ],
+      "note": "Tex investigates lost memories and a conspiracy in future San Francisco, with his home street, Chandler Avenue, as the game's hub.",
+      "source": "https://en.wikipedia.org/wiki/Tesla_Effect:_A_Tex_Murphy_Adventure"
+    }
+  ],
+  "storyYears": [
+    2050
+  ],
+  "source": "https://en.wikipedia.org/wiki/Tesla_Effect:_A_Tex_Murphy_Adventure",
+  "genres": [
+    "Adventure"
+  ]
+}

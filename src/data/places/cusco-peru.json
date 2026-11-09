@@ -1,0 +1,13 @@
+{
+  "id": "cusco-peru",
+  "name": "Cusco, Peru",
+  "scale": "area",
+  "position": {
+    "lat": -13.532,
+    "lon": -71.9675
+  },
+  "parentId": "peru",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cusco",
+  "description": "A city in south-eastern Peru near the Sacred Valley of the Andes."
+}

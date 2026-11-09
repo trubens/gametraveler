@@ -1,0 +1,83 @@
+{
+  "id": 193,
+  "name": "Call of Duty: WWII",
+  "aliases": [
+    "COD",
+    "COD WWII"
+  ],
+  "year": 2017,
+  "publisher": "Activision",
+  "series": "Call of Duty",
+  "developer": "Sledgehammer Games",
+  "locations": [
+    {
+      "placeId": "omaha-beach-france",
+      "note": "Pvt. Daniels of the 1st Infantry Division storms Omaha Beach in the game's D-Day opening."
+    },
+    {
+      "placeId": "marigny-france",
+      "note": "Operation Cobra, 25-26 July 1944: the platoon rides with the 745th Tank Battalion to liberate Marigny, and Daniels learns why Pierson was demoted.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_WWII"
+    },
+    {
+      "placeId": "aachen-germany",
+      "note": "Daniels's unit fights street by street for Aachen, the first German city taken by the Allies."
+    },
+    {
+      "placeId": "hurtgen-forest-germany",
+      "note": "The Hürtgen Forest chapter traps the squad in the bitter forest fighting of late 1944."
+    },
+    {
+      "placeId": "ardennes-belgium",
+      "note": "Christmas 1944 in the Battle of the Bulge: the surrounded platoon calls in air support, and the player flies a P-47 Thunderbolt over the Ardennes.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_WWII"
+    },
+    {
+      "placeId": "remagen-germany",
+      "note": "7 March 1945: the platoon seizes the Ludendorff Bridge at Remagen, the last bridge over the Rhine, after Daniels uncovers the German plan to blow it."
+    },
+    {
+      "placeId": "berga-concentration-camp-germany",
+      "note": "The platoon finds the Berga camp abandoned and its prisoners sent on a death march, and Daniels finds and saves Zussman.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_WWII"
+    },
+    {
+      "placeId": "paris-france",
+      "note": "Liberation, 25 August 1944: Rousseau and Crowley infiltrate the German garrison in Paris to plant explosives ahead of the platoon's assault."
+    }
+  ],
+  "storyYears": [
+    1944,
+    1945
+  ],
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_WWII",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Activision",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "daniels",
+      "name": "Pfc. Ronald 'Red' Daniels",
+      "characters": [
+        "Ronald 'Red' Daniels",
+        "Robert Zussman",
+        "William Pierson",
+        "Joseph Turner"
+      ],
+      "stops": [
+        "omaha-beach-france",
+        "marigny-france",
+        "paris-france",
+        "aachen-germany",
+        "hurtgen-forest-germany",
+        "ardennes-belgium",
+        "remagen-germany",
+        "berga-concentration-camp-germany"
+      ],
+      "note": "From Omaha Beach through Marigny and the liberation of Paris, then into Germany via Aachen and the Hürtgen Forest, through the Bulge in the Ardennes and over the bridge at Remagen to the Berga camp where Zussman is found.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_WWII"
+    }
+  ]
+}

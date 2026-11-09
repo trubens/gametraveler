@@ -1,0 +1,12 @@
+{
+  "id": "malaysia",
+  "name": "Malaysia",
+  "position": {
+    "lat": 4,
+    "lon": 102
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Malaysia",
+  "description": "A country in the heart of Southeast Asia, set among its neighbours in the region."
+}

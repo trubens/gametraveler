@@ -1,0 +1,17 @@
+{
+  "id": "sulaymaniyah-iraq",
+  "name": "Sulaymaniyah, Iraq",
+  "position": {
+    "lat": 35.5572,
+    "lon": 45.4356
+  },
+  "scale": "area",
+  "parentId": "iraq",
+  "placeType": "city",
+  "aliases": [
+    "Slemani"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sulaymaniyah",
+  "description": "A city in the mountains of Iraqi Kurdistan near the Iranian border.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 304,
+  "name": "Grand Prix Legends",
+  "year": 1998,
+  "series": "Grand Prix",
+  "developer": "Papyrus Design Group",
+  "publisher": "Sierra Sports",
+  "locations": [
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 9 of 11 in the 1967 season."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Grand_Prix_Legends",
+  "genres": [
+    "Racing"
+  ]
+}

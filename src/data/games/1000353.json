@@ -1,0 +1,57 @@
+{
+  "id": 1000353,
+  "name": "Metal Gear Solid 4: Guns of the Patriots",
+  "year": 2008,
+  "series": "Metal Gear",
+  "developer": "Kojima Productions",
+  "publisher": "Konami",
+  "genres": [
+    "Stealth"
+  ],
+  "storyYears": [
+    2014
+  ],
+  "source": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_4:_Guns_of_the_Patriots",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "colombia",
+      "note": "In South America Snake tracks Naomi, Liquid Ocelot's prisoner, to Colombia, where she explains his rapid ageing."
+    },
+    {
+      "placeId": "prague-czech-republic",
+      "note": "In an Eastern European city Snake finds the resistance led by Big Mama, who turns out to be EVA."
+    },
+    {
+      "placeId": "charles-bridge-prague-czech-republic",
+      "settingType": "fictionalized",
+      "note": "Snake and Big Mama's motorbike escape through the occupied city runs across a recreation of the Charles Bridge."
+    },
+    {
+      "placeId": "shadow-moses-fictional-fox-islands-alaska-usa",
+      "note": "Snake returns to Shadow Moses for Metal Gear REX's untraceable warhead, and rides REX out against Liquid's RAY.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "arlington-national-cemetery-virginia-usa",
+      "note": "The epilogue: Snake visits The Boss's grave at Arlington and meets Big Boss."
+    }
+  ],
+  "routes": [
+    {
+      "id": "old-snake",
+      "name": "Old Snake",
+      "characters": [
+        "Old Snake"
+      ],
+      "stops": [
+        "colombia",
+        "prague-czech-republic",
+        "shadow-moses-fictional-fox-islands-alaska-usa",
+        "arlington-national-cemetery-virginia-usa"
+      ],
+      "note": "Old Snake hunts Liquid Ocelot from South America through an occupied Eastern European city back to Shadow Moses, and ends at The Boss's grave.",
+      "source": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_4:_Guns_of_the_Patriots"
+    }
+  ]
+}

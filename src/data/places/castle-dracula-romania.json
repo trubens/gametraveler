@@ -1,0 +1,18 @@
+{
+  "id": "castle-dracula-romania",
+  "name": "Castle Dracula, Romania",
+  "position": {
+    "lat": 47.29,
+    "lon": 25.05
+  },
+  "scale": "site",
+  "parentId": "transylvania-romania",
+  "placeType": "landmark",
+  "fictional": true,
+  "aliases": [
+    "Dracula's Castle"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Dracula:_Resurrection",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tihu%C8%9Ba_Pass",
+  "description": "Count Dracula's invented castle from Bram Stoker's novel, set in the Carpathians above the Borgo Pass (Tihuța Pass); the Dracula adventure games reach it from the pass. Pinned beside the pass; the exact spot is a guess."
+}

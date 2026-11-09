@@ -1,0 +1,22 @@
+{
+  "id": 533,
+  "name": "Vampire: The Masquerade – Shadows of New York",
+  "year": 2020,
+  "publisher": "Draw Distance",
+  "series": "Vampire: The Masquerade",
+  "developer": "Draw Distance",
+  "storyYears": [
+    2020
+  ],
+  "source": "https://en.wikipedia.org/wiki/Vampire:_The_Masquerade_–_Shadows_of_New_York",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Newly turned vampire and former journalist Julia Sowinski investigates the death of the Anarch Baron Douglas Callihan in New York's vampire underworld."
+    }
+  ],
+  "genres": [
+    "Visual Novel"
+  ]
+}

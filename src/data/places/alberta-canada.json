@@ -1,0 +1,14 @@
+{
+  "id": "alberta-canada",
+  "name": "Alberta, Canada",
+  "position": {
+    "lat": 54.5,
+    "lon": -115.0
+  },
+  "scale": "area",
+  "parentId": "canada",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alberta",
+  "description": "A prairie province of western Canada whose south-western edge climbs into the Rocky Mountains of Banff and Jasper.",
+  "descriptionSource": "wikipedia"
+}

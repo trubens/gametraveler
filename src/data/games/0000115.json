@@ -1,0 +1,63 @@
+{
+  "id": 115,
+  "name": "Yakuza: Like a Dragon",
+  "year": 2020,
+  "publisher": "Sega",
+  "series": "Yakuza / Like a Dragon",
+  "developer": "Ryu Ga Gotoku Studio",
+  "locations": [
+    {
+      "placeId": "isezakicho-yokohama-japan",
+      "aliases": [
+        "Isezaki Ijincho"
+      ],
+      "settingType": "fictionalized",
+      "note": "Left for dead, Ichiban wakes up among the homeless of Ijincho, the game's Isezakicho in Yokohama, gathers his party against the three local gangs and runs for office against Aoki's candidate."
+    },
+    {
+      "placeId": "dotonbori-osaka-japan",
+      "aliases": [
+        "Sotenbori"
+      ],
+      "settingType": "fictionalized",
+      "note": "At the Omi Alliance meeting in Sotenbori, the series' Dotonbori, where both clans are disbanded, Ichiban's party fights rioting Omi members alongside Kiryu.",
+      "source": "https://en.wikipedia.org/wiki/Yakuza:_Like_a_Dragon"
+    },
+    {
+      "placeId": "kabukicho-tokyo-japan",
+      "aliases": [
+        "Kamurocho"
+      ],
+      "settingType": "fictionalized",
+      "note": "In 2001 Ichiban takes the fall for a murder to protect the Arakawa Family; freed in 2019, he is shot by his patriarch in Omi-held Kamurocho, the series' Kabukicho, and comes back at the end to expose Governor Aoki."
+    }
+  ],
+  "storyYears": [
+    2001,
+    2019
+  ],
+  "source": "https://en.wikipedia.org/wiki/Yakuza:_Like_a_Dragon",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
+  "genres": [
+    "RPG"
+  ],
+  "routes": [
+    {
+      "id": "ichiban",
+      "name": "Ichiban's rise",
+      "characters": [
+        "Ichiban Kasuga"
+      ],
+      "stops": [
+        "kabukicho-tokyo-japan",
+        "isezakicho-yokohama-japan",
+        "dotonbori-osaka-japan",
+        "isezakicho-yokohama-japan",
+        "kabukicho-tokyo-japan"
+      ],
+      "note": "From prison release in Kamurocho to a fresh start in Ijincho, the dissolution in Sotenbori and the reckoning with Aoki back in Kamurocho.",
+      "source": "https://en.wikipedia.org/wiki/Yakuza:_Like_a_Dragon"
+    }
+  ]
+}

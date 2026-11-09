@@ -1,0 +1,12 @@
+{
+  "id": "oklahoma-usa",
+  "name": "Oklahoma, USA",
+  "position": {
+    "lat": 35.6,
+    "lon": -97.5
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oklahoma",
+  "description": "A landlocked state of the south-central United States, part Southern and part Southwestern in character."
+}

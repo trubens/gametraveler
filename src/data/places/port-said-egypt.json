@@ -1,0 +1,13 @@
+{
+  "id": "port-said-egypt",
+  "name": "Port Said, Egypt",
+  "position": {
+    "lat": 31.2653,
+    "lon": 32.3019
+  },
+  "scale": "area",
+  "parentId": "egypt",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Port_Said",
+  "description": "A port city on Egypt's Mediterranean coast."
+}

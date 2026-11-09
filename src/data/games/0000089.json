@@ -1,0 +1,80 @@
+{
+  "id": 89,
+  "name": "Hitman: Blood Money",
+  "year": 2006,
+  "publisher": "Eidos Interactive",
+  "series": "Hitman",
+  "developer": "IO Interactive",
+  "locations": [
+    {
+      "placeId": "baltimore-usa",
+      "note": "The opening hit on a bankrupt amusement-park owner in Baltimore."
+    },
+    {
+      "placeId": "california-usa",
+      "note": "The suburban contract 'A New Life' takes place in a California cul-de-sac."
+    },
+    {
+      "placeId": "las-vegas-usa",
+      "note": "Two casino-hotel contracts play out on the Las Vegas Strip."
+    },
+    {
+      "placeId": "rocky-mountains-colorado-usa",
+      "note": "The Colorado contract takes 47 to a remote mansion in the Rocky Mountains."
+    },
+    {
+      "placeId": "mississippi-usa",
+      "note": "47 kills the Gator gang and their boss Skip Muldoon aboard the paddle steamer Emily on the Mississippi, then goes into the swamps to kill the groom and the bride's father at a plantation wedding.",
+      "source": "https://hitman.fandom.com/wiki/Death_on_the_Mississippi"
+    },
+    {
+      "placeId": "washington-d-c-usa",
+      "note": "The climax, Amendment XXV, is an assassination plot inside the White House."
+    },
+    {
+      "placeId": "chile",
+      "note": "A Vintage Year: a drug lord's vineyard in Chile is 47's first job abroad."
+    },
+    {
+      "placeId": "palais-garnier-paris-france",
+      "note": "Curtains Down: 47 stalks a tenor and an ambassador through a rehearsal at the Paris Opera, the Palais Garnier."
+    },
+    {
+      "placeId": "french-quarter-new-orleans-usa",
+      "note": "The Murder of Crows: 47 hunts three assassins through a Mardi Gras parade in the French Quarter, between a blues bar, a rock bar and a salsa club."
+    }
+  ],
+  "storyYears": [
+    2006
+  ],
+  "source": "https://en.wikipedia.org/wiki/Hitman:_Blood_Money",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Eidos_Interactive",
+  "genres": [
+    "Stealth"
+  ],
+  "routes": [
+    {
+      "id": "agent-47",
+      "name": "Agent 47",
+      "characters": [
+        "Agent 47",
+        "Diana Burnwood",
+        "Alexander Leland Cayne"
+      ],
+      "stops": [
+        "baltimore-usa",
+        "chile",
+        "palais-garnier-paris-france",
+        "california-usa",
+        "french-quarter-new-orleans-usa",
+        "rocky-mountains-colorado-usa",
+        "mississippi-usa",
+        "las-vegas-usa",
+        "washington-d-c-usa"
+      ],
+      "note": "From a Baltimore amusement park 47 goes abroad to a Chilean vineyard and the Paris Opera, then works his way across America through California, Mardi Gras in New Orleans, a Rocky Mountain mansion, a Mississippi riverboat and a plantation wedding, and Las Vegas to the White House.",
+      "source": "https://hitman.neoseeker.com/wiki/List_of_missions_in_Hitman:_Blood_Money"
+    }
+  ]
+}

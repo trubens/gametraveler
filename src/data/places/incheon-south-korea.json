@@ -1,0 +1,14 @@
+{
+  "id": "incheon-south-korea",
+  "name": "Incheon, South Korea",
+  "position": {
+    "lat": 37.4833,
+    "lon": 126.6333
+  },
+  "scale": "area",
+  "parentId": "south-korea",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Incheon",
+  "description": "A port city on the Yellow Sea west of Seoul, home to South Korea's main international airport.",
+  "descriptionSource": "wikipedia"
+}

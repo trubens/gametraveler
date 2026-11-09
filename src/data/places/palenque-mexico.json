@@ -1,0 +1,13 @@
+{
+  "id": "palenque-mexico",
+  "name": "Palenque, Mexico",
+  "position": {
+    "lat": 17.4848,
+    "lon": -92.0461
+  },
+  "scale": "area",
+  "parentId": "mexico",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Palenque",
+  "description": "A Maya city-state in southern Mexico."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pisa-italy",
+  "name": "Pisa, Italy",
+  "position": {
+    "lat": 43.7228,
+    "lon": 10.4017
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pisa",
+  "description": "A Tuscan city straddling the Arno just before the river empties into the Ligurian Sea."
+}

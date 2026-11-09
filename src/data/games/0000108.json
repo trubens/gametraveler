@@ -1,0 +1,55 @@
+{
+  "id": 108,
+  "name": "Yakuza 0",
+  "year": 2015,
+  "publisher": "Sega",
+  "series": "Yakuza / Like a Dragon",
+  "developer": "Ryu Ga Gotoku Studio",
+  "locations": [
+    {
+      "placeId": "kabukicho-tokyo-japan",
+      "aliases": [
+        "Kamurocho"
+      ],
+      "settingType": "fictionalized",
+      "note": "Kiryu is framed for a killing on the Empty Lot, the last plot the Tojo Clan needs to redevelop Kamurocho, the series' Kabukicho, in the 1988 bubble, and leaves the Dojima Family to clear his name."
+    },
+    {
+      "placeId": "dotonbori-osaka-japan",
+      "aliases": [
+        "Sotenbori"
+      ],
+      "settingType": "fictionalized",
+      "note": "Majima runs the Grand cabaret in Sotenbori, the series' Dotonbori, and is ordered to kill the lot's blind owner, Makoto Makimura, whom he protects instead."
+    }
+  ],
+  "storyYears": [
+    1988,
+    1989
+  ],
+  "source": "https://en.wikipedia.org/wiki/Yakuza_0",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "two",
+      "name": "Kiryu and Majima",
+      "characters": [
+        "Kazuma Kiryu",
+        "Goro Majima"
+      ],
+      "stops": [
+        "kabukicho-tokyo-japan",
+        "dotonbori-osaka-japan",
+        "kabukicho-tokyo-japan",
+        "dotonbori-osaka-japan",
+        "kabukicho-tokyo-japan"
+      ],
+      "note": "Alternating between Kiryu in Kamurocho and Majima in Sotenbori until both stories meet in Kamurocho over the Empty Lot.",
+      "source": "https://en.wikipedia.org/wiki/Yakuza_0"
+    }
+  ]
+}

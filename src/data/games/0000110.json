@@ -1,0 +1,63 @@
+{
+  "id": 110,
+  "name": "Yakuza 2 / Yakuza Kiwami 2",
+  "year": 2006,
+  "publisher": "Sega",
+  "series": "Yakuza / Like a Dragon",
+  "developer": "Sega",
+  "locations": [
+    {
+      "placeId": "kabukicho-tokyo-japan",
+      "aliases": [
+        "Kamurocho"
+      ],
+      "settingType": "fictionalized",
+      "note": "After the Tojo chairman is gunned down, Kiryu holds Kamurocho, the series' Kabukicho, against Ryuji Goda's invasion and fights him atop the Kamurocho Hills construction site."
+    },
+    {
+      "placeId": "dotonbori-osaka-japan",
+      "aliases": [
+        "Sotenbori"
+      ],
+      "settingType": "fictionalized",
+      "note": "Kiryu comes to Sotenbori, the series' Dotonbori, to make peace with the Omi Alliance, makes a rival of Ryuji Goda and teams up with Osaka detective Kaoru Sayama."
+    },
+    {
+      "placeId": "shinsekai-osaka-japan",
+      "aliases": [
+        "Shinseicho"
+      ],
+      "settingType": "fictionalized",
+      "note": "In the original release Kiryu's Osaka chapters also take him into Shinseicho, the game's Shinsekai, the old quarter under Tsutenkaku Tower.",
+      "source": "https://en.wikipedia.org/wiki/Yakuza_2"
+    }
+  ],
+  "storyYears": [
+    2006
+  ],
+  "source": "https://en.wikipedia.org/wiki/Yakuza_2",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "kiryu",
+      "name": "Kiryu between Tokyo and Osaka",
+      "characters": [
+        "Kazuma Kiryu",
+        "Kaoru Sayama"
+      ],
+      "stops": [
+        "kabukicho-tokyo-japan",
+        "dotonbori-osaka-japan",
+        "kabukicho-tokyo-japan",
+        "dotonbori-osaka-japan",
+        "kabukicho-tokyo-japan"
+      ],
+      "note": "From Terada's ambush in Kamurocho to the Omi in Sotenbori and back, twice, to the last fight with Ryuji on Kamurocho Hills.",
+      "source": "https://en.wikipedia.org/wiki/Yakuza_2"
+    }
+  ]
+}

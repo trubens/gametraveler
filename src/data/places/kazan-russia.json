@@ -1,0 +1,13 @@
+{
+  "id": "kazan-russia",
+  "name": "Kazan, Russia",
+  "position": {
+    "lat": 55.7963,
+    "lon": 49.1088
+  },
+  "scale": "area",
+  "parentId": "russia",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kazan",
+  "description": "The capital and largest city of Tatarstan."
+}

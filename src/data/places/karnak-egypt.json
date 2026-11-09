@@ -1,0 +1,13 @@
+{
+  "id": "karnak-egypt",
+  "name": "Karnak, Egypt",
+  "position": {
+    "lat": 25.7188,
+    "lon": 32.6573
+  },
+  "scale": "site",
+  "parentId": "thebes-luxor-egypt",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Karnak",
+  "description": "A vast sprawl of temples, pylons, chapels and other buildings near Luxor, one of Egypt's great ancient sites."
+}

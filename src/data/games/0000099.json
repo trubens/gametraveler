@@ -1,0 +1,66 @@
+{
+  "id": 99,
+  "name": "The Capri Connection",
+  "year": 2014,
+  "publisher": "S-G Software",
+  "developer": "S&G Software",
+  "locations": [
+    {
+      "placeId": "capri-italy",
+      "note": "Home base of the trilogy; the mind-swap mystery starts among Capri's real streets and residents."
+    },
+    {
+      "placeId": "amalfi-italy",
+      "note": "One of the new mainland settings, photographed on the Amalfi coast."
+    },
+    {
+      "placeId": "pogerola-italy",
+      "note": "A hillside village above Amalfi used as one of the game's photographic locations."
+    },
+    {
+      "placeId": "positano-italy",
+      "note": "The cliffside town of Positano is among the Amalfi coast sites visited."
+    },
+    {
+      "placeId": "procida-italy",
+      "note": "The small island of Procida in the Bay of Naples is one of the new locations."
+    },
+    {
+      "placeId": "naples-italy",
+      "note": "Many sites in Naples appear as the series expands beyond Capri for the first time."
+    }
+  ],
+  "storyYears": [
+    2014
+  ],
+  "source": "https://en.wikipedia.org/wiki/Capri_(series)",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "nick-freuds",
+      "name": "Nick Freuds",
+      "characters": [
+        "Nick Freuds"
+      ],
+      "stops": [
+        "capri-italy",
+        "naples-italy",
+        "capri-italy",
+        "procida-italy",
+        "pogerola-italy",
+        "amalfi-italy",
+        "capri-italy",
+        "positano-italy",
+        "naples-italy",
+        "positano-italy",
+        "naples-italy",
+        "capri-italy"
+      ],
+      "note": "Sent hopping by a teleporting fridge from Anacapri round the Bay of Naples, Nick gathers light crystals on Procida, at Pogerola's waterfall, in Amalfi and Positano, and mends the space-time rip beneath Naples before going home.",
+      "source": "https://www.gameboomers.com/wtcheats/pcCc/TCC/TCC.htm"
+    }
+  ]
+}

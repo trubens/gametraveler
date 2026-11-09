@@ -1,0 +1,14 @@
+{
+  "id": "broadway-cotswolds-england-uk",
+  "name": "Broadway, Cotswolds, England, UK",
+  "position": {
+    "lat": 52.04,
+    "lon": -1.86
+  },
+  "scale": "area",
+  "parentId": "cotswolds-england-uk",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Broadway,_Worcestershire",
+  "description": "A honey-stone village with a wide main street at the foot of the Cotswold escarpment, below Broadway Tower.",
+  "descriptionSource": "wikipedia"
+}

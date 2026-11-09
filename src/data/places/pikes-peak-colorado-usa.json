@@ -1,0 +1,16 @@
+{
+  "id": "pikes-peak-colorado-usa",
+  "name": "Pikes Peak, Colorado, USA",
+  "aliases": [
+    "Pikes Peak International Hill Climb"
+  ],
+  "position": {
+    "lat": 38.8405,
+    "lon": -105.0442
+  },
+  "scale": "area",
+  "parentId": "colorado-usa",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pikes_Peak",
+  "description": "A towering summit of the Front Range of the Rocky Mountains, so prominent that it is called America's Mountain."
+}

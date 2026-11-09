@@ -1,0 +1,14 @@
+{
+  "id": "aisne-france",
+  "name": "Aisne, France",
+  "position": {
+    "lat": 49.5,
+    "lon": 3.5
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aisne",
+  "description": "A department of northern France named after the river Aisne, between Picardy and Champagne.",
+  "descriptionSource": "wikipedia"
+}

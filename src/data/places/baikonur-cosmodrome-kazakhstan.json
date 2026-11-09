@@ -1,0 +1,14 @@
+{
+  "id": "baikonur-cosmodrome-kazakhstan",
+  "name": "Baikonur Cosmodrome, Kazakhstan",
+  "position": {
+    "lat": 45.965,
+    "lon": 63.305
+  },
+  "scale": "site",
+  "parentId": "kazakhstan",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Baikonur_Cosmodrome",
+  "description": "The world's first and largest operational spaceport, built by the Soviet Union on the Kazakh steppe and now leased by Russia.",
+  "descriptionSource": "wikipedia"
+}

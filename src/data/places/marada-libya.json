@@ -1,0 +1,18 @@
+{
+  "id": "marada-libya",
+  "name": "Marada, Libya",
+  "position": {
+    "lat": 29.2333,
+    "lon": 19.2167
+  },
+  "scale": "area",
+  "parentId": "libya",
+  "placeType": "city",
+  "aliases": [
+    "Maradah"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Marada,_Libya",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marada,_Libya",
+  "description": "A desert oasis in the Al Wahat District of Cyrenaica, in north-eastern Libya.",
+  "descriptionSource": "wikipedia"
+}

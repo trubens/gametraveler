@@ -1,0 +1,19 @@
+{
+  "id": 1000316,
+  "name": "The End of the Sun",
+  "year": 2025,
+  "developer": "The End of the Sun Team",
+  "publisher": "The End of the Sun Team",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [],
+  "source": "https://www.endofsun.com/",
+  "locations": [
+    {
+      "placeId": "the-village-fictional-end-of-the-sun-poland",
+      "note": "An ashter, a Slavic sage, arrives in a village where myth and reality blur, and follows its people through four seasons and four ages. The buildings were scanned at the Szymbark skansen and the flower paintings at Zalipie.",
+      "settingType": "fictionalized"
+    }
+  ]
+}

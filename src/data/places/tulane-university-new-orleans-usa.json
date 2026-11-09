@@ -1,0 +1,14 @@
+{
+  "id": "tulane-university-new-orleans-usa",
+  "name": "Tulane University, New Orleans, USA",
+  "position": {
+    "lat": 29.94,
+    "lon": -90.1208
+  },
+  "scale": "site",
+  "parentId": "new-orleans-usa",
+  "placeType": "venue",
+  "source": "https://en.wikipedia.org/wiki/Tulane_University",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tulane_University",
+  "description": "A private research university in uptown New Orleans, set along St. Charles Avenue."
+}

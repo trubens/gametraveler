@@ -1,0 +1,14 @@
+{
+  "id": "baku-azerbaijan",
+  "name": "Baku, Azerbaijan",
+  "position": {
+    "lat": 40.3756,
+    "lon": 49.8325
+  },
+  "scale": "area",
+  "parentId": "azerbaijan",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Baku",
+  "description": "The capital of Azerbaijan on the Caspian Sea, an old walled city ringed by oil-boom boulevards.",
+  "descriptionSource": "wikipedia"
+}

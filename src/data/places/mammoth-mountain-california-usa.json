@@ -1,0 +1,13 @@
+{
+  "id": "mammoth-mountain-california-usa",
+  "name": "Mammoth Mountain, California, USA",
+  "position": {
+    "lat": 37.6308,
+    "lon": -119.0326
+  },
+  "scale": "area",
+  "parentId": "california-usa",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mammoth_Mountain",
+  "description": "A lava dome complex rising over the town of Mammoth Lakes in California's Inyo National Forest, home to one of the Sierra's big ski areas."
+}

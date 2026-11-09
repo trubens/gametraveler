@@ -1,0 +1,13 @@
+{
+  "id": "fukuoka-japan",
+  "name": "Fukuoka, Japan",
+  "position": {
+    "lat": 33.5923,
+    "lon": 130.4026
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fukuoka",
+  "description": "The capital of Fukuoka Prefecture on Kyushu."
+}

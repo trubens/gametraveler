@@ -1,0 +1,15 @@
+{
+  "id": "tidal-basin-washington-d-c-usa",
+  "name": "Tidal Basin, Washington, D.C., USA",
+  "position": {
+    "lat": 38.8842,
+    "lon": -77.0392
+  },
+  "scale": "site",
+  "parentId": "washington-d-c-usa",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tidal_Basin",
+  "description": "A man-made reservoir between the Potomac River and the Washington Channel, ringed by the Jefferson Memorial and cherry trees.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Tidal_Basin"
+}

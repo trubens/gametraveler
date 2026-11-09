@@ -1,0 +1,73 @@
+{
+  "id": 370,
+  "name": "WRC II Extreme",
+  "year": 2002,
+  "series": "WRC",
+  "developer": "Evolution Studios",
+  "publisher": "Sony Computer Entertainment",
+  "locations": [
+    {
+      "placeId": "jyvaskyla-finland",
+      "note": "Rally Finland, round 9 of 14 of the 2002 World Rally Championship."
+    },
+    {
+      "placeId": "monte-carlo-monaco",
+      "note": "The Monte Carlo Rally, the opening round of the 2002 World Rally Championship."
+    },
+    {
+      "placeId": "karlstad-sweden",
+      "note": "Rally Sweden, round 2 of 14 of the 2002 World Rally Championship."
+    },
+    {
+      "placeId": "ajaccio-corsica-france",
+      "note": "The Tour de Corse, round 3 of 14 of the 2002 World Rally Championship."
+    },
+    {
+      "placeId": "lloret-de-mar-catalonia-spain",
+      "note": "Rally de Catalunya, round 4 of 14 of the 2002 World Rally Championship."
+    },
+    {
+      "placeId": "limassol-cyprus",
+      "note": "The Cyprus Rally, round 5 of 14 of the 2002 World Rally Championship."
+    },
+    {
+      "placeId": "villa-carlos-paz-argentina",
+      "note": "Rally Argentina, round 6 of 14 of the 2002 World Rally Championship."
+    },
+    {
+      "placeId": "lamia-greece",
+      "note": "The Acropolis Rally, round 7 of 14 of the 2002 World Rally Championship."
+    },
+    {
+      "placeId": "nairobi-kenya",
+      "note": "The Safari Rally, round 8 of 14 of the 2002 World Rally Championship."
+    },
+    {
+      "placeId": "trier-germany",
+      "note": "Rallye Deutschland, round 10 of 14 of the 2002 World Rally Championship."
+    },
+    {
+      "placeId": "sanremo-italy",
+      "note": "Rallye Sanremo, round 11 of 14 of the 2002 World Rally Championship."
+    },
+    {
+      "placeId": "auckland-new-zealand",
+      "note": "Rally New Zealand, round 12 of 14 of the 2002 World Rally Championship."
+    },
+    {
+      "placeId": "perth-western-australia",
+      "note": "Rally Australia, round 13 of 14 of the 2002 World Rally Championship."
+    },
+    {
+      "placeId": "cardiff-wales-uk",
+      "note": "The Wales Rally GB, the final round of the 2002 World Rally Championship."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/WRC_II_Extreme",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+  "genres": [
+    "Racing"
+  ]
+}

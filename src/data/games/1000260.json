@@ -1,0 +1,25 @@
+{
+  "id": 1000260,
+  "name": "Dark Fall II: Lights Out",
+  "year": 2004,
+  "series": "Dark Fall",
+  "developer": "XXv Productions",
+  "publisher": "The Adventure Company",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    -2090,
+    1912,
+    2004,
+    2090
+  ],
+  "source": "https://en.wikipedia.org/wiki/Dark_Fall_II:_Lights_Out",
+  "locations": [
+    {
+      "placeId": "fetch-rock-lighthouse-fictional-trewarthan-cornwall-england",
+      "settingType": "fictionalized",
+      "note": "Cartographer Benjamin Parker is sent to the invented village of Trewarthan in 1912 to chart the coast and ends up on the Fetch Rock lighthouse, where the story jumps to 2004, 2090 BC and 2090 AD."
+    }
+  ]
+}

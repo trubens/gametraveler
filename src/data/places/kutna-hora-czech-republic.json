@@ -1,0 +1,13 @@
+{
+  "id": "kutna-hora-czech-republic",
+  "name": "Kutná Hora, Czech Republic",
+  "position": {
+    "lat": 49.9484,
+    "lon": 15.2682
+  },
+  "scale": "area",
+  "parentId": "czech-republic",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kutn%C3%A1_Hora",
+  "description": "A small town in the Central Bohemian Region of the Czech Republic."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "de-wallen-amsterdam-netherlands",
+  "name": "De Wallen, Amsterdam, Netherlands",
+  "position": {
+    "lat": 52.3733,
+    "lon": 4.8981
+  },
+  "scale": "site",
+  "parentId": "amsterdam-netherlands",
+  "placeType": "neighborhood",
+  "aliases": [
+    "Red-light district"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/De_Wallen",
+  "description": "The old red-light district of alleys and canals around the Oude Kerk, the oldest part of the city.",
+  "descriptionSource": "wikipedia"
+}

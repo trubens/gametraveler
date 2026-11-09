@@ -1,0 +1,14 @@
+{
+  "id": "chita-russia",
+  "name": "Chita, Russia",
+  "position": {
+    "lat": 52.0333,
+    "lon": 113.5
+  },
+  "scale": "area",
+  "parentId": "russia",
+  "source": "https://en.wikipedia.org/wiki/Chita",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chita",
+  "placeType": "city",
+  "description": "A city in Zabaykalsky Krai in the Russian Far East."
+}

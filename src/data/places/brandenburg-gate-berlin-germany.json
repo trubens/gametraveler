@@ -1,0 +1,17 @@
+{
+  "id": "brandenburg-gate-berlin-germany",
+  "name": "Brandenburg Gate, Berlin, Germany",
+  "position": {
+    "lat": 52.5163,
+    "lon": 13.3777
+  },
+  "scale": "site",
+  "parentId": "berlin-germany",
+  "placeType": "landmark",
+  "aliases": [
+    "Brandenburger Tor"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brandenburg_Gate",
+  "description": "The neoclassical gate of 1791 at the end of Unter den Linden, topped by the Quadriga, Berlin's best-known monument.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "washington-state-usa",
+  "name": "Washington, USA",
+  "scale": "area",
+  "parentId": "united-states",
+  "position": {
+    "lat": 47.4,
+    "lon": -120.7
+  },
+  "source": "https://en.wikipedia.org/wiki/Washington_(state)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Washington_(state)",
+  "placeType": "region",
+  "description": "A state in the Pacific Northwest, often called Washington state to tell it apart from the national capital."
+}

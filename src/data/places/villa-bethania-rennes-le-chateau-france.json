@@ -1,0 +1,18 @@
+{
+  "id": "villa-bethania-rennes-le-chateau-france",
+  "name": "Villa Bethania, Rennes-le-Château, France",
+  "position": {
+    "lat": 42.9281,
+    "lon": 2.2621
+  },
+  "scale": "site",
+  "parentId": "rennes-le-chateau-france",
+  "placeType": "landmark",
+  "aliases": [
+    "Tour Magdala",
+    "Saunière's domain"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Villa_Bethania",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Villa_Bethania",
+  "description": "A villa in the village of Rennes-le-Château, built in the early 1900s for the Abbé Bérenger Saunière in the name of his maidservant Marie Dénarnaud."
+}

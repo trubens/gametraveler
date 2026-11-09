@@ -1,0 +1,12 @@
+{
+  "id": "cyprus",
+  "name": "Cyprus",
+  "position": {
+    "lat": 34.9,
+    "lon": 33
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cyprus",
+  "description": "An island country in the eastern Mediterranean, lying off the coast of the Levant."
+}

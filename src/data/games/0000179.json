@@ -1,0 +1,22 @@
+{
+  "id": 179,
+  "name": "A Plague Tale: Innocence",
+  "year": 2019,
+  "publisher": "Focus Home Interactive",
+  "series": "A Plague Tale",
+  "developer": "Asobo Studio",
+  "locations": [
+    {
+      "placeId": "aquitaine-france",
+      "note": "Siblings Amicia and Hugo flee the Inquisition and swarming rats through plague-era Aquitaine."
+    }
+  ],
+  "storyYears": [
+    1348
+  ],
+  "source": "https://en.wikipedia.org/wiki/A_Plague_Tale:_Innocence",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Focus_Entertainment",
+  "genres": [
+    "Adventure"
+  ]
+}

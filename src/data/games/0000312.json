@@ -1,0 +1,108 @@
+{
+  "id": 312,
+  "name": "Forza Motorsport (2023)",
+  "year": 2023,
+  "series": "Forza Motorsport",
+  "developer": "Turn 10 Studios",
+  "publisher": "Xbox Game Studios",
+  "locations": [
+    {
+      "placeId": "laguna-seca-california-usa",
+      "note": "Laguna Seca and its Corkscrew, rebuilt from scans for the new game."
+    },
+    {
+      "placeId": "circuit-de-barcelona-catalunya-spain",
+      "note": "The Catalunya Grand Prix circuit, a launch track."
+    },
+    {
+      "placeId": "circuit-de-spa-francorchamps-belgium",
+      "note": "Spa-Francorchamps, a launch track."
+    },
+    {
+      "placeId": "homestead-miami-speedway-florida-usa",
+      "note": "Homestead-Miami Speedway, a launch track."
+    },
+    {
+      "placeId": "indianapolis-motor-speedway-indiana-usa",
+      "note": "Indianapolis, oval and road course, a launch track."
+    },
+    {
+      "placeId": "kyalami-grand-prix-circuit-south-africa",
+      "note": "Kyalami, new to the series at launch."
+    },
+    {
+      "placeId": "circuit-de-la-sarthe-le-mans-france",
+      "note": "Le Mans, the Circuit de la Sarthe, a launch track."
+    },
+    {
+      "placeId": "lime-rock-park-connecticut-usa",
+      "note": "Lime Rock Park, a launch track."
+    },
+    {
+      "placeId": "mid-ohio-sports-car-course-ohio-usa",
+      "note": "Mid-Ohio, new to the series at launch."
+    },
+    {
+      "placeId": "mugello-circuit-italy",
+      "note": "Mugello, a launch track."
+    },
+    {
+      "placeId": "road-america-wisconsin-usa",
+      "note": "Road America, a launch track."
+    },
+    {
+      "placeId": "road-atlanta-georgia-usa",
+      "note": "Road Atlanta, a launch track."
+    },
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "Silverstone, a launch track."
+    },
+    {
+      "placeId": "suzuka-international-racing-course-japan",
+      "note": "Suzuka, a launch track."
+    },
+    {
+      "placeId": "virginia-international-raceway-virginia-usa",
+      "note": "Virginia International Raceway, a launch track."
+    },
+    {
+      "placeId": "watkins-glen-international-new-york-usa",
+      "note": "Watkins Glen, a launch track."
+    },
+    {
+      "placeId": "yas-marina-circuit-abu-dhabi-uae",
+      "note": "Yas Marina, added in the first month after launch."
+    },
+    {
+      "placeId": "hockenheimring-germany",
+      "note": "The Hockenheimring, added in late 2023."
+    },
+    {
+      "placeId": "daytona-international-speedway-florida-usa",
+      "note": "Daytona, added in December 2023."
+    },
+    {
+      "placeId": "nurburgring-nordschleife-germany",
+      "note": "The Nordschleife, added in February 2024."
+    },
+    {
+      "placeId": "nurburgring-gp-circuit-germany",
+      "note": "The Nürburgring Grand Prix circuit, added in 2024."
+    },
+    {
+      "placeId": "brands-hatch-uk",
+      "note": "Brands Hatch, added in 2024."
+    },
+    {
+      "placeId": "sebring-international-raceway-florida-usa",
+      "note": "Sebring, added in 2024."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Forza_Motorsport_(2023_video_game)",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

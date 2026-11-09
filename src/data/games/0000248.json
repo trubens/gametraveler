@@ -1,0 +1,33 @@
+{
+  "id": 248,
+  "name": "Grand Theft Auto: Vice City Stories",
+  "aliases": [
+    "GTA",
+    "GTA Vice City Stories",
+    "GTA VCS"
+  ],
+  "year": 2006,
+  "publisher": "Rockstar Games",
+  "series": "Grand Theft Auto",
+  "developer": "Rockstar Leeds / Rockstar North",
+  "locations": [
+    {
+      "placeId": "miami-usa",
+      "aliases": [
+        "Vice City"
+      ],
+      "settingType": "fictionalized",
+      "note": "Thrown out of the army at Fort Baxter in Vice City, the series' Miami, Vic Vance builds a crime family with his brother Lance and finally kills Martinez and Diego with a stolen army helicopter.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City_Stories"
+    }
+  ],
+  "storyYears": [
+    1984
+  ],
+  "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City_Stories",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Rockstar_Games",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

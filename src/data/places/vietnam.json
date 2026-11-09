@@ -1,0 +1,13 @@
+{
+  "id": "vietnam",
+  "name": "Vietnam",
+  "position": {
+    "lat": 21.72,
+    "lon": 105.39
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vietnam",
+  "description": "A country on the eastern edge of mainland Southeast Asia, stretching along the South China Sea."
+}

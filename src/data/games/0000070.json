@@ -1,0 +1,32 @@
+{
+  "id": 70,
+  "name": "Grand Theft Auto: Vice City",
+  "aliases": [
+    "GTA",
+    "GTA Vice City"
+  ],
+  "year": 2002,
+  "publisher": "Rockstar Games",
+  "series": "Grand Theft Auto",
+  "developer": "Rockstar North",
+  "locations": [
+    {
+      "placeId": "miami-usa",
+      "aliases": [
+        "Vice City"
+      ],
+      "settingType": "fictionalized",
+      "note": "Sent south to Vice City, the series' Miami, by Sonny Forelli, Tommy Vercetti survives an ambushed drug deal, kills Ricardo Diaz to take over his empire and finally guns down Sonny and the treacherous Lance at his mansion.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City"
+    }
+  ],
+  "storyYears": [
+    1986
+  ],
+  "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Rockstar_Games",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

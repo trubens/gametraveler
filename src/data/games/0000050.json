@@ -1,0 +1,26 @@
+{
+  "id": 50,
+  "name": "Gold Rush! 2",
+  "year": 2017,
+  "publisher": "Sunlight Games",
+  "series": "Gold Rush!",
+  "developer": "Sunlight Games",
+  "locations": [
+    {
+      "placeId": "sacramento-california-usa",
+      "note": "After 20 years mining California's Mother Lode, Jake and Jerrod sell up in 1869 to head home."
+    },
+    {
+      "placeId": "brooklyn-new-york-usa",
+      "note": "The brothers ride the new Transcontinental Railroad home to Brooklyn, where Boss Tweed's gang waits."
+    }
+  ],
+  "storyYears": [
+    1869
+  ],
+  "source": "https://store.steampowered.com/app/609100/Gold_Rush_2/",
+  "developerUrl": "https://en.wikipedia.org/wiki/Sunlight_Games",
+  "genres": [
+    "Adventure"
+  ]
+}

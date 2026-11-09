@@ -1,0 +1,68 @@
+{
+  "id": 376,
+  "name": "WRC 4: FIA World Rally Championship",
+  "year": 2013,
+  "series": "WRC",
+  "developer": "Milestone",
+  "publisher": "Bigben Interactive",
+  "locations": [
+    {
+      "placeId": "monte-carlo-monaco",
+      "note": "The Monte Carlo Rally."
+    },
+    {
+      "placeId": "karlstad-sweden",
+      "note": "Rally Sweden from Karlstad."
+    },
+    {
+      "placeId": "leon-mexico",
+      "note": "Rally Mexico around León."
+    },
+    {
+      "placeId": "faro-portugal",
+      "note": "Rally de Portugal in the Algarve."
+    },
+    {
+      "placeId": "villa-carlos-paz-argentina",
+      "note": "Rally Argentina from Villa Carlos Paz."
+    },
+    {
+      "placeId": "loutraki-greece",
+      "note": "The Acropolis Rally from Loutraki."
+    },
+    {
+      "placeId": "olbia-sardinia-italy",
+      "note": "Rally Italia Sardegna from Olbia."
+    },
+    {
+      "placeId": "jyvaskyla-finland",
+      "note": "Rally Finland from Jyväskylä."
+    },
+    {
+      "placeId": "trier-germany",
+      "note": "Rallye Deutschland from Trier."
+    },
+    {
+      "placeId": "australia-coffs-harbour",
+      "note": "Rally Australia from Coffs Harbour."
+    },
+    {
+      "placeId": "strasbourg-france",
+      "note": "Rallye de France Alsace from Strasbourg."
+    },
+    {
+      "placeId": "salou-spain",
+      "note": "RallyRACC Catalunya from Salou."
+    },
+    {
+      "placeId": "deeside-wales-uk",
+      "note": "Wales Rally GB, with its service park moved to Deeside, the final round."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/WRC_4:_FIA_World_Rally_Championship",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

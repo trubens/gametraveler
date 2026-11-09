@@ -1,0 +1,14 @@
+{
+  "id": "montmartre-paris-france",
+  "name": "Montmartre, Paris, France",
+  "position": {
+    "lat": 48.8869,
+    "lon": 2.3411
+  },
+  "scale": "site",
+  "parentId": "paris-france",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Montmartre",
+  "description": "The hill in Paris's 18th arrondissement, crowned by the Sacré-Cœur basilica and known for its artists and windmills.",
+  "descriptionSource": "wikipedia"
+}

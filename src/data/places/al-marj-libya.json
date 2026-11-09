@@ -1,0 +1,18 @@
+{
+  "id": "al-marj-libya",
+  "name": "Al Marj, Libya",
+  "position": {
+    "lat": 32.4867,
+    "lon": 20.8339
+  },
+  "scale": "area",
+  "parentId": "libya",
+  "placeType": "city",
+  "aliases": [
+    "Marj",
+    "Barce"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marj",
+  "description": "A town in an upland valley of north-eastern Libya, the Barce of the Italian colonial period, on the road between Benghazi and the Jebel Akhdar.",
+  "descriptionSource": "wikipedia"
+}

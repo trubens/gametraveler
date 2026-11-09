@@ -1,0 +1,14 @@
+{
+  "id": "bandai-azuma-skyline-japan",
+  "name": "Bandai-Azuma Skyline, Japan",
+  "position": {
+    "lat": 37.7292,
+    "lon": 140.2593
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bandai-Azuma_Skyline",
+  "description": "A 29-kilometre mountain road through the volcanic Azuma range above Fukushima, past the crater of Mount Azuma-Kofuji.",
+  "descriptionSource": "wikipedia"
+}

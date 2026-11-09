@@ -1,0 +1,11 @@
+{
+  "id": "jordan",
+  "name": "Jordan",
+  "position": {
+    "lat": 30.81,
+    "lon": 36.38
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/"
+}

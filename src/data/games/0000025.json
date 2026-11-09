@@ -1,0 +1,25 @@
+{
+  "id": 25,
+  "name": "Nancy Drew: The Haunted Carousel",
+  "year": 2003,
+  "publisher": "Her Interactive",
+  "series": "Nancy Drew",
+  "developer": "Her Interactive",
+  "locations": [
+    {
+      "placeId": "new-jersey-usa",
+      "aliases": [
+        "Captain's Cove"
+      ],
+      "settingType": "fictionalized",
+      "note": "With Captain's Cove amusement park shut after a carousel horse vanished, Nancy finds the merry-go-round starting up at night and traces it to jewels from a heist 23 years earlier."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_The_Haunted_Carousel",
+  "reviewed": "2026-11-03",
+  "developerUrl": "https://en.wikipedia.org/wiki/HeR_Interactive",
+  "genres": [
+    "Adventure"
+  ]
+}

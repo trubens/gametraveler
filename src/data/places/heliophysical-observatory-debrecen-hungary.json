@@ -1,0 +1,18 @@
+{
+  "id": "heliophysical-observatory-debrecen-hungary",
+  "name": "Heliophysical Observatory, Debrecen, Hungary",
+  "position": {
+    "lat": 47.5442,
+    "lon": 21.624
+  },
+  "scale": "site",
+  "parentId": "debrecen-hungary",
+  "placeType": "landmark",
+  "aliases": [
+    "Napfizikai Obszervatórium",
+    "Botanical Garden"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Debrecen_Heliophysical_Observatory",
+  "description": "A solar observatory in the university's botanical garden, run since 1958 by the Konkoly Observatory to track sunspots.",
+  "descriptionSource": "wikipedia"
+}

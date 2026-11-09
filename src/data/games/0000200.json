@@ -1,0 +1,19 @@
+{
+  "id": 200,
+  "name": "Steep",
+  "year": 2016,
+  "publisher": "Ubisoft",
+  "developer": "Ubisoft Annecy",
+  "locations": [
+    {
+      "placeId": "chamonix-mont-blanc-france",
+      "note": "The main open world is a slice of the Alps centred on Mont Blanc for skiing, wingsuits and paragliding."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Steep_(video_game)",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Sports"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 114,
+  "name": "Yakuza 6: The Song of Life",
+  "year": 2016,
+  "publisher": "Sega",
+  "series": "Yakuza / Like a Dragon",
+  "developer": "Ryu Ga Gotoku Studio",
+  "locations": [
+    {
+      "placeId": "okinawa-japan",
+      "note": "Out of prison, Kiryu comes home to the Morning Glory orphanage to find Haruka gone, and at the end watches the family from a distance.",
+      "source": "https://en.wikipedia.org/wiki/Yakuza_6"
+    },
+    {
+      "placeId": "kabukicho-tokyo-japan",
+      "aliases": [
+        "Kamurocho"
+      ],
+      "settingType": "fictionalized",
+      "note": "In Kamurocho, the series' Kabukicho, Kiryu learns Haruka lies in a coma after a hit-and-run, pulls Yuta from a burning Little Asia and storms the Millennium Tower against Sugai and Iwami."
+    },
+    {
+      "placeId": "onomichi-japan",
+      "aliases": [
+        "Onomichi Jingaicho"
+      ],
+      "settingType": "fictionalized",
+      "note": "Kiryu brings baby Haruto to Haruka's hideaway in Onomichi Jingaicho, the game's version of Onomichi, falls in with the tiny Hirose Family and uncovers the secret battleship Iwami Shipbuilding has hidden for decades.",
+      "source": "https://en.wikipedia.org/wiki/Yakuza_6"
+    }
+  ],
+  "storyYears": [
+    2016,
+    2017
+  ],
+  "source": "https://en.wikipedia.org/wiki/Yakuza_6",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "kiryu",
+      "name": "Kiryu's last journey",
+      "characters": [
+        "Kazuma Kiryu"
+      ],
+      "stops": [
+        "okinawa-japan",
+        "kabukicho-tokyo-japan",
+        "onomichi-japan",
+        "kabukicho-tokyo-japan",
+        "onomichi-japan",
+        "kabukicho-tokyo-japan",
+        "okinawa-japan"
+      ],
+      "note": "From the orphanage in Okinawa to Kamurocho and the Onomichi waterfront, back and forth, and finally to a last look at Morning Glory.",
+      "source": "https://en.wikipedia.org/wiki/Yakuza_6"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "knossos-greece",
+  "name": "Knossos, Greece",
+  "position": {
+    "lat": 35.2986,
+    "lon": 25.1635
+  },
+  "scale": "site",
+  "parentId": "greece",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Knossos",
+  "description": "An archaeological site on Crete, the ancient city on the southern edge of Heraklion, a short way south of the old centre."
+}

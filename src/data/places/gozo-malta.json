@@ -1,0 +1,13 @@
+{
+  "id": "gozo-malta",
+  "name": "Gozo, Malta",
+  "scale": "area",
+  "position": {
+    "lat": 36.0444,
+    "lon": 14.2512
+  },
+  "parentId": "malta",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gozo",
+  "description": "An island of the Maltese archipelago in the Mediterranean, known in antiquity as Gaulos."
+}

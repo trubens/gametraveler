@@ -1,0 +1,34 @@
+{
+  "id": 227,
+  "name": "Project Gotham Racing",
+  "aliases": [
+    "PGR"
+  ],
+  "year": 2001,
+  "publisher": "Microsoft Game Studios",
+  "series": "Project Gotham Racing",
+  "developer": "Bizarre Creations",
+  "locations": [
+    {
+      "placeId": "san-francisco-usa",
+      "note": "Recreated streets in San Francisco host races and driving challenges."
+    },
+    {
+      "placeId": "london-uk",
+      "note": "Recreated streets in London host races and driving challenges."
+    },
+    {
+      "placeId": "tokyo-japan",
+      "note": "Recreated streets in Tokyo host races and driving challenges."
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Recreated streets in New York City host races and driving challenges."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Project_Gotham_Racing_(video_game)",
+  "genres": [
+    "Racing"
+  ]
+}

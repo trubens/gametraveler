@@ -1,0 +1,13 @@
+{
+  "id": "baghdad-iraq",
+  "name": "Baghdad, Iraq",
+  "position": {
+    "lat": 33.3152,
+    "lon": 44.3661
+  },
+  "scale": "area",
+  "parentId": "iraq",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Baghdad",
+  "description": "Iraq's capital and largest city."
+}

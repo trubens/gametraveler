@@ -1,0 +1,12 @@
+{
+  "id": "angkor-wat-cambodia",
+  "name": "Angkor Wat, Cambodia",
+  "position": {
+    "lat": 13.4125,
+    "lon": 103.867
+  },
+  "scale": "site",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angkor_Wat",
+  "description": "The largest religious complex in the world, at Siem Reap, raised as a Hindu temple to Vishnu and now a Theravada Buddhist one."
+}

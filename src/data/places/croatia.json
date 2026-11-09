@@ -1,0 +1,12 @@
+{
+  "id": "croatia",
+  "name": "Croatia",
+  "position": {
+    "lat": 45.8,
+    "lon": 16
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Croatia",
+  "description": "A country on the Adriatic coast where Central and Southeastern Europe meet."
+}

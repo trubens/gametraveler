@@ -1,0 +1,30 @@
+{
+  "id": 1000175,
+  "name": "BloodRayne",
+  "year": 2002,
+  "developer": "Terminal Reality",
+  "publisher": "Majesco Entertainment",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/BloodRayne_(video_game)",
+  "locations": [
+    {
+      "placeId": "southern-louisiana-bayou-usa",
+      "settingType": "fictionalized",
+      "note": "On her first mission, in 1933, Rayne is sent to the bayou town of Mortton, where a plague is turning residents into mutants."
+    },
+    {
+      "placeId": "argentina",
+      "note": "A substantial chapter sends Rayne to a Nazi mining facility in Argentina."
+    },
+    {
+      "placeId": "germany",
+      "note": "Rayne fights through Castle Gaustadt, home to feral ancient vampires, to stop Jürgen Wulf digging up the relic buried beneath it."
+    }
+  ],
+  "storyYears": [
+    1932,
+    1938
+  ]
+}

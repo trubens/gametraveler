@@ -1,0 +1,13 @@
+{
+  "id": "autodromo-hermanos-rodriguez-mexico-city",
+  "name": "Autódromo Hermanos Rodríguez, Mexico City",
+  "position": {
+    "lat": 19.4042,
+    "lon": -99.0907
+  },
+  "scale": "site",
+  "parentId": "mexico-city-mexico",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez",
+  "description": "Mexico City's motorsport circuit, named for the racing brothers Ricardo and Pedro Rodríguez."
+}

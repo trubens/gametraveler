@@ -1,0 +1,17 @@
+{
+  "id": "l-anse-aux-meadows-canada",
+  "name": "L'Anse aux Meadows, Canada",
+  "position": {
+    "lat": 51.5964,
+    "lon": -55.5333
+  },
+  "scale": "area",
+  "parentId": "canada",
+  "placeType": "landmark",
+  "aliases": [
+    "Vinland"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/L%27Anse_aux_Meadows",
+  "description": "The Norse settlement at the northern tip of Newfoundland, the only confirmed Viking site in America: Vinland.",
+  "descriptionSource": "wikipedia"
+}

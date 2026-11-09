@@ -1,0 +1,28 @@
+{
+  "id": 109,
+  "name": "Yakuza / Yakuza Kiwami",
+  "year": 2005,
+  "publisher": "Sega",
+  "series": "Yakuza / Like a Dragon",
+  "developer": "Sega CS1 R&D",
+  "locations": [
+    {
+      "placeId": "kabukicho-tokyo-japan",
+      "aliases": [
+        "Kamurocho"
+      ],
+      "settingType": "fictionalized",
+      "note": "In Kamurocho, the series' Kabukicho, Kiryu takes the blame when his sworn brother kills their boss in 1995, and comes back ten years later to protect Haruka in the hunt for the Tojo Clan's stolen ten billion yen, ending at the Millennium Tower."
+    }
+  ],
+  "storyYears": [
+    1995,
+    2005
+  ],
+  "source": "https://en.wikipedia.org/wiki/Yakuza_(video_game)",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

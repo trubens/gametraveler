@@ -1,0 +1,16 @@
+{
+  "id": "the-bahamas",
+  "name": "The Bahamas",
+  "aliases": [
+    "Bahamas"
+  ],
+  "position": {
+    "lat": 26.4,
+    "lon": -77.15
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Bahamas",
+  "description": "A country of islands in the Atlantic, spread across the Lucayan Archipelago at the edge of the Caribbean."
+}

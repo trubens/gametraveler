@@ -1,0 +1,22 @@
+{
+  "id": 1000186,
+  "name": "Reversion: The Meeting (2nd Chapter)",
+  "year": 2013,
+  "series": "Reversion",
+  "developer": "3f Interactive",
+  "publisher": "3f Interactive",
+  "locations": [
+    {
+      "placeId": "buenos-aires-argentina",
+      "note": "Christian navigates the ruins and streets of Buenos Aires in 2035.",
+      "source": "https://store.steampowered.com/app/281060/Reversion__The_Meeting_2nd_Chapter/"
+    }
+  ],
+  "storyYears": [
+    2035
+  ],
+  "source": "https://store.steampowered.com/app/281060/Reversion__The_Meeting_2nd_Chapter/",
+  "genres": [
+    "Adventure"
+  ]
+}

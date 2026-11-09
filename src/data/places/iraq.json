@@ -1,0 +1,12 @@
+{
+  "id": "iraq",
+  "name": "Iraq",
+  "position": {
+    "lat": 33.2232,
+    "lon": 43.6793
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Iraq",
+  "description": "A country in the heart of West Asia, set among the region's great neighbours."
+}

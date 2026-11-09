@@ -1,0 +1,13 @@
+{
+  "id": "chengdu-china",
+  "name": "Chengdu, China",
+  "position": {
+    "lat": 30.5728,
+    "lon": 104.0668
+  },
+  "scale": "area",
+  "parentId": "china",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chengdu",
+  "description": "The capital of Sichuan."
+}

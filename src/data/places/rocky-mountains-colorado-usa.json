@@ -1,0 +1,17 @@
+{
+  "id": "rocky-mountains-colorado-usa",
+  "name": "Rocky Mountains, Colorado, USA",
+  "position": {
+    "lat": 39.55,
+    "lon": -105.78
+  },
+  "scale": "area",
+  "parentId": "colorado-usa",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rocky_Mountains",
+  "description": "The great mountain range of North America, which reaches its highest and broadest in Colorado.",
+  "aliases": [
+    "Colorado Rocky Mountains, USA",
+    "Colorado Rocky Mountains"
+  ]
+}

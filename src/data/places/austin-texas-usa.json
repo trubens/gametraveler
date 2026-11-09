@@ -1,0 +1,13 @@
+{
+  "id": "austin-texas-usa",
+  "name": "Austin, Texas, USA",
+  "position": {
+    "lat": 30.2672,
+    "lon": -97.7431
+  },
+  "scale": "area",
+  "parentId": "texas-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Austin,_Texas",
+  "description": "The capital city of Texas and the seat of the state's government."
+}

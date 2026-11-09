@@ -1,0 +1,17 @@
+{
+  "id": "nehbandan-iran",
+  "name": "Nehbandan, Iran",
+  "position": {
+    "lat": 31.5411,
+    "lon": 60.0397
+  },
+  "scale": "area",
+  "parentId": "iran",
+  "placeType": "city",
+  "aliases": [
+    "Nebandan"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nehbandan",
+  "description": "A desert town in South Khorasan near the Afghan border.",
+  "descriptionSource": "wikipedia"
+}

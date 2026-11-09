@@ -1,0 +1,13 @@
+{
+  "id": "falmouth-cornwall-uk",
+  "name": "Falmouth, Cornwall, UK",
+  "position": {
+    "lat": 50.1526,
+    "lon": -5.0663
+  },
+  "scale": "area",
+  "parentId": "cornwall-england",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Falmouth,_Cornwall",
+  "description": "A port town on the River Fal on the south coast of Cornwall."
+}

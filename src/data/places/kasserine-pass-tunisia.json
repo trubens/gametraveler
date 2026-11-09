@@ -1,0 +1,12 @@
+{
+  "id": "kasserine-pass-tunisia",
+  "name": "Kasserine Pass, Tunisia",
+  "position": {
+    "lat": 35.2596,
+    "lon": 8.7424
+  },
+  "scale": "area",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kasserine",
+  "description": "The mountain pass by the town of Kasserine in west-central Tunisia, beneath Jebel ech Chambi, the country's highest peak."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "auckland-new-zealand",
+  "name": "Auckland, New Zealand",
+  "position": {
+    "lat": -36.85,
+    "lon": 174.76
+  },
+  "scale": "area",
+  "parentId": "new-zealand",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Auckland",
+  "description": "A large metropolitan city in New Zealand's North Island."
+}

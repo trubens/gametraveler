@@ -1,0 +1,17 @@
+{
+  "id": "kowloon-walled-city-hong-kong",
+  "name": "Kowloon Walled City, Hong Kong",
+  "position": {
+    "lat": 22.3322,
+    "lon": 114.1903
+  },
+  "scale": "site",
+  "parentId": "hong-kong-china",
+  "placeType": "landmark",
+  "aliases": [
+    "Kowloon City"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kowloon_Walled_City",
+  "description": "The ungoverned block of 350 tower-stacked buildings in Kowloon City, demolished in 1994 and now a park.",
+  "descriptionSource": "wikipedia"
+}

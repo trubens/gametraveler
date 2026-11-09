@@ -1,0 +1,14 @@
+{
+  "id": "almeria-spain",
+  "name": "Almería, Spain",
+  "position": {
+    "lat": 36.8417,
+    "lon": -2.4639
+  },
+  "scale": "area",
+  "parentId": "spain",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Almer%C3%ADa",
+  "description": "A port city on the Andalusian coast, below a Moorish fortress.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 254,
+  "name": "Driver '76",
+  "aliases": [
+    "Driver 76"
+  ],
+  "year": 2007,
+  "publisher": "Ubisoft",
+  "series": "Driver",
+  "developer": "Sumo Digital / Ubisoft Reflections",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Wheelman Ray falls for Chen Chi, wins her father Zhou's respect with Slink's help, and after a betrayal turns on the empire of Jimmy, the man she is already with."
+    }
+  ],
+  "storyYears": [
+    1976
+  ],
+  "source": "https://en.wikipedia.org/wiki/Driver_76",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

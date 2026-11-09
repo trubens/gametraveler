@@ -1,0 +1,21 @@
+{
+  "id": 176,
+  "name": "Ghost of Yōtei",
+  "year": 2025,
+  "publisher": "Sony Interactive Entertainment",
+  "series": "Ghost of Tsushima",
+  "developer": "Sucker Punch Productions",
+  "locations": [
+    {
+      "placeId": "mount-yotei-hokkaido-japan",
+      "note": "Mercenary Atsu returns to Ezo (Hokkaido) in 1603 to hunt the Yōtei Six who killed her family."
+    }
+  ],
+  "storyYears": [
+    1603
+  ],
+  "source": "https://en.wikipedia.org/wiki/Ghost_of_Y%C5%8Dtei",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

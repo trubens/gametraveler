@@ -1,0 +1,14 @@
+{
+  "id": "alghero-sardinia-italy",
+  "name": "Alghero, Sardinia, Italy",
+  "position": {
+    "lat": 40.56,
+    "lon": 8.315
+  },
+  "scale": "area",
+  "parentId": "sardinia-italy",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alghero",
+  "description": "A walled Catalan-speaking port on Sardinia's north-west coast, Rally Italia Sardegna's base from 2014 to 2020.",
+  "descriptionSource": "wikipedia"
+}

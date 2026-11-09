@@ -1,0 +1,56 @@
+{
+  "id": 319,
+  "name": "Gran Turismo (PSP)",
+  "year": 2009,
+  "series": "Gran Turismo",
+  "developer": "Polyphony Digital",
+  "publisher": "Sony Computer Entertainment",
+  "locations": [
+    {
+      "placeId": "laguna-seca-california-usa",
+      "note": "Sony's TV advert for this game was shot here, pitting a real Corvette ZR1 driven by Rhys Millen against Tanner Foust driving the same car in the game."
+    },
+    {
+      "placeId": "circuit-ricardo-tormo-valencia-spain",
+      "note": "Built for the motorcycle game Tourist Trophy, it came to GT in this PSP game because DTM and WTCC raced here, then was left out of GT5."
+    },
+    {
+      "placeId": "circuit-de-la-sarthe-le-mans-france",
+      "note": "Both 2005 layouts from GT4, with and without the Mulsanne chicanes."
+    },
+    {
+      "placeId": "fuji-speedway-japan",
+      "note": "The 1990s layout and the 2005 circuit, both carried over from GT4."
+    },
+    {
+      "placeId": "sonoma-raceway-california-usa",
+      "note": "Raced as Infineon Raceway's Sports Car course only; GT4's Stock Car layout was left out."
+    },
+    {
+      "placeId": "nurburgring-germany",
+      "note": "The full Nordschleife, carried over from GT4."
+    },
+    {
+      "placeId": "suzuka-international-racing-course-japan",
+      "note": "The full circuit plus the East and West courses, as in GT4."
+    },
+    {
+      "placeId": "tsukuba-circuit-japan",
+      "note": "Carried over from GT4 in its single layout, without GT4's wet version."
+    },
+    {
+      "placeId": "mobility-resort-motegi-japan",
+      "note": "All four Twin Ring Motegi layouts from GT4: the road course, East and West short courses and the oval Superspeedway."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Gran_Turismo_(2009_video_game)",
+  "aliases": [
+    "Gran Turismo Portable",
+    "Gran Turismo 2009"
+  ],
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+  "genres": [
+    "Racing"
+  ]
+}

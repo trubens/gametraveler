@@ -1,0 +1,89 @@
+{
+  "id": 49,
+  "name": "Gold Rush!",
+  "year": 1988,
+  "publisher": "Sierra On-Line",
+  "series": "Gold Rush!",
+  "developer": "Sierra On-Line",
+  "locations": [
+    {
+      "placeId": "brooklyn-new-york-usa",
+      "note": "Newspaperman Jerrod Wilson leaves Brooklyn Heights in 1848 to seek his brother in California."
+    },
+    {
+      "placeId": "sacramento-california-usa",
+      "note": "All routes west converge on Sacramento, Sutter's Fort and nearby Coloma, where the gold is."
+    },
+    {
+      "placeId": "panama",
+      "note": "The Panama route: by ship to the isthmus, then on foot through a jungle of snakes, quicksand and hostile tribes to the Pacific side."
+    },
+    {
+      "placeId": "cape-horn-chile-alternative-route",
+      "note": "A playable sea route to California rounds Cape Horn."
+    },
+    {
+      "placeId": "sierra-nevada-usa-overland-route",
+      "note": "The overland route crosses the Sierra Nevada."
+    },
+    {
+      "placeId": "coloma-california-usa",
+      "note": "The journey ends at the gold fields near Coloma."
+    }
+  ],
+  "routes": [
+    {
+      "id": "panama-route",
+      "name": "Via Panama",
+      "characters": [
+        "Jerrod Wilson"
+      ],
+      "stops": [
+        "brooklyn-new-york-usa",
+        "panama",
+        "sacramento-california-usa",
+        "coloma-california-usa"
+      ],
+      "note": "The sea journey reaches Panama, crosses the isthmus overland, then continues by ship to California.",
+      "source": "https://store.steampowered.com/app/308000/Gold_Rush_Classic/"
+    },
+    {
+      "id": "cape-horn-route",
+      "name": "Around Cape Horn",
+      "characters": [
+        "Jerrod Wilson"
+      ],
+      "stops": [
+        "brooklyn-new-york-usa",
+        "cape-horn-chile-alternative-route",
+        "sacramento-california-usa",
+        "coloma-california-usa"
+      ],
+      "note": "A long sea voyage rounds Cape Horn before reaching California.",
+      "source": "https://store.steampowered.com/app/308000/Gold_Rush_Classic/"
+    },
+    {
+      "id": "overland-route",
+      "name": "Overland",
+      "characters": [
+        "Jerrod Wilson"
+      ],
+      "stops": [
+        "brooklyn-new-york-usa",
+        "sierra-nevada-usa-overland-route",
+        "sacramento-california-usa",
+        "coloma-california-usa"
+      ],
+      "note": "The overland trek crosses the Great Plains and mountain ranges on the way to California.",
+      "source": "https://store.steampowered.com/app/308000/Gold_Rush_Classic/"
+    }
+  ],
+  "storyYears": [
+    1848
+  ],
+  "source": "https://en.wikipedia.org/wiki/Gold_Rush!",
+  "developerUrl": "https://en.wikipedia.org/wiki/Sierra_Entertainment",
+  "genres": [
+    "Adventure"
+  ]
+}

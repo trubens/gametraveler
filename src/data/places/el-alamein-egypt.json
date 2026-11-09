@@ -1,0 +1,13 @@
+{
+  "id": "el-alamein-egypt",
+  "name": "El Alamein, Egypt",
+  "position": {
+    "lat": 30.833,
+    "lon": 28.95
+  },
+  "scale": "area",
+  "parentId": "egypt",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/El_Alamein",
+  "description": "A town on Egypt's Mediterranean coast."
+}

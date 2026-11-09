@@ -1,0 +1,13 @@
+{
+  "id": "acre-akko-israel",
+  "name": "Acre (Akko), Israel",
+  "position": {
+    "lat": 32.9244,
+    "lon": 35.0937
+  },
+  "scale": "area",
+  "parentId": "israel",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Acre,_Israel",
+  "description": "A coastal city on the plain of northern Israel."
+}

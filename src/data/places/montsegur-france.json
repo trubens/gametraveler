@@ -1,0 +1,13 @@
+{
+  "id": "montsegur-france",
+  "name": "Montségur, France",
+  "position": {
+    "lat": 42.8722,
+    "lon": 1.8342
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Monts%C3%A9gur",
+  "description": "A village in the Ariège department of south-western France."
+}

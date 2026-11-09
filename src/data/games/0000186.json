@@ -1,0 +1,48 @@
+{
+  "id": 186,
+  "name": "Sherlock Holmes and the Hound of the Baskervilles",
+  "year": 2011,
+  "publisher": "Frogwares (Waterlily)",
+  "series": "Sherlock Holmes",
+  "developer": "Frogwares",
+  "locations": [
+    {
+      "placeId": "dartmoor-devon-uk",
+      "note": "Holmes and Watson travel to Baskerville Hall on the moor to confront the family's hound curse."
+    },
+    {
+      "placeId": "london-uk",
+      "note": "Sir Henry Baskerville and Dr Mortimer bring the legend of the hound to Holmes in London before the party leaves for Devon."
+    },
+    {
+      "placeId": "221b-baker-street-london-uk",
+      "note": "The case opens in the rooms at 221B."
+    }
+  ],
+  "storyYears": [
+    1889
+  ],
+  "source": "https://en.wikipedia.org/wiki/Sherlock_Holmes_(video_game_series)",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Frogwares",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "holmes-and-watson",
+      "name": "Sherlock Holmes and Dr. Watson",
+      "characters": [
+        "Sherlock Holmes",
+        "Dr. Watson",
+        "Sir Henry Baskerville"
+      ],
+      "stops": [
+        "221b-baker-street-london-uk",
+        "dartmoor-devon-uk"
+      ],
+      "note": "Sir Henry's tale of the family curse draws Holmes and Watson from rainy Baker Street to Baskerville Hall and out onto the moor to face the hound.",
+      "source": "https://kittenchippy.blogspot.com/2012/11/sherlock-holmes-and-hound-of.html"
+    }
+  ]
+}

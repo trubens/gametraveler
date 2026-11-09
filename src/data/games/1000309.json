@@ -1,0 +1,39 @@
+{
+  "id": 1000309,
+  "name": "Amsterdoom",
+  "year": 2000,
+  "aliases": [
+    "Amsterdam Monster Madness"
+  ],
+  "developer": "Davilex Games",
+  "publisher": "Davilex Games",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    2000
+  ],
+  "source": "https://nl.wikipedia.org/wiki/Amsterdoom",
+  "locations": [
+    {
+      "placeId": "amsterdam-netherlands",
+      "note": "Purple aliens, the Grøbbers, have taken over Amsterdam, and the player shoots a way through the city's real landmarks with five weapons."
+    },
+    {
+      "placeId": "amsterdam-centraal-station-netherlands",
+      "note": "The invasion is fought through the halls and platforms of Centraal Station."
+    },
+    {
+      "placeId": "de-wallen-amsterdam-netherlands",
+      "note": "A level through the alleys of the red-light district."
+    },
+    {
+      "placeId": "madame-tussauds-amsterdam-netherlands",
+      "note": "A level among the wax figures on Dam Square."
+    },
+    {
+      "placeId": "rijksmuseum-amsterdam-netherlands",
+      "note": "A level through the galleries of the Rijksmuseum."
+    }
+  ]
+}

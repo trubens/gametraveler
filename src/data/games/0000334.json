@@ -1,0 +1,19 @@
+{
+  "id": 334,
+  "name": "MotoGP: Ultimate Racing Technology 3",
+  "year": 2005,
+  "series": "MotoGP",
+  "developer": "Climax Racing",
+  "publisher": "THQ",
+  "locations": [
+    {
+      "placeId": "mugello-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 4 of 16 in the 2004 MotoGP season."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/MotoGP:_Ultimate_Racing_Technology_3",
+  "genres": [
+    "Racing"
+  ]
+}

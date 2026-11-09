@@ -1,0 +1,14 @@
+{
+  "id": "melun-france",
+  "name": "Melun, France",
+  "position": {
+    "lat": 48.5421,
+    "lon": 2.6554
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Melun",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Melun",
+  "description": "A town on the south-eastern edge of Paris in Seine-et-Marne."
+}

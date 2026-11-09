@@ -1,0 +1,20 @@
+{
+  "id": 498,
+  "name": "The Operative: No One Lives Forever",
+  "year": 2000,
+  "developer": "Monolith Productions",
+  "publisher": "Fox Interactive",
+  "locations": [
+    {
+      "placeId": "berlin-germany",
+      "note": "Cate Archer's spy missions include operations in divided Berlin."
+    }
+  ],
+  "storyYears": [
+    1967
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Operative:_No_One_Lives_Forever",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 228,
+  "name": "Project Gotham Racing 2",
+  "aliases": [
+    "PGR",
+    "PGR 2"
+  ],
+  "year": 2003,
+  "publisher": "Microsoft Game Studios",
+  "series": "Project Gotham Racing",
+  "developer": "Bizarre Creations",
+  "locations": [
+    {
+      "placeId": "hong-kong-china",
+      "note": "Recreated streets in Hong Kong host races and driving challenges."
+    },
+    {
+      "placeId": "barcelona-spain",
+      "note": "Recreated streets in Barcelona host races and driving challenges."
+    },
+    {
+      "placeId": "moscow-russia",
+      "note": "Recreated streets in Moscow host races and driving challenges."
+    },
+    {
+      "placeId": "edinburgh-uk",
+      "note": "Recreated streets in Edinburgh host races and driving challenges."
+    },
+    {
+      "placeId": "washington-d-c-usa",
+      "note": "Recreated streets in Washington host races and driving challenges."
+    },
+    {
+      "placeId": "chicago-usa",
+      "note": "Recreated streets in Chicago host races and driving challenges."
+    },
+    {
+      "placeId": "florence-italy",
+      "note": "Recreated streets in Florence host races and driving challenges."
+    },
+    {
+      "placeId": "sydney-australia",
+      "note": "Recreated streets in Sydney host races and driving challenges."
+    },
+    {
+      "placeId": "yokohama-japan",
+      "note": "Recreated streets in Yokohama host races and driving challenges."
+    },
+    {
+      "placeId": "stockholm-sweden",
+      "note": "Recreated streets in Stockholm host races and driving challenges."
+    },
+    {
+      "placeId": "nurburgring-germany",
+      "note": "The real Nürburgring circuit provides a dedicated racing venue outside the city courses."
+    },
+    {
+      "placeId": "paris-france",
+      "note": "The Paris Booster Pack adds races on recreated Parisian streets."
+    },
+    {
+      "placeId": "long-beach-california-usa",
+      "note": "The Long Beach Booster Pack adds street circuits around the Californian waterfront city."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Project_Gotham_Racing_2",
+  "genres": [
+    "Racing"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "greece",
+  "name": "Greece",
+  "position": {
+    "lat": 39.0742,
+    "lon": 21.8243
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Greece",
+  "description": "A country at the foot of the Balkans in south-eastern Europe, with thousands of islands scattered eastward towards Asia Minor."
+}

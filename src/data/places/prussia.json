@@ -1,0 +1,12 @@
+{
+  "id": "prussia",
+  "name": "Prussia",
+  "position": {
+    "lat": 53.8,
+    "lon": 20.5
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Prussia_(region)",
+  "description": "A historical region on the south-eastern Baltic coast, from the Vistula delta to the Curonian Spit and inland as far as Masuria, today divided between Poland, Russia and Lithuania."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "kephallonia-greece",
+  "name": "Kephallonia, Greece",
+  "position": {
+    "lat": 38.1754,
+    "lon": 20.4897
+  },
+  "scale": "area",
+  "parentId": "greece",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cephalonia",
+  "description": "The largest of the Ionian Islands off western Greece, and the sixth largest island in the country."
+}

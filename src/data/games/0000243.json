@@ -1,0 +1,57 @@
+{
+  "id": 243,
+  "name": "Metro Awakening",
+  "year": 2024,
+  "publisher": "Vertigo Games",
+  "series": "Metro",
+  "developer": "Vertigo Games",
+  "locations": [
+    {
+      "placeId": "moscow-russia",
+      "note": "In this VR prequel, the doctor Serdar searches Moscow's post-apocalyptic metro tunnels for his wife Yana and the medicine she needs.",
+      "source": "https://en.wikipedia.org/wiki/Metro_Awakening"
+    },
+    {
+      "placeId": "polyanka-station-moscow-russia",
+      "note": "In 2018 nosalises attack Polyanka, Serdar's home station, and he has to shut the station gate on his friends, trapping them inside with the monsters.",
+      "source": "https://en.wikipedia.org/wiki/Metro_Awakening"
+    },
+    {
+      "placeId": "akademicheskaya-station-moscow-russia",
+      "note": "A decade later Serdar and Yana have settled in Akademicheskaya; he sets out from there after Yana storms off, and later comes back to find the station attacked by cultists.",
+      "source": "https://en.wikipedia.org/wiki/Metro_Awakening"
+    },
+    {
+      "placeId": "tretyakovskaya-station-moscow-russia",
+      "note": "Following Yana's trail to Tretyakovskaya, the station where her son Petya died, Serdar is knocked out and caught by slave traders; at the end he brings Petya back there to his mother.",
+      "source": "https://en.wikipedia.org/wiki/Metro_Awakening"
+    }
+  ],
+  "storyYears": [
+    2018,
+    2028
+  ],
+  "source": "https://en.wikipedia.org/wiki/Metro_Awakening",
+  "reviewed": "2026-11-06",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "serdar",
+      "name": "Serdar",
+      "characters": [
+        "Serdar"
+      ],
+      "stops": [
+        "polyanka-station-moscow-russia",
+        "akademicheskaya-station-moscow-russia",
+        "tretyakovskaya-station-moscow-russia",
+        "akademicheskaya-station-moscow-russia",
+        "tretyakovskaya-station-moscow-russia"
+      ],
+      "note": "From the fall of Polyanka in 2018 to Serdar's home at Akademicheskaya, the slavers at Tretyakovskaya, back to the ravaged Akademicheskaya and on to Tretyakovskaya for the reunion.",
+      "source": "https://en.wikipedia.org/wiki/Metro_Awakening"
+    }
+  ]
+}

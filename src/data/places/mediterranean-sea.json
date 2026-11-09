@@ -1,0 +1,12 @@
+{
+  "id": "mediterranean-sea",
+  "name": "Mediterranean Sea",
+  "position": {
+    "lat": 35,
+    "lon": 18
+  },
+  "scale": "area",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mediterranean_Sea",
+  "description": "The great sea that lies between Europe, Asia and Africa, linking three continents."
+}

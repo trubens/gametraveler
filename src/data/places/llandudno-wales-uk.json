@@ -1,0 +1,14 @@
+{
+  "id": "llandudno-wales-uk",
+  "name": "Llandudno, Wales, UK",
+  "position": {
+    "lat": 53.3225,
+    "lon": -3.825
+  },
+  "scale": "area",
+  "parentId": "wales-uk",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Llandudno",
+  "description": "The Victorian seaside resort on the north Wales coast, the base of Wales Rally GB in 2019.",
+  "descriptionSource": "wikipedia"
+}

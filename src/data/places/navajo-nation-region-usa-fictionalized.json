@@ -1,0 +1,13 @@
+{
+  "id": "navajo-nation-region-usa-fictionalized",
+  "name": "Navajo Nation region, USA",
+  "position": {
+    "lat": 36.2,
+    "lon": -109.5
+  },
+  "scale": "area",
+  "placeType": "region",
+  "fictional": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Navajo_Nation",
+  "description": "A Navajo ranch in the desert of the Four Corners; no state is named, so the pin sits in the Navajo Nation."
+}

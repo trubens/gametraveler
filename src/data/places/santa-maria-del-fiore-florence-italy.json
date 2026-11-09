@@ -1,0 +1,18 @@
+{
+  "id": "santa-maria-del-fiore-florence-italy",
+  "name": "Santa Maria del Fiore, Florence, Italy",
+  "position": {
+    "lat": 43.7731,
+    "lon": 11.256
+  },
+  "scale": "site",
+  "parentId": "florence-italy",
+  "placeType": "landmark",
+  "aliases": [
+    "Florence Cathedral",
+    "Duomo"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Florence_Cathedral",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Florence_Cathedral",
+  "description": "Florence's cathedral, crowned by Brunelleschi's great dome, the seat of the city's archdiocese."
+}

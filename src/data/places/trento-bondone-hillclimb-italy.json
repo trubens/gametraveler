@@ -1,0 +1,13 @@
+{
+  "id": "trento-bondone-hillclimb-italy",
+  "name": "Trento-Bondone Hillclimb, Italy",
+  "position": {
+    "lat": 46.037,
+    "lon": 11.12
+  },
+  "scale": "site",
+  "parentId": "italy",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Monte_Bondone",
+  "description": "A hillclimb venue on Monte Bondone, the mountain rising west of Trento in Trentino, with a ski resort on one flank."
+}

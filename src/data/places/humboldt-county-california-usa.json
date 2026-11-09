@@ -1,0 +1,13 @@
+{
+  "id": "humboldt-county-california-usa",
+  "name": "Humboldt County, California, USA",
+  "position": {
+    "lat": 40.745,
+    "lon": -123.87
+  },
+  "scale": "area",
+  "parentId": "california-usa",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Humboldt_County,_California",
+  "description": "The westernmost of all California's counties, pushed out against the Pacific coast."
+}

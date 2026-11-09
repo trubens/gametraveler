@@ -1,0 +1,22 @@
+{
+  "id": 213,
+  "name": "Old Skies",
+  "year": 2025,
+  "publisher": "Wadjet Eye Games",
+  "developer": "Wadjet Eye Games",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Fia Quinn guides time travelers through New York's history, including Prohibition-era streets and the World Trade Center in 2001."
+    }
+  ],
+  "storyYears": [
+    1871,
+    2062
+  ],
+  "source": "https://store.steampowered.com/app/1346360/",
+  "developerUrl": "https://en.wikipedia.org/wiki/Wadjet_Eye_Games",
+  "genres": [
+    "Adventure"
+  ]
+}

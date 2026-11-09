@@ -1,0 +1,14 @@
+{
+  "id": "wan-chai-hong-kong",
+  "name": "Wan Chai, Hong Kong",
+  "position": {
+    "lat": 22.2797,
+    "lon": 114.1717
+  },
+  "scale": "site",
+  "parentId": "hong-kong-china",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wan_Chai",
+  "description": "A dense district on the north shore of Hong Kong Island, markets and tower blocks side by side.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "spanish-steps-rome-italy",
+  "name": "Spanish Steps, Rome, Italy",
+  "position": {
+    "lat": 41.9059,
+    "lon": 12.4823
+  },
+  "scale": "site",
+  "parentId": "rome-italy",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Spanish_Steps",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Spanish_Steps",
+  "description": "A grand stairway in the heart of Rome, climbing a steep slope from the Piazza di Spagna to the church of Trinità dei Monti at the top."
+}

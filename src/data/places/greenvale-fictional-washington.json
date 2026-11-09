@@ -1,0 +1,18 @@
+{
+  "id": "greenvale-fictional-washington",
+  "name": "Greenvale, Washington, USA",
+  "scale": "area",
+  "parentId": "washington-state-usa",
+  "position": {
+    "lat": 47.4956,
+    "lon": -121.77
+  },
+  "source": "https://en.wikipedia.org/wiki/Deadly_Premonition",
+  "placeType": "city",
+  "fictional": true,
+  "aliases": [
+    "Greenvale (fictional town, Washington)"
+  ],
+  "description": "An invented rural town in the Twin Peaks mould. Its A&G Diner and hotel echo Twede's Cafe in North Bend and the Salish Lodge at Snoqualmie Falls, the models of Twin Peaks, so it is pinned at North Bend.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/North_Bend,_Washington"
+}

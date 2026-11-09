@@ -1,0 +1,66 @@
+{
+  "id": 455,
+  "name": "Battlefield Hardline",
+  "year": 2015,
+  "series": "Battlefield",
+  "developer": "Visceral Games",
+  "publisher": "Electronic Arts",
+  "locations": [
+    {
+      "placeId": "miami-usa",
+      "note": "Nick Mendoza's drug cases in Miami in 2012, and his return three years later to settle the score with the corrupt cops who framed him."
+    },
+    {
+      "placeId": "santa-rosita-fictional-florida-usa",
+      "settingType": "imaginary",
+      "note": "Nick goes alone to Dawes's island mansion, shoots his old captain dead, and finds the laundered fortune in the vault below.",
+      "source": "https://en.wikipedia.org/wiki/Battlefield_Hardline"
+    },
+    {
+      "placeId": "everglades-florida-usa",
+      "note": "Leo's tip takes the detectives into the Everglades, where the drug bales are dropped. Everglades and Riptide are multiplayer maps in the swamp."
+    },
+    {
+      "placeId": "los-angeles-usa",
+      "note": "After the prison break Nick works Los Angeles, from Kang's drug business to Roark's mansion. Bank Job, Downtown, The Block and Growhouse are multiplayer maps in the city."
+    },
+    {
+      "placeId": "hollywood-california-usa",
+      "note": "Hollywood Heights: a multiplayer map among the hillside mansions."
+    },
+    {
+      "placeId": "alcatraz-island-usa",
+      "note": "Alcatraz: a Betrayal map in the old prison."
+    }
+  ],
+  "storyYears": [
+    2012
+  ],
+  "source": "https://en.wikipedia.org/wiki/Battlefield_Hardline",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "nick-mendoza",
+      "name": "Nick Mendoza",
+      "characters": [
+        "Nick Mendoza",
+        "Khai Minh Dao",
+        "Marcus \"Boomer\" Boone",
+        "Tyson Latchford"
+      ],
+      "stops": [
+        "miami-usa",
+        "everglades-florida-usa",
+        "miami-usa",
+        "los-angeles-usa",
+        "miami-usa",
+        "santa-rosita-fictional-florida-usa"
+      ],
+      "note": "A Miami detective follows a drug trail into the Everglades, is framed by his own captain, breaks out of prison to rob the corrupt in Los Angeles, finds the Miami vault empty, and ends it at Dawes's island off Florida.",
+      "source": "https://en.wikipedia.org/wiki/Battlefield_Hardline"
+    }
+  ]
+}

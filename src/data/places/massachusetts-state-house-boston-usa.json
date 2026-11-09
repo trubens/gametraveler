@@ -1,0 +1,18 @@
+{
+  "id": "massachusetts-state-house-boston-usa",
+  "name": "Massachusetts State House, Boston, USA",
+  "position": {
+    "lat": 42.3582,
+    "lon": -71.0637
+  },
+  "scale": "site",
+  "parentId": "boston-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "State House",
+    "Capitol Building"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Massachusetts_State_House",
+  "description": "The gold-domed capitol of 1798 on Beacon Hill, above the Common.",
+  "descriptionSource": "wikipedia"
+}

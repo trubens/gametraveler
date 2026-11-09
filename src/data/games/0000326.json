@@ -1,0 +1,21 @@
+{
+  "id": 326,
+  "name": "MotoGP 18",
+  "year": 2018,
+  "series": "MotoGP",
+  "developer": "Milestone srl",
+  "publisher": "Milestone srl",
+  "locations": [
+    {
+      "placeId": "mugello-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 6 of 19 in the 2018 MotoGP season."
+    }
+  ],
+  "storyYears": [
+    2018
+  ],
+  "source": "https://en.wikipedia.org/wiki/MotoGP_18",
+  "genres": [
+    "Racing"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1000307,
+  "name": "Battlefield 2142",
+  "year": 2006,
+  "series": "Battlefield",
+  "developer": "DICE",
+  "publisher": "Electronic Arts",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    2142
+  ],
+  "source": "https://en.wikipedia.org/wiki/Battlefield_2142",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "minsk-belarus",
+      "note": "Minsk: the frozen city in the ice age of 2142, a multiplayer map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "berlin-germany",
+      "note": "Fall of Berlin: the Pan Asian Coalition's assault on the ruined capital, a multiplayer map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "verdun-france",
+      "note": "Verdun: the old battlefield fought over again under the ice, a multiplayer map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "cerbere-france",
+      "note": "Cerbere Landing: the European Union's beach landing at the Spanish border, a multiplayer map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "belgrade-serbia",
+      "note": "Belgrade: a multiplayer map through the Serbian capital.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "gibraltar",
+      "note": "Camp Gibraltar: the EU's base on the Rock, a multiplayer map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "suez-canal-egypt",
+      "note": "Suez Canal: a multiplayer map across the canal.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "tunis-tunisia",
+      "note": "Tunis Harbor: a multiplayer map in the port, where Africa is still ice-free.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "tunisia",
+      "note": "Sidi Power Plant: a desert power station, a multiplayer map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "egypt",
+      "note": "Shuhia Taiba: a desert town in Egypt, a multiplayer map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "remagen-germany",
+      "note": "Bridge at Remagen: a Northern Strike map at the Rhine bridge.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "leipzig-germany",
+      "note": "Liberation of Leipzig: a Northern Strike map through the city.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "bavaria-germany",
+      "note": "Port Bavaria: a Northern Strike map at a mountain port in the Bavarian Alps.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "molokai-hawaii-usa",
+      "note": "Molokai: a late patch map on the Hawaiian island.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "yellowknife-canada",
+      "note": "Yellowknife: a late patch map in the Canadian north.",
+      "settingType": "fictionalized"
+    }
+  ]
+}

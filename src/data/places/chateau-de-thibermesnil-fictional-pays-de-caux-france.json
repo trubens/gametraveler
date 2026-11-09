@@ -1,0 +1,17 @@
+{
+  "id": "chateau-de-thibermesnil-fictional-pays-de-caux-france",
+  "name": "Château de Thibermesnil, Normandy",
+  "aliases": [
+    "Thibermesnil"
+  ],
+  "position": {
+    "lat": 49.85,
+    "lon": 1.05
+  },
+  "scale": "area",
+  "parentId": "normandy-france",
+  "placeType": "landmark",
+  "fictional": true,
+  "source": "https://en.normandie-tourisme.fr/who-was-arsene-lupin/",
+  "description": "Another Leblanc invention, a château in the Pays de Caux with a secret passage, where Lupin crosses paths with Herlock Sholmes. Pinned inland from Dieppe."
+}

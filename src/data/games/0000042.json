@@ -1,0 +1,59 @@
+{
+  "id": 42,
+  "name": "Tomb Raider: Chronicles",
+  "year": 2000,
+  "publisher": "Eidos Interactive",
+  "series": "Tomb Raider",
+  "developer": "Core Design",
+  "locations": [
+    {
+      "placeId": "rome-italy",
+      "note": "A flashback has Lara hunting the Philosopher's Stone in Rome's catacombs, pursued by old foes."
+    },
+    {
+      "placeId": "ireland",
+      "note": "Teenage Lara follows Father Patrick to a haunted island off the Irish coast."
+    },
+    {
+      "placeId": "zapadnaya-litsa-russia",
+      "note": "Young Lara sneaks into the naval base and aboard Admiral Yarofev's submarine to recover the Spear of Destiny, whose power destroys the boat.",
+      "source": "https://en.wikipedia.org/wiki/Tomb_Raider:_Chronicles"
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Lara infiltrates the New York headquarters of her old mentor Von Croy to steal the Iris."
+    },
+    {
+      "placeId": "colosseum-rome-italy",
+      "note": "The Rome flashback ends in the Colosseum, where Lara fights for the Philosopher's Stone."
+    }
+  ],
+  "storyYears": [
+    2000
+  ],
+  "source": "https://en.wikipedia.org/wiki/Tomb_Raider:_Chronicles",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Core_Design",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Eidos_Interactive",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "lara-croft",
+      "name": "Lara Croft",
+      "characters": [
+        "Lara Croft"
+      ],
+      "stops": [
+        "rome-italy",
+        "colosseum-rome-italy",
+        "zapadnaya-litsa-russia",
+        "ireland",
+        "new-york-city-usa"
+      ],
+      "note": "Four remembered adventures: the catacombs and Colosseum of Rome, a Russian submarine in the Arctic, a haunted Irish island in her teens, and a heist at Von Croy's New York tower.",
+      "source": "https://en.wikipedia.org/wiki/Tomb_Raider:_Chronicles"
+    }
+  ]
+}

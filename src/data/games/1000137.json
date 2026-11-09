@@ -1,0 +1,21 @@
+{
+  "id": 1000137,
+  "name": "Amnesia: Rebirth",
+  "year": 2020,
+  "publisher": "Frictional Games",
+  "series": "Amnesia",
+  "developer": "Frictional Games",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Amnesia:_Rebirth",
+  "locations": [
+    {
+      "placeId": "algerian-sahara",
+      "note": "After a plane crash in colonial Algeria, Tasi explores the Sahara, archaeological sites, and desert caves."
+    }
+  ],
+  "storyYears": [
+    1937
+  ]
+}

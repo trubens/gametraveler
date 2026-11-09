@@ -1,0 +1,31 @@
+{
+  "id": 333,
+  "name": "MotoGP: Ultimate Racing Technology 2",
+  "year": 2003,
+  "series": "MotoGP",
+  "developer": "Climax Brighton / Blue Beck (mobile)",
+  "publisher": "THQ",
+  "locations": [
+    {
+      "placeId": "mugello-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 5 of 16 in the 2002 MotoGP season."
+    },
+    {
+      "placeId": "suzuka-international-racing-course-japan",
+      "note": "Raced as the Japanese Grand Prix, the opening round of the 2002 MotoGP season."
+    },
+    {
+      "placeId": "circuito-de-jerez-spain",
+      "note": "Raced as the Spanish Grand Prix, round 3 of 16 in the 2002 MotoGP season."
+    },
+    {
+      "placeId": "phakisa-freeway-welkom-south-africa",
+      "note": "Raced as the South African Grand Prix, round 2 of 16 in the 2002 MotoGP season."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/MotoGP:_Ultimate_Racing_Technology_2",
+  "genres": [
+    "Racing"
+  ]
+}

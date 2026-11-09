@@ -1,0 +1,14 @@
+{
+  "id": "georgia-usa",
+  "name": "Georgia, USA",
+  "position": {
+    "lat": 33.0,
+    "lon": -83.0
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Georgia_(U.S._state)",
+  "description": "A state of the American Southeast, from the Appalachian foothills to the Atlantic coast and its sea islands.",
+  "descriptionSource": "wikipedia"
+}

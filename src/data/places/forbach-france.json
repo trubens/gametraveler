@@ -1,0 +1,13 @@
+{
+  "id": "forbach-france",
+  "name": "Forbach, France",
+  "position": {
+    "lat": 49.188,
+    "lon": 6.901
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Forbach",
+  "description": "A town in the Moselle department of Grand Est."
+}

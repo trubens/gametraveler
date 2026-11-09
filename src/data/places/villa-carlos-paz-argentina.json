@@ -1,0 +1,14 @@
+{
+  "id": "villa-carlos-paz-argentina",
+  "name": "Villa Carlos Paz, Argentina",
+  "position": {
+    "lat": -31.4,
+    "lon": -64.5167
+  },
+  "scale": "area",
+  "parentId": "argentina",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Villa_Carlos_Paz",
+  "description": "A lakeside resort in the Córdoba hills, the home of Rally Argentina and its stages through the Punilla valley.",
+  "descriptionSource": "wikipedia"
+}

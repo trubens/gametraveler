@@ -1,0 +1,14 @@
+{
+  "id": "mundaun-switzerland",
+  "name": "Mundaun, Switzerland",
+  "position": {
+    "lat": 46.75,
+    "lon": 9.1833
+  },
+  "scale": "area",
+  "parentId": "switzerland",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mundaun",
+  "source": "https://en.wikipedia.org/wiki/Mundaun",
+  "description": "A former municipality in the Surselva district of Graubünden."
+}

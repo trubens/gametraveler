@@ -1,0 +1,13 @@
+{
+  "id": "manchester-uk",
+  "name": "Manchester, UK",
+  "position": {
+    "lat": 53.4808,
+    "lon": -2.2426
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manchester",
+  "description": "The principal city of North West England."
+}

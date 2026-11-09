@@ -1,0 +1,17 @@
+{
+  "id": "ancient-agora-of-athens-greece",
+  "name": "Ancient Agora of Athens, Athens, Greece",
+  "position": {
+    "lat": 37.975,
+    "lon": 23.722
+  },
+  "scale": "site",
+  "parentId": "athens-greece",
+  "placeType": "landmark",
+  "aliases": [
+    "Agora of Athens"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Ancient_Agora_of_Athens",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ancient_Agora_of_Athens",
+  "description": "The agora of ancient Athens, the open square that served as the city's market and meeting ground."
+}

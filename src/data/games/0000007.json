@@ -1,0 +1,27 @@
+{
+  "id": 7,
+  "name": "Tex Murphy: Under a Killing Moon",
+  "year": 1994,
+  "publisher": "Access Software",
+  "series": "Tex Murphy",
+  "developer": "Access Software",
+  "locations": [
+    {
+      "placeId": "san-francisco-usa",
+      "aliases": [
+        "Chandler Avenue",
+        "Old San Francisco"
+      ],
+      "note": "PI Tex Murphy works a stolen-statuette case in post-war San Francisco in 2042, from his office on Chandler Avenue in the run-down Old San Francisco where the Mutants live.",
+      "source": "https://en.wikipedia.org/wiki/Under_a_Killing_Moon"
+    }
+  ],
+  "storyYears": [
+    2042
+  ],
+  "source": "https://en.wikipedia.org/wiki/Under_a_Killing_Moon",
+  "developerUrl": "https://en.wikipedia.org/wiki/Access_Software",
+  "genres": [
+    "Adventure"
+  ]
+}

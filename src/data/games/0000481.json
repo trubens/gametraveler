@@ -1,0 +1,24 @@
+{
+  "id": 481,
+  "name": "Days Gone",
+  "year": 2019,
+  "developer": "Bend Studio",
+  "publisher": "Sony Interactive Entertainment",
+  "locations": [
+    {
+      "placeId": "crater-lake-oregon-usa",
+      "note": "Deacon's travels include Crater Lake and Wizard Island in Oregon."
+    },
+    {
+      "placeId": "central-oregon-usa-fictionalized",
+      "settingType": "fictionalized",
+      "note": "The open-world setting draws on Central Oregon's forests, mountains, and high-desert landscapes."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Days_Gone",
+  "route": false,
+  "genres": [
+    "Action-Adventure"
+  ]
+}

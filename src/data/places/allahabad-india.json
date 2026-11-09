@@ -1,0 +1,13 @@
+{
+  "id": "allahabad-india",
+  "name": "Allahabad (Prayagraj), India",
+  "position": {
+    "lat": 25.4358,
+    "lon": 81.8463
+  },
+  "scale": "area",
+  "parentId": "india",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Prayagraj",
+  "description": "A metropolis in Uttar Pradesh."
+}

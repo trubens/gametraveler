@@ -1,0 +1,81 @@
+{
+  "id": 187,
+  "name": "Valiant Hearts: The Great War",
+  "year": 2014,
+  "series": "Valiant Hearts",
+  "publisher": "Ubisoft",
+  "developer": "Ubisoft Montpellier",
+  "locations": [
+    {
+      "placeId": "ypres-belgium",
+      "note": "Emile and Freddie cross the trenches of the Flanders front at Ypres under the first gas attacks."
+    },
+    {
+      "placeId": "fort-douaumont-verdun-france",
+      "note": "Emile and Freddie storm Fort Douaumont, where Von Dorf is hiding, capture his new tank and rescue Anna's father."
+    },
+    {
+      "placeId": "somme-valley-france",
+      "note": "The heroes are thrown into the shell-torn no man's land of the 1916 Somme offensive."
+    },
+    {
+      "placeId": "saint-mihiel-france",
+      "note": "Karl escapes his prison camp to reach the family farm in occupied Saint-Mihiel, gives Marie his gas mask when the farm is gassed, and is saved by Anna.",
+      "source": "https://en.wikipedia.org/wiki/Valiant_Hearts:_The_Great_War"
+    },
+    {
+      "placeId": "chemin-des-dames-france",
+      "note": "Emile is thrown into the doomed Nivelle offensive, kills his reckless commander with a shovel, and is court-martialled and shot.",
+      "source": "https://en.wikipedia.org/wiki/Valiant_Hearts:_The_Great_War"
+    },
+    {
+      "placeId": "reims-france",
+      "note": "The bombarded city of Reims and its burning cathedral form one of the game's early stops."
+    }
+  ],
+  "storyYears": [
+    1914,
+    1916,
+    1917
+  ],
+  "source": "https://en.wikipedia.org/wiki/Valiant_Hearts:_The_Great_War",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "emile-freddie",
+      "name": "Emile and Freddie",
+      "characters": [
+        "Emile",
+        "Freddie",
+        "Anna"
+      ],
+      "stops": [
+        "ypres-belgium",
+        "reims-france",
+        "fort-douaumont-verdun-france",
+        "somme-valley-france",
+        "chemin-des-dames-france"
+      ],
+      "note": "Emile and Freddie chase Baron von Dorf's zeppelin from Ypres to Reims, storm Fort Douaumont at Verdun, and Freddie finally corners the Baron on the Somme; Emile's war ends in the Nivelle offensive on the Chemin des Dames.",
+      "source": "https://en.wikipedia.org/wiki/Valiant_Hearts:_The_Great_War"
+    },
+    {
+      "id": "karl",
+      "name": "Karl",
+      "characters": [
+        "Karl",
+        "Anna"
+      ],
+      "stops": [
+        "reims-france",
+        "saint-mihiel-france"
+      ],
+      "note": "Karl survives the zeppelin crash at Reims and is taken prisoner, then escapes to his family's farm at Saint-Mihiel.",
+      "source": "https://en.wikipedia.org/wiki/Valiant_Hearts:_The_Great_War"
+    }
+  ]
+}

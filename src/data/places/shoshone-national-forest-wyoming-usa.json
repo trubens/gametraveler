@@ -1,0 +1,12 @@
+{
+  "id": "shoshone-national-forest-wyoming-usa",
+  "name": "Shoshone National Forest, Wyoming, USA",
+  "position": {
+    "lat": 44.4917,
+    "lon": -109.5639
+  },
+  "scale": "area",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shoshone_National_Forest",
+  "description": "The first federally protected national forest in the United States, a vast expanse of Wyoming wilderness bordering Yellowstone."
+}

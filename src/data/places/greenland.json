@@ -1,0 +1,12 @@
+{
+  "id": "greenland",
+  "name": "Greenland",
+  "position": {
+    "lat": 71.7069,
+    "lon": -42.6043
+  },
+  "scale": "area",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Greenland",
+  "description": "A vast self-governing island under the Danish crown, by far the largest part of the kingdom alongside Denmark proper and the Faroe Islands."
+}

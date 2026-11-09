@@ -1,0 +1,21 @@
+{
+  "id": 1000246,
+  "name": "Mexico, 1921. A Deep Slumber.",
+  "year": 2024,
+  "publisher": "Mácula Interactive",
+  "developer": "Mácula Interactive",
+  "locations": [
+    {
+      "placeId": "mexico-city-mexico",
+      "note": "Juan Aguirre's photojournalism story explores post-revolutionary Mexico City, including a later chapter seven years on."
+    }
+  ],
+  "storyYears": [
+    1921,
+    1928
+  ],
+  "source": "https://store.steampowered.com/app/1851090/Mexico_1921_A_Deep_Slumber/",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "altai-mountains-china",
+  "name": "Altai Mountains, China",
+  "position": {
+    "lat": 47.9,
+    "lon": 88.1
+  },
+  "scale": "area",
+  "parentId": "china",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Altai_Mountains",
+  "description": "The Chinese stretch of the Altai, snow peaks and larch forest in the far north of Xinjiang where China meets Mongolia, Russia and Kazakhstan.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "catamarca-province-argentina",
+  "name": "Catamarca Province, Argentina",
+  "position": {
+    "lat": -28.4689,
+    "lon": -65.7792
+  },
+  "scale": "area",
+  "parentId": "argentina",
+  "placeType": "region",
+  "aliases": [
+    "Catamarca"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Catamarca_Province",
+  "description": "A province of north-western Argentina, reaching from the Andes down to dry valleys and salt flats.",
+  "descriptionSource": "wikipedia"
+}

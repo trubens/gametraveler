@@ -1,0 +1,12 @@
+{
+  "id": "road-atlanta-georgia-usa",
+  "name": "Road Atlanta, Georgia, USA",
+  "position": {
+    "lat": 34.15,
+    "lon": -83.82
+  },
+  "scale": "site",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Road_Atlanta",
+  "description": "A winding road course just north of Braselton, Georgia, in the countryside north-east of Atlanta."
+}

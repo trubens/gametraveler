@@ -1,0 +1,14 @@
+{
+  "id": "voodoo-museum-new-orleans-usa",
+  "name": "New Orleans Historic Voodoo Museum, New Orleans, USA",
+  "position": {
+    "lat": 29.9589,
+    "lon": -90.0647
+  },
+  "scale": "site",
+  "parentId": "new-orleans-usa",
+  "placeType": "venue",
+  "source": "https://en.wikipedia.org/wiki/New_Orleans_Historic_Voodoo_Museum",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Orleans_Historic_Voodoo_Museum",
+  "description": "A small museum in the French Quarter of New Orleans devoted to the mysteries, history and folklore of Louisiana Voodoo."
+}

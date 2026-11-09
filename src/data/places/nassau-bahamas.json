@@ -1,0 +1,13 @@
+{
+  "id": "nassau-bahamas",
+  "name": "Nassau, Bahamas",
+  "position": {
+    "lat": 25.0479,
+    "lon": -77.358
+  },
+  "scale": "area",
+  "parentId": "the-bahamas",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nassau,_Bahamas",
+  "description": "The capital and largest city of the Bahamas."
+}

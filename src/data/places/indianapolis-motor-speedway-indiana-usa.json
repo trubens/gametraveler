@@ -1,0 +1,12 @@
+{
+  "id": "indianapolis-motor-speedway-indiana-usa",
+  "name": "Indianapolis Motor Speedway, Indiana, USA",
+  "position": {
+    "lat": 39.795,
+    "lon": -86.235
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway",
+  "description": "A motor racing circuit in the town of Speedway, an enclave within Indianapolis."
+}

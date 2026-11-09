@@ -1,0 +1,13 @@
+{
+  "id": "great-wall-china",
+  "name": "Great Wall, China",
+  "position": {
+    "lat": 40.3598,
+    "lon": 116.0206
+  },
+  "scale": "site",
+  "parentId": "china",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+  "description": "A chain of fortifications built across the old northern borders of ancient Chinese states and imperial China, raised to hold back nomadic riders from the Eurasian Steppe."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "fetch-rock-lighthouse-fictional-trewarthan-cornwall-england",
+  "name": "Fetch Rock Lighthouse, Cornwall, England",
+  "position": {
+    "lat": 50.326,
+    "lon": -4.516
+  },
+  "scale": "site",
+  "parentId": "cornwall-england",
+  "placeType": "landmark",
+  "fictional": true,
+  "aliases": [
+    "Fetch Rock",
+    "Trewarthan"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Dark_Fall_II:_Lights_Out",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cornwall",
+  "description": "An invented lighthouse off the invented Cornish village of Trewarthan, which is loosely based on Polperro on the south coast; its surfaces were photographed on that coast. Pinned off Polperro."
+}

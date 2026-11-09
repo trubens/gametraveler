@@ -1,0 +1,18 @@
+{
+  "id": "shibuya-109-tokyo-japan",
+  "name": "Shibuya 109, Tokyo, Japan",
+  "position": {
+    "lat": 35.6595,
+    "lon": 139.699
+  },
+  "scale": "site",
+  "parentId": "shibuya-tokyo-japan",
+  "placeType": "landmark",
+  "aliases": [
+    "109",
+    "Ichi-Maru-Kyū"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/109_(department_store)",
+  "description": "The cylindrical fashion department store at the fork of Dōgenzaka and Bunkamura-dōri, run by the Tokyu Group since 1979.",
+  "descriptionSource": "wikipedia"
+}

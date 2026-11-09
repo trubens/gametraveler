@@ -1,0 +1,18 @@
+{
+  "id": "mount-yamantau-russia",
+  "name": "Mount Yamantau, Russia",
+  "position": {
+    "lat": 54.255,
+    "lon": 58.102
+  },
+  "scale": "area",
+  "parentId": "russia",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Yamantaw"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Mount_Yamantau",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mount_Yamantau",
+  "description": "The highest mountain of the Southern Urals, 1,640 metres, in Beloretsky District, Bashkortostan, within the South Ural Nature Reserve.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,77 @@
+{
+  "id": 503,
+  "name": "Ripley's Believe It or Not!: The Riddle of Master Lu",
+  "year": 1995,
+  "publisher": "Sanctuary Woods",
+  "developer": "Sanctuary Woods",
+  "locations": [
+    {
+      "placeId": "thebes-luxor-egypt",
+      "note": "Ripley starts his chase through the ruins of ancient Thebes, where he is ambushed by the men hunting the Emerald Seal."
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "note": "The Odditorium and Ripley's base in New York are where the theft and the investigation begin."
+    },
+    {
+      "placeId": "beijing-china",
+      "note": "In Peiping, Ripley consults the Hall of Classics to decode Master Lu's clues and the secret of the tomb."
+    },
+    {
+      "placeId": "easter-island-rapa-nui-chile",
+      "note": "Dr. Samantha Twelvetrees studies the rongorongo tablets there while Ripley attempts to solve the riddle."
+    },
+    {
+      "placeId": "sikkim-india",
+      "note": "The hidden temple in the Himalayas yields the key to Master Lu's Sikkimese and Chinese code."
+    },
+    {
+      "placeId": "gdansk-danzig-poland",
+      "note": "Ripley investigates Baron von Seltsam's castle and papers in the Free City of Danzig."
+    },
+    {
+      "placeId": "moche-valley-peru-fictionalized-lost-city",
+      "settingType": "fictionalized",
+      "note": "Ripley's search leads to Mocha Moche, an invented lost city at a pre-Inca site in Peru."
+    },
+    {
+      "placeId": "mount-li-china",
+      "note": "Ripley and Mei find the entrance to the First Emperor's tomb at Mount Li."
+    }
+  ],
+  "storyYears": [
+    1936
+  ],
+  "source": "https://en.wikipedia.org/wiki/Ripley%27s_Believe_It_or_Not!:_The_Riddle_of_Master_Lu",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Sanctuary_Woods",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sanctuary_Woods",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "ripley",
+      "name": "Robert Ripley",
+      "characters": [
+        "Robert Ripley",
+        "Mei"
+      ],
+      "stops": [
+        "thebes-luxor-egypt",
+        "new-york-city-usa",
+        "beijing-china",
+        "gdansk-danzig-poland",
+        "new-york-city-usa",
+        "gdansk-danzig-poland",
+        "easter-island-rapa-nui-chile",
+        "moche-valley-peru-fictionalized-lost-city",
+        "sikkim-india",
+        "beijing-china",
+        "mount-li-china"
+      ],
+      "note": "Ambushed in Thebes, Ripley chases Master Lu's riddle from his ransacked Odditorium to Peiping, Danzig, Easter Island, the lost city of Mocha Moche and Sikkim, then back to Peiping and the First Emperor's tomb at Mount Li.",
+      "source": "http://www.gameboomers.com/wtcheats/pcRr/RidMasLu.htm"
+    }
+  ]
+}

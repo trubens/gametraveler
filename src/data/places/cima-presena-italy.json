@@ -1,0 +1,17 @@
+{
+  "id": "cima-presena-italy",
+  "name": "Cima Presena, Italy",
+  "position": {
+    "lat": 46.2197,
+    "lon": 10.5865
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Presena"
+  ],
+  "wikipediaUrl": "https://it.wikipedia.org/wiki/Presena",
+  "description": "A peak and glacier of the Presanella group above the Tonale Pass, part of the high-altitude front of the First World War.",
+  "descriptionSource": "wikipedia"
+}

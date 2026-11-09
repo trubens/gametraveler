@@ -1,0 +1,18 @@
+{
+  "id": "louvre-paris-france",
+  "name": "The Louvre, Paris, France",
+  "position": {
+    "lat": 48.8611,
+    "lon": 2.3358
+  },
+  "scale": "site",
+  "parentId": "paris-france",
+  "placeType": "landmark",
+  "aliases": [
+    "Louvre Museum",
+    "Musée du Louvre"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Louvre",
+  "description": "The national art museum in the former royal palace on the Right Bank, the most visited museum in the world.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "arctic-sea",
+  "name": "Arctic Sea",
+  "position": {
+    "lat": 75,
+    "lon": 0
+  },
+  "scale": "area",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arctic_sea_ice_decline",
+  "description": "The ice-covered sea of the far north, whose sea ice has shrunk in recent decades as summers melt more than winters refreeze."
+}

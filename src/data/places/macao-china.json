@@ -1,0 +1,13 @@
+{
+  "id": "macao-china",
+  "name": "Macao, China",
+  "position": {
+    "lat": 22.1987,
+    "lon": 113.5439
+  },
+  "scale": "area",
+  "parentId": "china",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Macau",
+  "description": "A special region of China."
+}

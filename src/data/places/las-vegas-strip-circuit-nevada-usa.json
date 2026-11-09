@@ -1,0 +1,13 @@
+{
+  "id": "las-vegas-strip-circuit-nevada-usa",
+  "name": "Las Vegas Strip Circuit, Nevada, USA",
+  "position": {
+    "lat": 36.1099,
+    "lon": -115.1622
+  },
+  "scale": "site",
+  "parentId": "las-vegas-usa",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Las_Vegas_Strip_Circuit",
+  "description": "A street circuit on the Strip in Las Vegas, the most populous city in Nevada."
+}

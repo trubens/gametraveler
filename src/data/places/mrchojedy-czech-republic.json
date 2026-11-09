@@ -1,0 +1,17 @@
+{
+  "id": "mrchojedy-czech-republic",
+  "name": "Mrchojedy, Czech Republic",
+  "position": {
+    "lat": 49.8661,
+    "lon": 14.9417
+  },
+  "scale": "area",
+  "parentId": "czech-republic",
+  "placeType": "city",
+  "aliases": [
+    "Merhojed"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mrchojedy",
+  "description": "A hamlet of Samopše in the Sázava valley.",
+  "descriptionSource": "wikipedia"
+}

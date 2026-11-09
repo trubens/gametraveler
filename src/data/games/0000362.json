@@ -1,0 +1,40 @@
+{
+  "id": 362,
+  "name": "Shift 2: Unleashed",
+  "series": "Need for Speed",
+  "year": 2011,
+  "developer": "Slightly Mad Studios / Straight Right (iOS)",
+  "publisher": "Electronic Arts",
+  "locations": [
+    {
+      "placeId": "brands-hatch-uk",
+      "note": "Returns from the first Shift in both its GP and Indy layouts."
+    },
+    {
+      "placeId": "mount-panorama-circuit-bathurst-australia",
+      "note": "The game's first gameplay footage was an in-car run from McPhillamy Park to Forrest's Elbow, and the mountain can be raced at night by headlight."
+    },
+    {
+      "placeId": "circuit-de-spa-francorchamps-belgium",
+      "note": "Raced on the GP layout, including at night, when only the car's headlights, which crash damage can dim or knock out, light the way."
+    },
+    {
+      "placeId": "suzuka-international-racing-course-japan",
+      "note": "Suzuka's first appearance in the Shift series, with the full figure-eight GP course plus the shorter East and West layouts."
+    },
+    {
+      "placeId": "london-uk",
+      "note": "A fictional London Raceway street circuit, with layouts named Embankment Loop, Whitehall Drive, Royal Mile and River plus a Millennium drift course."
+    },
+    {
+      "placeId": "shanghai-china",
+      "note": "A fictional street circuit with three layouts: Yan'an Road Circuit, Nanjing Road Dash and Bund GP."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Shift_2:_Unleashed",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

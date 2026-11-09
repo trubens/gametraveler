@@ -1,0 +1,52 @@
+{
+  "id": 90,
+  "name": "Hitman: Absolution",
+  "year": 2012,
+  "publisher": "Square Enix",
+  "series": "Hitman",
+  "developer": "IO Interactive",
+  "locations": [
+    {
+      "placeId": "chicago-usa",
+      "note": "47 goes rogue in Chicago, from Diana's mansion to Chinatown and the Terminus Hotel, protecting Victoria."
+    },
+    {
+      "placeId": "south-dakota-usa",
+      "note": "In Dexter's company town of Hope, South Dakota, 47 wipes out Lenny's gang, wrecks the Dexter Industries lab, fights off the Saints and breaks out of the courthouse jail to learn where Victoria will be sold."
+    },
+    {
+      "placeId": "cornwall-england",
+      "note": "Months later Travis and the ICA dig up Diana's grave at the Burnwood family crypt in Cornwall, and 47 kills Jade Nguyen, the bodyguards and Travis himself.",
+      "source": "https://en.wikipedia.org/wiki/Hitman:_Absolution"
+    }
+  ],
+  "storyYears": [
+    2012
+  ],
+  "source": "https://en.wikipedia.org/wiki/Hitman:_Absolution",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Square_Enix",
+  "genres": [
+    "Stealth"
+  ],
+  "routes": [
+    {
+      "id": "agent-47",
+      "name": "Agent 47",
+      "characters": [
+        "Agent 47",
+        "Victoria",
+        "Blake Dexter",
+        "Benjamin Travis"
+      ],
+      "stops": [
+        "chicago-usa",
+        "south-dakota-usa",
+        "chicago-usa",
+        "cornwall-england"
+      ],
+      "note": "Gone rogue to protect Victoria, 47 is hunted through Chicago, follows her kidnappers to Dexter's town of Hope in South Dakota, returns to Chicago's Blackwater Park to finish Dexter, and ends the hunt at the Burnwood crypt in Cornwall.",
+      "source": "https://en.wikipedia.org/wiki/Hitman:_Absolution"
+    }
+  ]
+}

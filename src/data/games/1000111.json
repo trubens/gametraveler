@@ -1,0 +1,75 @@
+{
+  "id": 1000111,
+  "name": "Life Is Strange 2",
+  "year": 2018,
+  "publisher": "Square Enix",
+  "series": "Life Is Strange",
+  "developer": "Dontnod Entertainment",
+  "locations": [
+    {
+      "placeId": "seattle-usa",
+      "note": "A police officer shoots Esteban Diaz outside the family home, Daniel's hidden power tears the street apart, and Sean flees with his little brother."
+    },
+    {
+      "placeId": "mount-rainier-washington-usa",
+      "note": "Near Mount Rainier a gas station owner recognises the fugitive brothers, and travel blogger Brody Holloway helps them escape and finds them a motel, where Daniel learns their father is dead.",
+      "source": "https://en.wikipedia.org/wiki/Life_Is_Strange_2"
+    },
+    {
+      "placeId": "oregon-usa-fictional-beaver-creek-setting",
+      "settingType": "fictionalized",
+      "note": "When Daniel falls ill, the brothers hide with their grandparents Claire and Stephen, and Daniel befriends Chris next door until the police close in.",
+      "source": "https://en.wikipedia.org/wiki/Life_Is_Strange_2"
+    },
+    {
+      "placeId": "humboldt-county-california-usa",
+      "note": "The brothers work at Merrill's cannabis farm with the freighthoppers Finn and Cassidy, and a plan to steal his money goes badly wrong."
+    },
+    {
+      "placeId": "haven-point-fictional-nevada-usa",
+      "settingType": "fictionalized",
+      "note": "Sean escapes FBI custody to find Daniel at an isolated commune, where cult leader Lisbeth presents his power as a divine gift.",
+      "source": "https://en.wikipedia.org/wiki/Life_Is_Strange_2"
+    },
+    {
+      "placeId": "arizona-usa",
+      "settingType": "fictionalized",
+      "note": "The brothers spend seven weeks with their mother Karen in the secluded desert community of Away before making for the border."
+    },
+    {
+      "placeId": "mexico",
+      "settingType": "fictionalized",
+      "note": "At a blockaded border crossing Sean chooses to surrender or to force a way through; in three of the four endings one or both brothers reach Puerto Lobos, their father's hometown."
+    }
+  ],
+  "storyYears": [
+    2016,
+    2017
+  ],
+  "source": "https://en.wikipedia.org/wiki/Life_Is_Strange_2",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Interactive Drama"
+  ],
+  "routes": [
+    {
+      "id": "diaz-brothers",
+      "name": "Sean and Daniel Diaz",
+      "characters": [
+        "Sean Diaz",
+        "Daniel Diaz"
+      ],
+      "stops": [
+        "seattle-usa",
+        "mount-rainier-washington-usa",
+        "oregon-usa-fictional-beaver-creek-setting",
+        "humboldt-county-california-usa",
+        "haven-point-fictional-nevada-usa",
+        "arizona-usa",
+        "mexico"
+      ],
+      "note": "Two brothers on the run from Seattle past Mount Rainier to their grandparents in Oregon, the redwoods of Humboldt County, a cult in the Nevada desert and their mother's commune in Arizona, toward their father's hometown across the Mexican border, which they reach only in some endings.",
+      "source": "https://en.wikipedia.org/wiki/Life_Is_Strange_2"
+    }
+  ]
+}

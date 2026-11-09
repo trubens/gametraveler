@@ -1,0 +1,31 @@
+{
+  "id": 12,
+  "name": "Nancy Drew: The Phantom of Venice",
+  "year": 2008,
+  "publisher": "Her Interactive",
+  "series": "Nancy Drew",
+  "developer": "Her Interactive",
+  "locations": [
+    {
+      "placeId": "venice-italy",
+      "note": "Recruited by the Italian police, Nancy lodges in the Ca' Nascosta across from suspect Antonio Fango's office to unmask the Phantom, a caped thief whose gang uses commedia dell'arte code names."
+    },
+    {
+      "placeId": "piazza-san-marco-venice-italy",
+      "note": "Nancy draws cash and buys papers at the square's cash machine and news kiosk.",
+      "source": "https://paigemindsthegap.com/a-nancy-drew-tour-of-venice-italy/"
+    },
+    {
+      "placeId": "campo-santa-maria-formosa-venice-italy",
+      "note": "Nancy shops for disguises at Vera's costume shop on the square.",
+      "source": "https://paigemindsthegap.com/a-nancy-drew-tour-of-venice-italy/"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_The_Phantom_of_Venice",
+  "reviewed": "2026-11-03",
+  "developerUrl": "https://en.wikipedia.org/wiki/HeR_Interactive",
+  "genres": [
+    "Adventure"
+  ]
+}

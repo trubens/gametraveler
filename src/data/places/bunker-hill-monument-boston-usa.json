@@ -1,0 +1,17 @@
+{
+  "id": "bunker-hill-monument-boston-usa",
+  "name": "Bunker Hill Monument, Boston, USA",
+  "position": {
+    "lat": 42.3764,
+    "lon": -71.0608
+  },
+  "scale": "site",
+  "parentId": "boston-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "Bunker Hill"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bunker_Hill_Monument",
+  "description": "The granite obelisk on Breed's Hill in Charlestown, raised over the battlefield of June 1775.",
+  "descriptionSource": "wikipedia"
+}

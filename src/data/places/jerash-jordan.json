@@ -1,0 +1,14 @@
+{
+  "id": "jerash-jordan",
+  "name": "Jerash, Jordan",
+  "position": {
+    "lat": 32.2806,
+    "lon": 35.8972
+  },
+  "scale": "area",
+  "parentId": "jordan",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jerash",
+  "description": "A city in northern Jordan beside the colonnaded ruins of Roman Gerasa.",
+  "descriptionSource": "wikipedia"
+}

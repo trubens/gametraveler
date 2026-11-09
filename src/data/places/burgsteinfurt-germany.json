@@ -1,0 +1,18 @@
+{
+  "id": "burgsteinfurt-germany",
+  "name": "Burgsteinfurt, Germany",
+  "position": {
+    "lat": 52.1475,
+    "lon": 7.3442
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "city",
+  "aliases": [
+    "Steinfurt"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Steinfurt",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Steinfurt",
+  "description": "The historic seat of the County of Steinfurt, today part of the city of Steinfurt in North Rhine-Westphalia.",
+  "descriptionSource": "wikipedia"
+}

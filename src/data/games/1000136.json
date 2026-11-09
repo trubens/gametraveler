@@ -1,0 +1,56 @@
+{
+  "id": 1000136,
+  "name": "Bury Me, My Love",
+  "year": 2017,
+  "publisher": "ARTE France",
+  "developer": "The Pixel Hunt and Figs",
+  "genres": [
+    "Interactive Drama"
+  ],
+  "source": "https://www.arte.tv/digitalproductions/en/bury-me-my-love/",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "syria",
+      "note": "Majd stays behind in Syria and guides his wife Nour by text message as she flees the war."
+    },
+    {
+      "placeId": "turkey",
+      "note": "Nour waits in Turkey for a smuggler's boat across the Aegean, weighing every offer and warning with Majd."
+    },
+    {
+      "placeId": "greece",
+      "note": "Some branches take Nour through Greece on her route toward safety."
+    },
+    {
+      "placeId": "bulgaria",
+      "note": "In one branch Nour crosses into Bulgaria on foot by night through forest and mountains, and some endings leave her stuck or expelled there.",
+      "source": "https://pshares.org/blog/the-story-of-a-text-conversation-in-bury-me-my-love/"
+    },
+    {
+      "placeId": "germany",
+      "note": "Nour's goal is asylum in Germany, and in the best endings she gets there.",
+      "source": "https://pshares.org/blog/the-story-of-a-text-conversation-in-bury-me-my-love/"
+    }
+  ],
+  "storyYears": [
+    2015
+  ],
+  "routes": [
+    {
+      "id": "nour",
+      "name": "Nour",
+      "characters": [
+        "Nour",
+        "Majd"
+      ],
+      "stops": [
+        "syria",
+        "turkey",
+        "greece"
+      ],
+      "note": "Nour leaves Syria for the Turkish coast and the smugglers' crossing to Greece, guided by her husband's messages.",
+      "source": "https://venturebeat.com/games/bury-me-my-love-stays-true-to-the-experiences-of-syrian-refugees/"
+    }
+  ]
+}

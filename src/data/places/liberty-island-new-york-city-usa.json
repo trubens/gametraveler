@@ -1,0 +1,17 @@
+{
+  "id": "liberty-island-new-york-city-usa",
+  "name": "Liberty Island, New York City, USA",
+  "position": {
+    "lat": 40.69,
+    "lon": -74.045
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "island",
+  "aliases": [
+    "Statue of Liberty"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Liberty_Island",
+  "description": "The island in Upper New York Bay that carries the Statue of Liberty.",
+  "descriptionSource": "wikipedia"
+}

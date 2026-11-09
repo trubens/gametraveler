@@ -1,0 +1,67 @@
+{
+  "id": 137,
+  "name": "Marvel's Spider-Man 2",
+  "year": 2023,
+  "publisher": "Sony Interactive Entertainment",
+  "series": "Marvel's Spider-Man",
+  "developer": "Insomniac Games",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Peter and Miles share a New York that now takes in Brooklyn and Queens as Kraven's Hunters come hunting and the symbiote takes hold.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_2_(2023_video_game)"
+    },
+    {
+      "placeId": "brooklyn-new-york-usa",
+      "note": "Peter starts teaching physics at Brooklyn Visions Academy, with Miles in his class, until Sandman's rampage cuts the day short.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_2_(2023_video_game)"
+    },
+    {
+      "placeId": "financial-district-new-york-city-usa",
+      "note": "Peter and Miles chase the rampaging Sandman through the Financial District in the game's opening fight.",
+      "source": "https://www.pushsquare.com/guides/marvels-spider-man-2-surface-tension"
+    },
+    {
+      "placeId": "queens-new-york-usa",
+      "note": "Peter lives in Aunt May's old house in Queens, where Harry Osborn turns up seemingly cured and offers him a job.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_2_(2023_video_game)"
+    },
+    {
+      "placeId": "coney-island-brooklyn-nyc-usa",
+      "note": "Kraven's Hunters attack the park to capture Tombstone; a newly super-powered Harry helps Peter save the crowd and learns he is Spider-Man.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_2_(2023_video_game)"
+    },
+    {
+      "placeId": "times-square-new-york-city-usa",
+      "note": "The symbiote-possessed Harry escapes into Times Square, beats Kraven's Hunters and kills Kraven himself, then sets out as Venom to infect the city.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_2_(2023_video_game)"
+    }
+  ],
+  "storyYears": [
+    2020
+  ],
+  "source": "https://en.wikipedia.org/wiki/Spider-Man_2_(2023_video_game)",
+  "reviewed": "2026-11-06",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "spider-men",
+      "name": "Peter and Miles",
+      "characters": [
+        "Peter Parker",
+        "Miles Morales"
+      ],
+      "stops": [
+        "brooklyn-new-york-usa",
+        "financial-district-new-york-city-usa",
+        "queens-new-york-usa",
+        "coney-island-brooklyn-nyc-usa",
+        "times-square-new-york-city-usa"
+      ],
+      "note": "From Peter's first day at Brooklyn Visions Academy and the fight with Sandman in the Financial District to the Hunters' attack on Coney Island and Venom's rise in Times Square.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_2_(2023_video_game)"
+    }
+  ]
+}

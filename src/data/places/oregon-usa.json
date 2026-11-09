@@ -1,0 +1,14 @@
+{
+  "id": "oregon-usa",
+  "name": "Oregon, USA",
+  "position": {
+    "lat": 43.9,
+    "lon": -120.6
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oregon",
+  "description": "The Pacific Northwest state between the Columbia River and California, with the Cascade Range down its middle.",
+  "descriptionSource": "wikipedia"
+}

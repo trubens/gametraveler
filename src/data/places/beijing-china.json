@@ -1,0 +1,13 @@
+{
+  "id": "beijing-china",
+  "name": "Beijing, China",
+  "position": {
+    "lat": 39.9042,
+    "lon": 116.4074
+  },
+  "scale": "area",
+  "parentId": "china",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Beijing",
+  "description": "China's capital and second-largest city by urban area."
+}

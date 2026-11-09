@@ -1,0 +1,15 @@
+{
+  "id": "kordofan-sudan",
+  "name": "Kordofan, Sudan",
+  "position": {
+    "lat": 13.0,
+    "lon": 28.0
+  },
+  "scale": "area",
+  "parentId": "sudan",
+  "placeType": "region",
+  "source": "https://en.wikipedia.org/wiki/Kordofan",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kordofan",
+  "description": "A region and former province of central Sudan, divided in 1994 into the states of North, South and West Kordofan.",
+  "descriptionSource": "wikipedia"
+}

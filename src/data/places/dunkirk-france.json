@@ -1,0 +1,13 @@
+{
+  "id": "dunkirk-france",
+  "name": "Dunkirk, France",
+  "position": {
+    "lat": 51.0383,
+    "lon": 2.3775
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dunkirk",
+  "description": "A port city in northern France, site of the 1940 evacuation."
+}

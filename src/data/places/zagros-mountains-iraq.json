@@ -1,0 +1,13 @@
+{
+  "id": "zagros-mountains-iraq",
+  "name": "Zagros Mountains, Iraq",
+  "position": {
+    "lat": 35.7,
+    "lon": 45.4
+  },
+  "scale": "area",
+  "parentId": "iraq",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Zagros_Mountains",
+  "description": "A long mountain range of West Asia, running across Iran, northern Iraq and south-eastern Turkey."
+}

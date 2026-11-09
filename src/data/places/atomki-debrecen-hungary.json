@@ -1,0 +1,18 @@
+{
+  "id": "atomki-debrecen-hungary",
+  "name": "Atomki, Debrecen, Hungary",
+  "position": {
+    "lat": 47.5437,
+    "lon": 21.6252
+  },
+  "scale": "site",
+  "parentId": "debrecen-hungary",
+  "placeType": "venue",
+  "aliases": [
+    "Institute for Nuclear Research",
+    "ATOMKI"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/ATOMKI",
+  "description": "The Institute for Nuclear Research of the Hungarian Academy of Sciences, founded in 1954, with its accelerators and laboratories on Bem tér.",
+  "descriptionSource": "wikipedia"
+}

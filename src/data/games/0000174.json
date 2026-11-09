@@ -1,0 +1,28 @@
+{
+  "id": 174,
+  "name": "Ghostbusters: The Video Game",
+  "year": 2009,
+  "publisher": "Atari",
+  "developer": "Terminal Reality",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "A rookie joins the original Ghostbusters in 1991 to chase ghosts across Manhattan landmarks."
+    },
+    {
+      "placeId": "new-york-public-library-new-york-city-usa",
+      "note": "The restless librarian haunts the stacks of the Public Library."
+    },
+    {
+      "placeId": "central-park-new-york-city-usa",
+      "note": "Shandor's mausoleum rises in Central Park for the finale."
+    }
+  ],
+  "storyYears": [
+    1991
+  ],
+  "source": "https://en.wikipedia.org/wiki/Ghostbusters:_The_Video_Game",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

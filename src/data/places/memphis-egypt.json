@@ -1,0 +1,13 @@
+{
+  "id": "memphis-egypt",
+  "name": "Memphis, Egypt",
+  "position": {
+    "lat": 29.8448,
+    "lon": 31.251
+  },
+  "scale": "area",
+  "parentId": "egypt",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Memphis,_Egypt",
+  "description": "The ancient capital of the first nome of Lower Egypt."
+}

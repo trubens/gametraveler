@@ -1,0 +1,15 @@
+{
+  "id": "seelow-heights-germany",
+  "name": "Seelow Heights, Germany",
+  "position": {
+    "lat": 52.5347,
+    "lon": 14.3958
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "natural_feature",
+  "source": "https://en.wikipedia.org/wiki/Seelow_Heights",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Seelow_Heights",
+  "description": "Heights around the town of Seelow, about 90 km east of Berlin, overlooking the Oderbruch flood plain of the River Oder.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,52 @@
+{
+  "id": 75,
+  "name": "Secret Files: Sam Peters",
+  "year": 2013,
+  "publisher": "Deep Silver",
+  "series": "Secret Files",
+  "developer": "Animation Arts",
+  "locations": [
+    {
+      "placeId": "lake-bosumtwi-ghana",
+      "note": "An expedition at this Ashanti crater lake reports an unknown lifeform, and Sam investigates."
+    },
+    {
+      "placeId": "bali-indonesia",
+      "note": "The story opens with journalist Sam Peters escaping an island off Bali."
+    },
+    {
+      "placeId": "hamburg-germany",
+      "note": "Sam's home base, where her editor hands her the Ghana assignment."
+    },
+    {
+      "placeId": "berlin-germany",
+      "note": "Sam meets Professor Hartmann at Humboldt University's biological institute."
+    }
+  ],
+  "storyYears": [
+    2013
+  ],
+  "source": "https://en.wikipedia.org/wiki/Secret_Files:_Sam_Peters",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Deep_Silver",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "sam-peters",
+      "name": "Sam Peters",
+      "characters": [
+        "Sam Peters"
+      ],
+      "stops": [
+        "bali-indonesia",
+        "hamburg-germany",
+        "berlin-germany",
+        "lake-bosumtwi-ghana"
+      ],
+      "note": "Escaping the burning island off Bali, Sam reports home to Hamburg, chases Professor Hartmann from Berlin to the crater lake of Bosumtwi and the caves of the Asanbosam.",
+      "source": "https://en.wikipedia.org/wiki/Secret_Files:_Sam_Peters"
+    }
+  ]
+}

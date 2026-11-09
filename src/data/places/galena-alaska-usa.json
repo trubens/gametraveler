@@ -1,0 +1,15 @@
+{
+  "id": "galena-alaska-usa",
+  "name": "Galena, Alaska, USA",
+  "position": {
+    "lat": 64.7406,
+    "lon": -156.8856
+  },
+  "scale": "area",
+  "parentId": "alaska-usa",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Galena,_Alaska",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Galena,_Alaska",
+  "description": "A small city on the Yukon River in interior Alaska, once home to Galena Air Force Station, a Cold War fighter base.",
+  "descriptionSource": "wikipedia"
+}

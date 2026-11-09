@@ -1,0 +1,13 @@
+{
+  "id": "guangdong-china",
+  "name": "Guangdong, China",
+  "scale": "area",
+  "parentId": "china",
+  "position": {
+    "lat": 23.13,
+    "lon": 113.26
+  },
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Guangdong",
+  "description": "A coastal province of South China on the northern shore of the South China Sea, with Guangzhou as its capital."
+}

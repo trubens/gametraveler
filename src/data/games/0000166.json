@@ -1,0 +1,125 @@
+{
+  "id": 166,
+  "name": "Persona 5",
+  "year": 2016,
+  "publisher": "Atlus",
+  "series": "Persona",
+  "developer": "Atlus",
+  "locations": [
+    {
+      "placeId": "sangenjaya-tokyo-japan",
+      "aliases": [
+        "Yongen-Jaya",
+        "Café Leblanc"
+      ],
+      "settingType": "fictionalized",
+      "note": "In Yongen-Jaya, the game's Sangenjaya, Joker lives in the attic of Sojiro Sakura's Café Leblanc; the Sakura house next door holds Futaba's Palace.",
+      "source": "https://tsunagujapan.com/wow_02105"
+    },
+    {
+      "placeId": "shujin-academy-aoyama-tokyo-japan",
+      "aliases": [
+        "Shujin Academy"
+      ],
+      "settingType": "fictionalized",
+      "note": "Joker's new school, where the gym teacher Kamoshida's abuse of his students becomes the first Palace, a castle, and the Phantom Thieves are born.",
+      "source": "https://megatenwiki.com/wiki/Shujin_Academy"
+    },
+    {
+      "placeId": "shibuya-tokyo-japan",
+      "settingType": "fictionalized",
+      "note": "The Thieves' hub: they meet in the station square, enter Mementos from Shibuya, and find mob boss Kaneshiro's Palace, a bank, covering the whole district.",
+      "source": "https://megatenwiki.com/wiki/Tokyo_(Persona_5)"
+    },
+    {
+      "placeId": "shinjuku-tokyo-japan",
+      "settingType": "fictionalized",
+      "note": "Joker goes to Shinjuku's nightlife district at night, where the journalist Ohya and the fortune teller Chihaya become his confidants."
+    },
+    {
+      "placeId": "akihabara-tokyo-japan",
+      "settingType": "fictionalized",
+      "note": "Joker can walk Akihabara's electronics and game shops on his free afternoons.",
+      "source": "https://en.wikipedia.org/wiki/Persona_5"
+    },
+    {
+      "placeId": "kanda-tokyo-japan",
+      "note": "In a church in Kanda, Joker finds the shogi player Hifumi Togo practising alone and becomes her student as one of his confidants.",
+      "source": "https://www.rpgsite.net/feature/9388-persona-5-hifumi-togo-star-confidant-choices-romance-unlock-guide"
+    },
+    {
+      "placeId": "ichigaya-tokyo-japan",
+      "note": "Joker can go fishing at the Ichigaya fishing pond once he has read the book Fishpond Spotter or gone along on Ryuji's invitation.",
+      "source": "https://megatenwiki.com/wiki/Ichigaya"
+    },
+    {
+      "placeId": "meiji-shrine-tokyo-japan",
+      "note": "A book or a friend's invitation opens Meiji Shrine to Joker, who can visit it by day but not in the evening.",
+      "source": "https://megatenwiki.com/wiki/Tokyo_(Persona_5)"
+    },
+    {
+      "placeId": "kasumigaseki-tokyo-japan",
+      "settingType": "fictionalized",
+      "note": "Prosecutor Sae Niijima's courthouse in Kasumigaseki becomes her Palace, a rigged casino, and the place where Joker is caught.",
+      "source": "https://megatenwiki.com/wiki/Niijima%27s_Palace"
+    },
+    {
+      "placeId": "national-diet-building-tokyo-japan",
+      "settingType": "fictionalized",
+      "note": "Masayoshi Shido sees the Diet as a cruise ship sailing over a drowned Tokyo; in this Palace the Thieves fight Akechi and change Shido's heart.",
+      "source": "https://megatenwiki.com/wiki/Tokyo_(Persona_5)"
+    },
+    {
+      "placeId": "odaiba-tokyo-japan",
+      "settingType": "fictionalized",
+      "note": "In Royal, Joker and Kasumi find a Palace in Odaiba that turns out to be the counsellor Maruki's, the last one the Thieves must enter.",
+      "source": "https://en.wikipedia.org/wiki/Persona_5"
+    },
+    {
+      "placeId": "kichijoji-tokyo-japan",
+      "settingType": "fictionalized",
+      "note": "Royal adds Kichijōji and its shopping streets; Joker spends free days there with friends and can find the shogi player Hifumi at its shogi hall.",
+      "source": "https://samurai-gamers.com/persona-5/details-on-new-kichijoji-area/"
+    },
+    {
+      "placeId": "inokashira-park-tokyo-japan",
+      "note": "Before Royal opened up the rest of Kichijōji, Inokashira Park was already a spot where Joker could spend a free day with a friend.",
+      "source": "https://twinfinite.net/features/persona-5-royal-kichijoji/"
+    },
+    {
+      "placeId": "hawaii-usa",
+      "note": "Shujin's second-years, with Makoto, go to Hawaii on their class trip and spend days on the beach and in the shops.",
+      "source": "https://samurai-gamers.com/persona-5/more-slice-of-life-character-moments-showcased-in-yusuke-kitagawas-p5r-character-reveal-trailer/"
+    }
+  ],
+  "storyYears": [
+    2016,
+    2017
+  ],
+  "source": "https://en.wikipedia.org/wiki/Persona_5",
+  "reviewed": "2026-11-06",
+  "genres": [
+    "RPG"
+  ],
+  "routes": [
+    {
+      "id": "phantom-thieves",
+      "name": "The Phantom Thieves' Palaces",
+      "characters": [
+        "Joker"
+      ],
+      "stops": [
+        "sangenjaya-tokyo-japan",
+        "shujin-academy-aoyama-tokyo-japan",
+        "shibuya-tokyo-japan",
+        "sangenjaya-tokyo-japan",
+        "kasumigaseki-tokyo-japan",
+        "national-diet-building-tokyo-japan",
+        "shibuya-tokyo-japan",
+        "odaiba-tokyo-japan"
+      ],
+      "note": "From the attic in Yongen-Jaya through Kamoshida's castle, Kaneshiro's bank, Futaba's Palace, Sae's casino and Shido's ship to the depths of Mementos, and in Royal on to Maruki's Palace in Odaiba.",
+      "source": "https://en.wikipedia.org/wiki/Persona_5"
+    }
+  ]
+}

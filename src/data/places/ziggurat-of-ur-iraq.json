@@ -1,0 +1,14 @@
+{
+  "id": "ziggurat-of-ur-iraq",
+  "name": "Ziggurat of Ur, Iraq",
+  "position": {
+    "lat": 30.9628,
+    "lon": 46.103
+  },
+  "scale": "site",
+  "parentId": "iraq",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Ziggurat_of_Ur",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ziggurat_of_Ur",
+  "description": "A stepped Neo-Sumerian temple tower in the ruins of Ur near Nasiriyah, raised by King Ur-Nammu in the Early Bronze Age."
+}

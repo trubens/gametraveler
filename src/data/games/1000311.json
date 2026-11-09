@@ -1,0 +1,23 @@
+{
+  "id": 1000311,
+  "name": "1666: Amsterdam",
+  "year": 2026,
+  "developer": "Panache Digital Games",
+  "publisher": "Panache Digital Games",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "storyYears": [
+    1666,
+    1999,
+    2026
+  ],
+  "source": "https://en.wikipedia.org/wiki/1666:_Amsterdam",
+  "locations": [
+    {
+      "placeId": "amsterdam-netherlands",
+      "note": "Noa Brooklyn, an apothecary and secret witch, hunts demons through a supernatural Amsterdam of the Golden Age in 1666, with threads in 1999 and the present day. In early access since 25 August 2026.",
+      "settingType": "fictionalized"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 397,
+  "name": "Sherlock Holmes: The Mystery of the Mummy",
+  "year": 2002,
+  "series": "Sherlock Holmes",
+  "developer": "Frogwares",
+  "publisher": "Wanadoo / The Adventure Company / Frogwares",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "Holmes investigates a disappearance at an Egyptian collector's London manor."
+    }
+  ],
+  "storyYears": [
+    1899
+  ],
+  "source": "https://en.wikipedia.org/wiki/Sherlock_Holmes:_The_Mystery_of_the_Mummy",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Frogwares",
+  "genres": [
+    "Adventure"
+  ]
+}

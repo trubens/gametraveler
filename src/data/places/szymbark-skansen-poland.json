@@ -1,0 +1,17 @@
+{
+  "id": "szymbark-skansen-poland",
+  "name": "Skansen in Szymbark, Poland",
+  "position": {
+    "lat": 49.6192,
+    "lon": 21.0969
+  },
+  "scale": "area",
+  "parentId": "poland",
+  "placeType": "venue",
+  "aliases": [
+    "Skansen Wsi Pogórzańskiej"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Szymbark,_Lesser_Poland_Voivodeship",
+  "description": "The open-air museum of Pogórze village life at Szymbark near Gorlice in southern Poland, wooden cottages, barns and a manor gathered from the surrounding hills.",
+  "descriptionSource": "wikipedia"
+}

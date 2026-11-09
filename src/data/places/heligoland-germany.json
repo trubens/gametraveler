@@ -1,0 +1,14 @@
+{
+  "id": "heligoland-germany",
+  "name": "Heligoland, Germany",
+  "position": {
+    "lat": 54.1825,
+    "lon": 7.8853
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Heligoland",
+  "description": "A small red-cliffed archipelago in the North Sea off the German coast, a naval base in both world wars.",
+  "descriptionSource": "wikipedia"
+}

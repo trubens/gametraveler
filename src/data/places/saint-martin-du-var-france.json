@@ -1,0 +1,13 @@
+{
+  "id": "saint-martin-du-var-france",
+  "name": "Saint-Martin-du-Var, France",
+  "position": {
+    "lat": 43.82,
+    "lon": 7.19
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Saint-Martin-du-Var",
+  "description": "A village in the Alpes-Maritimes in south-eastern France."
+}

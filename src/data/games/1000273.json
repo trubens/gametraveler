@@ -1,0 +1,25 @@
+{
+  "id": 1000273,
+  "name": "Just Cause 3",
+  "year": 2015,
+  "series": "Just Cause",
+  "developer": "Avalanche Studios",
+  "publisher": "Square Enix Europe",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "storyYears": [
+    2016
+  ],
+  "source": "https://en.wikipedia.org/wiki/Just_Cause_3",
+  "locations": [
+    {
+      "placeId": "mediterranean-sea",
+      "aliases": [
+        "Medici"
+      ],
+      "settingType": "fictionalized",
+      "note": "Medici is an invented Mediterranean island country under a military dictatorship, its landscape inspired by Monaco and the southern Mediterranean."
+    }
+  ]
+}

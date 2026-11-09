@@ -1,0 +1,3 @@
+// Land og områder som tar «the» i engelsk løpetekst («in the USA»). Brukes av panelet og av sidenes beskrivelser.
+export const WITH_ARTICLE = new Set(['UK', 'USA', 'UAE', 'Netherlands', 'Philippines', 'Czech Republic', 'Bahamas', 'Caribbean', 'Himalayas', 'Maldives', 'United States', 'United Kingdom', 'United Arab Emirates', 'Dominican Republic', 'Central African Republic', 'Democratic Republic of the Congo', 'Republic of the Congo', 'Solomon Islands', 'Falkland Islands', 'Faroe Islands', 'Azores', 'Canary Islands', 'Balkans', 'Alps', 'Arctic', 'Antarctic', 'Sahara', 'Middle East', 'Mediterranean', 'Atlantic', 'Pacific']);
+export const withArticle = (name: string) => (WITH_ARTICLE.has(name) ? `the ${name}` : name);

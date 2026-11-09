@@ -1,0 +1,20 @@
+{
+  "id": 425,
+  "name": "Aztec: The Curse in the Heart of the City of Gold",
+  "year": 1999,
+  "developer": "Cryo Interactive / Tek 5 (PS1)",
+  "publisher": "Cryo Interactive",
+  "locations": [
+    {
+      "placeId": "mexico-city-mexico",
+      "note": "The protagonist travels to Tenochtitlan while seeking a cure for a mysterious disease."
+    }
+  ],
+  "storyYears": [
+    1517
+  ],
+  "source": "https://en.wikipedia.org/wiki/Aztec:_The_Curse_in_the_Heart_of_the_City_of_Gold",
+  "genres": [
+    "Adventure"
+  ]
+}

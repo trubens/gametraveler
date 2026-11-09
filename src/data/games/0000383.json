@@ -1,0 +1,96 @@
+{
+  "id": 383,
+  "name": "WRC Generations",
+  "year": 2022,
+  "series": "WRC",
+  "developer": "Kylotonn",
+  "publisher": "Nacon",
+  "locations": [
+    {
+      "placeId": "monte-carlo-monaco",
+      "note": "The Monte Carlo Rally."
+    },
+    {
+      "placeId": "umea-sweden",
+      "note": "Rally Sweden, moved north to the snow of Umeå."
+    },
+    {
+      "placeId": "zagreb-croatia",
+      "note": "The Croatia Rally around Zagreb."
+    },
+    {
+      "placeId": "matosinhos-portugal",
+      "note": "Rally de Portugal from Matosinhos."
+    },
+    {
+      "placeId": "olbia-sardinia-italy",
+      "note": "Rally Italia Sardegna from Olbia."
+    },
+    {
+      "placeId": "naivasha-kenya",
+      "note": "The Safari Rally around Naivasha."
+    },
+    {
+      "placeId": "tartu-estonia",
+      "note": "Rally Estonia from Tartu."
+    },
+    {
+      "placeId": "jyvaskyla-finland",
+      "note": "Rally Finland from Jyväskylä."
+    },
+    {
+      "placeId": "ypres-belgium",
+      "note": "The Ypres Rally in Flanders."
+    },
+    {
+      "placeId": "lamia-greece",
+      "note": "The Acropolis Rally from Lamia."
+    },
+    {
+      "placeId": "auckland-new-zealand",
+      "note": "Rally New Zealand north of Auckland."
+    },
+    {
+      "placeId": "salou-spain",
+      "note": "RallyRACC Catalunya from Salou."
+    },
+    {
+      "placeId": "toyota-aichi-japan",
+      "note": "Rally Japan based at Toyota City."
+    },
+    {
+      "placeId": "leon-mexico",
+      "note": "Rally Mexico around León."
+    },
+    {
+      "placeId": "villa-carlos-paz-argentina",
+      "note": "Rally Argentina from Villa Carlos Paz."
+    },
+    {
+      "placeId": "concepcion-chile",
+      "note": "Rally Chile from Concepción."
+    },
+    {
+      "placeId": "trier-germany",
+      "note": "Rallye Deutschland from Trier."
+    },
+    {
+      "placeId": "turkey-marmaris",
+      "note": "Rally Turkey above Marmaris."
+    },
+    {
+      "placeId": "ajaccio-corsica-france",
+      "note": "The Tour de Corse on the island's tarmac."
+    },
+    {
+      "placeId": "llandudno-wales-uk",
+      "note": "Wales Rally GB from Llandudno."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/WRC_Generations",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

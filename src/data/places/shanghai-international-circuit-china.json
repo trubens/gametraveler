@@ -1,0 +1,13 @@
+{
+  "id": "shanghai-international-circuit-china",
+  "name": "Shanghai International Circuit, China",
+  "position": {
+    "lat": 31.3389,
+    "lon": 121.22
+  },
+  "scale": "site",
+  "parentId": "china",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shanghai_International_Circuit",
+  "description": "A motorsport circuit in the Jiading district of Shanghai, host of the Chinese Grand Prix."
+}

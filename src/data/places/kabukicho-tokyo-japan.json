@@ -1,0 +1,15 @@
+{
+  "id": "kabukicho-tokyo-japan",
+  "name": "Kabukichō, Shinjuku, Tokyo, Japan",
+  "position": {
+    "lat": 35.695,
+    "lon": 139.705
+  },
+  "scale": "area",
+  "parentId": "tokyo-japan",
+  "placeType": "neighborhood",
+  "source": "https://en.wikipedia.org/wiki/Kabukich%C5%8D",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kabukich%C5%8D",
+  "description": "Tokyo's best-known entertainment and red-light district in Shinjuku, packed with host and hostess clubs, bars, love hotels and the neon of Ichibangai.",
+  "descriptionSource": "wikipedia"
+}

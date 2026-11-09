@@ -1,0 +1,14 @@
+{
+  "id": "hellendoorn-netherlands",
+  "name": "Hellendoorn, Netherlands",
+  "position": {
+    "lat": 52.3667,
+    "lon": 6.4667
+  },
+  "scale": "area",
+  "parentId": "netherlands",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hellendoorn",
+  "description": "A small town in Overijssel in the east of the Netherlands, from whose woods V-2 rockets were fired at Antwerp in 1945.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1000161,
+  "name": "Homefront",
+  "year": 2011,
+  "publisher": "THQ",
+  "series": "Homefront",
+  "developer": "Kaos Studios",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Homefront_(video_game)",
+  "locations": [
+    {
+      "placeId": "montrose-colorado-usa",
+      "note": "The campaign begins in occupied Montrose, where Jacobs and the resistance fight through the town."
+    },
+    {
+      "placeId": "san-francisco-usa",
+      "note": "The final campaign chapter takes the resistance to San Francisco."
+    },
+    {
+      "placeId": "golden-gate-bridge-california-usa",
+      "note": "In the final chapter, the player fights across the recognizable Golden Gate Bridge."
+    }
+  ],
+  "storyYears": [
+    2027
+  ]
+}

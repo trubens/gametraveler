@@ -1,0 +1,110 @@
+{
+  "id": 79,
+  "name": "Commandos: Behind Enemy Lines",
+  "year": 1998,
+  "publisher": "Eidos Interactive",
+  "series": "Commandos",
+  "developer": "Pyro Studios",
+  "locations": [
+    {
+      "placeId": "normandy-france",
+      "note": "D-Day Kick Off, May 1944: weeks before the landings the commandos knock out the coastal batteries at La Rivière on the Normandy coast."
+    },
+    {
+      "placeId": "norway",
+      "note": "The opening seven missions hit German installations in occupied Norway, 1940-42."
+    },
+    {
+      "placeId": "el-alamein-egypt",
+      "note": "October 1942, on the eve of El Alamein, the commandos blow up a fuel depot at Tell el Eisa and an occupation headquarters at Bab el Qattara.",
+      "source": "https://commandos.fandom.com/wiki/A_Courtesy_Call"
+    },
+    {
+      "placeId": "el-agheila-libya",
+      "note": "Operation Icarus, November 1942: with Rommel retreating to El Agheila, the commandos rescue a downed RAF pilot who flies them out.",
+      "source": "https://commandos.fandom.com/wiki/Operation_Icarus"
+    },
+    {
+      "placeId": "marada-libya",
+      "note": "In the Soup, December 1942: the commandos destroy four German drilling rigs at the Marada oasis.",
+      "source": "https://commandos.fandom.com/wiki/In_the_Soup"
+    },
+    {
+      "placeId": "tunis-tunisia",
+      "note": "Up on the Roof, March 1943: the commandos fight their way out of occupied Tunis.",
+      "source": "https://commandos.fandom.com/wiki/Up_on_the_Roof"
+    },
+    {
+      "placeId": "le-havre-france",
+      "note": "David and Goliath, May 1944: the commandos sink a German battleship in the port of Le Havre.",
+      "source": "https://commandos.fandom.com/wiki/David_and_Goliath"
+    },
+    {
+      "placeId": "compiegne-france",
+      "note": "The 'butcher of Paris' is hunted down in Compiègne in August 1944."
+    },
+    {
+      "placeId": "liege-belgium",
+      "note": "In September 1944 the commandos kill German sappers and disarm their charges at Liège; in December, as the Ardennes offensive breaks through, they come back to blow up a bridge.",
+      "source": "https://commandos.fandom.com/wiki/Stop_Wildfire"
+    },
+    {
+      "placeId": "ribeauville-france",
+      "note": "Before Dawn, November 1944: the commandos free the Resistance leader Claude Gilbert and his men from execution in Ribeauvillé, north of Colmar.",
+      "source": "https://commandos.fandom.com/wiki/Before_Dawn"
+    },
+    {
+      "placeId": "oldenburg-germany",
+      "note": "A V2 launch site at Oldenburg, west of Bremen, must be destroyed in January 1945."
+    },
+    {
+      "placeId": "gundelfingen-germany",
+      "note": "The finale, Operation Valhalla, storms a castle at Gundelfingen near Freiburg in February 1945."
+    }
+  ],
+  "storyYears": [
+    1940,
+    1941,
+    1942,
+    1943,
+    1944,
+    1945
+  ],
+  "source": "https://es.wikipedia.org/wiki/Commandos:_Behind_Enemy_Lines",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Eidos_Interactive",
+  "genres": [
+    "Real-Time Tactics"
+  ],
+  "routes": [
+    {
+      "id": "commandos",
+      "name": "The Commandos",
+      "characters": [
+        "Jack O'Hara",
+        "Sir Francis T. Woolridge",
+        "Thomas Hancock",
+        "Samuel Brooklyn",
+        "James Blackwood",
+        "René Duchamp"
+      ],
+      "stops": [
+        "norway",
+        "el-alamein-egypt",
+        "el-agheila-libya",
+        "marada-libya",
+        "tunis-tunisia",
+        "le-havre-france",
+        "normandy-france",
+        "compiegne-france",
+        "liege-belgium",
+        "ribeauville-france",
+        "liege-belgium",
+        "oldenburg-germany",
+        "gundelfingen-germany"
+      ],
+      "note": "The commandos raid occupied Norway, follow the desert war from El Alamein to El Agheila, Marada and Tunis, sink a battleship at Le Havre and open the way for D-Day, hunt the butcher of Paris at Compiègne, fight at Liège and Ribeauvillé, and push into Germany to wreck a V2 base at Oldenburg and storm a castle at Gundelfingen.",
+      "source": "https://commandos.fandom.com/wiki/Commandos:_Behind_Enemy_Lines"
+    }
+  ]
+}

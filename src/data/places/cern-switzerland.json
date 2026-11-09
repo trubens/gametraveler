@@ -1,0 +1,12 @@
+{
+  "id": "cern-switzerland",
+  "name": "CERN, Switzerland",
+  "position": {
+    "lat": 46.233,
+    "lon": 6.0557
+  },
+  "scale": "site",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/CERN",
+  "description": "The world's largest particle physics laboratory, run by the European Organization for Nuclear Research on the outskirts of Geneva."
+}

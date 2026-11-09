@@ -1,0 +1,48 @@
+{
+  "id": 1000288,
+  "name": "Black Mirror II: Reigning Evil",
+  "year": 2009,
+  "series": "Black Mirror",
+  "developer": "Cranberry Production",
+  "publisher": "dtp entertainment",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    1993
+  ],
+  "source": "https://en.wikipedia.org/wiki/Black_Mirror_II:_Reigning_Evil",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "biddeford-maine-usa",
+      "note": "Physics student Darren Michaels works in a run-down photo studio in Biddeford, Maine, where the story starts.",
+      "source": "https://www.justadventure.com/walkthrough/black-mirror-ii/"
+    },
+    {
+      "placeId": "suffolk-england-uk",
+      "aliases": [
+        "Willow Creek",
+        "Black Mirror Castle"
+      ],
+      "settingType": "fictionalized",
+      "note": "Darren follows the kidnapped Angelina to Willow Creek, the village of the first game, and his trail ends at the Gordons' manor Black Mirror, where the family curse waits.",
+      "source": "https://www.justadventure.com/walkthrough/black-mirror-ii/"
+    }
+  ],
+  "routes": [
+    {
+      "id": "darren-michaels",
+      "name": "Darren Michaels",
+      "characters": [
+        "Darren Michaels"
+      ],
+      "stops": [
+        "biddeford-maine-usa",
+        "suffolk-england-uk"
+      ],
+      "note": "From a seedy photo shop in Biddeford across the Atlantic to Willow Creek, where Darren's trail ends at the Gordons' cursed manor.",
+      "source": "https://www.justadventure.com/walkthrough/black-mirror-ii/"
+    }
+  ]
+}

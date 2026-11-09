@@ -1,0 +1,20 @@
+{
+  "id": 534,
+  "name": "Ambition: A Minuet in Power",
+  "year": 2021,
+  "publisher": "Iceberg Interactive",
+  "developer": "Joy Manufacturing Co.",
+  "storyYears": [
+    1789
+  ],
+  "source": "https://ambition-game.com/",
+  "locations": [
+    {
+      "placeId": "paris-france",
+      "note": "The player navigates Parisian salons and political circles during the French Revolution, choosing where to spend each evening and whom to influence."
+    }
+  ],
+  "genres": [
+    "Visual Novel"
+  ]
+}

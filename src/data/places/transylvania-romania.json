@@ -1,0 +1,13 @@
+{
+  "id": "transylvania-romania",
+  "name": "Transylvania, Romania",
+  "position": {
+    "lat": 46,
+    "lon": 25
+  },
+  "scale": "area",
+  "parentId": "romania",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Transylvania",
+  "description": "A historic region of central Romania, enclosed by the Carpathians to the east and south and the Apuseni Mountains to the west."
+}

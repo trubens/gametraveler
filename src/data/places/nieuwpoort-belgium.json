@@ -1,0 +1,14 @@
+{
+  "id": "nieuwpoort-belgium",
+  "name": "Nieuwpoort, Belgium",
+  "position": {
+    "lat": 51.1167,
+    "lon": 2.75
+  },
+  "scale": "area",
+  "parentId": "belgium",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nieuwpoort,_Belgium",
+  "description": "A town at the mouth of the Yser on the Belgian coast, on the northern end of the Western Front in the First World War.",
+  "descriptionSource": "wikipedia"
+}

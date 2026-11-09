@@ -1,0 +1,14 @@
+{
+  "id": "costa-calida-spain",
+  "name": "Costa Cálida, Spain",
+  "position": {
+    "lat": 37.5642,
+    "lon": -1.2194
+  },
+  "scale": "area",
+  "parentId": "spain",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Costa_C%C3%A1lida",
+  "description": "The roughly 250-kilometre Mediterranean coast of the Region of Murcia, including the Mar Menor lagoon.",
+  "descriptionSource": "wikipedia"
+}

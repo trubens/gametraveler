@@ -1,0 +1,18 @@
+{
+  "id": "charles-bridge-prague-czech-republic",
+  "name": "Charles Bridge, Prague, Czech Republic",
+  "aliases": [
+    "Karlův most",
+    "Karlsbroen"
+  ],
+  "position": {
+    "lat": 50.0865,
+    "lon": 14.4114
+  },
+  "scale": "site",
+  "placeType": "landmark",
+  "parentId": "prague-czech-republic",
+  "source": "https://en.wikipedia.org/wiki/Charles_Bridge",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Bridge",
+  "description": "The medieval stone arch bridge across the Vltava in Prague, begun under King Charles IV in 1357 and finished in the early fifteenth century."
+}

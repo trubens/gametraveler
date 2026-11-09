@@ -1,0 +1,40 @@
+{
+  "id": 305,
+  "name": "Forza Motorsport (2005)",
+  "year": 2005,
+  "series": "Forza Motorsport",
+  "developer": "Turn 10 Studios",
+  "publisher": "Microsoft Game Studios",
+  "locations": [
+    {
+      "placeId": "laguna-seca-california-usa",
+      "note": "One of the six real circuits licensed for the first Forza, raced as the full lap with the Corkscrew."
+    },
+    {
+      "placeId": "road-atlanta-georgia-usa",
+      "note": "Offered as the full circuit and a shorter layout, then called Road Atlanta II/Short and later renamed the Club Circuit."
+    },
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "Licensed for the first Forza in its layout from before the 2010 rebuild; the newer Grand Prix layout only reached the series in Forza 5."
+    },
+    {
+      "placeId": "tsukuba-circuit-japan",
+      "note": "Only the full circuit is available here; the short layout was added in later games."
+    },
+    {
+      "placeId": "road-america-wisconsin-usa",
+      "note": "Licensed for the first game as a single full circuit; the sequel left it off the disc and sold it only as a download."
+    },
+    {
+      "placeId": "nurburgring-nordschleife-germany",
+      "note": "The full Nordschleife lap of about 20.8 km is the longest course in the game."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Forza_Motorsport_(2005_video_game)",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

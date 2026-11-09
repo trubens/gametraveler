@@ -1,0 +1,25 @@
+{
+  "id": 1000173,
+  "name": "Second Sight",
+  "year": 2004,
+  "developer": "Free Radical Design",
+  "publisher": "Codemasters",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Second_Sight_(video_game)",
+  "locations": [
+    {
+      "placeId": "queens-new-york-usa",
+      "note": "Jayne Wilde leads Vattic to Starke's hideout in Queens, where Starke tells him what really happened in Siberia."
+    },
+    {
+      "placeId": "siberia-russia",
+      "settingType": "fictionalized",
+      "note": "In flashbacks Vattic goes with Colonel Starke's Marine taskforce to Siberia to recover the defecting scientist Victor Grienko."
+    }
+  ],
+  "storyYears": [
+    1999
+  ]
+}

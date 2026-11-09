@@ -1,0 +1,14 @@
+{
+  "id": "penza-russia",
+  "name": "Penza, Russia",
+  "position": {
+    "lat": 53.1959,
+    "lon": 45.0183
+  },
+  "scale": "area",
+  "parentId": "russia",
+  "source": "https://en.wikipedia.org/wiki/Penza",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Penza",
+  "placeType": "city",
+  "description": "The largest city of Penza Oblast."
+}

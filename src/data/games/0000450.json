@@ -1,0 +1,151 @@
+{
+  "id": 450,
+  "name": "Battlefield 1942",
+  "year": 2002,
+  "series": "Battlefield",
+  "developer": "Digital Illusions CE",
+  "publisher": "Electronic Arts",
+  "locations": [
+    {
+      "placeId": "wake-island-usa",
+      "note": "Wake Island, the game's signature map: Japan against the US Marines on the atoll."
+    },
+    {
+      "placeId": "midway-atoll-usa",
+      "note": "The Battle of Midway map pits carriers and airfields against each other."
+    },
+    {
+      "placeId": "guadalcanal-solomon-islands",
+      "note": "Guadalcanal, fought in the jungle around the airfield."
+    },
+    {
+      "placeId": "iwo-jima-japan",
+      "note": "Iwo Jima, the landing on the black beaches under Mount Suribachi."
+    },
+    {
+      "placeId": "el-alamein-egypt",
+      "note": "El Alamein, open desert tank warfare between Germany and Britain."
+    },
+    {
+      "placeId": "tobruk-libya",
+      "note": "Tobruk, the besieged port's defensive lines."
+    },
+    {
+      "placeId": "gazala-libya",
+      "note": "The Battle of Gazala map in the Libyan desert."
+    },
+    {
+      "placeId": "halfaya-pass-egypt",
+      "note": "Operation Battleaxe, the fight for the pass on the Egyptian border."
+    },
+    {
+      "placeId": "omaha-beach-france",
+      "note": "Omaha Beach, the D-Day landing from the sea."
+    },
+    {
+      "placeId": "normandy-france",
+      "note": "Bocage, the hedgerow country of Normandy after the landings."
+    },
+    {
+      "placeId": "arnhem-netherlands",
+      "note": "Operation Market Garden, the airborne fight for the Arnhem bridge."
+    },
+    {
+      "placeId": "bastogne-belgium",
+      "note": "Battle of the Bulge, the winter fighting in the Ardennes."
+    },
+    {
+      "placeId": "stalingrad-volgograd-russia",
+      "note": "Stalingrad, street fighting in the ruined city."
+    },
+    {
+      "placeId": "kharkiv-ukraine",
+      "note": "Kharkov, the Eastern Front map around the city."
+    },
+    {
+      "placeId": "kursk-russia",
+      "note": "Battle of Kursk, the great tank clash on the steppe."
+    },
+    {
+      "placeId": "berlin-germany",
+      "note": "Battle of Berlin, the Red Army's final assault on the city."
+    },
+    {
+      "placeId": "vemork-rjukan-norway",
+      "note": "Telemark, in the Secret Weapons of WWII expansion: a raid on the heavy-water plant in the snow."
+    },
+    {
+      "placeId": "coral-sea",
+      "note": "Coral Sea: a carrier battle added with the first patch, fought from the flight decks."
+    },
+    {
+      "placeId": "philippines",
+      "note": "Invasion of the Philippines: the Japanese landings of 1941, a map added by patch."
+    },
+    {
+      "placeId": "caen-france",
+      "note": "Liberation of Caen: the Normandy city in ruins, a map added by patch."
+    },
+    {
+      "placeId": "united-kingdom",
+      "note": "Battle of Britain: Spitfires against bombers over the English coast, a map added by patch."
+    },
+    {
+      "placeId": "anzio-italy",
+      "note": "Anzio: the beachhead south of Rome, in The Road to Rome expansion."
+    },
+    {
+      "placeId": "monte-cassino-italy",
+      "note": "Monte Cassino: fighting up to the abbey, in The Road to Rome."
+    },
+    {
+      "placeId": "salerno-italy",
+      "note": "Salerno: the Allied landing of September 1943, in The Road to Rome."
+    },
+    {
+      "placeId": "sicily-italy",
+      "note": "Operation Husky: the invasion of Sicily, in The Road to Rome."
+    },
+    {
+      "placeId": "italy",
+      "note": "Operation Baytown and Monte Santa Croce: the Calabrian landing and the mountain road north, two Road to Rome maps."
+    },
+    {
+      "placeId": "kehlsteinhaus-berchtesgaden-germany",
+      "note": "Eagle's Nest: an assault on Hitler's mountain chalet, in Secret Weapons of WWII."
+    },
+    {
+      "placeId": "essen-germany",
+      "note": "Essen: the Krupp works under attack, in Secret Weapons of WWII."
+    },
+    {
+      "placeId": "gothic-line-italy",
+      "note": "Gothic Line: the German line in the Apennines, in Secret Weapons of WWII."
+    },
+    {
+      "placeId": "hellendoorn-netherlands",
+      "note": "Hellendoorn: the V-2 launch sites in the Dutch woods, in Secret Weapons of WWII."
+    },
+    {
+      "placeId": "kbely-airfield-prague-czech-republic",
+      "note": "Kbely Airfield: a raid on the Luftwaffe field outside Prague, in Secret Weapons of WWII."
+    },
+    {
+      "placeId": "mimoyecques-france",
+      "note": "Mimoyecques: the V-3 supergun bunker, in Secret Weapons of WWII."
+    },
+    {
+      "placeId": "peenemunde-germany",
+      "note": "Peenemünde: the rocket research centre on the Baltic, in Secret Weapons of WWII."
+    }
+  ],
+  "storyYears": [
+    1941,
+    1945
+  ],
+  "source": "https://en.wikipedia.org/wiki/Battlefield_1942",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1000262,
+  "name": "Alone in the Dark (1992)",
+  "year": 1992,
+  "series": "Alone in the Dark",
+  "developer": "Infogrames",
+  "publisher": "Infogrames",
+  "genres": [
+    "Survival Horror"
+  ],
+  "storyYears": [
+    1924
+  ],
+  "source": "https://en.wikipedia.org/wiki/Alone_in_the_Dark_(1992_video_game)",
+  "reviewed": "2026-11-02",
+  "locations": [
+    {
+      "placeId": "derceto-fictional-louisiana-usa",
+      "settingType": "fictionalized",
+      "note": "Trapped inside Derceto after Jeremy Hartwood's suicide, Edward Carnby or Emily Hartwood fight down from the attic to the caverns beneath the house and burn the tree that holds the pirate sorcerer Ezechiel Pregzt's spirit."
+    }
+  ]
+}

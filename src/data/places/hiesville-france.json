@@ -1,0 +1,14 @@
+{
+  "id": "hiesville-france",
+  "name": "Hiesville, France",
+  "position": {
+    "lat": 49.3725,
+    "lon": -1.2622
+  },
+  "scale": "area",
+  "parentId": "normandy-france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hiesville",
+  "description": "A small commune in the Manche department of Normandy, where the 101st Airborne's gliders landed on D-Day.",
+  "source": "https://en.wikipedia.org/wiki/Hiesville"
+}

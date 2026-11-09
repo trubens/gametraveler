@@ -1,0 +1,17 @@
+{
+  "id": "argonne-forest-france",
+  "name": "Argonne Forest, France",
+  "position": {
+    "lat": 49.15,
+    "lon": 4.9667
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Forest of Argonne"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Forest_of_Argonne",
+  "description": "A long strip of hilly woodland in north-eastern France where the Meuse-Argonne offensive was fought in the autumn of 1918.",
+  "descriptionSource": "wikipedia"
+}

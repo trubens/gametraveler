@@ -1,0 +1,19 @@
+{
+  "id": "talland-church-cornwall-uk",
+  "name": "Talland Church, Cornwall, UK",
+  "position": {
+    "lat": 50.3379,
+    "lon": -4.4907
+  },
+  "scale": "site",
+  "parentId": "cornwall-england",
+  "placeType": "landmark",
+  "aliases": [
+    "St Tallanus' Church",
+    "Ulcombe Church"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/St_Tallanus%27_Church,_Talland",
+  "description": "A Grade I listed medieval church on the cliff above Talland Bay between Looe and Polperro, with a detached bell tower and a long reputation for ghosts.",
+  "descriptionSource": "wikipedia",
+  "source": "https://www.openstreetmap.org/search?query=St%20Tallan%20Talland"
+}

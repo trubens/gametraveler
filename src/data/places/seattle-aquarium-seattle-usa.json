@@ -1,0 +1,18 @@
+{
+  "id": "seattle-aquarium-seattle-usa",
+  "name": "Seattle Aquarium, Seattle, USA",
+  "position": {
+    "lat": 47.6075,
+    "lon": -122.3431
+  },
+  "scale": "site",
+  "parentId": "seattle-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "Seattle Aquarium"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Seattle_Aquarium",
+  "description": "A public aquarium on Piers 59 and 60 of the Elliott Bay waterfront, opened in 1977.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Seattle_Aquarium"
+}

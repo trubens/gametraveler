@@ -1,0 +1,106 @@
+{
+  "id": 129,
+  "name": "Assassin's Creed Odyssey",
+  "aliases": [
+    "AC",
+    "AC Odyssey"
+  ],
+  "year": 2018,
+  "publisher": "Ubisoft",
+  "series": "Assassin's Creed",
+  "developer": "Ubisoft Quebec",
+  "locations": [
+    {
+      "placeId": "greece",
+      "note": "A Spartan mercenary fights for both sides of the Peloponnesian War across Classical Greece."
+    },
+    {
+      "placeId": "kephallonia-greece",
+      "note": "The story begins on the island of Kephallonia."
+    },
+    {
+      "placeId": "athens-greece",
+      "note": "The city of Perikles and Sokrates, where the Eagle Bearer finds Phoibe, the plague and the Cult's hold on the assembly."
+    },
+    {
+      "placeId": "sparta-greece",
+      "note": "The Peloponnesian War story includes the Spartan homeland."
+    },
+    {
+      "placeId": "lesbos-greece",
+      "note": "The northern Aegean island is a distinct explorable region."
+    },
+    {
+      "placeId": "macedonia-greece",
+      "note": "The northern campaign includes the Macedonian region."
+    },
+    {
+      "placeId": "ancient-agora-of-athens-greece",
+      "note": "The Agora of Athens is where Kassandra or Alexios meets Perikles and Sokrates."
+    },
+    {
+      "placeId": "delphi-greece",
+      "note": "The Oracle at Delphi sets the hunt for the Cult of Kosmos in motion."
+    },
+    {
+      "placeId": "olympia-greece",
+      "note": "The Olympic Games at Olympia, under the statue of Zeus, are a story stop."
+    },
+    {
+      "placeId": "mount-taygetus-greece",
+      "note": "The story begins with the fall from Mount Taygetos in Sparta."
+    },
+    {
+      "placeId": "naxos-greece",
+      "note": "The Eagle Bearer finds their mother Myrinne ruling Naxos under the name Phoenix."
+    },
+    {
+      "placeId": "thermopylae-greece",
+      "note": "The game opens in 480 BC with Leonidas holding the pass at Thermopylae against the Persians."
+    },
+    {
+      "placeId": "megara-greece",
+      "note": "The first contract: kill the Wolf of Sparta in Megaris."
+    },
+    {
+      "placeId": "pylos-greece",
+      "note": "At the Battle of Pylos the Eagle Bearer meets Deimos and is captured."
+    },
+    {
+      "placeId": "knossos-greece",
+      "note": "The Labyrinth beneath Knossos on Crete holds the Minotaur, an Isu experiment."
+    }
+  ],
+  "storyYears": [
+    -431,
+    -422,
+    2018
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Odyssey",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action RPG"
+  ],
+  "routes": [
+    {
+      "id": "eagle-bearer",
+      "name": "The Eagle Bearer",
+      "characters": [
+        "Kassandra",
+        "Alexios"
+      ],
+      "stops": [
+        "kephallonia-greece",
+        "megara-greece",
+        "delphi-greece",
+        "athens-greece",
+        "naxos-greece",
+        "pylos-greece",
+        "sparta-greece"
+      ],
+      "note": "From a mercenary's life on Kephallonia the misthios hunts the Cult and the lost family through Megara, Delphi, Athens, Naxos and Pylos to a reunion in Sparta.",
+      "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Odyssey"
+    }
+  ]
+}

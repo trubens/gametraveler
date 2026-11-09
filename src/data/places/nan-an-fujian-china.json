@@ -1,0 +1,13 @@
+{
+  "id": "nan-an-fujian-china",
+  "name": "Nan'an, Fujian, China",
+  "position": {
+    "lat": 24.9604,
+    "lon": 118.3862
+  },
+  "scale": "area",
+  "parentId": "china",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nan%27an,_Fujian",
+  "description": "A city in the south of Fujian Province."
+}

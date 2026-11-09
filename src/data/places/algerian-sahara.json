@@ -1,0 +1,13 @@
+{
+  "id": "algerian-sahara",
+  "name": "Algerian Sahara",
+  "scale": "area",
+  "parentId": "algeria",
+  "position": {
+    "lat": 23,
+    "lon": 5
+  },
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sahara",
+  "description": "The Algerian stretch of the Sahara, the desert that spans North Africa."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "przemysl-poland",
+  "name": "Przemyśl, Poland",
+  "position": {
+    "lat": 49.7833,
+    "lon": 22.7667
+  },
+  "scale": "area",
+  "parentId": "poland",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Przemy%C5%9Bl",
+  "description": "A city on the San in south-eastern Poland, whose ring of forts withstood the longest siege of the First World War.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "hue-vietnam",
+  "name": "Huế, Vietnam",
+  "position": {
+    "lat": 16.4637,
+    "lon": 107.5909
+  },
+  "scale": "area",
+  "parentId": "vietnam",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hu%E1%BA%BF_(provincial_city)",
+  "description": "A city near the centre of Vietnam."
+}

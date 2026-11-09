@@ -1,0 +1,23 @@
+{
+  "id": 1000133,
+  "name": "Sarawak",
+  "year": 2021,
+  "publisher": "Cowleyfornia Studios",
+  "developer": "Cowleyfornia Studios",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://www.cowleyforniastudios.com/#sarawak",
+  "route": true,
+  "locations": [
+    {
+      "placeId": "oxford-uk",
+      "note": "The mystery opens among the colleges of Oxford before the trail leads to Borneo."
+    },
+    {
+      "placeId": "borneo",
+      "note": "The investigation then follows the protagonist into Borneo and its jungle setting."
+    }
+  ],
+  "storyYears": []
+}

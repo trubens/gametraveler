@@ -1,0 +1,28 @@
+{
+  "id": 1000294,
+  "name": "Gray Dawn",
+  "year": 2018,
+  "developer": "Interactive Stone",
+  "publisher": "Interactive Stone",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    1920
+  ],
+  "source": "https://en.wikipedia.org/wiki/Gray_Dawn_(video_game)",
+  "locations": [
+    {
+      "placeId": "england-uk",
+      "settingType": "fictionalized",
+      "note": "On Christmas Eve 1920, Father Abraham searches an unnamed remote English village for his missing altar boy.",
+      "source": "https://store.steampowered.com/app/747360/Gray_Dawn/"
+    },
+    {
+      "placeId": "romania",
+      "settingType": "fictionalized",
+      "note": "Visions carry him into a Romania drawn from the mysticism of Eastern Europe.",
+      "source": "https://store.steampowered.com/app/747360/Gray_Dawn/"
+    }
+  ]
+}

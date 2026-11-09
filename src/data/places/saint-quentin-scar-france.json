@@ -1,0 +1,13 @@
+{
+  "id": "saint-quentin-scar-france",
+  "name": "Saint-Quentin Scar, France",
+  "position": {
+    "lat": 49.8489,
+    "lon": 3.2876
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Saint-Quentin,_Aisne",
+  "description": "A city on the Somme in the Aisne department of northern France."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "circuit-ricardo-tormo-valencia-spain",
+  "name": "Circuit Ricardo Tormo, Valencia, Spain",
+  "position": {
+    "lat": 39.489,
+    "lon": -0.63
+  },
+  "scale": "site",
+  "parentId": "spain",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Circuit_Ricardo_Tormo",
+  "description": "A motorsport race track at Cheste outside Valencia, built in 1999 and also known as the Circuit de Valencia."
+}

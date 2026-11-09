@@ -1,0 +1,18 @@
+{
+  "id": 220,
+  "name": "The Berlin Apartment",
+  "year": 2025,
+  "publisher": "Blue Backpack, ByteRockers' Games, PARCO GAMES",
+  "developer": "Blue Backpack",
+  "locations": [
+    {
+      "placeId": "berlin-germany",
+      "note": "An apartment's successive residents experience Berlin's changing history, including the divided city seen from their windows."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://store.steampowered.com/app/2280430/The_Berlin_Apartment/",
+  "genres": [
+    "Adventure"
+  ]
+}

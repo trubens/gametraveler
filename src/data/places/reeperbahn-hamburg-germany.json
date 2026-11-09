@@ -1,0 +1,14 @@
+{
+  "id": "reeperbahn-hamburg-germany",
+  "name": "Reeperbahn, Hamburg, Germany",
+  "position": {
+    "lat": 53.5497,
+    "lon": 9.9633
+  },
+  "scale": "site",
+  "parentId": "hamburg-germany",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Reeperbahn",
+  "description": "The street of St. Pauli's nightlife, bars, theatres and the red-light side streets where the Beatles played.",
+  "descriptionSource": "wikipedia"
+}

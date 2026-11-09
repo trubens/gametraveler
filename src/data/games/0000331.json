@@ -1,0 +1,23 @@
+{
+  "id": 331,
+  "name": "MotoGP 4",
+  "year": 2005,
+  "series": "MotoGP",
+  "developer": "Namco",
+  "publisher": "Namco / Sony Computer Entertainment",
+  "locations": [
+    {
+      "placeId": "mugello-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 4 of 16 in the 2004 MotoGP season."
+    },
+    {
+      "placeId": "suzuka-international-racing-course-japan",
+      "note": "Dropped from the 2004 calendar after Daijiro Kato's fatal accident there, but kept in the game."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/MotoGP_4",
+  "genres": [
+    "Racing"
+  ]
+}

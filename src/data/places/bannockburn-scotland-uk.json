@@ -1,0 +1,13 @@
+{
+  "id": "bannockburn-scotland-uk",
+  "name": "Bannockburn, Scotland, UK",
+  "position": {
+    "lat": 56.092,
+    "lon": -3.94
+  },
+  "scale": "area",
+  "parentId": "scotland-uk",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bannockburn",
+  "description": "An area just south of the centre of Stirling."
+}

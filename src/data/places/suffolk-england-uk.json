@@ -1,0 +1,14 @@
+{
+  "id": "suffolk-england-uk",
+  "name": "Suffolk, England, UK",
+  "position": {
+    "lat": 52.19,
+    "lon": 0.98
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "region",
+  "source": "https://en.wikipedia.org/wiki/Suffolk",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suffolk",
+  "description": "A county of East Anglia on the North Sea coast, with Norfolk to the north and Essex to the south."
+}

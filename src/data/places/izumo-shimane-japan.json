@@ -1,0 +1,13 @@
+{
+  "id": "izumo-shimane-japan",
+  "name": "Izumo, Shimane, Japan",
+  "position": {
+    "lat": 35.367,
+    "lon": 132.755
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Izumo,_Shimane",
+  "description": "A mid-sized city in Japan's Shimane Prefecture."
+}

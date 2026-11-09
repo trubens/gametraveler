@@ -1,0 +1,15 @@
+{
+  "id": "big-shell-fictional-new-york-harbor-usa",
+  "name": "Big Shell, New York",
+  "position": {
+    "lat": 40.475,
+    "lon": -73.975
+  },
+  "scale": "area",
+  "parentId": "new-york-city-usa",
+  "placeType": "venue",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_2:_Sons_of_Liberty",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lower_New_York_Bay",
+  "description": "The invented offshore clean-up facility of Metal Gear Solid 2, built over the wreck of the tanker in Lower New York Bay, about 30 km from Manhattan. The game gives no exact spot; the pin at the mouth of the bay is a guess."
+}

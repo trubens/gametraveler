@@ -1,0 +1,13 @@
+{
+  "id": "ypres-belgium",
+  "name": "Ypres, Belgium",
+  "position": {
+    "lat": 50.8503,
+    "lon": 2.8857
+  },
+  "scale": "area",
+  "parentId": "belgium",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ypres",
+  "description": "A city in West Flanders."
+}

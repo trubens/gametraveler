@@ -1,0 +1,51 @@
+{
+  "id": 1000332,
+  "name": "Vampire: The Masquerade – Bloodlines",
+  "year": 2004,
+  "aliases": [
+    "Bloodlines"
+  ],
+  "series": "Vampire: The Masquerade",
+  "developer": "Troika Games",
+  "publisher": "Activision",
+  "genres": [
+    "RPG"
+  ],
+  "storyYears": [
+    2004
+  ],
+  "source": "https://en.wikipedia.org/wiki/Vampire:_The_Masquerade_%E2%80%93_Bloodlines",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "los-angeles-usa",
+      "note": "A fledgling vampire moves between four hubs of 21st-century Los Angeles to uncover the truth behind the Ankaran sarcophagus.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "santa-monica-california-usa",
+      "note": "The first hub: the fledgling's haven, the pier and the beach-town streets where the story begins.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "downtown-los-angeles-usa",
+      "note": "Downtown: LaCroix's Ventrue tower, the docked Elizabeth Dane and the anarchs' bar.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "hollywood-california-usa",
+      "note": "Hollywood: Isaac's jewellery store, the Nosferatu warrens under the boulevard and the Hollywood Hills.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "chinatown-los-angeles-usa",
+      "note": "Chinatown, the Kuei-jin's ground, where the hunt for the sarcophagus turns.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "griffith-park-los-angeles-usa",
+      "note": "Nines hides in Griffith Park, where the fledgling meets him and a werewolf attacks.",
+      "settingType": "fictionalized"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "republic-of-the-congo",
+  "name": "Republic of the Congo",
+  "aliases": [
+    "Congo"
+  ],
+  "position": {
+    "lat": 0.14,
+    "lon": 15.9
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Republic_of_the_Congo",
+  "description": "A country on the western coast of Central Africa, lying west of the Congo River, with Brazzaville as its capital."
+}

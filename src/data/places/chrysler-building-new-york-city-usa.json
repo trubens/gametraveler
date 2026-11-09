@@ -1,0 +1,14 @@
+{
+  "id": "chrysler-building-new-york-city-usa",
+  "name": "Chrysler Building, New York City, USA",
+  "position": {
+    "lat": 40.7516,
+    "lon": -73.9755
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Chrysler_Building",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chrysler_Building",
+  "description": "The Art Deco skyscraper of East Midtown, Manhattan, a supertall tower that rises over a thousand feet above New York."
+}

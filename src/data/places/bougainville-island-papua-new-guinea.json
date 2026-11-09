@@ -1,0 +1,15 @@
+{
+  "id": "bougainville-island-papua-new-guinea",
+  "name": "Bougainville Island, Papua New Guinea",
+  "position": {
+    "lat": -6.2444,
+    "lon": 155.3839
+  },
+  "scale": "area",
+  "parentId": "papua-new-guinea",
+  "placeType": "island",
+  "source": "https://en.wikipedia.org/wiki/Bougainville_Island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bougainville_Island",
+  "description": "The main island of the Autonomous Region of Bougainville in Papua New Guinea, rising to Mount Balbi at 2,715 m.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "omaha-beach-france",
+  "name": "Omaha Beach, France",
+  "position": {
+    "lat": 49.37,
+    "lon": -0.88
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Omaha_Beach",
+  "description": "A stretch of Normandy coast that was one of the five Allied landing beaches of Operation Overlord in the Second World War."
+}

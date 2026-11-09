@@ -1,0 +1,14 @@
+{
+  "id": "gion-kyoto-japan",
+  "name": "Gion, Kyoto, Japan",
+  "position": {
+    "lat": 35.0035,
+    "lon": 135.7751
+  },
+  "scale": "site",
+  "parentId": "kyoto-japan",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gion",
+  "description": "Kyoto's geisha district by the Kamo river, its wooden teahouses kept much as they were.",
+  "descriptionSource": "wikipedia"
+}

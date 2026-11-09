@@ -1,0 +1,15 @@
+{
+  "id": "la-romola-san-casciano-italy",
+  "name": "La Romola, San Casciano in Val di Pesa, Italy",
+  "position": {
+    "lat": 43.69722,
+    "lon": 11.16026
+  },
+  "scale": "area",
+  "parentId": "tuscany-italy",
+  "source": "https://www.openstreetmap.org/node/336483514",
+  "wikipediaUrl": "https://it.wikipedia.org/wiki/La_Romola",
+  "wikidataId": "Q85864732",
+  "placeType": "city",
+  "description": "A hamlet in the Chianti hills south of Florence."
+}

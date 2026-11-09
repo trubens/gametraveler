@@ -1,0 +1,13 @@
+{
+  "id": "agra-india",
+  "name": "Agra, India",
+  "position": {
+    "lat": 27.1767,
+    "lon": 78.0081
+  },
+  "scale": "area",
+  "parentId": "india",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Agra",
+  "description": "A city on the banks of the Yamuna river in the Indian state of Uttar Pradesh."
+}

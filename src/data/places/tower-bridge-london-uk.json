@@ -1,0 +1,14 @@
+{
+  "id": "tower-bridge-london-uk",
+  "name": "Tower Bridge, London, UK",
+  "position": {
+    "lat": 51.5056,
+    "lon": -0.0753
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tower_Bridge",
+  "description": "The Victorian bascule bridge of 1894 with its two Gothic towers, beside the Tower of London.",
+  "descriptionSource": "wikipedia"
+}

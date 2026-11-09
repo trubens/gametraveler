@@ -1,0 +1,35 @@
+{
+  "id": 410,
+  "name": "Nancy Drew: Mystery of the Seven Keys",
+  "year": 2024,
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive / Room 8 Group",
+  "publisher": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "prague-czech-republic",
+      "note": "Adela Černá hires Nancy after the gems in her late mother's necklace turn out to be fakes, and the trail leads to a plot against the Bohemian crown jewels."
+    },
+    {
+      "placeId": "prague-castle-prague-czech-republic",
+      "note": "Nancy searches the castle square, its obelisk and the statue of St George for clues.",
+      "source": "https://www.justadventure.com/walkthrough/nancy-drew-mystery-of-the-seven-keys/"
+    },
+    {
+      "placeId": "st-vitus-cathedral-prague-czech-republic",
+      "note": "The seven keys guard the crown jewels here; Nancy forges them to trap the thief in the vault.",
+      "source": "https://www.justadventure.com/walkthrough/nancy-drew-mystery-of-the-seven-keys/"
+    },
+    {
+      "placeId": "old-town-square-prague-czech-republic",
+      "note": "Nancy photographs the astronomical clock and searches a jewellery shop on the square.",
+      "source": "https://www.justadventure.com/walkthrough/nancy-drew-mystery-of-the-seven-keys/"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Mystery_of_the_Seven_Keys",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

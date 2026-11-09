@@ -1,0 +1,13 @@
+{
+  "id": "bangkok-thailand",
+  "name": "Bangkok, Thailand",
+  "position": {
+    "lat": 13.7563,
+    "lon": 100.5018
+  },
+  "scale": "area",
+  "parentId": "thailand",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bangkok",
+  "description": "Thailand's capital and largest city."
+}

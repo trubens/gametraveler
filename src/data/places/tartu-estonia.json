@@ -1,0 +1,14 @@
+{
+  "id": "tartu-estonia",
+  "name": "Tartu, Estonia",
+  "position": {
+    "lat": 58.38,
+    "lon": 26.7225
+  },
+  "scale": "area",
+  "parentId": "estonia",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tartu",
+  "description": "Estonia's university city, the base of Rally Estonia's fast gravel roads.",
+  "descriptionSource": "wikipedia"
+}

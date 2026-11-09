@@ -1,0 +1,22 @@
+{
+  "id": 1000185,
+  "name": "Reversion: The Escape (1st Chapter)",
+  "year": 2012,
+  "series": "Reversion",
+  "developer": "3f Interactive",
+  "publisher": "3f Interactive",
+  "locations": [
+    {
+      "placeId": "buenos-aires-argentina",
+      "note": "The first chapter is set in Buenos Aires in 2035; Christian wakes in a guarded hospital and escapes into the ruined city.",
+      "source": "https://store.steampowered.com/app/270570/Reversion__The_Escape_1st_Chapter/"
+    }
+  ],
+  "storyYears": [
+    2035
+  ],
+  "source": "https://store.steampowered.com/app/270570/Reversion__The_Escape_1st_Chapter/",
+  "genres": [
+    "Adventure"
+  ]
+}

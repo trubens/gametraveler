@@ -1,0 +1,13 @@
+{
+  "id": "cardiff-wales-uk",
+  "name": "Cardiff, Wales, UK",
+  "position": {
+    "lat": 51.48,
+    "lon": -3.18
+  },
+  "scale": "area",
+  "parentId": "wales-uk",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cardiff",
+  "description": "The capital and largest city of Wales."
+}

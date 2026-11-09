@@ -1,0 +1,67 @@
+{
+  "id": 131,
+  "name": "Assassin's Creed Mirage",
+  "aliases": [
+    "AC",
+    "AC Mirage"
+  ],
+  "year": 2023,
+  "publisher": "Ubisoft",
+  "series": "Assassin's Creed",
+  "developer": "Ubisoft Bordeaux",
+  "locations": [
+    {
+      "placeId": "baghdad-iraq",
+      "note": "Street thief Basim becomes a Hidden One in 9th-century Abbasid Baghdad during the Anarchy at Samarra."
+    },
+    {
+      "placeId": "alula-saudi-arabia",
+      "note": "The Valley of Memory expansion adds an explorable ninth-century AlUla region, including Hegra and the Valley of Stones.",
+      "source": "https://news.ubisoft.com/en-gb/article/5TJWHqjuTNHSGd1Q0gPQJu/assassins-creed-mirage-valley-of-memory-launches-for-free-on-november-18"
+    },
+    {
+      "placeId": "round-city-of-baghdad-iraq",
+      "note": "The Round City is the caliphal heart of Baghdad in 861."
+    },
+    {
+      "placeId": "house-of-wisdom-baghdad-iraq",
+      "note": "The House of Wisdom stands in the Abbasiyah district."
+    },
+    {
+      "placeId": "anbar-iraq",
+      "note": "Basim's home town, where he starts as a street thief with Nehal and steals the artifact that draws the Hidden Ones' eye."
+    },
+    {
+      "placeId": "alamut-castle-iran",
+      "note": "Alamut, the Hidden Ones’ fortress, is visited in story missions."
+    }
+  ],
+  "storyYears": [
+    861,
+    2023
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Mirage",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "basim",
+      "name": "Basim Ibn Ishaq",
+      "characters": [
+        "Basim Ibn Ishaq",
+        "Roshan"
+      ],
+      "stops": [
+        "anbar-iraq",
+        "alamut-castle-iran",
+        "baghdad-iraq",
+        "alamut-castle-iran"
+      ],
+      "note": "A street thief flees Anbar for training at Alamut, hunts the Order through Baghdad, and returns to the besieged mountain fortress to learn what he really is.",
+      "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Mirage"
+    }
+  ]
+}

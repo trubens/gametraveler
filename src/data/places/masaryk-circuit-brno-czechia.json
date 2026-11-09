@@ -1,0 +1,12 @@
+{
+  "id": "masaryk-circuit-brno-czechia",
+  "name": "Masaryk Circuit, Brno, Czechia",
+  "position": {
+    "lat": 49.204,
+    "lon": 16.445
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brno_Circuit",
+  "description": "A pair of motorsport race tracks at Brno in Czechia, better known simply as the Brno Circuit."
+}

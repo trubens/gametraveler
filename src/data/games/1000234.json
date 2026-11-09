@@ -1,0 +1,21 @@
+{
+  "id": 1000234,
+  "name": "Nancy Drew: Warnings at Waverly Academy",
+  "year": 2009,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "waverly-academy-fictionalized-new-york",
+      "settingType": "fictionalized",
+      "note": "Posing as a transfer student, Nancy tracks the 'Black Cat', whose threats against the valedictorian candidates come before allergic attacks and lock-ins."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Warnings_at_Waverly_Academy",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 344,
+  "name": "TOCA Race Driver 3",
+  "year": 2006,
+  "series": "TOCA Race Driver",
+  "developer": "Codemasters / Sumo Digital (PSP)",
+  "publisher": "Codemasters",
+  "locations": [
+    {
+      "placeId": "brands-hatch-uk",
+      "note": "Race events take place on the recreated Brands Hatch circuit."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/TOCA_Race_Driver_3",
+  "genres": [
+    "Racing"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "hokkaido-japan",
+  "name": "Hokkaido, Japan",
+  "position": {
+    "lat": 43.3211,
+    "lon": 142.8635
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hokkaido",
+  "description": "Japan's northernmost main island and its second largest, which with its surrounding islets forms the country's largest prefecture and a region of its own."
+}

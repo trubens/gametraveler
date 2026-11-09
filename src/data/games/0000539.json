@@ -1,0 +1,20 @@
+{
+  "id": 539,
+  "name": "HCA – The Ugly Prince Duckling",
+  "year": 2007,
+  "publisher": "The Adventure Company",
+  "developer": "Guppyworks",
+  "storyYears": [
+    1820
+  ],
+  "source": "https://kongo.dk/project/hca-the-ugly-prince-duckling/",
+  "locations": [
+    {
+      "placeId": "copenhagen-denmark",
+      "note": "A third-person quest adventure through Golden Age Copenhagen, following the young Hans Christian Andersen as he explores city life and pursues a place at the Royal Theatre."
+    }
+  ],
+  "genres": [
+    "Adventure"
+  ]
+}

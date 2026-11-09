@@ -1,0 +1,17 @@
+{
+  "id": "great-ocean-road-australia",
+  "name": "Great Ocean Road, Australia",
+  "position": {
+    "lat": -38.6655,
+    "lon": 143.104
+  },
+  "scale": "area",
+  "parentId": "australia",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Twelve Apostles"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_Ocean_Road",
+  "description": "The 240-kilometre coast road in Victoria built by returned soldiers after the First World War, past the Twelve Apostles.",
+  "descriptionSource": "wikipedia"
+}

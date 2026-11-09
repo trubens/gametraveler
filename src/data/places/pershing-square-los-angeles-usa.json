@@ -1,0 +1,14 @@
+{
+  "id": "pershing-square-los-angeles-usa",
+  "name": "Pershing Square, Los Angeles, USA",
+  "position": {
+    "lat": 34.0483,
+    "lon": -118.253
+  },
+  "scale": "site",
+  "parentId": "los-angeles-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pershing_Square_(Los_Angeles)",
+  "description": "Downtown's oldest public square, renamed for General Pershing in 1918.",
+  "descriptionSource": "wikipedia"
+}

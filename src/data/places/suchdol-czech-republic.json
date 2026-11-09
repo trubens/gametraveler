@@ -1,0 +1,14 @@
+{
+  "id": "suchdol-czech-republic",
+  "name": "Suchdol, Czech Republic",
+  "position": {
+    "lat": 49.9525,
+    "lon": 15.1667
+  },
+  "scale": "area",
+  "parentId": "czech-republic",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suchdol_(Kutná_Hora_District)",
+  "description": "A market town just west of Kutná Hora.",
+  "descriptionSource": "wikipedia"
+}

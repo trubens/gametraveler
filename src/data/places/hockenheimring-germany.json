@@ -1,0 +1,13 @@
+{
+  "id": "hockenheimring-germany",
+  "name": "Hockenheimring, Germany",
+  "position": {
+    "lat": 49.327,
+    "lon": 8.565
+  },
+  "scale": "site",
+  "parentId": "germany",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hockenheimring",
+  "description": "A motor racing circuit in the Rhine valley near the town of Hockenheim in Baden-Württemberg, on the Bertha Benz Memorial Route."
+}

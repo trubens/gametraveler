@@ -1,0 +1,13 @@
+{
+  "id": "pittsburgh-pennsylvania-usa",
+  "name": "Pittsburgh, Pennsylvania, USA",
+  "position": {
+    "lat": 40.4406,
+    "lon": -79.9959
+  },
+  "scale": "area",
+  "parentId": "pennsylvania-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pittsburgh",
+  "description": "A city in Pennsylvania in the United States."
+}

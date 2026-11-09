@@ -1,0 +1,13 @@
+{
+  "id": "haiti",
+  "name": "Haiti",
+  "position": {
+    "lat": 19.26,
+    "lon": -72.22
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Haiti",
+  "description": "A Caribbean country on the island of Hispaniola, east of Cuba and Jamaica and south of the Bahamas."
+}

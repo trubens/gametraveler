@@ -1,0 +1,14 @@
+{
+  "id": "suez-canal-egypt",
+  "name": "Suez Canal, Egypt",
+  "position": {
+    "lat": 30.705,
+    "lon": 32.3442
+  },
+  "scale": "area",
+  "parentId": "egypt",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suez_Canal",
+  "description": "The sea-level canal across the Isthmus of Suez that joins the Mediterranean to the Red Sea, opened in 1869.",
+  "descriptionSource": "wikipedia"
+}

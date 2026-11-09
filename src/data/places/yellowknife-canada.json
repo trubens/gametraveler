@@ -1,0 +1,14 @@
+{
+  "id": "yellowknife-canada",
+  "name": "Yellowknife, Canada",
+  "position": {
+    "lat": 62.4536,
+    "lon": -114.37
+  },
+  "scale": "area",
+  "parentId": "canada",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yellowknife",
+  "description": "The capital of the Northwest Territories, on the north shore of Great Slave Lake.",
+  "descriptionSource": "wikipedia"
+}

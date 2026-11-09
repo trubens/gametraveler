@@ -1,0 +1,15 @@
+{
+  "id": "sekigahara-japan",
+  "name": "Sekigahara, Japan",
+  "position": {
+    "lat": 35.3655,
+    "lon": 136.4669
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Ry%C5%AB_ga_Gotoku_Kenzan!",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sekigahara,_Gifu",
+  "description": "A town in Gifu Prefecture whose plain gave its name to the Battle of Sekigahara in 1600, which opened the way to the Tokugawa shogunate.",
+  "descriptionSource": "wikipedia"
+}

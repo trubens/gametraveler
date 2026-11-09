@@ -1,0 +1,13 @@
+{
+  "id": "rataje-nad-sazavou-czech-republic",
+  "name": "Rataje nad Sázavou, Czech Republic",
+  "position": {
+    "lat": 49.8442,
+    "lon": 14.9592
+  },
+  "scale": "area",
+  "parentId": "czech-republic",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rataje_nad_S%C3%A1zavou",
+  "description": "A small market town on the Sázava river in Central Bohemia."
+}

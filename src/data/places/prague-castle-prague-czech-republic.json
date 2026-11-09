@@ -1,0 +1,14 @@
+{
+  "id": "prague-castle-prague-czech-republic",
+  "name": "Prague Castle, Prague, Czech Republic",
+  "position": {
+    "lat": 50.0909,
+    "lon": 14.4005
+  },
+  "scale": "site",
+  "parentId": "prague-czech-republic",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Prague_Castle",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Prague_Castle",
+  "description": "The castle complex above Prague that serves as the official residence and workplace of the Czech president."
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1000236,
+  "name": "Nancy Drew: The Captive Curse",
+  "year": 2011,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "bavaria-germany",
+      "aliases": [
+        "Castle Finster"
+      ],
+      "settingType": "fictionalized",
+      "note": "Castle owner Markus Boehm hires Nancy to explain new sightings of a legendary monster said to carry off young women, and soon someone in Castle Finster means to make her its next victim."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_The_Captive_Curse",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

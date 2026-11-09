@@ -1,0 +1,26 @@
+{
+  "id": 1000241,
+  "name": "Nancy Drew: Labyrinth of Lies",
+  "year": 2014,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "greece",
+      "aliases": [
+        "Phidias Cultural Center"
+      ],
+      "settingType": "fictionalized",
+      "note": "Nancy helps curator Melina Rosi through a staff exodus at the Phidias Cultural Center and exposes the art thieves behind it during the opening-night play."
+    }
+  ],
+  "storyYears": [
+    2014
+  ],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Labyrinth_of_Lies",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

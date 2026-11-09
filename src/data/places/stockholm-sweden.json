@@ -1,0 +1,13 @@
+{
+  "id": "stockholm-sweden",
+  "name": "Stockholm, Sweden",
+  "position": {
+    "lat": 59.3293,
+    "lon": 18.0686
+  },
+  "scale": "area",
+  "parentId": "sweden",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Stockholm",
+  "description": "The capital of Sweden."
+}

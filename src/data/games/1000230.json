@@ -1,0 +1,24 @@
+{
+  "id": 1000230,
+  "name": "Nancy Drew: The White Wolf of Icicle Creek",
+  "year": 2007,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "alberta-canada",
+      "aliases": [
+        "Icicle Creek"
+      ],
+      "settingType": "fictionalized",
+      "note": "Undercover as the Icicle Creek Lodge's cook and maid, Nancy hunts whoever is behind a string of accidents, starting with a bunkhouse explosion, at which a white wolf appears every time."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_The_White_Wolf_of_Icicle_Creek",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

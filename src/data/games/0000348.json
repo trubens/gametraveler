@@ -1,0 +1,55 @@
+{
+  "id": 348,
+  "name": "Grid",
+  "year": 2019,
+  "series": "Grid",
+  "developer": "Codemasters",
+  "publisher": "Codemasters",
+  "locations": [
+    {
+      "placeId": "brands-hatch-uk",
+      "note": "Both the Grand Prix and Indy layouts are included, and each can also be raced in reverse."
+    },
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "Besides the current layout, the game offers Silverstone's 1994-2009 configuration, which brings back the old Bridge corner."
+    },
+    {
+      "placeId": "indianapolis-motor-speedway-indiana-usa",
+      "note": "Layouts range from the oval to the Road Course, North and Sport circuits, each also raceable in reverse."
+    },
+    {
+      "placeId": "sydney-motorsport-park-australia",
+      "note": "Back in the series for the first time since TOCA Race Driver 3 in 2006, raced on the Gardner GP circuit among other layouts."
+    },
+    {
+      "placeId": "sepang-international-circuit-malaysia",
+      "note": "Hosts the final event of Fernando Alonso's challenge ladder: a showdown with the virtual Alonso, who drives his Renault R26."
+    },
+    {
+      "placeId": "zhejiang-international-circuit-china",
+      "note": "New to the series; the circuit opened in 2016 and is raced as the Full Circuit or the shorter East and West tracks."
+    },
+    {
+      "placeId": "san-francisco-usa",
+      "note": "A street course returning from the first Grid, with Grand Prix, Sprint and Short circuits and a B variant of each."
+    },
+    {
+      "placeId": "shanghai-china",
+      "note": "New to the series: a fictional night street track lined with neon skyscrapers, with lit tunnels and a wide-span bridge to cross."
+    },
+    {
+      "placeId": "barcelona-spain",
+      "note": "A street circuit returning from Grid Autosport, with routes such as Columbus Bay, Fountain Loop and High Street."
+    },
+    {
+      "placeId": "havana-cuba",
+      "note": "New to the series; a launch trailer showed IMSA sports cars chasing Fernando Alonso here, on routes such as El Capitolio and El Malecón."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Grid_(2019_video_game)",
+  "genres": [
+    "Racing"
+  ]
+}

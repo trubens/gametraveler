@@ -1,0 +1,13 @@
+{
+  "id": "switzerland",
+  "name": "Switzerland",
+  "position": {
+    "lat": 46.8182,
+    "lon": 8.2275
+  },
+  "scale": "area",
+  "source": "https://en.wikipedia.org/wiki/Geography_of_Switzerland",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geography_of_Switzerland",
+  "description": "A landlocked, mountainous country in the heart of Western and Central Europe, its landscape marked by lakes and high peaks."
+}

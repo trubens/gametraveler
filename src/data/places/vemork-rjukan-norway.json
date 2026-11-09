@@ -1,0 +1,14 @@
+{
+  "id": "vemork-rjukan-norway",
+  "name": "Vemork, Rjukan, Norway",
+  "position": {
+    "lat": 59.8711,
+    "lon": 8.4914
+  },
+  "scale": "site",
+  "parentId": "norway",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vemork",
+  "description": "The hydroelectric plant outside Rjukan whose heavy-water works were sabotaged in 1943, now a museum.",
+  "descriptionSource": "wikipedia"
+}

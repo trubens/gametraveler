@@ -1,0 +1,13 @@
+{
+  "id": "palestine",
+  "name": "Palestine",
+  "position": {
+    "lat": 32.05,
+    "lon": 35.29
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Palestine",
+  "description": "A country in the Southern Levant, on the eastern shore of the Mediterranean in West Asia."
+}

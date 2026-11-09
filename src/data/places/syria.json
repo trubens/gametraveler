@@ -1,0 +1,12 @@
+{
+  "id": "syria",
+  "name": "Syria",
+  "position": {
+    "lat": 33.5138,
+    "lon": 36.2765
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Syria",
+  "description": "A country of West Asia on the eastern shore of the Mediterranean, in the heart of the Levant."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "kyoto-japan",
+  "name": "Kyoto, Japan",
+  "position": {
+    "lat": 35.0116,
+    "lon": 135.7681
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kyoto",
+  "description": "The capital of Kyoto Prefecture in the Kansai region of Honshu."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "couiza-station-france",
+  "name": "Couiza station, France",
+  "position": {
+    "lat": 42.942,
+    "lon": 2.252
+  },
+  "scale": "site",
+  "parentId": "rennes-le-chateau-france",
+  "placeType": "venue",
+  "aliases": [
+    "Gare de Couiza-Montazels"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Couiza",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Couiza",
+  "description": "The railway station of Couiza, a rural commune in the Aude department of southern France near Espéraza."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blackwood-manor-fictional-rothbury-england-uk",
+  "name": "Blackwood Manor, Rothbury, England",
+  "position": {
+    "lat": 55.3097,
+    "lon": -1.9109
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "landmark",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Scratches_(video_game)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rothbury",
+  "description": "The invented haunted house of Scratches, a Victorian manor on the outskirts of Rothbury in Northumberland. The game names the town but not a real house, so the pin stands on Rothbury."
+}

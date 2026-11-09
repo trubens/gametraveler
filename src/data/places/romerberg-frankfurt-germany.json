@@ -1,0 +1,17 @@
+{
+  "id": "romerberg-frankfurt-germany",
+  "name": "Römerberg, Frankfurt, Germany",
+  "position": {
+    "lat": 50.1103,
+    "lon": 8.6822
+  },
+  "scale": "site",
+  "parentId": "frankfurt-germany",
+  "placeType": "landmark",
+  "aliases": [
+    "Roemerberg"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Römerberg_(Frankfurt)",
+  "description": "The square in front of the Römer, Frankfurt's city hall since 1405, ringed by rebuilt half-timbered houses.",
+  "descriptionSource": "wikipedia"
+}

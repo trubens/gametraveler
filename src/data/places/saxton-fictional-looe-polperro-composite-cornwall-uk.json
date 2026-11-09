@@ -1,0 +1,17 @@
+{
+  "id": "saxton-fictional-looe-polperro-composite-cornwall-uk",
+  "name": "Saxton, Cornwall, UK",
+  "position": {
+    "lat": 50.3312,
+    "lon": -4.5166
+  },
+  "scale": "area",
+  "placeType": "city",
+  "fictional": true,
+  "aliases": [
+    "Saxton (fictional Looe-Polperro composite), Cornwall, UK",
+    "Polperro"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Polperro",
+  "description": "An invented harbour town that the story puts in the Fens of eastern England but that was built from photographs of Polperro, with Looe, Talland Bay and Duloe around it: the harbour, the beach, Willy Wilcox Cave and the old net store on the cliffs are all real Polperro. Pinned on Polperro harbour, where its streets can be walked."
+}

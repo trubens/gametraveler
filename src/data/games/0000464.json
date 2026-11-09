@@ -1,0 +1,22 @@
+{
+  "id": 464,
+  "name": "Medal of Honor: Airborne",
+  "year": 2007,
+  "series": "Medal of Honor",
+  "developer": "EA Los Angeles",
+  "publisher": "Electronic Arts",
+  "locations": [
+    {
+      "placeId": "nijmegen-netherlands",
+      "note": "Operation Market Garden takes the player to Nijmegen."
+    }
+  ],
+  "storyYears": [
+    1944
+  ],
+  "source": "https://en.wikipedia.org/wiki/Medal_of_Honor:_Airborne",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

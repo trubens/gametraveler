@@ -1,0 +1,12 @@
+{
+  "id": "oulton-park-uk",
+  "name": "Oulton Park, UK",
+  "position": {
+    "lat": 53.178,
+    "lon": -2.616
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oulton_Park",
+  "description": "A motor racing track near the village of Little Budworth in Cheshire, England, between Winsford and Chester."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "shanghai-china",
+  "name": "Shanghai, China",
+  "position": {
+    "lat": 31.2304,
+    "lon": 121.4737
+  },
+  "scale": "area",
+  "parentId": "china",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shanghai",
+  "description": "China's most populous city and one of the largest in the world."
+}

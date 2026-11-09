@@ -1,0 +1,18 @@
+{
+  "id": "white-house-washington-d-c-usa",
+  "name": "White House, Washington, D.C., USA",
+  "position": {
+    "lat": 38.8978,
+    "lon": -77.0364
+  },
+  "scale": "site",
+  "parentId": "washington-d-c-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "White House"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/White_House",
+  "description": "The official residence and workplace of the president of the United States, at 1600 Pennsylvania Avenue.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/White_House"
+}

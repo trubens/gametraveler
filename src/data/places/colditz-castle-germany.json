@@ -1,0 +1,13 @@
+{
+  "id": "colditz-castle-germany",
+  "name": "Colditz Castle, Germany",
+  "position": {
+    "lat": 51.131,
+    "lon": 12.8074
+  },
+  "scale": "site",
+  "parentId": "germany",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Colditz_Castle",
+  "description": "A Renaissance castle in the Saxon town of Colditz, between Leipzig, Dresden and Chemnitz in Germany."
+}

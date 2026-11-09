@@ -1,0 +1,17 @@
+{
+  "id": "st-cubys-well-duloe-cornwall-uk",
+  "name": "St Cuby's Well, Duloe, Cornwall, UK",
+  "position": {
+    "lat": 50.3954,
+    "lon": -4.4766
+  },
+  "scale": "site",
+  "parentId": "cornwall-england",
+  "placeType": "landmark",
+  "aliases": [
+    "St Anneka's Well"
+  ],
+  "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Duloe%2C_Cornwall",
+  "description": "A medieval holy well in a stone well-house beside the road below Duloe, a short walk from the stone circle."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "florida-usa",
+  "name": "Florida, USA",
+  "position": {
+    "lat": 28.0,
+    "lon": -82.0
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Florida",
+  "description": "The south-eastern state on a peninsula between the Gulf of Mexico and the Atlantic, from the Panhandle to the Florida Keys.",
+  "descriptionSource": "wikipedia"
+}

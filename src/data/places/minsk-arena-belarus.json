@@ -1,0 +1,14 @@
+{
+  "id": "minsk-arena-belarus",
+  "name": "Minsk-Arena, Minsk, Belarus",
+  "position": {
+    "lat": 53.9372,
+    "lon": 27.4841
+  },
+  "scale": "site",
+  "parentId": "minsk-belarus",
+  "placeType": "venue",
+  "source": "https://en.wikipedia.org/wiki/Minsk-Arena",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Minsk-Arena",
+  "description": "The main indoor arena of Minsk, a multi-purpose hall with a velodrome and a speed-skating rink joined to it."
+}

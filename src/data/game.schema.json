@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Game Traveler game record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "name", "genres", "year", "publisher", "developer", "source", "locations", "storyYears"],
+  "properties": {
+    "id": { "type": "integer", "minimum": 1 },
+    "name": { "type": "string", "minLength": 1 },
+    "aliases": { "type": "array", "items": { "type": "string", "minLength": 1 }, "uniqueItems": true },
+    "series": { "type": "string", "minLength": 1 },
+    "reviewed": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$", "description": "Date the game was last checked against sources (places, notes, route, years); set by the add-game skill" },
+    "genres": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": { "$ref": "genre.schema.json" }
+    },
+    "year": { "type": "integer", "minimum": 1950 },
+    "publisher": { "type": "string", "minLength": 1 },
+    "publisherUrl": { "type": "string", "format": "uri" },
+    "developer": { "type": "string", "minLength": 1 },
+    "developerUrl": { "type": "string", "format": "uri" },
+    "coverUrl": { "type": "string", "format": "uri" },
+    "source": { "type": "string", "format": "uri" },
+    "route": {
+      "type": "boolean",
+      "description": "Legacy single journey using locations order. Use routes for new journeys; do not combine with routes."
+    },
+    "routes": {
+      "type": "array",
+      "minItems": 1,
+      "description": "Independent ordered journeys. Stops reference this game's locations; repeated stops represent return visits.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "name", "stops"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+          "name": { "type": "string", "minLength": 1 },
+          "characters": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "type": "string", "minLength": 1 } },
+          "storyYears": { "type": "array", "items": { "type": "integer" } },
+          "stops": { "type": "array", "minItems": 2, "items": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" } },
+          "note": { "type": "string", "minLength": 1 },
+          "source": { "type": "string", "format": "uri" }
+        }
+      }
+    },
+    "locations": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["placeId"],
+        "properties": {
+          "placeId": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+          "aliases": { "type": "array", "items": { "type": "string", "minLength": 1 }, "uniqueItems": true },
+          "positionOverride": { "$ref": "place.schema.json#/$defs/coordinates" },
+          "settingType": { "enum": ["real", "fictionalized", "imaginary"] },
+          "note": { "type": "string", "minLength": 1 },
+          "source": { "type": "string", "format": "uri" }
+        }
+      }
+    },
+    "storyYears": { "type": "array", "items": { "type": "integer" } }
+  }
+}

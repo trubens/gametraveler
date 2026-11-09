@@ -1,0 +1,18 @@
+{
+  "id": "castle-brunwald-fictional-austria",
+  "name": "Castle Brunwald, Austria",
+  "position": {
+    "lat": 50.3528,
+    "lon": 7.1797
+  },
+  "scale": "site",
+  "parentId": "austria",
+  "placeType": "landmark",
+  "fictional": true,
+  "aliases": [
+    "Brunwald Castle"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/B%C3%BCrresheim_Castle",
+  "description": "An invented castle that the story puts in Austria. Its exteriors were filmed at Bürresheim Castle in the Eifel in Germany, where it is pinned."
+}

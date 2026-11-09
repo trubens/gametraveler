@@ -1,0 +1,71 @@
+{
+  "id": 126,
+  "name": "Assassin's Creed Unity",
+  "aliases": [
+    "AC",
+    "AC Unity"
+  ],
+  "year": 2014,
+  "publisher": "Ubisoft",
+  "series": "Assassin's Creed",
+  "developer": "Ubisoft Montreal",
+  "locations": [
+    {
+      "placeId": "paris-france",
+      "note": "A near 1:1 recreation of revolutionary Paris where Arno Dorian seeks redemption during the Terror."
+    },
+    {
+      "placeId": "versailles-france",
+      "note": "Arno's childhood home at the royal court, where the story opens in 1776."
+    },
+    {
+      "placeId": "notre-dame-de-paris-france",
+      "note": "Notre-Dame, rebuilt stone by stone for the game, is climbed inside and out."
+    },
+    {
+      "placeId": "tuileries-palace-paris-france",
+      "note": "Arno infiltrates the Tuileries Palace, which the real city later lost to fire."
+    },
+    {
+      "placeId": "bastille-paris-france",
+      "note": "Arno is imprisoned in the Bastille and escapes as the crowd storms it in July 1789."
+    },
+    {
+      "placeId": "basilica-of-saint-denis-france",
+      "note": "Dead Kings: in revolutionary Franciade, Arno goes down into the royal crypt beneath the Basilica of Saint-Denis."
+    }
+  ],
+  "storyYears": [
+    1776,
+    1789,
+    1794,
+    2014
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Unity",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Ubisoft_Montreal",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "arno-dorian",
+      "name": "Arno Dorian",
+      "characters": [
+        "Arno Dorian",
+        "Élise de la Serre"
+      ],
+      "stops": [
+        "versailles-france",
+        "bastille-paris-france",
+        "tuileries-palace-paris-france",
+        "versailles-france",
+        "paris-france",
+        "basilica-of-saint-denis-france"
+      ],
+      "note": "Framed for his guardian's murder at Versailles, Arno escapes the falling Bastille, runs into Napoleon at the Tuileries, sinks into drink back in Versailles, returns to Terror-torn Paris to end Germain, and grieves Élise in Franciade's royal crypt.",
+      "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Unity"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 401,
+  "name": "Sherlock Holmes: Crimes & Punishments",
+  "year": 2014,
+  "series": "Sherlock Holmes",
+  "developer": "Frogwares",
+  "publisher": "Frogwares / Focus Home Interactive",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "Six cases in 1894 and 1895, from a harpooned sailor to a vanished train, with moral choices at the end of each."
+    },
+    {
+      "placeId": "221b-baker-street-london-uk",
+      "note": "Every case starts and ends in the rooms at 221B, where the harpoon from the Black Peter case hangs on the wall."
+    },
+    {
+      "placeId": "strand-lane-roman-bath-london-uk",
+      "note": "Blood Bath: an archaeologist found dead in the locked steam room of the Roman Baths off the Strand."
+    },
+    {
+      "placeId": "kew-gardens-london-uk",
+      "note": "The Kew Gardens Drama: an old friend asks Holmes to look into the theft of exotic plants from Kew."
+    }
+  ],
+  "storyYears": [
+    1894,
+    1895
+  ],
+  "source": "https://en.wikipedia.org/wiki/Sherlock_Holmes:_Crimes_%26_Punishments",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Frogwares",
+  "genres": [
+    "Adventure"
+  ]
+}

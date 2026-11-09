@@ -1,0 +1,23 @@
+{
+  "id": 244,
+  "name": "Max Payne 2: The Fall of Max Payne",
+  "year": 2003,
+  "publisher": "Rockstar Games",
+  "series": "Max Payne",
+  "developer": "Remedy Entertainment",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Max and Mona investigate a conspiracy through New York apartments, warehouses and construction sites."
+    }
+  ],
+  "storyYears": [
+    2003
+  ],
+  "source": "https://en.wikipedia.org/wiki/Max_Payne_2:_The_Fall_of_Max_Payne",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Rockstar_Games",
+  "genres": [
+    "Third-Person Shooter"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "matsue-shimane-japan",
+  "name": "Matsue, Shimane, Japan",
+  "position": {
+    "lat": 35.4681,
+    "lon": 133.0484
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Matsue_Castle",
+  "description": "A city in Shimane Prefecture."
+}

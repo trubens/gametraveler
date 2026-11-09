@@ -1,0 +1,30 @@
+{
+  "id": 1000122,
+  "name": "The Dark Pictures Anthology: The Devil in Me",
+  "year": 2022,
+  "publisher": "Bandai Namco Entertainment",
+  "series": "The Dark Pictures Anthology",
+  "developer": "Supermassive Games",
+  "locations": [
+    {
+      "placeId": "chicago-usa",
+      "note": "The prologue takes place during the 1893 World's Fair; the story draws on the real history of H. H. Holmes and his Chicago hotel."
+    },
+    {
+      "placeId": "lake-michigan-usa",
+      "aliases": [
+        "Hunter's Island"
+      ],
+      "settingType": "fictionalized",
+      "note": "A documentary crew is lured to Hunter's Island to film a replica of H. H. Holmes's murder hotel, and is hunted through it."
+    }
+  ],
+  "storyYears": [
+    1893,
+    2022
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Dark_Pictures_Anthology:_The_Devil_in_Me",
+  "genres": [
+    "Interactive Drama"
+  ]
+}

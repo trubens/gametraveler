@@ -1,0 +1,12 @@
+{
+  "id": "saudi-arabia",
+  "name": "Saudi Arabia",
+  "scale": "area",
+  "position": {
+    "lat": 23.9,
+    "lon": 45.1
+  },
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+  "description": "A country that occupies most of the Arabian Peninsula in West Asia, home to Mecca and Medina."
+}

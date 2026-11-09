@@ -1,0 +1,14 @@
+{
+  "id": "vidor-italy",
+  "name": "Vidor, Italy",
+  "position": {
+    "lat": 45.8667,
+    "lon": 12.0333
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vidor",
+  "description": "A small town on the Piave in the province of Treviso, near Valdobbiadene, with the ruins of a castle and an abbey above the river.",
+  "descriptionSource": "wikipedia"
+}

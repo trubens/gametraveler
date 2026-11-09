@@ -1,0 +1,13 @@
+{
+  "id": "independence-hall-philadelphia-usa",
+  "name": "Independence Hall, Philadelphia, USA",
+  "position": {
+    "lat": 39.9489,
+    "lon": -75.15
+  },
+  "scale": "site",
+  "parentId": "philadelphia-pennsylvania-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Independence_Hall",
+  "description": "The civic building in Philadelphia where the Declaration of Independence and the Constitution of the United States were debated and adopted."
+}

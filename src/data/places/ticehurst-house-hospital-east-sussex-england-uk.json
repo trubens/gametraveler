@@ -1,0 +1,19 @@
+{
+  "id": "ticehurst-house-hospital-east-sussex-england-uk",
+  "name": "Ticehurst House Hospital, Ticehurst, East Sussex, England, UK",
+  "position": {
+    "lat": 51.0495,
+    "lon": 0.396
+  },
+  "scale": "site",
+  "parentId": "england-uk",
+  "placeType": "landmark",
+  "aliases": [
+    "Ticehurst House",
+    "Ticehurst Asylum"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ticehurst_House_Hospital",
+  "description": "A private mental hospital in the Sussex village of Ticehurst, opened in 1792 and run by five generations of the Newington family until 1970.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Ticehurst_House_Hospital"
+}

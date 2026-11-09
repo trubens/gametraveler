@@ -1,0 +1,16 @@
+{
+  "id": "czech-republic",
+  "name": "Czech Republic",
+  "aliases": [
+    "Czechia"
+  ],
+  "position": {
+    "lat": 49.88,
+    "lon": 15.38
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Czech_Republic",
+  "description": "A landlocked country in Central Europe, also called Czechia and historically known as Bohemia."
+}

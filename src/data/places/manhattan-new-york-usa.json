@@ -1,0 +1,13 @@
+{
+  "id": "manhattan-new-york-usa",
+  "name": "Manhattan, New York, USA",
+  "position": {
+    "lat": 40.7831,
+    "lon": -73.9712
+  },
+  "scale": "area",
+  "parentId": "new-york-city-usa",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manhattan",
+  "description": "The smallest and most densely built of New York City's five boroughs, the crowded heart of the city."
+}

@@ -1,0 +1,23 @@
+{
+  "id": 469,
+  "name": "Commandos: Strike Force",
+  "year": 2006,
+  "series": "Commandos",
+  "developer": "Pyro Studios",
+  "publisher": "Eidos Interactive",
+  "locations": [
+    {
+      "placeId": "stalingrad-volgograd-russia",
+      "note": "The Soviet campaign includes missions in Stalingrad."
+    }
+  ],
+  "storyYears": [
+    1942
+  ],
+  "source": "https://en.wikipedia.org/wiki/Commandos:_Strike_Force",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Eidos_Interactive",
+  "genres": [
+    "Tactical Stealth"
+  ]
+}

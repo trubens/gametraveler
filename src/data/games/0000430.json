@@ -1,0 +1,20 @@
+{
+  "id": 430,
+  "name": "Memento Mori",
+  "year": 2008,
+  "developer": "Centauri Production",
+  "publisher": "Cinemax (Czech Republic) / Dtp entertainment (Germany) / Lace Mamba Global (UK) / Got Game Entertainment (US) / Akella (Russia) / Bohemia Interactive (re-release)",
+  "locations": [
+    {
+      "placeId": "st-petersburg-russia",
+      "note": "The investigation begins with missing paintings at the Hermitage Museum."
+    }
+  ],
+  "storyYears": [
+    2008
+  ],
+  "source": "https://en.wikipedia.org/wiki/Memento_Mori_(video_game)",
+  "genres": [
+    "Adventure"
+  ]
+}

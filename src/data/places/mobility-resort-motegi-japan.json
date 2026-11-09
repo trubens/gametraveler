@@ -1,0 +1,16 @@
+{
+  "id": "mobility-resort-motegi-japan",
+  "name": "Mobility Resort Motegi, Japan",
+  "aliases": [
+    "Twin Ring Motegi"
+  ],
+  "position": {
+    "lat": 36.5333,
+    "lon": 140.2283
+  },
+  "scale": "site",
+  "parentId": "japan",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mobility_Resort_Motegi",
+  "description": "A motorsport venue at Motegi in Tochigi Prefecture, north of Tokyo in Japan."
+}

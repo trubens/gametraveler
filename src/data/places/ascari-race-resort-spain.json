@@ -1,0 +1,13 @@
+{
+  "id": "ascari-race-resort-spain",
+  "name": "Ascari Race Resort, Spain",
+  "position": {
+    "lat": 36.8256,
+    "lon": -5.0836
+  },
+  "scale": "site",
+  "parentId": "spain",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ascari_Race_Resort",
+  "description": "A private motorsport club near Ronda in the province of Málaga, with its own long racing circuit for enthusiasts and car makers."
+}

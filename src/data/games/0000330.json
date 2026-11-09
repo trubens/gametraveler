@@ -1,0 +1,31 @@
+{
+  "id": 330,
+  "name": "MotoGP 3",
+  "year": 2003,
+  "series": "MotoGP",
+  "developer": "Namco",
+  "publisher": "Namco",
+  "locations": [
+    {
+      "placeId": "mugello-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 5 of 16 in the 2002 MotoGP season."
+    },
+    {
+      "placeId": "phillip-island-grand-prix-circuit-australia",
+      "note": "Raced as the Australian Grand Prix, round 15 of 16 in the 2002 MotoGP season."
+    },
+    {
+      "placeId": "circuit-paul-ricard-france",
+      "note": "One of the game's 15 real circuits, though MotoGP's French Grand Prix had moved to Le Mans by 2002."
+    },
+    {
+      "placeId": "mobility-resort-motegi-japan",
+      "note": "Raced as the Pacific Grand Prix, round 13 of 16 in the 2002 MotoGP season."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/MotoGP_3",
+  "genres": [
+    "Racing"
+  ]
+}

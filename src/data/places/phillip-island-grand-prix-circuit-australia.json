@@ -1,0 +1,13 @@
+{
+  "id": "phillip-island-grand-prix-circuit-australia",
+  "name": "Phillip Island Grand Prix Circuit, Australia",
+  "position": {
+    "lat": -38.503,
+    "lon": 145.238
+  },
+  "scale": "site",
+  "parentId": "australia",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Phillip_Island_Grand_Prix_Circuit",
+  "description": "A motor racing circuit near Ventnor on Phillip Island in Victoria, laid out in its present form in 1952."
+}

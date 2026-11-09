@@ -1,0 +1,24 @@
+{
+  "id": 1000244,
+  "name": "Nancy Drew Dossier: Resorting to Danger!",
+  "year": 2009,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "california-usa",
+      "aliases": [
+        "Redondo Centre"
+      ],
+      "settingType": "fictionalized",
+      "note": "Nancy goes undercover as a spa assistant at the Redondo Centre for Rejuvenation to unmask whoever keeps setting off harmless bombs among its celebrity guests."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew_Dossier:_Resorting_to_Danger",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "united-nations-headquarters-new-york-city-usa",
+  "name": "Headquarters of the United Nations, New York City, USA",
+  "position": {
+    "lat": 40.7494,
+    "lon": -73.9681
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "UN Headquarters",
+    "United Nations"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Headquarters_of_the_United_Nations",
+  "description": "The United Nations' headquarters complex on the East River in Turtle Bay, Manhattan, opened in 1952.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Headquarters_of_the_United_Nations"
+}

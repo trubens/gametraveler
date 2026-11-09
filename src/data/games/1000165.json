@@ -1,0 +1,38 @@
+{
+  "id": 1000165,
+  "name": "The First Templar",
+  "year": 2011,
+  "publisher": "Kalypso Media",
+  "developer": "Haemimont Games",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_First_Templar",
+  "route": true,
+  "locations": [
+    {
+      "placeId": "cyprus",
+      "note": "The opening chapter takes place on Cyprus as Celian and Roland defend the island and consult the Templar Grandmaster."
+    },
+    {
+      "placeId": "acre-akko-israel",
+      "note": "Several chapters take place in Acre, including its tunnels and the siege of the city."
+    },
+    {
+      "placeId": "ascalon-ashkelon-israel",
+      "note": "The player fights through the City of Ascalon and its citadel, based on the historic coastal city."
+    },
+    {
+      "placeId": "la-rochelle-france",
+      "note": "A playable night mission takes place in La Rochelle."
+    },
+    {
+      "placeId": "montsegur-france",
+      "note": "The final chapters explore Montségur's outskirts and castle, Celian's home."
+    }
+  ],
+  "storyYears": [
+    1291,
+    1307
+  ]
+}

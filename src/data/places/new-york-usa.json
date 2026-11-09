@@ -1,0 +1,12 @@
+{
+  "id": "new-york-usa",
+  "name": "New York, USA",
+  "position": {
+    "lat": 43.0,
+    "lon": -76.0
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/New_York_(state)",
+  "description": "A state in the north-eastern United States, stretching from the Atlantic to the Great Lakes."
+}

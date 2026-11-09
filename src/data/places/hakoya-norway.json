@@ -1,0 +1,18 @@
+{
+  "id": "hakoya-norway",
+  "name": "Håkøya, Norway",
+  "position": {
+    "lat": 69.6544,
+    "lon": 18.793
+  },
+  "scale": "area",
+  "parentId": "norway",
+  "placeType": "island",
+  "aliases": [
+    "Hakoya"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Håkøya",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Håkøya",
+  "description": "A small island in Tromsø Municipality, in the Sandnessundet strait west of the city of Tromsø.",
+  "descriptionSource": "wikipedia"
+}

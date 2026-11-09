@@ -1,0 +1,12 @@
+{
+  "id": "caribbean-sea-naval-missions",
+  "name": "Caribbean Sea",
+  "position": {
+    "lat": 15.0,
+    "lon": -75.0
+  },
+  "scale": "area",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Caribbean_Sea",
+  "description": "A tropical sea of the North Atlantic, south of the Gulf of Mexico and south-west of the Sargasso Sea."
+}

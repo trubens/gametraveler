@@ -1,0 +1,27 @@
+{
+  "id": 285,
+  "name": "Formula 1 97",
+  "year": 1997,
+  "series": "Formula 1",
+  "developer": "Bizarre Creations",
+  "publisher": "Psygnosis",
+  "locations": [
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "Raced as the British Grand Prix, round 9 of 17 in the 1997 season."
+    },
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 13 of 17 in the 1997 season."
+    },
+    {
+      "placeId": "estoril-circuit-portugal",
+      "note": "The Portuguese Grand Prix was on the 1997 calendar but was cancelled; the game includes the circuit anyway."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Formula_1_97",
+  "genres": [
+    "Racing"
+  ]
+}

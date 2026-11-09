@@ -1,0 +1,18 @@
+{
+  "id": "trinity-church-new-york-city-usa",
+  "name": "Trinity Church, New York City, USA",
+  "position": {
+    "lat": 40.7081,
+    "lon": -74.0122
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "Trinity Church (Manhattan)"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Trinity_Church_(Manhattan)",
+  "description": "The historic Episcopal parish church at Broadway and Wall Street in Lower Manhattan.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Trinity_Church_(Manhattan)"
+}

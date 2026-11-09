@@ -1,0 +1,20 @@
+{
+  "id": 531,
+  "name": "Until Then",
+  "year": 2024,
+  "publisher": "Maximum Entertainment",
+  "developer": "Polychroma Games",
+  "storyYears": [
+    2014
+  ],
+  "source": "https://en.wikipedia.org/wiki/Until_Then",
+  "locations": [
+    {
+      "placeId": "metro-manila-philippines",
+      "note": "Months after a disaster called the Ruling, high-school student Mark Borja starts having déjà vu in Liamson, the game's version of Metro Manila."
+    }
+  ],
+  "genres": [
+    "Visual Novel"
+  ]
+}

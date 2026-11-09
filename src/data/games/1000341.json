@@ -1,0 +1,23 @@
+{
+  "id": 1000341,
+  "name": "Far Cry 5",
+  "year": 2018,
+  "series": "Far Cry",
+  "developer": "Ubisoft Montreal",
+  "publisher": "Ubisoft",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    2018
+  ],
+  "source": "https://en.wikipedia.org/wiki/Far_Cry_5",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "hope-county-fictional-montana-usa",
+      "note": "A junior deputy is caught when the arrest of cult leader Joseph Seed goes wrong, and fights the Project at Eden's Gate across Hope County, from Fall's End to the Seeds' compounds.",
+      "settingType": "fictionalized"
+    }
+  ]
+}

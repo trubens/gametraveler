@@ -1,0 +1,20 @@
+{
+  "id": 181,
+  "name": "Firewatch",
+  "year": 2016,
+  "publisher": "Panic",
+  "developer": "Campo Santo",
+  "locations": [
+    {
+      "placeId": "shoshone-national-forest-wyoming-usa",
+      "note": "Henry takes a 1989 fire-lookout post here, with only supervisor Delilah's radio voice for company."
+    }
+  ],
+  "storyYears": [
+    1989
+  ],
+  "source": "https://en.wikipedia.org/wiki/Firewatch",
+  "genres": [
+    "Adventure"
+  ]
+}

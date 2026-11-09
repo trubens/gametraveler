@@ -1,0 +1,13 @@
+{
+  "id": "venice-italy",
+  "name": "Venice, Italy",
+  "position": {
+    "lat": 45.4408,
+    "lon": 12.3155
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Venice",
+  "description": "A coastal city of north-eastern Italy built on islands in a lagoon."
+}

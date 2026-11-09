@@ -1,0 +1,14 @@
+{
+  "id": "yarra-valley-australia",
+  "name": "Yarra Valley, Australia",
+  "position": {
+    "lat": -37.7547,
+    "lon": 145.5228
+  },
+  "scale": "area",
+  "parentId": "australia",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yarra_Valley",
+  "description": "The wine valley along the Yarra River east of Melbourne.",
+  "descriptionSource": "wikipedia"
+}

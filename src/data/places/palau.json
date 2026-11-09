@@ -1,0 +1,13 @@
+{
+  "id": "palau",
+  "name": "Palau",
+  "position": {
+    "lat": 7.52,
+    "lon": 134.58
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Palau",
+  "description": "An island country of the western Pacific, in the Micronesian part of Oceania."
+}

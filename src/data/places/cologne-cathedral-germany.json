@@ -1,0 +1,17 @@
+{
+  "id": "cologne-cathedral-germany",
+  "name": "Cologne Cathedral, Cologne, Germany",
+  "position": {
+    "lat": 50.9414,
+    "lon": 6.9583
+  },
+  "scale": "site",
+  "parentId": "cologne-germany",
+  "placeType": "landmark",
+  "aliases": [
+    "Kölner Dom"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cologne_Cathedral",
+  "description": "The Gothic cathedral begun in 1248 and finished in 1880, its twin spires still the tallest in the city.",
+  "descriptionSource": "wikipedia"
+}

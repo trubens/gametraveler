@@ -1,0 +1,14 @@
+{
+  "id": "lang-vei-vietnam",
+  "name": "Lang Vei, Vietnam",
+  "position": {
+    "lat": 16.6,
+    "lon": 106.668
+  },
+  "scale": "area",
+  "parentId": "vietnam",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Battle_of_Lang_Vei",
+  "description": "A Special Forces camp west of Khe Sanh, overrun by North Vietnamese tanks in February 1968.",
+  "descriptionSource": "wikipedia"
+}

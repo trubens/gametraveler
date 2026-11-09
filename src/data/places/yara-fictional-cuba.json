@@ -1,0 +1,17 @@
+{
+  "id": "yara-fictional-cuba",
+  "name": "Yara",
+  "position": {
+    "lat": 22.2,
+    "lon": -79.6
+  },
+  "scale": "area",
+  "placeType": "island",
+  "fictional": true,
+  "aliases": [
+    "Esperanza"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Far_Cry_6",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cuba",
+  "description": "The invented Caribbean island nation of Far Cry 6, ruled by El Presidente Antón Castillo. Its story is modelled on the Cuban Revolution and Castillo on the dictator Batista, so the pin stands on Cuba."
+}

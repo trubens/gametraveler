@@ -1,0 +1,78 @@
+{
+  "id": 432,
+  "name": "Lost Horizon 2",
+  "year": 2015,
+  "series": "Lost Horizon",
+  "developer": "Animation Arts",
+  "publisher": "Deep Silver",
+  "locations": [
+    {
+      "placeId": "berlin-germany",
+      "note": "Fenton visits a Berlin cafe near the Brandenburg Gate."
+    },
+    {
+      "placeId": "dresden-germany",
+      "note": "The playable 1942 prologue follows Dr. Brunner in his Dresden home as the SS arrives."
+    },
+    {
+      "placeId": "port-said-egypt",
+      "note": "The opening 1956 chapter sends Fenton through Port Said during the Suez Crisis."
+    },
+    {
+      "placeId": "bavaria-germany",
+      "note": "Anna investigates Kessler's estate, forest, and bunker in Bavaria."
+    },
+    {
+      "placeId": "moscow-russia",
+      "note": "Anna and Fenton infiltrate the Moscow mausoleum and a Soviet underground facility."
+    },
+    {
+      "placeId": "sandhurst-england-uk",
+      "note": "The characters travel to Sandhurst as they follow the trail of the Viking artefact."
+    },
+    {
+      "placeId": "jersey",
+      "note": "The player explores Jersey's harbor, pub, and lighthouse while searching for Professor Langtry."
+    },
+    {
+      "placeId": "gotland-sweden",
+      "note": "The characters explore burial chambers and a stone circle on Gotland Island."
+    },
+    {
+      "placeId": "iceland",
+      "note": "A chapter in Iceland follows the group's expedition camp and search for the passage to Asgard."
+    }
+  ],
+  "storyYears": [
+    1942,
+    1956
+  ],
+  "source": "https://en.wikipedia.org/wiki/Lost_Horizon_2",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Deep_Silver",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "fenton",
+      "name": "Fenton's war and after",
+      "characters": [
+        "Fenton Paddock"
+      ],
+      "stops": [
+        "dresden-germany",
+        "port-said-egypt",
+        "bavaria-germany",
+        "berlin-germany",
+        "moscow-russia",
+        "sandhurst-england-uk",
+        "jersey",
+        "gotland-sweden",
+        "iceland",
+        "dresden-germany"
+      ],
+      "note": "A 1942 prologue in Dresden, then 1956 from Port Said through Bavaria, Berlin, Moscow, Sandhurst, Jersey and Gotland to Iceland, and back to Dresden at the end.",
+      "source": "https://www.walkthroughking.com/text/losthorizon2.aspx"
+    }
+  ]
+}

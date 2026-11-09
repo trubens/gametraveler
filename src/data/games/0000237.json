@@ -1,0 +1,26 @@
+{
+  "id": 237,
+  "name": "Mafia / Mafia: Definitive Edition",
+  "year": 2002,
+  "publisher": "Gathering of Developers, 2K",
+  "series": "Mafia",
+  "developer": "Illusion Softworks, Hangar 13",
+  "locations": [
+    {
+      "placeId": "chicago-usa",
+      "aliases": [
+        "Lost Heaven"
+      ],
+      "settingType": "fictionalized",
+      "note": "Taxi driver Tommy Angelo rises and falls in the Salieri crime family in 1930s Lost Heaven, the game's Chicago."
+    }
+  ],
+  "storyYears": [
+    1930,
+    1938
+  ],
+  "source": "https://en.wikipedia.org/wiki/Mafia_(series)",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

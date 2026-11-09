@@ -1,0 +1,12 @@
+{
+  "id": "texas-usa",
+  "name": "Texas, USA",
+  "position": {
+    "lat": 31,
+    "lon": -99
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Texas",
+  "description": "A state of the south-central United States, bordered by Louisiana, Arkansas, Oklahoma and New Mexico."
+}

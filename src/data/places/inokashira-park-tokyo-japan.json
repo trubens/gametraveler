@@ -1,0 +1,18 @@
+{
+  "id": "inokashira-park-tokyo-japan",
+  "name": "Inokashira Park, Tokyo, Japan",
+  "position": {
+    "lat": 35.7008,
+    "lon": 139.5742
+  },
+  "scale": "site",
+  "parentId": "kichijoji-tokyo-japan",
+  "placeType": "landmark",
+  "aliases": [
+    "Inokashira Onshi Park"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Inokashira_Park",
+  "description": "A park around Inokashira Pond, straddling Musashino and Mitaka at the edge of Kichijōji in western Tokyo.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Inokashira_Park"
+}

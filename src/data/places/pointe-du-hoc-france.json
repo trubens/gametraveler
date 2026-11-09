@@ -1,0 +1,15 @@
+{
+  "id": "pointe-du-hoc-france",
+  "name": "Pointe du Hoc, France",
+  "position": {
+    "lat": 49.3958,
+    "lon": -0.9889
+  },
+  "scale": "site",
+  "parentId": "normandy-france",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Pointe_du_Hoc",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pointe_du_Hoc",
+  "description": "A promontory with a 35-metre cliff over the English Channel on the north-western coast of Normandy, in the Calvados department.",
+  "descriptionSource": "wikipedia"
+}

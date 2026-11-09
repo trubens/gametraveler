@@ -1,0 +1,14 @@
+{
+  "id": "cambridge-massachusetts-usa",
+  "name": "Cambridge, Massachusetts, USA",
+  "position": {
+    "lat": 42.3736,
+    "lon": -71.1106
+  },
+  "scale": "area",
+  "parentId": "massachusetts-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cambridge,_Massachusetts",
+  "description": "The university city across the Charles from Boston, home of Harvard and MIT.",
+  "descriptionSource": "wikipedia"
+}

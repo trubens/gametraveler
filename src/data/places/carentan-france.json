@@ -1,0 +1,13 @@
+{
+  "id": "carentan-france",
+  "name": "Carentan, France",
+  "position": {
+    "lat": 49.3036,
+    "lon": -1.2483
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carentan",
+  "description": "A small rural town in Normandy near the base of the Cotentin Peninsula."
+}

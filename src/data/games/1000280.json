@@ -1,0 +1,25 @@
+{
+  "id": 1000280,
+  "name": "Postal III",
+  "year": 2011,
+  "series": "Postal",
+  "developer": "Trashmasters",
+  "publisher": "Akella",
+  "genres": [
+    "Third-Person Shooter"
+  ],
+  "storyYears": [
+    2011
+  ],
+  "source": "https://en.wikipedia.org/wiki/Postal_III",
+  "locations": [
+    {
+      "placeId": "arizona-usa",
+      "aliases": [
+        "Catharsis"
+      ],
+      "settingType": "fictionalized",
+      "note": "The Dude moves to Catharsis, Paradise's invented sister town, after nuking Paradise."
+    }
+  ]
+}

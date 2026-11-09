@@ -1,0 +1,18 @@
+{
+  "id": "zaton-ukraine-fictionalized-zone-area",
+  "name": "Zaton, Ukraine",
+  "position": {
+    "lat": 51.6,
+    "lon": 30.7
+  },
+  "scale": "area",
+  "placeType": "area",
+  "fictional": true,
+  "aliases": [
+    "Backwater",
+    "Skadovsk"
+  ],
+  "description": "Call of Pripyat's Zaton, a dried riverbed of stranded ships, invented inside the real Chernobyl exclusion zone. Pinned in the zone.",
+  "parentId": "chernobyl-exclusion-zone-ukraine",
+  "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Call_of_Pripyat"
+}

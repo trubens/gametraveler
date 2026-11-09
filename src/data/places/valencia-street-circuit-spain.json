@@ -1,0 +1,13 @@
+{
+  "id": "valencia-street-circuit-spain",
+  "name": "Valencia Street Circuit, Spain",
+  "position": {
+    "lat": 39.4589,
+    "lon": -0.333
+  },
+  "scale": "site",
+  "parentId": "spain",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Valencia_Street_Circuit",
+  "description": "A street circuit around the harbour of Valencia that hosted the Formula One European Grand Prix for five years from 2008."
+}

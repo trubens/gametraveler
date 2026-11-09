@@ -1,0 +1,15 @@
+{
+  "id": "bright-falls-fictional-washington",
+  "name": "Bright Falls, Washington, USA",
+  "position": {
+    "lat": 47.4956,
+    "lon": -121.77
+  },
+  "scale": "area",
+  "parentId": "washington-state-usa",
+  "placeType": "city",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Alan_Wake",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/North_Bend,_Washington",
+  "description": "The invented small mountain town of the Alan Wake games, a Twin Peaks-style town in the Washington Cascades beside the haunted Cauldron Lake. Remedy's research trip took in North Bend, where Twin Peaks was filmed and whose Twede's Cafe became the model for the town's diner, so the pin stands on North Bend."
+}

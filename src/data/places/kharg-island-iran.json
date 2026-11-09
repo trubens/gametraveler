@@ -1,0 +1,12 @@
+{
+  "id": "kharg-island-iran",
+  "name": "Kharg Island, Iran",
+  "position": {
+    "lat": 29.2333,
+    "lon": 50.3167
+  },
+  "scale": "area",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kharg_Island",
+  "description": "An island of Iran in the Persian Gulf, often called the Forbidden Island."
+}

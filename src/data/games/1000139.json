@@ -1,0 +1,20 @@
+{
+  "id": 1000139,
+  "name": "Uncharted: Golden Abyss",
+  "year": 2011,
+  "publisher": "Sony Computer Entertainment",
+  "series": "Uncharted",
+  "developer": "Bend Studio",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Uncharted:_Golden_Abyss",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "panama",
+      "note": "Nathan Drake explores jungle archaeological sites in Panama while searching for the lost city of Quivira."
+    }
+  ],
+  "storyYears": []
+}

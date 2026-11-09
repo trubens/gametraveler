@@ -1,0 +1,15 @@
+{
+  "id": "baffin-island-canada",
+  "name": "Baffin Island, Canada",
+  "position": {
+    "lat": 68.0,
+    "lon": -70.0
+  },
+  "scale": "area",
+  "parentId": "canada",
+  "placeType": "island",
+  "source": "https://en.wikipedia.org/wiki/Baffin_Island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Baffin_Island",
+  "description": "The largest island in Canada, in the territory of Nunavut, and the fifth-largest island in the world.",
+  "descriptionSource": "wikipedia"
+}

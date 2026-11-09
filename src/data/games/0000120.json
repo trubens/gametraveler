@@ -1,0 +1,64 @@
+{
+  "id": 120,
+  "name": "Assassin's Creed",
+  "aliases": [
+    "AC"
+  ],
+  "year": 2007,
+  "publisher": "Ubisoft",
+  "series": "Assassin's Creed",
+  "developer": "Ubisoft Montreal",
+  "locations": [
+    {
+      "placeId": "masyaf-castle-syria",
+      "note": "The Assassins' mountain fortress at Masyaf, Altaïr's home and the seat of Al Mualim, who demotes him and sends him after nine targets; the story ends here."
+    },
+    {
+      "placeId": "jerusalem",
+      "note": "The botched mission at Solomon's Temple opens the game; later Altaïr hunts the slaver Talal in Jerusalem."
+    },
+    {
+      "placeId": "acre-akko-israel",
+      "note": "Crusader Acre: Garnier de Nablus, master of the Knights Hospitaller, experiments on the patients of his hospital."
+    },
+    {
+      "placeId": "damascus-syria",
+      "note": "Saracen-held Damascus: the arms dealer Tamir, who sells to both sides, and the regent Abu'l Nuquod."
+    },
+    {
+      "placeId": "arsuf-israel",
+      "note": "The finale at Arsuf, on the battlefield of the Third Crusade, where Altaïr faces Robert de Sablé."
+    }
+  ],
+  "storyYears": [
+    1191,
+    2012
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_(video_game)",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Ubisoft_Montreal",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "altair",
+      "name": "Altaïr's nine targets",
+      "characters": [
+        "Altaïr Ibn-LaʼAhad"
+      ],
+      "stops": [
+        "jerusalem",
+        "masyaf-castle-syria",
+        "damascus-syria",
+        "acre-akko-israel",
+        "jerusalem",
+        "arsuf-israel",
+        "masyaf-castle-syria"
+      ],
+      "note": "From Solomon's Temple back to Masyaf, out to the three cities, and home for the last confrontation.",
+      "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_(video_game)"
+    }
+  ]
+}

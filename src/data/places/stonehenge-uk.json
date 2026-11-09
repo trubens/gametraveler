@@ -1,0 +1,12 @@
+{
+  "id": "stonehenge-uk",
+  "name": "Stonehenge, UK",
+  "position": {
+    "lat": 51.1789,
+    "lon": -1.8262
+  },
+  "scale": "site",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Stonehenge",
+  "description": "A prehistoric megalithic monument on Salisbury Plain in Wiltshire, standing a couple of miles west of Amesbury."
+}

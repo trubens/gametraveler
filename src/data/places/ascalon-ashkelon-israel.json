@@ -1,0 +1,13 @@
+{
+  "id": "ascalon-ashkelon-israel",
+  "name": "Ascalon (Ashkelon), Israel",
+  "position": {
+    "lat": 31.6693,
+    "lon": 34.5715
+  },
+  "scale": "area",
+  "parentId": "israel",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ascalon",
+  "description": "An ancient port city."
+}

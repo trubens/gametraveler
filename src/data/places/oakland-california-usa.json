@@ -1,0 +1,13 @@
+{
+  "id": "oakland-california-usa",
+  "name": "Oakland, California, USA",
+  "position": {
+    "lat": 37.8044,
+    "lon": -122.2712
+  },
+  "scale": "area",
+  "parentId": "california-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oakland,_California",
+  "description": "A city in the East Bay of the San Francisco Bay Area."
+}

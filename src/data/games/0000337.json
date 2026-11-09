@@ -1,0 +1,19 @@
+{
+  "id": 337,
+  "name": "MotoGP '08",
+  "year": 2008,
+  "series": "MotoGP",
+  "developer": "Milestone",
+  "publisher": "Capcom",
+  "locations": [
+    {
+      "placeId": "mugello-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 6 of 18 in the 2008 MotoGP season."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/MotoGP_%2708",
+  "genres": [
+    "Racing"
+  ]
+}

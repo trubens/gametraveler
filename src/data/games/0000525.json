@@ -1,0 +1,20 @@
+{
+  "id": 525,
+  "name": "Despelote",
+  "year": 2025,
+  "publisher": "Panic",
+  "developer": "Julián Cordero / Sebastián Valbuena",
+  "locations": [
+    {
+      "placeId": "quito-ecuador",
+      "note": "An autobiographical first-person story in which the child protagonist explores Quito neighbourhoods and plays football amid the city’s 2002 World Cup excitement."
+    }
+  ],
+  "storyYears": [
+    2002
+  ],
+  "source": "https://en.wikipedia.org/wiki/Despelote",
+  "genres": [
+    "Adventure"
+  ]
+}

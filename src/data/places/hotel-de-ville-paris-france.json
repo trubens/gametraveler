@@ -1,0 +1,19 @@
+{
+  "id": "hotel-de-ville-paris-france",
+  "name": "Hôtel de Ville, Paris, France",
+  "position": {
+    "lat": 48.8564,
+    "lon": 2.3525
+  },
+  "scale": "site",
+  "parentId": "paris-france",
+  "placeType": "landmark",
+  "aliases": [
+    "Hotel de Ville",
+    "Paris City Hall"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville,_Paris",
+  "description": "The city hall of Paris, on the Place de l'Hôtel-de-Ville in the 4th arrondissement.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville,_Paris"
+}

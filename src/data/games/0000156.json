@@ -1,0 +1,21 @@
+{
+  "id": 156,
+  "name": "Fallout 3",
+  "year": 2008,
+  "publisher": "Bethesda Softworks",
+  "series": "Fallout",
+  "developer": "Bethesda Game Studios",
+  "locations": [
+    {
+      "placeId": "washington-d-c-usa",
+      "note": "The Capital Wasteland: a nuked D.C. where a vault dweller searches for their missing father."
+    }
+  ],
+  "storyYears": [
+    2277
+  ],
+  "source": "https://en.wikipedia.org/wiki/Fallout_3",
+  "genres": [
+    "RPG"
+  ]
+}

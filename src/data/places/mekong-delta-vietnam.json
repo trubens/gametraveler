@@ -1,0 +1,14 @@
+{
+  "id": "mekong-delta-vietnam",
+  "name": "Mekong Delta, Vietnam",
+  "position": {
+    "lat": 10.04,
+    "lon": 105.8
+  },
+  "scale": "area",
+  "parentId": "vietnam",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mekong_Delta",
+  "description": "The flat, river-laced rice country of south-western Vietnam, where the Mekong spreads out into the sea.",
+  "descriptionSource": "wikipedia"
+}

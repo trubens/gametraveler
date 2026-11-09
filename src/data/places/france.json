@@ -1,0 +1,12 @@
+{
+  "id": "france",
+  "name": "France",
+  "position": {
+    "lat": 46.6034,
+    "lon": 1.8883
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/France",
+  "description": "A country mostly in Western Europe, with further territories scattered around the world."
+}

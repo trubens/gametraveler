@@ -1,0 +1,14 @@
+{
+  "id": "tai-o-hong-kong",
+  "name": "Tai O, Hong Kong",
+  "position": {
+    "lat": 22.2544,
+    "lon": 113.8642
+  },
+  "scale": "site",
+  "parentId": "hong-kong-china",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tai_O",
+  "description": "A fishing village of stilt houses on the western tip of Lantau Island.",
+  "descriptionSource": "wikipedia"
+}

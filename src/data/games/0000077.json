@@ -1,0 +1,20 @@
+{
+  "id": 77,
+  "name": "Alaska",
+  "year": 2018,
+  "publisher": "Wreck Tangle Games",
+  "developer": "Wreck Tangle Games",
+  "locations": [
+    {
+      "placeId": "alaska-usa",
+      "note": "A week in the life of Blake in a small mountain town, upended when a body turns up on the airstrip."
+    }
+  ],
+  "storyYears": [
+    2018
+  ],
+  "source": "https://store.steampowered.com/app/800490/ALASKA/",
+  "genres": [
+    "Adventure"
+  ]
+}

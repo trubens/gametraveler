@@ -1,0 +1,22 @@
+{
+  "id": 1000272,
+  "name": "Just Cause 2",
+  "year": 2010,
+  "series": "Just Cause",
+  "developer": "Avalanche Studios",
+  "publisher": "Square Enix",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "storyYears": [
+    2010
+  ],
+  "source": "https://en.wikipedia.org/wiki/Just_Cause_2",
+  "locations": [
+    {
+      "placeId": "panau-fictional-maritime-southeast-asia",
+      "settingType": "fictionalized",
+      "note": "Panau is an invented island nation in Maritime Southeast Asia, drawing on Japan, Thailand and the Malay Archipelago."
+    }
+  ]
+}

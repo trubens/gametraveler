@@ -1,0 +1,13 @@
+{
+  "id": "berlin-germany",
+  "name": "Berlin, Germany",
+  "position": {
+    "lat": 52.52,
+    "lon": 13.405
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Berlin",
+  "description": "Germany's capital and largest city."
+}

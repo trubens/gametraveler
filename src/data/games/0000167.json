@@ -1,0 +1,21 @@
+{
+  "id": 167,
+  "name": "The World Ends with You",
+  "year": 2007,
+  "publisher": "Square Enix",
+  "developer": "Square Enix, Jupiter",
+  "locations": [
+    {
+      "placeId": "shibuya-tokyo-japan",
+      "note": "Neku wakes at Shibuya's Scramble Crossing, forced to play the Reapers' Game across the district."
+    }
+  ],
+  "storyYears": [
+    2007
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_World_Ends_with_You",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Square_Enix",
+  "genres": [
+    "Action RPG"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 198,
+  "name": "Norco",
+  "year": 2022,
+  "publisher": "Raw Fury",
+  "developer": "Geography of Robots",
+  "locations": [
+    {
+      "placeId": "norco-louisiana-usa",
+      "note": "Kay returns to her refinery-shadowed hometown of Norco after her mother's death to find her brother."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Norco_(video_game)",
+  "genres": [
+    "Adventure"
+  ]
+}

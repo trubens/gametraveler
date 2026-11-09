@@ -1,0 +1,56 @@
+{
+  "id": 1000286,
+  "name": "Indiana Jones and the Staff of Kings",
+  "year": 2009,
+  "series": "Indiana Jones",
+  "developer": "Artificial Mind and Movement",
+  "publisher": "LucasArts",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "storyYears": [
+    1939
+  ],
+  "source": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Staff_of_Kings",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "sudan",
+      "note": "1939: Indy races a Nazi expedition through a canyon to a ram's-head idol in a Sudanese temple."
+    },
+    {
+      "placeId": "chinatown-san-francisco-usa",
+      "note": "In San Francisco Indy rescues the collector Archie Tan and his granddaughter from the local triad, with a brawl on top of a cable car."
+    },
+    {
+      "placeId": "panama",
+      "note": "Indy follows his old professor Kingston's trail into the jungle of Panama, where Kingston found the Sphere, and meets the photographer Maggie O'Malley."
+    },
+    {
+      "placeId": "istanbul-turkey",
+      "note": "Istanbul gives up the clues to where the Staff of Moses is hidden (Paris in the DS version)."
+    },
+    {
+      "placeId": "nepal",
+      "note": "Indy finds the elderly Kingston in a Nepalese village; the Nazis follow him to the Staff's resting place."
+    }
+  ],
+  "routes": [
+    {
+      "id": "staff-of-kings",
+      "name": "The search for the Staff of Kings",
+      "characters": [
+        "Indiana Jones"
+      ],
+      "stops": [
+        "sudan",
+        "chinatown-san-francisco-usa",
+        "panama",
+        "istanbul-turkey",
+        "nepal"
+      ],
+      "note": "The console versions' order; the DS version has Paris in place of Istanbul.",
+      "source": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Staff_of_Kings"
+    }
+  ]
+}

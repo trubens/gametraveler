@@ -1,0 +1,13 @@
+{
+  "id": "guilin-china",
+  "name": "Guilin, China",
+  "position": {
+    "lat": 25.2736,
+    "lon": 110.29
+  },
+  "scale": "area",
+  "parentId": "china",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Guilin",
+  "description": "A city on the west bank of the Li River in north-eastern Guangxi."
+}

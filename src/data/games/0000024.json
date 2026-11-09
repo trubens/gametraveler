@@ -1,0 +1,55 @@
+{
+  "id": 24,
+  "name": "Dreamfall: The Longest Journey",
+  "year": 2006,
+  "publisher": "Aspyr",
+  "developer": "Funcom",
+  "locations": [
+    {
+      "placeId": "casablanca-morocco",
+      "note": "Zoë Castillo's story begins in a futuristic Casablanca in the year 2219."
+    },
+    {
+      "placeId": "newport-fictional-pacific-northwest",
+      "settingType": "fictionalized",
+      "note": "Zoë tracks her missing ex-boyfriend Reza to Newport, where WatiCorp agents catch her and hook her up to a dreamer console that sends her into Arcadia.",
+      "source": "https://en.wikipedia.org/wiki/Dreamfall:_The_Longest_Journey"
+    },
+    {
+      "placeId": "st-petersburg-russia",
+      "note": "A WatiCorp testing facility near Saint Petersburg is the source of the mysterious static."
+    },
+    {
+      "placeId": "japan",
+      "note": "Zoë flies to Japan to meet a WatiCorp insider who explains Project Alchera."
+    }
+  ],
+  "storyYears": [
+    2219
+  ],
+  "source": "https://en.wikipedia.org/wiki/Dreamfall:_The_Longest_Journey",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Funcom",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Aspyr",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "zoe-castillo",
+      "name": "Zoë Castillo",
+      "characters": [
+        "Zoë Castillo"
+      ],
+      "stops": [
+        "casablanca-morocco",
+        "newport-fictional-pacific-northwest",
+        "japan",
+        "st-petersburg-russia",
+        "casablanca-morocco"
+      ],
+      "note": "Zoë follows her missing ex-boyfriend's trail from Casablanca to Newport, on to WatiCorp's secrets in Japan and a facility outside Saint Petersburg, then comes home to face the woman who made her.",
+      "source": "https://en.wikipedia.org/wiki/Dreamfall:_The_Longest_Journey"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bryce-canyon-usa",
+  "name": "Bryce Canyon, USA",
+  "position": {
+    "lat": 37.593,
+    "lon": -112.1871
+  },
+  "scale": "area",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bryce_Canyon_National_Park",
+  "description": "A national park in south-western Utah, known for its amphitheatres of red-rock spires called hoodoos."
+}

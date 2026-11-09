@@ -1,0 +1,14 @@
+{
+  "id": "pantheon-rome-italy",
+  "name": "Pantheon, Rome, Italy",
+  "position": {
+    "lat": 41.8986,
+    "lon": 12.4769
+  },
+  "scale": "site",
+  "parentId": "rome-italy",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Pantheon,_Rome",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pantheon,_Rome",
+  "description": "An ancient temple in Rome, first built under Augustus and rebuilt under Hadrian, still standing with its great dome."
+}

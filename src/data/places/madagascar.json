@@ -1,0 +1,12 @@
+{
+  "id": "madagascar",
+  "name": "Madagascar",
+  "position": {
+    "lat": -18.7669,
+    "lon": 46.8691
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Madagascar",
+  "description": "An island country in the Indian Ocean, made up of the great island of Madagascar and many smaller ones around it."
+}

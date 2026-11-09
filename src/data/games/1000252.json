@@ -1,0 +1,100 @@
+{
+  "id": 1000252,
+  "name": "Moebius: Empire Rising",
+  "aliases": [
+    "Jane Jensen's Moebius"
+  ],
+  "year": 2014,
+  "developer": "Pinkerton Road Studio / Phoenix Online Studios",
+  "publisher": "Phoenix Online Publishing",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    2014
+  ],
+  "source": "https://en.wikipedia.org/wiki/Moebius:_Empire_Rising",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Malachi's antiques business, apartment and FITA headquarters make New York his recurring base.",
+      "source": "https://www.gamezebo.com/walkthroughs/moebius-empire-rising-walkthrough/"
+    },
+    {
+      "placeId": "venice-italy",
+      "note": "An appraisal and a murder investigation bring Malachi to Venice.",
+      "source": "https://www.gamezebo.com/walkthroughs/moebius-empire-rising-walkthrough/"
+    },
+    {
+      "placeId": "cairo-egypt",
+      "note": "An antiques assignment in Cairo introduces Malachi to David Walker.",
+      "source": "https://www.gamezebo.com/walkthroughs/moebius-empire-rising-walkthrough/"
+    },
+    {
+      "placeId": "paris-france",
+      "note": "Malachi and David investigate Caroline Alfonse and explore the Paris catacombs.",
+      "source": "https://www.gamezebo.com/walkthroughs/moebius-empire-rising-walkthrough/"
+    },
+    {
+      "placeId": "catacombs-of-paris-france",
+      "note": "Malachi and David follow the trail into the catacombs."
+    },
+    {
+      "placeId": "zurich-switzerland",
+      "note": "The investigation moves to the Lorraine family's mansion in Zürich.",
+      "source": "https://www.gamezebo.com/walkthroughs/moebius-empire-rising-walkthrough/"
+    },
+    {
+      "placeId": "washington-d-c-usa",
+      "note": "Malachi questions Senator Markham and visits Dominique's condo in Washington, D.C.",
+      "source": "https://www.gamezebo.com/walkthroughs/moebius-empire-rising-walkthrough/"
+    },
+    {
+      "placeId": "qatar",
+      "note": "The final rescue takes place at a fortress somewhere in Qatar.",
+      "source": "https://www.gamezebo.com/walkthroughs/moebius-empire-rising-walkthrough/"
+    }
+  ],
+  "routes": [
+    {
+      "id": "malachi-rector",
+      "name": "Malachi's investigation",
+      "characters": [
+        "Malachi Rector"
+      ],
+      "stops": [
+        "new-york-city-usa",
+        "venice-italy",
+        "new-york-city-usa",
+        "cairo-egypt",
+        "new-york-city-usa",
+        "paris-france",
+        "zurich-switzerland",
+        "new-york-city-usa",
+        "washington-d-c-usa",
+        "new-york-city-usa",
+        "washington-d-c-usa",
+        "new-york-city-usa",
+        "qatar"
+      ],
+      "note": "Malachi Rector works out of New York, with cases in Venice, Cairo, Paris and Zürich, two trips to Washington and a final rescue in Qatar.",
+      "source": "https://www.gamezebo.com/walkthroughs/moebius-empire-rising-walkthrough/"
+    },
+    {
+      "id": "david-walker",
+      "name": "David's journey",
+      "characters": [
+        "David Walker"
+      ],
+      "stops": [
+        "cairo-egypt",
+        "new-york-city-usa",
+        "paris-france",
+        "zurich-switzerland",
+        "qatar"
+      ],
+      "note": "David joins in Cairo; his final journey to Qatar is an abduction.",
+      "source": "https://www.gamezebo.com/walkthroughs/moebius-empire-rising-walkthrough/"
+    }
+  ]
+}

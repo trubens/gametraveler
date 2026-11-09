@@ -1,0 +1,26 @@
+{
+  "id": 1000121,
+  "name": "The Dark Pictures Anthology: Man of Medan",
+  "year": 2019,
+  "publisher": "Bandai Namco Entertainment",
+  "series": "The Dark Pictures Anthology",
+  "developer": "Supermassive Games",
+  "locations": [
+    {
+      "placeId": "south-pacific-ocean-near-french-polynesia",
+      "note": "The main story follows a diving trip and ghost-ship mystery in the South Pacific."
+    },
+    {
+      "placeId": "manchuria-china",
+      "note": "The WWII prologue begins aboard an American ship near Manchuria."
+    }
+  ],
+  "storyYears": [
+    1947,
+    2019
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Dark_Pictures_Anthology:_Man_of_Medan",
+  "genres": [
+    "Interactive Drama"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 479,
+  "name": "Horizon Zero Dawn",
+  "year": 2017,
+  "developer": "Guerrilla Games",
+  "publisher": "Sony Interactive Entertainment",
+  "locations": [
+    {
+      "placeId": "denver-usa",
+      "aliases": [
+        "Devil's Grief"
+      ],
+      "note": "The ruins of Denver appear as Devil's Grief, with recognizable remnants of the city."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Horizon_Zero_Dawn",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

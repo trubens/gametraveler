@@ -1,0 +1,14 @@
+{
+  "id": "forest-of-dean-england-uk",
+  "name": "Forest of Dean, England, UK",
+  "position": {
+    "lat": 51.79,
+    "lon": -2.54
+  },
+  "scale": "site",
+  "parentId": "england-uk",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Forest_of_Dean",
+  "description": "An ancient royal forest of oak and beech between the Severn and the Wye in west Gloucestershire.",
+  "descriptionSource": "wikipedia"
+}

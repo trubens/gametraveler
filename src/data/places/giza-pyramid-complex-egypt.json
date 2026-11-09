@@ -1,0 +1,20 @@
+{
+  "id": "giza-pyramid-complex-egypt",
+  "name": "Giza pyramid complex, Giza, Egypt",
+  "position": {
+    "lat": 29.9761,
+    "lon": 31.1328
+  },
+  "scale": "site",
+  "parentId": "giza-egypt",
+  "placeType": "landmark",
+  "aliases": [
+    "Great Pyramid of Giza",
+    "Great Sphinx",
+    "Giza plateau",
+    "Pyramids of Giza"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
+  "description": "The plateau of the three great pyramids and the Sphinx on the edge of the desert west of Cairo.",
+  "descriptionSource": "wikipedia"
+}

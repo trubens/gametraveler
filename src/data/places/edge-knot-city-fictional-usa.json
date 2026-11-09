@@ -1,0 +1,14 @@
+{
+  "id": "edge-knot-city-fictional-usa",
+  "name": "Edge Knot City, United States",
+  "position": {
+    "lat": 40.44,
+    "lon": -124.4
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "city",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Death_Stranding",
+  "description": "The invented last city on the west coast in Death Stranding, the end of Sam's crossing. The game names only the West Coast, so the pin on the northern California coast is a guess."
+}

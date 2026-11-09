@@ -1,0 +1,79 @@
+{
+  "id": 2,
+  "name": "Indiana Jones and the Fate of Atlantis",
+  "year": 1992,
+  "publisher": "LucasArts",
+  "series": "Indiana Jones",
+  "developer": "LucasArts",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Indy's search starts at a New York theater where psychic Sophia Hapgood lectures on Atlantis."
+    },
+    {
+      "placeId": "knossos-greece",
+      "note": "The Minoan ruins of Knossos on Crete hold the labyrinth that points toward Atlantis."
+    },
+    {
+      "placeId": "monte-carlo-monaco",
+      "note": "In Monte Carlo Indy seeks out collector Alain Trottier for clues to the lost city."
+    },
+    {
+      "placeId": "iceland",
+      "note": "At an excavation in Iceland Indy finds Dr Heimdall frozen beside an Atlantean eel figurine, and his notes on Costa and Sternhart."
+    },
+    {
+      "placeId": "algiers-algeria",
+      "note": "Indy searches the Algiers souk for clues to Atlantis."
+    },
+    {
+      "placeId": "santorini-greece",
+      "note": "A small Atlantean colony on Thera provides the route to Atlantis."
+    },
+    {
+      "placeId": "atlantis-fictional-mediterranean",
+      "settingType": "imaginary",
+      "note": "Through an underwater entrance near Thera Indy explores the sunken city, frees Sophia from the spirit of King Nur-Ab-Sal and reaches the colossus the Atlanteans built to make themselves gods."
+    },
+    {
+      "placeId": "tikal-guatemala",
+      "note": "On the Team path Indy and Sophia find Dr Sternhart's temple in the jungle at Tikal, with an Atlantean relic inside."
+    },
+    {
+      "placeId": "azores-portugal",
+      "note": "Indy calls on the retired sea captain Costa in the Azores, who has one of the Lost Dialogue's clues."
+    }
+  ],
+  "storyYears": [
+    1939
+  ],
+  "source": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Fate_of_Atlantis",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Lucasfilm_Games",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "team-path",
+      "name": "Indy's journey (Team path)",
+      "characters": [
+        "Indiana Jones",
+        "Sophia Hapgood"
+      ],
+      "stops": [
+        "new-york-city-usa",
+        "iceland",
+        "tikal-guatemala",
+        "azores-portugal",
+        "monte-carlo-monaco",
+        "algiers-algeria",
+        "knossos-greece",
+        "santorini-greece",
+        "atlantis-fictional-mediterranean"
+      ],
+      "note": "Indy and Sophia's hunt for Atlantis, from her New York lecture to the sunken city near Thera.",
+      "source": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Fate_of_Atlantis"
+    }
+  ]
+}

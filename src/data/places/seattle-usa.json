@@ -1,0 +1,16 @@
+{
+  "id": "seattle-usa",
+  "name": "Seattle, USA",
+  "position": {
+    "lat": 47.6062,
+    "lon": -122.3321
+  },
+  "scale": "area",
+  "parentId": "washington-state-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Seattle",
+  "description": "The largest city of Washington state and the Pacific Northwest.",
+  "aliases": [
+    "Seattle, Washington, USA"
+  ]
+}

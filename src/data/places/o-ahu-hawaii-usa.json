@@ -1,0 +1,13 @@
+{
+  "id": "o-ahu-hawaii-usa",
+  "name": "Oʻahu, Hawaii, USA",
+  "position": {
+    "lat": 21.4389,
+    "lon": -158.0001
+  },
+  "scale": "area",
+  "parentId": "hawaii-usa",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/O%CA%BBahu",
+  "description": "The third-largest and most populous of the Hawaiian Islands, with the state capital Honolulu on its south-eastern coast."
+}

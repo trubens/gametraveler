@@ -1,0 +1,19 @@
+{
+  "id": "mides-tunisia",
+  "name": "Midès, Tunisia",
+  "position": {
+    "lat": 34.3833,
+    "lon": 7.8833
+  },
+  "scale": "area",
+  "parentId": "tunisia",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Midès canyon",
+    "Mides"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Mid%C3%A8s",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mid%C3%A8s",
+  "description": "A mountain oasis in western Tunisia on the edge of the Midès canyon; in antiquity the bishopric of Mades.",
+  "descriptionSource": "wikipedia"
+}

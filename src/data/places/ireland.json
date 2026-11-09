@@ -1,0 +1,12 @@
+{
+  "id": "ireland",
+  "name": "Ireland",
+  "position": {
+    "lat": 53.1424,
+    "lon": -7.6921
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ireland",
+  "description": "An island in the North Atlantic at the north-western edge of Europe, divided between the Republic of Ireland and Northern Ireland."
+}

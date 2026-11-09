@@ -1,0 +1,14 @@
+{
+  "id": "st-nectans-glen-cornwall-uk",
+  "name": "St Nectan's Glen, Cornwall, UK",
+  "position": {
+    "lat": 50.6648,
+    "lon": -4.7192
+  },
+  "scale": "site",
+  "parentId": "cornwall-england",
+  "placeType": "natural_feature",
+  "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/St_Nectan%27s_Glen",
+  "description": "A wooded glen near Tintagel where a waterfall pours through a hole in the rock into round basins, hung with offerings."
+}

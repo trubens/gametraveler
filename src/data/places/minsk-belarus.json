@@ -1,0 +1,14 @@
+{
+  "id": "minsk-belarus",
+  "name": "Minsk, Belarus",
+  "position": {
+    "lat": 53.9006,
+    "lon": 27.559
+  },
+  "scale": "area",
+  "parentId": "belarus",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Minsk",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Minsk",
+  "description": "The capital and largest city of Belarus."
+}

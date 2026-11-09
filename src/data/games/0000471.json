@@ -1,0 +1,21 @@
+{
+  "id": 471,
+  "name": "Zombie Army 4: Dead War",
+  "series": "Zombie Army",
+  "year": 2020,
+  "developer": "Rebellion Developments",
+  "publisher": "Rebellion Developments",
+  "locations": [
+    {
+      "placeId": "milan-italy",
+      "note": "The campaign starts around a zombie-infested Milan railway station."
+    }
+  ],
+  "storyYears": [
+    1946
+  ],
+  "source": "https://en.wikipedia.org/wiki/Zombie_Army_4:_Dead_War",
+  "genres": [
+    "Third-Person Shooter"
+  ]
+}

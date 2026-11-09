@@ -1,0 +1,15 @@
+{
+  "id": "hope-county-fictional-montana-usa",
+  "name": "Hope County, Montana",
+  "position": {
+    "lat": 47.6,
+    "lon": -113.9
+  },
+  "scale": "area",
+  "parentId": "montana-usa",
+  "placeType": "region",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Far_Cry_5",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Montana",
+  "description": "The invented rural county of Far Cry 5 and New Dawn, mountains, lakes and farmland in Montana taken over by the Eden's Gate cult. The game names only the state; the pin in the mountains of western Montana is a guess."
+}

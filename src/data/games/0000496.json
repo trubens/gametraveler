@@ -1,0 +1,26 @@
+{
+  "id": 496,
+  "name": "Resistance 2",
+  "year": 2008,
+  "series": "Resistance",
+  "developer": "Insomniac Games",
+  "publisher": "Sony Computer Entertainment",
+  "locations": [
+    {
+      "placeId": "san-francisco-usa",
+      "note": "Hale evacuates an underwater SRPA outpost in San Francisco as the Chimeran armada hits the US coast."
+    },
+    {
+      "placeId": "chicago-usa",
+      "note": "Hale leads the attack on Chicago, where the Chimera are restarting their tower network."
+    }
+  ],
+  "storyYears": [
+    1953
+  ],
+  "source": "https://en.wikipedia.org/wiki/Resistance_2",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

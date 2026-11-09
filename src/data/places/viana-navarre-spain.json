@@ -1,0 +1,14 @@
+{
+  "id": "viana-navarre-spain",
+  "name": "Viana, Navarre, Spain",
+  "position": {
+    "lat": 42.515,
+    "lon": -2.3722
+  },
+  "scale": "area",
+  "parentId": "spain",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Viana,_Navarre",
+  "description": "A hilltop town in Navarre on the Way of St James, where Cesare Borgia was killed in 1507.",
+  "descriptionSource": "wikipedia"
+}

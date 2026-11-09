@@ -1,0 +1,15 @@
+{
+  "id": "yakushima-japan",
+  "name": "Yakushima, Japan",
+  "position": {
+    "lat": 30.3439,
+    "lon": 130.5239
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yakushima",
+  "description": "A mountainous, rain-soaked island of the Ōsumi group in Kagoshima Prefecture, known for its ancient cedar forest.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Yakushima"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "szczecin-poland",
+  "name": "Szczecin, Poland",
+  "aliases": [
+    "Stettin"
+  ],
+  "position": {
+    "lat": 53.4285,
+    "lon": 14.5528
+  },
+  "scale": "area",
+  "parentId": "poland",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Szczecin",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Szczecin",
+  "description": "A city of north-western Poland."
+}

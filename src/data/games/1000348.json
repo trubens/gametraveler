@@ -1,0 +1,23 @@
+{
+  "id": 1000348,
+  "name": "Metal Gear",
+  "year": 1987,
+  "series": "Metal Gear",
+  "developer": "Konami",
+  "publisher": "Konami",
+  "genres": [
+    "Stealth"
+  ],
+  "storyYears": [
+    1995
+  ],
+  "source": "https://en.wikipedia.org/wiki/Metal_Gear_(video_game)",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "outer-heaven-fictional-south-africa",
+      "note": "Rookie FOXHOUND agent Solid Snake infiltrates the fortress state of Outer Heaven to destroy Metal Gear, and finds its leader is his own commander, Big Boss.",
+      "settingType": "fictionalized"
+    }
+  ]
+}

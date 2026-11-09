@@ -1,0 +1,13 @@
+{
+  "id": "hollywood-california-usa",
+  "name": "Hollywood, California, USA",
+  "position": {
+    "lat": 34.0928,
+    "lon": -118.3287
+  },
+  "scale": "site",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hollywood,_Los_Angeles",
+  "description": "A neighbourhood of central Los Angeles.",
+  "parentId": "los-angeles-usa"
+}

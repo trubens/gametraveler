@@ -1,0 +1,25 @@
+{
+  "id": 429,
+  "name": "Paris 1313",
+  "year": 1999,
+  "developer": "Dramaera",
+  "publisher": "Index+ / Canal+ Multimedia / France Telecom Multimedia / Microïds",
+  "locations": [
+    {
+      "placeId": "paris-france",
+      "note": "Three protagonists investigate a mystery in medieval Paris."
+    },
+    {
+      "placeId": "notre-dame-de-paris-france",
+      "note": "The goldsmith Adam vanishes during the celebrations in front of the cathedral, and the mystery turns on Notre-Dame itself.",
+      "source": "https://en.wikipedia.org/wiki/Paris_1313"
+    }
+  ],
+  "storyYears": [
+    1313
+  ],
+  "source": "https://en.wikipedia.org/wiki/Paris_1313",
+  "genres": [
+    "Adventure"
+  ]
+}

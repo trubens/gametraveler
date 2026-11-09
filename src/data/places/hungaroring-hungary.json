@@ -1,0 +1,12 @@
+{
+  "id": "hungaroring-hungary",
+  "name": "Hungaroring, Hungary",
+  "position": {
+    "lat": 47.5822,
+    "lon": 19.2511
+  },
+  "scale": "site",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hungaroring",
+  "description": "The motor racing circuit at Mogyoród in Pest County, home of the Formula One Hungarian Grand Prix."
+}

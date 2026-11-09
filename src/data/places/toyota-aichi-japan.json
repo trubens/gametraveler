@@ -1,0 +1,17 @@
+{
+  "id": "toyota-aichi-japan",
+  "name": "Toyota, Aichi, Japan",
+  "position": {
+    "lat": 35.0824,
+    "lon": 137.1563
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "city",
+  "aliases": [
+    "Toyota City"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota,_Aichi",
+  "description": "The car company's home city east of Nagoya, the base of Rally Japan since its 2022 return.",
+  "descriptionSource": "wikipedia"
+}

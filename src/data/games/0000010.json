@@ -1,0 +1,26 @@
+{
+  "id": 10,
+  "name": "Yesterday",
+  "year": 2012,
+  "publisher": "Focus Home Interactive",
+  "developer": "Pendulo Studios",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "A killer is burning homeless people in New York, and student Henry White investigates."
+    },
+    {
+      "placeId": "paris-france",
+      "note": "Amnesiac John Yesterday pieces together his lost past from his home in Paris."
+    }
+  ],
+  "storyYears": [
+    2012
+  ],
+  "source": "https://en.wikipedia.org/wiki/Yesterday_(video_game)",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Focus_Entertainment",
+  "developerUrl": "https://en.wikipedia.org/wiki/Pendulo_Studios",
+  "genres": [
+    "Adventure"
+  ]
+}

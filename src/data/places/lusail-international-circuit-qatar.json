@@ -1,0 +1,12 @@
+{
+  "id": "lusail-international-circuit-qatar",
+  "name": "Lusail International Circuit, Qatar",
+  "position": {
+    "lat": 25.49,
+    "lon": 51.454
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lusail_International_Circuit",
+  "description": "A motor racing circuit just outside Lusail, north of Doha in Qatar, with a long main straight."
+}

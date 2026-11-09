@@ -1,0 +1,13 @@
+{
+  "id": "honolulu-hawaii-usa",
+  "name": "Honolulu, Hawaii, USA",
+  "position": {
+    "lat": 21.3099,
+    "lon": -157.8581
+  },
+  "scale": "area",
+  "parentId": "hawaii-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honolulu",
+  "description": "Hawaii's capital and largest city."
+}

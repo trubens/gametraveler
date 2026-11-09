@@ -1,0 +1,12 @@
+{
+  "id": "malta",
+  "name": "Malta",
+  "scale": "area",
+  "position": {
+    "lat": 35.9375,
+    "lon": 14.3754
+  },
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Malta",
+  "description": "An island country in the central Mediterranean, south of Italy and north of Libya, made up of Malta, Gozo and a scatter of smaller islands."
+}

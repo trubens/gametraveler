@@ -1,0 +1,21 @@
+{
+  "id": 492,
+  "name": "Tokyo Xanadu",
+  "year": 2015,
+  "developer": "Nihon Falcom",
+  "publisher": "Nihon Falcom / Aksys Games",
+  "locations": [
+    {
+      "placeId": "morimiya-fictional-tokyo-japan",
+      "note": "The Morimiya setting is modeled on Tachikawa, a city in western Tokyo.",
+      "settingType": "imaginary"
+    }
+  ],
+  "storyYears": [
+    2015
+  ],
+  "source": "https://en.wikipedia.org/wiki/Tokyo_Xanadu",
+  "genres": [
+    "Action RPG"
+  ]
+}

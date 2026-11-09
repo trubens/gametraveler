@@ -1,0 +1,21 @@
+{
+  "id": 421,
+  "name": "Versailles II: Testament of the King",
+  "year": 2001,
+  "series": "Versailles",
+  "developer": "Cryo Interactive",
+  "publisher": "Cryo Interactive / Réunion des Musées Nationaux",
+  "locations": [
+    {
+      "placeId": "versailles-france",
+      "note": "The court adventure takes place inside the Palace of Versailles."
+    }
+  ],
+  "storyYears": [
+    1700
+  ],
+  "source": "https://en.wikipedia.org/wiki/Versailles_II:_Testament_of_the_King",
+  "genres": [
+    "Adventure"
+  ]
+}

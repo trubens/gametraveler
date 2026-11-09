@@ -1,0 +1,13 @@
+{
+  "id": "volterra-psychiatric-hospital-tuscany-italy",
+  "name": "Volterra Psychiatric Hospital, Tuscany, Italy",
+  "position": {
+    "lat": 43.4045,
+    "lon": 10.8591
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volterra_Psychiatric_Hospital",
+  "description": "A former psychiatric hospital in the Tuscan hill town of Volterra, founded in 1888 and notorious for its brutal treatment of inmates."
+}

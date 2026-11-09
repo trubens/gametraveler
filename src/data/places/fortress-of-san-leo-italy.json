@@ -1,0 +1,18 @@
+{
+  "id": "fortress-of-san-leo-italy",
+  "name": "Fortress of San Leo, San Leo, Italy",
+  "position": {
+    "lat": 43.8947,
+    "lon": 12.346
+  },
+  "scale": "site",
+  "parentId": "san-leo-italy",
+  "placeType": "landmark",
+  "aliases": [
+    "Castle Sancti Leonis",
+    "Cagliostro's fortress"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Fortress_of_San_Leo",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fortress_of_San_Leo",
+  "description": "A castle on the border of Romagna and the Marche, best known as the place where Count Cagliostro died."
+}

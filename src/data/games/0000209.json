@@ -1,0 +1,22 @@
+{
+  "id": 209,
+  "name": "The Blackwell Convergence",
+  "year": 2009,
+  "publisher": "Wadjet Eye Games",
+  "series": "Blackwell",
+  "developer": "Wadjet Eye Games",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Rosa and Joey follow connected deaths through New York's art galleries, offices and neighborhood haunts."
+    }
+  ],
+  "storyYears": [
+    2007
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Blackwell_Convergence",
+  "developerUrl": "https://en.wikipedia.org/wiki/Wadjet_Eye_Games",
+  "genres": [
+    "Adventure"
+  ]
+}

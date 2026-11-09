@@ -1,0 +1,17 @@
+{
+  "id": "hengsha-fictional-shanghai-china",
+  "name": "Hengsha, Shanghai, China",
+  "position": {
+    "lat": 31.3432,
+    "lon": 121.8433
+  },
+  "scale": "site",
+  "parentId": "shanghai-china",
+  "placeType": "area",
+  "fictional": true,
+  "aliases": [
+    "Lower Hengsha"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hengsha_Island",
+  "description": "The invented two-tier megacity of Deus Ex: Human Revolution, built on the real Hengsha Island in the Yangtze mouth off Shanghai. Pinned on the island."
+}

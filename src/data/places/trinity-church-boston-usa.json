@@ -1,0 +1,14 @@
+{
+  "id": "trinity-church-boston-usa",
+  "name": "Trinity Church, Boston, USA",
+  "position": {
+    "lat": 42.35,
+    "lon": -71.0756
+  },
+  "scale": "site",
+  "parentId": "boston-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Trinity_Church_(Boston)",
+  "description": "H. H. Richardson's Romanesque church of 1877 on Copley Square in the Back Bay.",
+  "descriptionSource": "wikipedia"
+}

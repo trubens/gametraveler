@@ -1,0 +1,17 @@
+{
+  "id": "chateau-de-malaquis-fictional-seine-normandy-france",
+  "name": "Château de Malaquis, Normandy",
+  "aliases": [
+    "Malaquis"
+  ],
+  "position": {
+    "lat": 49.5256,
+    "lon": 0.7261
+  },
+  "scale": "area",
+  "parentId": "normandy-france",
+  "placeType": "landmark",
+  "fictional": true,
+  "source": "https://www.gutenberg.org/files/6133/6133-h/6133-h.htm",
+  "description": "Maurice Leblanc's invented castle on a rock in the Seine. Pinned on the Seine loops near Caudebec, where Leblanc set it."
+}

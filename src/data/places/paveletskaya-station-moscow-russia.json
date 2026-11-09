@@ -1,0 +1,15 @@
+{
+  "id": "paveletskaya-station-moscow-russia",
+  "name": "Paveletskaya station, Moscow, Russia",
+  "position": {
+    "lat": 55.7305,
+    "lon": 37.6377
+  },
+  "scale": "site",
+  "parentId": "moscow-russia",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Paveletskaya_(Zamoskvoretskaya_line)",
+  "description": "A Moscow Metro station on the Zamoskvoretskaya line beside the Paveletsky railway terminal.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Paveletskaya_(Zamoskvoretskaya_line)"
+}

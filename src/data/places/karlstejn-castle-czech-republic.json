@@ -1,0 +1,18 @@
+{
+  "id": "karlstejn-castle-czech-republic",
+  "name": "Karlštejn Castle, Czech Republic",
+  "position": {
+    "lat": 49.9392,
+    "lon": 14.1883
+  },
+  "scale": "site",
+  "parentId": "czech-republic",
+  "placeType": "landmark",
+  "aliases": [
+    "Karlstejn"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Karlštejn_Castle",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Karlštejn_Castle",
+  "description": "A large Gothic castle south-west of Prague, founded in 1348 by Charles IV to keep the Imperial Regalia and the Bohemian crown jewels.",
+  "descriptionSource": "wikipedia"
+}

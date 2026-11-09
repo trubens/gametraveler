@@ -1,0 +1,13 @@
+{
+  "id": "son-netherlands",
+  "name": "Son, Netherlands",
+  "position": {
+    "lat": 51.5125,
+    "lon": 5.4917
+  },
+  "scale": "area",
+  "parentId": "netherlands",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Son,_Netherlands",
+  "description": "A town in North Brabant near Eindhoven."
+}

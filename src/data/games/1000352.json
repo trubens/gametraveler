@@ -1,0 +1,58 @@
+{
+  "id": 1000352,
+  "name": "Metal Gear Solid Delta: Snake Eater",
+  "year": 2025,
+  "aliases": [
+    "Metal Gear Solid Δ: Snake Eater"
+  ],
+  "series": "Metal Gear",
+  "developer": "Konami",
+  "publisher": "Konami",
+  "genres": [
+    "Stealth"
+  ],
+  "storyYears": [
+    1964
+  ],
+  "source": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_Delta:_Snake_Eater",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "tajikistan",
+      "aliases": [
+        "Tselinoyarsk",
+        "Groznyj Grad",
+        "Virgin Cliffs",
+        "Soviet Union",
+        "USSR"
+      ],
+      "settingType": "fictionalized",
+      "note": "1964: Naked Snake parachutes into Tselinoyarsk, an invented jungle region in the south of the Soviet Union, to rescue the scientist Sokolov, is betrayed by The Boss, and returns to destroy the Shagohod at Volgin's fortress Groznyj Grad."
+    },
+    {
+      "placeId": "galena-alaska-usa",
+      "settingType": "real",
+      "note": "Snake and EVA escape to Alaska and spend the night together; by morning EVA has gone with the Philosophers' Legacy microfilm, leaving a tape that reveals her as a Chinese spy."
+    },
+    {
+      "placeId": "arlington-national-cemetery-virginia-usa",
+      "note": "The ending: the newly named Big Boss lays flowers on The Boss's unmarked grave at Arlington and salutes her."
+    }
+  ],
+  "routes": [
+    {
+      "id": "naked-snake-delta",
+      "name": "Naked Snake",
+      "characters": [
+        "Naked Snake"
+      ],
+      "stops": [
+        "tajikistan",
+        "galena-alaska-usa",
+        "arlington-national-cemetery-virginia-usa"
+      ],
+      "note": "From the Soviet jungle out to Alaska, then home to Arlington.",
+      "source": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_Delta:_Snake_Eater"
+    }
+  ]
+}

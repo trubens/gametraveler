@@ -1,0 +1,24 @@
+{
+  "id": 1000134,
+  "name": "Path Out",
+  "year": 2017,
+  "publisher": "Causa Creations",
+  "developer": "Causa Creations",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://causacreations.itch.io/pathout-short",
+  "locations": [
+    {
+      "placeId": "syria",
+      "note": "An autobiographical adventure based on Syrian developer Jack Gutmann’s experience of fleeing home."
+    },
+    {
+      "placeId": "austria",
+      "note": "The journey’s destination reflects Gutmann’s eventual resettlement in Austria."
+    }
+  ],
+  "storyYears": [
+    2014
+  ]
+}

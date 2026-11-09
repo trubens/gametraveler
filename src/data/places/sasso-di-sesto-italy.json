@@ -1,0 +1,17 @@
+{
+  "id": "sasso-di-sesto-italy",
+  "name": "Sasso di Sesto, Italy",
+  "position": {
+    "lat": 46.6391,
+    "lon": 12.3082
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Sextener Stein"
+  ],
+  "wikipediaUrl": "https://it.wikipedia.org/wiki/Sasso_di_Sesto",
+  "description": "A peak of the Sexten Dolomites below the Torre di Toblin, on the First World War front line between Italy and Austria-Hungary.",
+  "descriptionSource": "wikipedia"
+}

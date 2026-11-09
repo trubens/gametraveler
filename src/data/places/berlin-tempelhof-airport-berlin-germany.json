@@ -1,0 +1,18 @@
+{
+  "id": "berlin-tempelhof-airport-berlin-germany",
+  "name": "Berlin Tempelhof Airport, Berlin, Germany",
+  "position": {
+    "lat": 52.4736,
+    "lon": 13.4017
+  },
+  "scale": "site",
+  "parentId": "berlin-germany",
+  "placeType": "landmark",
+  "aliases": [
+    "Tempelhof"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Berlin_Tempelhof_Airport",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Berlin_Tempelhof_Airport",
+  "description": "One of Berlin's first airports, in the borough of Tempelhof-Schöneberg; it closed in 2008.",
+  "descriptionSource": "wikipedia"
+}

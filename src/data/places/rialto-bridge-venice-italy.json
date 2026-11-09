@@ -1,0 +1,14 @@
+{
+  "id": "rialto-bridge-venice-italy",
+  "name": "Rialto Bridge, Venice, Italy",
+  "position": {
+    "lat": 45.438,
+    "lon": 12.3359
+  },
+  "scale": "site",
+  "parentId": "venice-italy",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Rialto_Bridge",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rialto_Bridge",
+  "description": "The oldest of the four bridges across the Grand Canal in Venice, a stone arch lined with shops."
+}

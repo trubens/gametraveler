@@ -1,0 +1,17 @@
+{
+  "id": "kobarid-slovenia",
+  "name": "Kobarid, Slovenia",
+  "position": {
+    "lat": 46.246,
+    "lon": 13.578
+  },
+  "scale": "area",
+  "parentId": "slovenia",
+  "placeType": "city",
+  "aliases": [
+    "Caporetto"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kobarid",
+  "description": "A town in the Soča valley of western Slovenia, the Caporetto of the Austro-German breakthrough of October 1917.",
+  "descriptionSource": "wikipedia"
+}

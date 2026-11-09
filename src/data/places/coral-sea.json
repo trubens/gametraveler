@@ -1,0 +1,12 @@
+{
+  "id": "coral-sea",
+  "name": "Coral Sea",
+  "position": {
+    "lat": -18,
+    "lon": 158
+  },
+  "scale": "area",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Coral_Sea",
+  "description": "The sea off north-east Australia where carriers first fought each other in 1942."
+}

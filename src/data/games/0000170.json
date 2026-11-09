@@ -1,0 +1,21 @@
+{
+  "id": 170,
+  "name": "Spec Ops: The Line",
+  "year": 2012,
+  "publisher": "2K Games",
+  "developer": "Yager Development",
+  "locations": [
+    {
+      "placeId": "dubai-uae",
+      "note": "A Delta team enters a Dubai buried by sandstorms to find Col. Konrad's lost battalion."
+    }
+  ],
+  "storyYears": [
+    2012
+  ],
+  "source": "https://en.wikipedia.org/wiki/Spec_Ops:_The_Line",
+  "publisherUrl": "https://en.wikipedia.org/wiki/2K_(company)",
+  "genres": [
+    "Third-Person Shooter"
+  ]
+}

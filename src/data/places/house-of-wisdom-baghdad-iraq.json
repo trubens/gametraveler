@@ -1,0 +1,14 @@
+{
+  "id": "house-of-wisdom-baghdad-iraq",
+  "name": "House of Wisdom, Baghdad, Iraq",
+  "position": {
+    "lat": 33.34,
+    "lon": 44.4
+  },
+  "scale": "site",
+  "parentId": "baghdad-iraq",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/House_of_Wisdom",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/House_of_Wisdom",
+  "description": "The great Abbasid library and public academy of Baghdad, an intellectual centre of its age."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "termas-de-rio-hondo-argentina",
+  "name": "Termas de Río Hondo, Argentina",
+  "position": {
+    "lat": -27.509,
+    "lon": -64.914
+  },
+  "scale": "area",
+  "parentId": "argentina",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Termas_de_R%C3%ADo_Hondo",
+  "description": "A spa city in Santiago del Estero Province."
+}

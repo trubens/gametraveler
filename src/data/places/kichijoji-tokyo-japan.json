@@ -1,0 +1,17 @@
+{
+  "id": "kichijoji-tokyo-japan",
+  "name": "Kichijōji, Tokyo, Japan",
+  "position": {
+    "lat": 35.7031,
+    "lon": 139.5797
+  },
+  "scale": "site",
+  "parentId": "tokyo-japan",
+  "placeType": "neighborhood",
+  "aliases": [
+    "Kichijoji"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kichij%C5%8Dji",
+  "description": "A neighbourhood of Musashino in western Tokyo, centred on a compact shopping area around Kichijōji Station.",
+  "descriptionSource": "wikipedia"
+}

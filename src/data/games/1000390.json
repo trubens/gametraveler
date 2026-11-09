@@ -1,0 +1,32 @@
+{
+  "id": 1000390,
+  "name": "Revelations: Persona",
+  "aliases": [
+    "Megami Ibunroku Persona",
+    "Shin Megami Tensei: Persona",
+    "Persona"
+  ],
+  "year": 1996,
+  "series": "Persona",
+  "publisher": "Atlus",
+  "developer": "Atlus",
+  "genres": [
+    "RPG"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Revelations:_Persona",
+  "reviewed": "2026-11-06",
+  "locations": [
+    {
+      "placeId": "japan",
+      "aliases": [
+        "Mikage-cho",
+        "Lunarvale"
+      ],
+      "settingType": "fictionalized",
+      "note": "After a fortune-telling game, St. Hermelin High students gain Personas and fight through Mikage-cho as SEBEC's Deva System twists the town into a demon-haunted copy of their classmate Maki's ideal world."
+    }
+  ],
+  "storyYears": [
+    1996
+  ]
+}

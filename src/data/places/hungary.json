@@ -1,0 +1,13 @@
+{
+  "id": "hungary",
+  "name": "Hungary",
+  "position": {
+    "lat": 47.09,
+    "lon": 19.45
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hungary",
+  "description": "A landlocked country in the middle of Central Europe, hemmed in by its neighbours on every side."
+}

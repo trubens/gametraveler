@@ -1,0 +1,17 @@
+{
+  "id": "fort-independence-castle-island-boston-usa",
+  "name": "Fort Independence, Castle Island, Boston, USA",
+  "position": {
+    "lat": 42.3381,
+    "lon": -71.0117
+  },
+  "scale": "site",
+  "parentId": "boston-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "Castle Island"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fort_Independence_(Massachusetts)",
+  "description": "The granite harbour fort of the 1850s on Castle Island in South Boston.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "yaniv-railway-station-ukraine",
+  "name": "Yaniv railway station, Pripyat, Ukraine",
+  "position": {
+    "lat": 51.3942,
+    "lon": 30.0564
+  },
+  "scale": "site",
+  "parentId": "pripyat-ukraine",
+  "placeType": "landmark",
+  "aliases": [
+    "Yanov station",
+    "Yanov"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yaniv_railway_station",
+  "description": "An abandoned railway station in the Chernobyl Exclusion Zone that served Pripyat until the 1986 disaster.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Yaniv_railway_station"
+}

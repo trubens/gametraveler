@@ -1,0 +1,14 @@
+{
+  "id": "odaiba-tokyo-japan",
+  "name": "Odaiba, Tokyo, Japan",
+  "position": {
+    "lat": 35.63,
+    "lon": 139.775
+  },
+  "scale": "site",
+  "parentId": "tokyo-japan",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Odaiba",
+  "description": "A large artificial island in Tokyo Bay, across the Rainbow Bridge from central Tokyo.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "monte-fior-italy",
+  "name": "Monte Fior, Italy",
+  "position": {
+    "lat": 45.9164,
+    "lon": 11.6
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Monte_Fior",
+  "description": "A 1,824-metre mountain on the Asiago plateau in the Vicentine Alps of Veneto.",
+  "descriptionSource": "wikipedia"
+}

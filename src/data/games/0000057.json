@@ -1,0 +1,21 @@
+{
+  "id": 57,
+  "name": "Embracelet",
+  "year": 2020,
+  "publisher": "Machineboy",
+  "developer": "Machineboy",
+  "locations": [
+    {
+      "placeId": "nordland-coast-norway",
+      "note": "Teenager Jesper travels to the fading fishing island of Slepp in Nordland to trace a magical bracelet."
+    }
+  ],
+  "storyYears": [
+    2020
+  ],
+  "source": "https://www.nintendo.com/us/store/products/embracelet-switch/",
+  "developerUrl": "https://en.wikipedia.org/wiki/Machineboy",
+  "genres": [
+    "Adventure"
+  ]
+}

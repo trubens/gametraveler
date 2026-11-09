@@ -1,0 +1,13 @@
+{
+  "id": "sacramento-california-usa",
+  "name": "Sacramento, California, USA",
+  "position": {
+    "lat": 38.5816,
+    "lon": -121.4944
+  },
+  "scale": "area",
+  "parentId": "california-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sacramento,_California",
+  "description": "California's capital."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "alter-markt-cologne-germany",
+  "name": "Alter Markt, Cologne, Germany",
+  "position": {
+    "lat": 50.9381,
+    "lon": 6.9594
+  },
+  "scale": "site",
+  "parentId": "cologne-germany",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cologne_City_Hall",
+  "description": "The old market square below the city hall tower, in the heart of the old town by the Rhine.",
+  "descriptionSource": "wikipedia"
+}

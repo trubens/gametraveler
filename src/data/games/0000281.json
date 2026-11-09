@@ -1,0 +1,33 @@
+{
+  "id": 281,
+  "name": "F1 23",
+  "year": 2023,
+  "series": "F1",
+  "developer": "Codemasters",
+  "publisher": "EA Sports",
+  "locations": [
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "Raced as the British Grand Prix, round 10 of 22 in the 2023 season."
+    },
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 14 of 22 in the 2023 season."
+    },
+    {
+      "placeId": "lusail-international-circuit-qatar",
+      "note": "Raced as the Qatar Grand Prix, round 17 of 22 in the 2023 season."
+    },
+    {
+      "placeId": "las-vegas-strip-circuit-nevada-usa",
+      "note": "Raced as the Las Vegas Grand Prix, round 21 of 22 in the 2023 season."
+    }
+  ],
+  "storyYears": [
+    2023
+  ],
+  "source": "https://en.wikipedia.org/wiki/F1_23",
+  "genres": [
+    "Racing"
+  ]
+}

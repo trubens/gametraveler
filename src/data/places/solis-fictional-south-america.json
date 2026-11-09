@@ -1,0 +1,14 @@
+{
+  "id": "solis-fictional-south-america",
+  "name": "Solís, South America",
+  "position": {
+    "lat": -8.0,
+    "lon": -72.0
+  },
+  "scale": "area",
+  "placeType": "region",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Just_Cause_4",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/South_America",
+  "description": "An invented South American country of rainforest, desert, mountains and extreme weather. Pinned on the Andes–Amazon edge, standing in for no one country."
+}

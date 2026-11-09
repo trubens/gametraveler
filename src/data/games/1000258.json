@@ -1,0 +1,60 @@
+{
+  "id": 1000258,
+  "name": "Arsène Lupin: Once a Thief",
+  "aliases": [
+    "Arsene Lupin - Once a Thief",
+    "Arsène Lupin - Voleur un jour"
+  ],
+  "year": 2024,
+  "developer": "Blazing Griffin",
+  "publisher": "Microids",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    1905
+  ],
+  "source": "https://store.steampowered.com/app/2922980/Arsene_Lupin__Once_a_Thief/",
+  "locations": [
+    {
+      "placeId": "chateau-de-malaquis-fictional-seine-normandy-france",
+      "settingType": "fictionalized",
+      "note": "Lupin's first heist targets a Fabergé egg in the vault of Leblanc's invented castle on a rock in the Seine, six kilometres from Caudebec-en-Caux.",
+      "source": "https://steamcommunity.com/id/The_Cpt_FROGGY/recommended/2922980"
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "note": "«The Arrest of Arsène Lupin» plays out aboard the liner La Provence on its way to New York, where Ganimard waits at the gangway.",
+      "source": "https://steamcommunity.com/id/The_Cpt_FROGGY/recommended/2922980"
+    },
+    {
+      "placeId": "prison-de-la-sante-paris-france",
+      "note": "Lupin runs his affairs, and plans his escape, from a cell in the Santé prison.",
+      "source": "https://steamcommunity.com/id/The_Cpt_FROGGY/recommended/2922980"
+    },
+    {
+      "placeId": "chateau-de-thibermesnil-fictional-pays-de-caux-france",
+      "settingType": "fictionalized",
+      "note": "«Herlock Sholmes Arrives Too Late» moves to Leblanc's château in the Pays de Caux near Dieppe.",
+      "source": "https://steamcommunity.com/id/The_Cpt_FROGGY/recommended/2922980"
+    }
+  ],
+  "routes": [
+    {
+      "id": "lupin",
+      "name": "Lupin's early career",
+      "characters": [
+        "Arsène Lupin",
+        "Inspector Ganimard"
+      ],
+      "stops": [
+        "chateau-de-malaquis-fictional-seine-normandy-france",
+        "new-york-city-usa",
+        "prison-de-la-sante-paris-france",
+        "chateau-de-thibermesnil-fictional-pays-de-caux-france"
+      ],
+      "note": "From the heist at the Château de Malaquis and the liner to New York to Lupin's cell in the Santé and the Château de Thibermesnil, each case played as Lupin and as Ganimard.",
+      "source": "https://steamcommunity.com/id/The_Cpt_FROGGY/recommended/2922980"
+    }
+  ]
+}

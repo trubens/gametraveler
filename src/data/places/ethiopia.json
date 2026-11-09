@@ -1,0 +1,13 @@
+{
+  "id": "ethiopia",
+  "name": "Ethiopia",
+  "scale": "area",
+  "position": {
+    "lat": 9.145,
+    "lon": 40.4897
+  },
+  "source": "https://en.wikipedia.org/wiki/Ethiopia",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ethiopia",
+  "placeType": "country",
+  "description": "A landlocked country in the Horn of Africa region of East Africa, with no coast of its own."
+}

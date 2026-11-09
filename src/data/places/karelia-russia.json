@@ -1,0 +1,14 @@
+{
+  "id": "karelia-russia",
+  "name": "Karelia, Russia",
+  "position": {
+    "lat": 63.5,
+    "lon": 33.5
+  },
+  "scale": "area",
+  "parentId": "russia",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Republic_of_Karelia",
+  "description": "The lake-and-forest country of north-western Russia along the Finnish border.",
+  "descriptionSource": "wikipedia"
+}

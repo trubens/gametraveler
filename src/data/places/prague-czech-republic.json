@@ -1,0 +1,13 @@
+{
+  "id": "prague-czech-republic",
+  "name": "Prague, Czech Republic",
+  "position": {
+    "lat": 50.0755,
+    "lon": 14.4378
+  },
+  "scale": "area",
+  "parentId": "czech-republic",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Prague",
+  "description": "The Czech capital on the Vltava River."
+}

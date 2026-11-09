@@ -1,0 +1,13 @@
+{
+  "id": "norrkoping-sweden",
+  "name": "Norrköping, Sweden",
+  "position": {
+    "lat": 58.5877,
+    "lon": 16.1924
+  },
+  "scale": "area",
+  "parentId": "sweden",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Norrk%C3%B6ping",
+  "description": "A city in Östergötland in eastern Sweden."
+}

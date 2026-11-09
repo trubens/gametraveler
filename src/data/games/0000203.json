@@ -1,0 +1,28 @@
+{
+  "id": 203,
+  "name": "Test Drive Unlimited 2",
+  "aliases": [
+    "TDU",
+    "TDU 2"
+  ],
+  "year": 2011,
+  "publisher": "Atari",
+  "series": "Test Drive",
+  "developer": "Eden Games",
+  "locations": [
+    {
+      "placeId": "ibiza-spain",
+      "note": "Ibiza is the new island where the Solar Crown story starts, with roads circling the whole island."
+    },
+    {
+      "placeId": "o-ahu-hawaii-usa",
+      "note": "Oʻahu, returning from the first game, unlocks as the second open-world island."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Test_Drive_Unlimited_2",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

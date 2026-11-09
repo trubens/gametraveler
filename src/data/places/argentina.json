@@ -1,0 +1,12 @@
+{
+  "id": "argentina",
+  "name": "Argentina",
+  "position": {
+    "lat": -38.4161,
+    "lon": -63.6167
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Argentina",
+  "description": "A country in the far south of South America, with Buenos Aires as its capital."
+}

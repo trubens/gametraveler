@@ -1,0 +1,15 @@
+{
+  "id": "lorwich-fictional-virginia-usa",
+  "name": "Lorwich, Virginia, USA",
+  "position": {
+    "lat": 36.87,
+    "lon": -82.78
+  },
+  "scale": "area",
+  "parentId": "virginia-usa",
+  "placeType": "city",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Alone_in_the_Dark:_Illumination",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Virginia",
+  "description": "An invented coal-mining town near Virginia's southern border, abandoned after a flood wrecked its mine. The game names no real basis; the pin in the Southwest Virginia coalfields is a guess."
+}

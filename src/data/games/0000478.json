@@ -1,0 +1,28 @@
+{
+  "id": 478,
+  "name": "Assassin's Creed Identity",
+  "year": 2016,
+  "series": "Assassin's Creed",
+  "developer": "Ubisoft Blue Byte",
+  "publisher": "Ubisoft",
+  "locations": [
+    {
+      "placeId": "florence-italy",
+      "note": "Players undertake assassin missions in Renaissance Florence and Rome."
+    },
+    {
+      "placeId": "rome-italy",
+      "note": "Players undertake assassin missions in Renaissance Florence and Rome."
+    }
+  ],
+  "storyYears": [
+    1501,
+    1506
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Identity",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

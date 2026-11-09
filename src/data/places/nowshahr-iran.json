@@ -1,0 +1,17 @@
+{
+  "id": "nowshahr-iran",
+  "name": "Nowshahr, Iran",
+  "position": {
+    "lat": 36.6475,
+    "lon": 51.4931
+  },
+  "scale": "area",
+  "parentId": "iran",
+  "placeType": "city",
+  "aliases": [
+    "Noshahr"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nowshahr",
+  "description": "A port on the Caspian coast of Mazandaran, with canals and a harbour behind the beach.",
+  "descriptionSource": "wikipedia"
+}

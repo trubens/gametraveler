@@ -1,0 +1,13 @@
+{
+  "id": "circuit-de-la-sarthe-le-mans-france",
+  "name": "Circuit de la Sarthe, Le Mans, France",
+  "position": {
+    "lat": 47.956,
+    "lon": 0.213
+  },
+  "scale": "site",
+  "parentId": "france",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Circuit_de_la_Sarthe",
+  "description": "The racing circuit at Le Mans, partly on public roads, best known for the 24-hour race run on its 24 Heures du Mans layout."
+}

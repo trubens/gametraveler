@@ -1,0 +1,18 @@
+{
+  "id": "tretyakovskaya-station-moscow-russia",
+  "name": "Tretyakovskaya station, Moscow, Russia",
+  "position": {
+    "lat": 55.7412,
+    "lon": 37.6274
+  },
+  "scale": "site",
+  "parentId": "moscow-russia",
+  "placeType": "landmark",
+  "aliases": [
+    "Tretyakovskaya"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tretyakovskaya_(Moscow_Metro)",
+  "description": "A Moscow Metro station complex in Zamoskvorechye, near the Tretyakov Gallery.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Tretyakovskaya_(Moscow_Metro)"
+}

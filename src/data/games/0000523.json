@@ -1,0 +1,21 @@
+{
+  "id": 523,
+  "name": "Root Letter",
+  "year": 2016,
+  "publisher": "PQube",
+  "developer": "Kadokawa Games",
+  "locations": [
+    {
+      "placeId": "matsue-shimane-japan",
+      "note": "The search for a missing pen pal takes the player around Matsue, visiting recognizable landmarks such as Matsue Castle and Shiroyama Park."
+    }
+  ],
+  "storyYears": [
+    2016
+  ],
+  "source": "https://en.wikipedia.org/wiki/Root_Letter",
+  "genres": [
+    "Visual Novel",
+    "Adventure"
+  ]
+}

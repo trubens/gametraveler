@@ -1,0 +1,25 @@
+{
+  "id": 1000112,
+  "name": "Life Is Strange: True Colors",
+  "year": 2021,
+  "publisher": "Square Enix",
+  "series": "Life Is Strange",
+  "developer": "Deck Nine",
+  "locations": [
+    {
+      "placeId": "haven-springs-fictional-colorado-usa",
+      "settingType": "fictionalized",
+      "note": "Alex Chen joins her brother Gabe in the mining town, loses him to a landslide set off by a Typhon blast, and uses her empathy power to expose the cover-up, surviving a fall into an old mineshaft to confront Jed Lucan before the town council.",
+      "source": "https://en.wikipedia.org/wiki/Life_Is_Strange:_True_Colors"
+    }
+  ],
+  "storyYears": [
+    2018,
+    2019
+  ],
+  "source": "https://en.wikipedia.org/wiki/Life_Is_Strange:_True_Colors",
+  "reviewed": "2026-11-02",
+  "genres": [
+    "Interactive Drama"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 365,
+  "name": "Need for Speed: Nitro",
+  "year": 2009,
+  "series": "Need for Speed",
+  "developer": "EA Montreal / Firebrand Games",
+  "publisher": "Electronic Arts",
+  "locations": [
+    {
+      "placeId": "cairo-egypt",
+      "note": "Home turf of Omar, Cairo's street-racing leader, with two daytime street circuits and a drag strip to conquer."
+    },
+    {
+      "placeId": "rio-de-janeiro-brazil",
+      "note": "Muscle-car territory ruled by street-racing leader Thiago, with Christ the Redeemer in view during the daytime races."
+    },
+    {
+      "placeId": "madrid-spain",
+      "note": "Ruled by street-racing leader Luis, with two daytime street circuits and a drag strip."
+    },
+    {
+      "placeId": "singapore",
+      "note": "The only city raced at sunset, ruled by street-racing leader Zarinah, with exotics like the Audi R8 on the grid."
+    },
+    {
+      "placeId": "dubai-uae",
+      "note": "The final city: circuits on Palm Jumeirah and Dubai Marina pass the Burj Khalifa and Burj Al Arab, against toughest leader Jawad."
+    },
+    {
+      "placeId": "san-diego-usa",
+      "note": "Only in the Nintendo DS version, which adds San Diego as a sixth city to the five shared with the Wii game."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Need_for_Speed:_Nitro",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "saarbrucken-germany",
+  "name": "Saarbrücken, Germany",
+  "position": {
+    "lat": 49.2333,
+    "lon": 7.0
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "city",
+  "aliases": [
+    "Saarbrucken"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Saarbr%C3%BCcken",
+  "description": "The capital and largest city of the German state of Saarland, on the Saar river at the French border.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Saarbr%C3%BCcken"
+}

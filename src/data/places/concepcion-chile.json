@@ -1,0 +1,14 @@
+{
+  "id": "concepcion-chile",
+  "name": "Concepción, Chile",
+  "position": {
+    "lat": -36.8282,
+    "lon": -73.0514
+  },
+  "scale": "area",
+  "parentId": "chile",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Concepción,_Chile",
+  "description": "The city of the Bío Bío in south-central Chile, the base of Rally Chile.",
+  "descriptionSource": "wikipedia"
+}

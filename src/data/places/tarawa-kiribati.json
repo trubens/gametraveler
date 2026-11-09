@@ -1,0 +1,13 @@
+{
+  "id": "tarawa-kiribati",
+  "name": "Tarawa, Kiribati",
+  "position": {
+    "lat": 1.4333,
+    "lon": 173
+  },
+  "scale": "area",
+  "parentId": "kiribati",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tarawa",
+  "description": "An atoll in the central Pacific and the capital of Kiribati."
+}

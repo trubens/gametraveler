@@ -1,0 +1,14 @@
+{
+  "id": "colosseum-rome-italy",
+  "name": "Colosseum, Rome, Italy",
+  "position": {
+    "lat": 41.8902,
+    "lon": 12.4922
+  },
+  "scale": "site",
+  "parentId": "rome-italy",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Colosseum",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Colosseum",
+  "description": "The great elliptical amphitheatre in the heart of Rome, just east of the Forum, the largest ever built in the ancient world and still standing today."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "cappadocia-turkey",
+  "name": "Cappadocia, Turkey",
+  "position": {
+    "lat": 38.63,
+    "lon": 34.83
+  },
+  "scale": "area",
+  "parentId": "turkey",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cappadocia",
+  "description": "A historic region of Central Anatolia, spread across Nevşehir, Kayseri and neighbouring provinces, famous for its rock-cut dwellings and fairy chimneys."
+}

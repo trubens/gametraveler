@@ -1,0 +1,85 @@
+{
+  "id": 1000308,
+  "name": "Battlefield 6",
+  "year": 2025,
+  "series": "Battlefield",
+  "developer": "Battlefield Studios",
+  "publisher": "Electronic Arts",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    2027,
+    2028
+  ],
+  "source": "https://en.wikipedia.org/wiki/Battlefield_6",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "georgia",
+      "note": "The prologue: Tempest squad ambushed by Pax Armata at a NATO base in Georgia in September 2027, Murphy the only survivor."
+    },
+    {
+      "placeId": "gibraltar",
+      "note": "Dagger squad retakes Gibraltar from Pax's occupation in March 2028. Iberian Offensive and Saints Quarter are multiplayer maps on the Rock and in the town."
+    },
+    {
+      "placeId": "cairo-egypt",
+      "note": "The extraction of Fayek Selim from occupied Cairo, and the Egyptian tank push on the outskirts. Siege of Cairo is a multiplayer map."
+    },
+    {
+      "placeId": "egypt",
+      "note": "New Sobek City: a multiplayer map in an invented desert city of the near future.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "brooklyn-new-york-usa",
+      "note": "Dagger hunts the Pax cell in Brooklyn before the NATO summit, then fights for the President's motorcade. Manhattan Bridge and Empire State are multiplayer maps in the city."
+    },
+    {
+      "placeId": "tajikistan",
+      "note": "The finale: the assault on Pax Armata's home base and its hypersonic missiles in Tajikistan. Liberation Peak, Mirak Valley and Operation Firestorm are multiplayer maps in the mountains."
+    },
+    {
+      "placeId": "virginia-usa",
+      "note": "Dagger raids Melissa Mills's home in McLean, Virginia, and learns who armed Pax."
+    },
+    {
+      "placeId": "california-usa",
+      "note": "Season 1, California Resistance: Blackwell Fields and Eastwood, multiplayer maps in Southern California."
+    },
+    {
+      "placeId": "las-vegas-usa",
+      "note": "Season 5, Siege of Las Vegas: the Vegas Strip and European Casino maps, from October 2026."
+    },
+    {
+      "placeId": "area-51-usa",
+      "note": "Area 51: a Season 5 map at the Nevada test site."
+    }
+  ],
+  "routes": [
+    {
+      "id": "murphy",
+      "name": "Dylan Murphy and Dagger 1-3",
+      "characters": [
+        "Dylan Murphy",
+        "Haz Carter",
+        "Simone \"Gecko\" Espina",
+        "Cliff Lopez",
+        "Ibrahim Al-Khatib",
+        "Lucas Hemlock"
+      ],
+      "stops": [
+        "georgia",
+        "gibraltar",
+        "cairo-egypt",
+        "brooklyn-new-york-usa",
+        "cairo-egypt",
+        "tajikistan",
+        "virginia-usa"
+      ],
+      "note": "The sole survivor of a Pax Armata ambush in Georgia joins Dagger to retake Gibraltar, lose a defector in Cairo, save the President in Brooklyn, storm Pax's mountain base in Tajikistan and confront their CIA handler at home in Virginia.",
+      "source": "https://en.wikipedia.org/wiki/Battlefield_6"
+    }
+  ]
+}

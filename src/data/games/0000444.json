@@ -1,0 +1,75 @@
+{
+  "id": 444,
+  "name": "Call of Duty: Modern Warfare II (2022)",
+  "year": 2022,
+  "series": "Call of Duty",
+  "developer": "Infinity Ward",
+  "publisher": "Activision",
+  "locations": [
+    {
+      "placeId": "amsterdam-netherlands",
+      "note": "Price, Gaz and Laswell chase one of Hassan's couriers through Amsterdam and learn that Hassan is hiding with the Las Almas cartel in Mexico."
+    },
+    {
+      "placeId": "mexico",
+      "aliases": [
+        "Las Almas"
+      ],
+      "settingType": "fictionalized",
+      "note": "Task Force 141 and Alejandro's Los Vaqueros hunt Hassan through the cartel city of Las Almas; after Shadow Company's betrayal Ghost and Soap escape through it and the team retakes the Vaqueros' base."
+    },
+    {
+      "placeId": "cape-vilan-galicia-spain",
+      "note": "Data from Hassan's phone leads Price, Gaz and Laswell to Cape Vilan, where they find the Las Almas cartel holding Russian-made GPS units for the missiles.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_II_(2022_video_game)"
+    },
+    {
+      "placeId": "gulf-of-mexico",
+      "note": "Dark Water: Task Force 141, Shadow Company and Alejandro raid an oil rig in the Gulf of Mexico to stop a missile launch, and Graves turns on them afterwards.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_II_(2022_video_game)"
+    },
+    {
+      "placeId": "chicago-usa",
+      "note": "Task Force 141 stops Hassan's missile in Chicago before it reaches the Pentagon, and Ghost kills him."
+    },
+    {
+      "placeId": "al-mazrah-fictionalized-middle-eastern-setting",
+      "settingType": "fictionalized",
+      "note": "Al Mazrah, capital of the invented United Republic of Adal, is the campaign's main theatre and the Warzone map."
+    }
+  ],
+  "storyYears": [
+    2022
+  ],
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_II_(2022_video_game)",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Activision",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "task-force-141",
+      "name": "Task Force 141",
+      "characters": [
+        "John Price",
+        "Kyle 'Gaz' Garrick",
+        "Simon 'Ghost' Riley",
+        "John 'Soap' MacTavish",
+        "Alejandro Vargas"
+      ],
+      "stops": [
+        "al-mazrah-fictionalized-middle-eastern-setting",
+        "amsterdam-netherlands",
+        "mexico",
+        "cape-vilan-galicia-spain",
+        "mexico",
+        "gulf-of-mexico",
+        "mexico",
+        "chicago-usa"
+      ],
+      "note": "From a missile strike in Al Mazrah and a courier chase through Amsterdam into the cartel's Las Almas, out to Cape Vilan, back to Mexico and the oil rig in the Gulf, ending with Hassan's missile stopped over Chicago.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_II_(2022_video_game)"
+    }
+  ]
+}

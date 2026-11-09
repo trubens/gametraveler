@@ -1,0 +1,26 @@
+{
+  "id": 547,
+  "name": "Blade Runner",
+  "year": 1997,
+  "publisher": "Virgin Interactive",
+  "developer": "Westwood Studios",
+  "locations": [
+    {
+      "placeId": "los-angeles-usa",
+      "settingType": "fictionalized",
+      "note": "Detective Ray McCoy hunts replicants through the Los Angeles of 2019."
+    },
+    {
+      "placeId": "bradbury-building-los-angeles-usa",
+      "settingType": "fictionalized",
+      "note": "McCoy's trail leads into the Bradbury Building, the film's famous atrium, rebuilt for the game's 2019."
+    }
+  ],
+  "storyYears": [
+    2019
+  ],
+  "source": "https://en.wikipedia.org/wiki/Blade_Runner_(1997_video_game)",
+  "genres": [
+    "Adventure"
+  ]
+}

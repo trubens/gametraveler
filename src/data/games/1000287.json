@@ -1,0 +1,48 @@
+{
+  "id": 1000287,
+  "name": "The Black Mirror",
+  "year": 2003,
+  "series": "Black Mirror",
+  "developer": "Future Games",
+  "publisher": "The Adventure Company",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    1981
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Black_Mirror_(video_game)",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "suffolk-england-uk",
+      "aliases": [
+        "Black Mirror Castle",
+        "Willow Creek"
+      ],
+      "settingType": "fictionalized",
+      "note": "Samuel Gordon returns to Black Mirror, the family's manor, after his grandfather's death in August 1981, searches the village of Willow Creek, its chapel and sanatorium, and follows the curse into the catacombs beneath the castle."
+    },
+    {
+      "placeId": "wales-uk",
+      "settingType": "fictionalized",
+      "note": "The Gordons' second manor, somewhere in Wales."
+    }
+  ],
+  "routes": [
+    {
+      "id": "samuel-gordon",
+      "name": "Samuel Gordon",
+      "characters": [
+        "Samuel Gordon"
+      ],
+      "stops": [
+        "suffolk-england-uk",
+        "wales-uk",
+        "suffolk-england-uk"
+      ],
+      "note": "Samuel comes home to Black Mirror and the village below it, rides to the family's Welsh manor for a key, then returns to the sanatorium and the catacombs where the curse is sealed.",
+      "source": "https://www.walkthroughking.com/text/blackmirror.aspx"
+    }
+  ]
+}

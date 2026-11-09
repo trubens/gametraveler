@@ -1,0 +1,13 @@
+{
+  "id": "melbourne-australia",
+  "name": "Melbourne, Australia",
+  "position": {
+    "lat": -37.8136,
+    "lon": 144.9631
+  },
+  "scale": "area",
+  "parentId": "australia",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Melbourne",
+  "description": "The capital of the Australian state of Victoria."
+}

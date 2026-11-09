@@ -1,0 +1,25 @@
+{
+  "id": 277,
+  "name": "F1 2019",
+  "year": 2019,
+  "series": "F1",
+  "developer": "Codemasters Birmingham",
+  "publisher": "Codemasters / Deep Silver",
+  "locations": [
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "Raced as the British Grand Prix, round 10 of 21 in the 2019 season."
+    },
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 14 of 21 in the 2019 season."
+    }
+  ],
+  "storyYears": [
+    2019
+  ],
+  "source": "https://en.wikipedia.org/wiki/F1_2019_(video_game)",
+  "genres": [
+    "Racing"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ormiston-gorge-australia",
+  "name": "Ormiston Gorge, Australia",
+  "position": {
+    "lat": -23.625,
+    "lon": 132.8
+  },
+  "scale": "area",
+  "parentId": "australia",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ormiston_Pound",
+  "description": "A red gorge and waterhole in the West MacDonnell Ranges west of Alice Springs.",
+  "descriptionSource": "wikipedia"
+}

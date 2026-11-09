@@ -1,0 +1,16 @@
+{
+  "id": "mojave-wasteland-usa-fictionalized-mojave-desert",
+  "name": "Mojave Wasteland, USA",
+  "position": {
+    "lat": 36.5,
+    "lon": -116.5
+  },
+  "scale": "area",
+  "placeType": "natural_feature",
+  "fictional": true,
+  "aliases": [
+    "Mojave Wasteland, USA (fictionalized Mojave Desert)"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mojave_Desert",
+  "description": "A post-nuclear, shrunken Mojave Desert with Las Vegas, Hoover Dam and Primm in their places. Pinned in the desert between them."
+}

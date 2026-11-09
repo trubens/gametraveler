@@ -1,0 +1,116 @@
+{
+  "id": 29,
+  "name": "Call of Duty: Black Ops II",
+  "aliases": [
+    "COD",
+    "COD Black Ops II",
+    "COD Black Ops 2"
+  ],
+  "year": 2012,
+  "publisher": "Activision",
+  "series": "Call of Duty",
+  "developer": "Treyarch",
+  "locations": [
+    {
+      "placeId": "shanghai-china",
+      "note": "Die Rise, one of the Zombies maps, has survivors fighting through the ruined, tilting skyscrapers of Shanghai."
+    },
+    {
+      "placeId": "angola",
+      "note": "In 1986 Mason and Hudson rescue Woods in war-torn Angola and first meet Menendez."
+    },
+    {
+      "placeId": "afghanistan",
+      "note": "Mason and Woods aid the mujahideen in Afghanistan during the Soviet-Afghan War."
+    },
+    {
+      "placeId": "nicaragua",
+      "note": "Mason and Woods raid Menendez's cartel compound in Nicaragua in 1986."
+    },
+    {
+      "placeId": "panama",
+      "note": "During the 1989 US invasion of Panama, Mason and Woods capture Noriega."
+    },
+    {
+      "placeId": "yemen",
+      "note": "In 2025 Section's JSOC team hunts Menendez in Yemen."
+    },
+    {
+      "placeId": "los-angeles-usa",
+      "note": "In 2025 a drone attack on Los Angeles during a G20 summit is a key mission."
+    },
+    {
+      "placeId": "myanmar",
+      "note": "Celerium, 2025: Section's team raids a Myanmar facility to find the rare-earth element behind Menendez's cyberattack."
+    },
+    {
+      "placeId": "lahore-pakistan",
+      "note": "Fallen Angel, 2025: Section and Harper spy on Menendez in flooded Lahore and find he is after the hacker Karma."
+    },
+    {
+      "placeId": "colossus-cayman-islands",
+      "settingType": "fictionalized",
+      "note": "Karma, 2025: Section's team slips into Colossus, a floating city in the Cayman Islands, to rescue the hacker Chloe 'Karma' Lynch and kill Menendez's lieutenant DeFalco.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_II"
+    },
+    {
+      "placeId": "haiti",
+      "note": "Judgment Day: Menendez is tracked to Haiti, where Section leads JSOC into the Cordis Die facility and catches him trying to escape.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_II"
+    },
+    {
+      "placeId": "singapore",
+      "note": "Shipwreck, an optional Strike Force operation: Section's forces must neutralise an SDC freighter at Singapore's Keppel Terminal."
+    }
+  ],
+  "storyYears": [
+    1986,
+    1989,
+    2025
+  ],
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_II",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Treyarch",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Activision",
+  "genres": [
+    "Shooter"
+  ],
+  "routes": [
+    {
+      "id": "mason-woods",
+      "name": "Alex Mason and Frank Woods",
+      "characters": [
+        "Alex Mason",
+        "Frank Woods",
+        "Jason Hudson"
+      ],
+      "stops": [
+        "angola",
+        "afghanistan",
+        "nicaragua",
+        "panama"
+      ],
+      "note": "The 1980s hunt for Menendez runs from a river rescue in Angola through the Afghan mujahideen and the Nicaraguan compound to the trap in invaded Panama.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_II"
+    },
+    {
+      "id": "section",
+      "name": "David 'Section' Mason",
+      "characters": [
+        "David 'Section' Mason",
+        "Mike Harper",
+        "Javier Salazar"
+      ],
+      "stops": [
+        "myanmar",
+        "lahore-pakistan",
+        "colossus-cayman-islands",
+        "yemen",
+        "los-angeles-usa",
+        "haiti"
+      ],
+      "note": "In 2025 Section tracks Menendez from a celerium plant in Myanmar to flooded Lahore, the floating city of Colossus and Socotra in Yemen, defends the President in drone-struck Los Angeles and runs Menendez down in Haiti.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_II"
+    }
+  ]
+}

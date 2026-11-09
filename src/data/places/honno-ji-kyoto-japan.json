@@ -1,0 +1,17 @@
+{
+  "id": "honno-ji-kyoto-japan",
+  "name": "Honnō-ji, Kyoto, Japan",
+  "position": {
+    "lat": 35.0127,
+    "lon": 135.7623
+  },
+  "scale": "site",
+  "parentId": "kyoto-japan",
+  "placeType": "landmark",
+  "aliases": [
+    "Honnoji Temple"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Honn%C5%8D-ji",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honn%C5%8D-ji",
+  "description": "A temple in Kyoto belonging to the Nichiren branch of Japanese Buddhism."
+}

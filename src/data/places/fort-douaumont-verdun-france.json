@@ -1,0 +1,14 @@
+{
+  "id": "fort-douaumont-verdun-france",
+  "name": "Fort Douaumont, Verdun, France",
+  "position": {
+    "lat": 49.2169,
+    "lon": 5.4383
+  },
+  "scale": "site",
+  "parentId": "verdun-france",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fort_Douaumont",
+  "description": "The largest and highest of the ring of forts around Verdun, taken by the Germans in February 1916 and retaken by the French in October.",
+  "descriptionSource": "wikipedia"
+}

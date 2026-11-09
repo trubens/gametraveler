@@ -1,0 +1,14 @@
+{
+  "id": "lake-tahoe-usa",
+  "name": "Lake Tahoe, USA",
+  "position": {
+    "lat": 39.0,
+    "lon": -120.0
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lake_Tahoe",
+  "description": "The deep alpine lake in the Sierra Nevada on the California-Nevada line, ringed by a shore road.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "varmland-sweden",
+  "name": "Värmland, Sweden",
+  "position": {
+    "lat": 60.1,
+    "lon": 13
+  },
+  "scale": "area",
+  "parentId": "sweden",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/V%C3%A4rmland",
+  "description": "A historic province of west-central Sweden, bounded by Norway in the west, with Dalsland, Dalarna and Västmanland among its neighbours."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "grande-halle-de-la-villette-paris-france",
+  "name": "Grande halle de la Villette, Paris, France",
+  "position": {
+    "lat": 48.8908,
+    "lon": 2.3908
+  },
+  "scale": "site",
+  "parentId": "paris-france",
+  "placeType": "landmark",
+  "aliases": [
+    "La Villette",
+    "La Villette slaughterhouses"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Grande_halle_de_la_Villette",
+  "description": "The great iron hall of the old La Villette slaughterhouses in the 19th arrondissement, now a cultural centre.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Grande_halle_de_la_Villette"
+}

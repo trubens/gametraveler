@@ -1,0 +1,75 @@
+{
+  "id": 369,
+  "name": "World Rally Championship",
+  "year": 2001,
+  "developer": "Evolution Studios",
+  "publisher": "Sony Computer Entertainment / BAM! Entertainment",
+  "locations": [
+    {
+      "placeId": "jyvaskyla-finland",
+      "note": "Rally Finland from Jyväskylä."
+    },
+    {
+      "placeId": "monte-carlo-monaco",
+      "note": "The Monte Carlo Rally."
+    },
+    {
+      "placeId": "karlstad-sweden",
+      "note": "The Swedish Rally from Karlstad."
+    },
+    {
+      "placeId": "lloret-de-mar-catalonia-spain",
+      "note": "The Catalunya Rally from Lloret de Mar."
+    },
+    {
+      "placeId": "matosinhos-portugal",
+      "note": "Rally de Portugal from the Porto coast."
+    },
+    {
+      "placeId": "limassol-cyprus",
+      "note": "The Cyprus Rally's slow, rocky gravel."
+    },
+    {
+      "placeId": "villa-carlos-paz-argentina",
+      "note": "Rally Argentina from Villa Carlos Paz."
+    },
+    {
+      "placeId": "athens-greece",
+      "positionOverride": {
+        "lat": 38.433,
+        "lon": 22.425
+      },
+      "note": "The Acropolis Rally, then run from the Athens area.",
+      "source": "https://www.motorsport.com/wrc/news/acropolis-rally-ford-racing-preview-2002-04-15/1890139/"
+    },
+    {
+      "placeId": "nairobi-kenya",
+      "note": "The Safari Rally, the open-road endurance classic out of Nairobi."
+    },
+    {
+      "placeId": "auckland-new-zealand",
+      "note": "Rally New Zealand north of Auckland."
+    },
+    {
+      "placeId": "sanremo-italy",
+      "note": "The Sanremo Rally on Ligurian tarmac."
+    },
+    {
+      "placeId": "ajaccio-corsica-france",
+      "note": "The Tour de Corse from Ajaccio."
+    },
+    {
+      "placeId": "perth-western-australia",
+      "note": "Rally Australia in the forests around Perth."
+    },
+    {
+      "placeId": "cardiff-wales-uk",
+      "note": "The Rally of Great Britain from Cardiff."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/World_Rally_Championship_(2001_video_game)",
+  "genres": [
+    "Racing"
+  ]
+}

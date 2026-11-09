@@ -1,0 +1,52 @@
+{
+  "id": 385,
+  "name": "Colin McRae Rally",
+  "year": 1998,
+  "series": "Colin McRae Rally",
+  "developer": "Codemasters",
+  "publisher": "Codemasters",
+  "locations": [
+    {
+      "placeId": "corsica-france",
+      "note": "The rally championship includes stages on the French island of Corsica."
+    },
+    {
+      "placeId": "new-zealand",
+      "note": "The game includes the 1998 New Zealand rally."
+    },
+    {
+      "placeId": "athens-greece",
+      "positionOverride": {
+        "lat": 38.433,
+        "lon": 22.425
+      },
+      "note": "The Acropolis Rally, then run from the Athens area on rough mountain gravel.",
+      "source": "https://www.rally-maps.com/Acropolis-Rally-of-Greece-1998"
+    },
+    {
+      "placeId": "australia",
+      "note": "The game includes the 1998 Rally Australia."
+    },
+    {
+      "placeId": "monte-carlo-monaco",
+      "note": "The game includes the Monte Carlo Rally."
+    },
+    {
+      "placeId": "karlstad-sweden",
+      "note": "The game includes rally stages based around Karlstad, Sweden."
+    },
+    {
+      "placeId": "wales-uk",
+      "note": "The game includes Rally GB in Wales."
+    },
+    {
+      "placeId": "indonesia",
+      "note": "The game also includes an unofficial rally in Indonesia."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Colin_McRae_Rally_(1998_video_game)",
+  "genres": [
+    "Racing"
+  ]
+}

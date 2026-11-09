@@ -1,0 +1,12 @@
+{
+  "id": "antarctica",
+  "name": "Antarctica",
+  "position": {
+    "lat": -82.8628,
+    "lon": 135
+  },
+  "scale": "area",
+  "placeType": "area",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Antarctica",
+  "description": "Earth's southernmost and least-populated continent, lying almost entirely south of the Antarctic Circle, ringed by the Southern Ocean and holding the South Pole."
+}

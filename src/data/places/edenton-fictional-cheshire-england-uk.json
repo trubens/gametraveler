@@ -1,0 +1,15 @@
+{
+  "id": "edenton-fictional-cheshire-england-uk",
+  "name": "Edenton, Cheshire, England",
+  "position": {
+    "lat": 53.294,
+    "lon": -2.505
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "city",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Contradiction:_Spot_the_Liar!",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_Budworth",
+  "description": "The invented English village of Contradiction: Spot the Liar!, where Detective Jenks investigates a student's death. The village was filmed in Great Budworth in Cheshire, with scenes in St Helens and Mawdesley; the pin stands on Great Budworth."
+}

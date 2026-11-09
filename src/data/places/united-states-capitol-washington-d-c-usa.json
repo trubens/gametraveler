@@ -1,0 +1,19 @@
+{
+  "id": "united-states-capitol-washington-d-c-usa",
+  "name": "United States Capitol, Washington, D.C., USA",
+  "position": {
+    "lat": 38.8897,
+    "lon": -77.0089
+  },
+  "scale": "site",
+  "parentId": "washington-d-c-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "Capitol Building",
+    "The Capitol"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/United_States_Capitol",
+  "description": "The seat of the United States Congress, on Capitol Hill at the east end of the National Mall.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/United_States_Capitol"
+}

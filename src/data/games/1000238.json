@@ -1,0 +1,24 @@
+{
+  "id": 1000238,
+  "name": "Nancy Drew: Tomb of the Lost Queen",
+  "year": 2012,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "cairo-egypt",
+      "aliases": [
+        "Tomb of the Lost Queen"
+      ],
+      "settingType": "fictionalized",
+      "note": "Nancy joins a dig at a newly found tomb in the desert outside Cairo thought to be Nefertari's, to learn who attacked Professor Boyle and what became of an expedition that vanished there sixty years earlier."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Tomb_of_the_Lost_Queen",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

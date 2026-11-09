@@ -1,0 +1,20 @@
+{
+  "id": 535,
+  "name": "A Summer's End – Hong Kong 1986",
+  "year": 2020,
+  "publisher": "Oracle & Bone",
+  "developer": "Oracle & Bone",
+  "storyYears": [
+    1986
+  ],
+  "source": "https://www.asummersend.com/blog/hong-kong",
+  "locations": [
+    {
+      "placeId": "hong-kong-china",
+      "note": "A romance that moves through recognizably 1980s Hong Kong streets, restaurants, shops and nightlife; the city is central to the characters’ lives."
+    }
+  ],
+  "genres": [
+    "Visual Novel"
+  ]
+}

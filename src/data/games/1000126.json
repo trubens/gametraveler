@@ -1,0 +1,22 @@
+{
+  "id": 1000126,
+  "name": "A Space for the Unbound",
+  "year": 2023,
+  "publisher": "Toge Productions",
+  "developer": "Mojiken Studio",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/A_Space_for_the_Unbound",
+  "locations": [
+    {
+      "placeId": "indonesia",
+      "settingType": "fictionalized",
+      "note": "High-school sweethearts Atma and Raya work through a bucket list in Loka, a small town in late-1990s Indonesia, as Raya's powers start to rewrite reality."
+    }
+  ],
+  "storyYears": [
+    1995,
+    1999
+  ]
+}

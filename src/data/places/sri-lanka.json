@@ -1,0 +1,16 @@
+{
+  "id": "sri-lanka",
+  "name": "Sri Lanka",
+  "position": {
+    "lat": 7.58,
+    "lon": 80.7
+  },
+  "scale": "area",
+  "placeType": "country",
+  "aliases": [
+    "Ceylon"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Sri_Lanka",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sri_Lanka",
+  "description": "An island country in South Asia, long known to the outside world as Ceylon."
+}

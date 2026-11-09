@@ -1,0 +1,23 @@
+{
+  "id": 494,
+  "name": "Tokyo Jungle",
+  "year": 2012,
+  "developer": "Crispy's! / Japan Studio",
+  "publisher": "Sony Computer Entertainment",
+  "locations": [
+    {
+      "placeId": "tokyo-japan",
+      "note": "Animals survive in an abandoned Tokyo, including recognizable Shibuya streets."
+    },
+    {
+      "placeId": "shibuya-tokyo-japan",
+      "note": "The overgrown Shibuya crossing and station are the game's best-known ground."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Tokyo_Jungle",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

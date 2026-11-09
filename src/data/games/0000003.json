@@ -1,0 +1,82 @@
+{
+  "id": 3,
+  "name": "Broken Sword: The Shadow of the Templars",
+  "aliases": [
+    "Circle of Blood",
+    "Broken Sword 1",
+    "Broken Sword: Shadow of the Templars - Director's Cut",
+    "Broken Sword: Shadow of the Templars - Reforged"
+  ],
+  "year": 1996,
+  "publisher": "Virgin Interactive",
+  "series": "Broken Sword",
+  "developer": "Revolution Software",
+  "locations": [
+    {
+      "placeId": "paris-france",
+      "note": "A café bombing by the Palais Royal pulls tourist George Stobbart into the Templar mystery; Paris is the hub he returns to between every trip, down to the Templar chamber under Montfauçon."
+    },
+    {
+      "placeId": "lochmarne-fictional-ireland",
+      "settingType": "imaginary",
+      "note": "George follows the manuscript to a dig at Lochmarne castle, where the archaeologist Peagram has vanished.",
+      "source": "https://en.wikipedia.org/wiki/Broken_Sword:_The_Shadow_of_the_Templars"
+    },
+    {
+      "placeId": "syria",
+      "aliases": [
+        "Marib"
+      ],
+      "settingType": "fictionalized",
+      "note": "At the village of Marib George finds the Bull's Head rock and, in a cave beneath it, a lens and a Baphomet idol.",
+      "source": "https://en.wikipedia.org/wiki/Broken_Sword:_The_Shadow_of_the_Templars"
+    },
+    {
+      "placeId": "costa-calida-spain",
+      "aliases": [
+        "Villa de Vasconcellos"
+      ],
+      "settingType": "fictionalized",
+      "note": "The de Vasconcellos villa and mausoleum give up the family chalice, and a second visit opens the well in the grounds.",
+      "source": "https://en.wikipedia.org/wiki/Broken_Sword:_The_Shadow_of_the_Templars"
+    },
+    {
+      "placeId": "bannockburn-scotland-uk",
+      "note": "The night train north ends under the church ruins at Bannockburn, where the Neo-Templars gather for the finale."
+    }
+  ],
+  "storyYears": [
+    1996
+  ],
+  "source": "https://en.wikipedia.org/wiki/Broken_Sword:_The_Shadow_of_the_Templars",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Revolution_Software",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Virgin_Interactive_Entertainment",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "george",
+      "name": "George's investigation",
+      "characters": [
+        "George Stobbart",
+        "Nicole Collard"
+      ],
+      "stops": [
+        "paris-france",
+        "lochmarne-fictional-ireland",
+        "paris-france",
+        "syria",
+        "paris-france",
+        "costa-calida-spain",
+        "paris-france",
+        "costa-calida-spain",
+        "paris-france",
+        "bannockburn-scotland-uk"
+      ],
+      "note": "Paris is the hub: George comes back to Nico's flat after Ireland, Syria and each of two trips to Spain before the train to Scotland.",
+      "source": "https://strategywiki.org/wiki/Broken_Sword:_The_Shadow_of_the_Templars"
+    }
+  ]
+}

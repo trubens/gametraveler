@@ -1,0 +1,14 @@
+{
+  "id": "belvedere-castle-new-york-city-usa",
+  "name": "Belvedere Castle, New York City, USA",
+  "position": {
+    "lat": 40.7794,
+    "lon": -73.969
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Belvedere_Castle",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Belvedere_Castle",
+  "description": "A folly in Central Park, Manhattan, with exhibit rooms, an observation deck and the park's official weather station."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "katas-raj-temples-pakistan",
+  "name": "Katas Raj Temples, Pakistan",
+  "position": {
+    "lat": 32.7236,
+    "lon": 72.951
+  },
+  "scale": "area",
+  "parentId": "pakistan",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Katas_Raj_Temples",
+  "description": "A complex of Hindu temples in the Salt Range of Punjab, Pakistan."
+}

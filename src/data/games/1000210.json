@@ -1,0 +1,23 @@
+{
+  "id": 1000210,
+  "name": "The Abbey",
+  "year": 2008,
+  "developer": "Alcachofa Soft",
+  "publisher": "Crimson Cow",
+  "locations": [
+    {
+      "placeId": "spain",
+      "aliases": [
+        "Nuestra Señora de la Natividad Abbey"
+      ],
+      "settingType": "fictionalized",
+      "note": "Brother Leonardo of Toledo brings the young Bruno to the abbey of Nuestra Señora de la Natividad and investigates a monk's death there.",
+      "source": "https://ivipro.it/it/portfolio-item/the-abbey/"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://store.steampowered.com/app/313200/The_Abbey/",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1000319,
+  "name": "Scratches: Director's Cut",
+  "year": 2007,
+  "aliases": [
+    "Scratches"
+  ],
+  "developer": "Nucleosys",
+  "publisher": "Got Game Entertainment",
+  "genres": [
+    "Adventure",
+    "Survival Horror"
+  ],
+  "storyYears": [
+    1976
+  ],
+  "source": "https://en.wikipedia.org/wiki/Scratches_(video_game)",
+  "locations": [
+    {
+      "placeId": "blackwood-manor-fictional-rothbury-england-uk",
+      "note": "In 1976 the writer Michael Arthate moves into Blackwood Manor outside Rothbury and spends three days uncovering a death from 1963 and a disappearance from 1970. The Director's Cut adds The Last Visit, a reporter's walk through the manor before its demolition.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "rothbury-england-uk",
+      "note": "The town whose outskirts hold the manor, and whose vicar and doctor Michael calls."
+    }
+  ]
+}

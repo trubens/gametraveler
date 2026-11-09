@@ -1,0 +1,12 @@
+{
+  "id": "morocco",
+  "name": "Morocco",
+  "position": {
+    "lat": 31.7917,
+    "lon": -7.0926
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Morocco",
+  "description": "A kingdom on the north-western edge of Africa, where the continent meets the Mediterranean and the Atlantic."
+}

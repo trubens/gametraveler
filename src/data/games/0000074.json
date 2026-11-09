@@ -1,0 +1,20 @@
+{
+  "id": 74,
+  "name": "Alpha Polaris",
+  "year": 2011,
+  "publisher": "Just a Game",
+  "developer": "Turmoil Games",
+  "locations": [
+    {
+      "placeId": "greenland",
+      "note": "A Norwegian biologist at a Greenland research station faces an ancient evil woken by an ion storm."
+    }
+  ],
+  "storyYears": [
+    2011
+  ],
+  "source": "https://en.wikipedia.org/wiki/Alpha_Polaris",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "st-louis-cathedral-new-orleans-usa",
+  "name": "St. Louis Cathedral, New Orleans, USA",
+  "position": {
+    "lat": 29.9579,
+    "lon": -90.0637
+  },
+  "scale": "site",
+  "parentId": "new-orleans-usa",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/St._Louis_Cathedral_(New_Orleans)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/St._Louis_Cathedral_(New_Orleans)",
+  "description": "The Catholic cathedral and basilica of New Orleans, dedicated to Saint Louis, King of France, and a landmark of the old city."
+}

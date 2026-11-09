@@ -1,0 +1,13 @@
+{
+  "id": "yamato-province-japan",
+  "name": "Yamato Province, Japan",
+  "position": {
+    "lat": 34.6851,
+    "lon": 135.8048
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yamato_Province",
+  "description": "A former province of Japan in the Kinai heartland, corresponding to present-day Nara Prefecture, and also known as Washū."
+}

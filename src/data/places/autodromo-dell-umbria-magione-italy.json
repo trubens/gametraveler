@@ -1,0 +1,13 @@
+{
+  "id": "autodromo-dell-umbria-magione-italy",
+  "name": "Autodromo dell’Umbria, Magione, Italy",
+  "position": {
+    "lat": 43.141,
+    "lon": 12.206
+  },
+  "scale": "site",
+  "parentId": "italy",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Autodromo_dell%27Umbria",
+  "description": "A car and motorcycle circuit at Magione in Umbria, west of Perugia and a short way east of Lake Trasimeno."
+}

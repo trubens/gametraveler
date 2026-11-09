@@ -1,0 +1,17 @@
+{
+  "id": "cerbere-france",
+  "name": "Cerbère, France",
+  "position": {
+    "lat": 42.4442,
+    "lon": 3.1656
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "aliases": [
+    "Cerbere"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cerbère",
+  "description": "A railway village on the Mediterranean at the Spanish border, the last stop in France.",
+  "descriptionSource": "wikipedia"
+}

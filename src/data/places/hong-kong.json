@@ -1,0 +1,11 @@
+{
+  "id": "hong-kong",
+  "name": "Hong Kong",
+  "position": {
+    "lat": 22.45,
+    "lon": 114.1
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/"
+}

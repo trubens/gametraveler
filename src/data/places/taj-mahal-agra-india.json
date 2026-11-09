@@ -1,0 +1,13 @@
+{
+  "id": "taj-mahal-agra-india",
+  "name": "Taj Mahal, Agra, India",
+  "position": {
+    "lat": 27.1751,
+    "lon": 78.0421
+  },
+  "scale": "site",
+  "parentId": "agra-india",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Taj_Mahal",
+  "description": "An ivory-white marble mausoleum on the right bank of the Yamuna at Agra, one of the most celebrated buildings in the world."
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1000159,
+  "name": "80 Days (2005)",
+  "year": 2005,
+  "publisher": "Tri Synergy / Focus Home Interactive",
+  "developer": "Frogwares",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/80_Days_(2005_video_game)",
+  "locations": [
+    {
+      "placeId": "cairo-egypt",
+      "note": "Oliver begins his journey in Cairo while searching for the scattered documents."
+    },
+    {
+      "placeId": "mumbai-india",
+      "note": "Bombay is one of the four major cities Oliver must explore to find the documents."
+    },
+    {
+      "placeId": "yokohama-japan",
+      "note": "Oliver travels to Yokohama as part of his worldwide search."
+    },
+    {
+      "placeId": "san-francisco-usa",
+      "note": "San Francisco is the final city in the document hunt."
+    }
+  ],
+  "storyYears": [],
+  "route": true
+}

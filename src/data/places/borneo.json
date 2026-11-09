@@ -1,0 +1,12 @@
+{
+  "id": "borneo",
+  "name": "Borneo",
+  "position": {
+    "lat": 0.9619,
+    "lon": 114.5548
+  },
+  "scale": "area",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Borneo",
+  "description": "A vast island straddling the equator in South-east Asia, the third-largest in the world."
+}

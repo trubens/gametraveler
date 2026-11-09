@@ -1,0 +1,85 @@
+{
+  "id": 1000345,
+  "name": "Alan Wake 2",
+  "year": 2023,
+  "series": "Alan Wake",
+  "aliases": [
+    "Alan Wake II"
+  ],
+  "developer": "Remedy Entertainment",
+  "publisher": "Epic Games Publishing",
+  "genres": [
+    "Survival Horror"
+  ],
+  "storyYears": [
+    2023
+  ],
+  "source": "https://en.wikipedia.org/wiki/Alan_Wake_2",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "cauldron-lake-fictional-washington",
+      "settingType": "fictionalized",
+      "note": "FBI agent Saga Anderson examines Robert Nightingale's ritual murder by the lake, hunts his reanimated body through the woods and finds Alan Wake washed ashore; later Odin and Tor's band plays on the shore to summon Alan back."
+    },
+    {
+      "placeId": "bright-falls-fictional-washington",
+      "settingType": "fictionalized",
+      "note": "Saga and Alex Casey work from the sheriff's station, where Nightingale's corpse escapes the morgue, and question Alan at the Elderwood Palace Lodge before the cult attacks it; Saga searches Valhalla Nursing Home and drives off Scratch, and Alan returns during Deerfest."
+    },
+    {
+      "placeId": "oh-deer-diner-bright-falls-fictional",
+      "settingType": "fictionalized",
+      "note": "Saga questions locals over the counter on her first day in town; during Deerfest Alan comes in and catches a Koskela brothers commercial on the TV."
+    },
+    {
+      "placeId": "watery-fictional-washington",
+      "settingType": "fictionalized",
+      "note": "Saga follows the Cult of the Tree to the coastal town, searching the Koskelas' Coffee World theme park, the trailer park and the Kalevala Knights workshop."
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "settingType": "fictionalized",
+      "note": "Trapped in the Dark Place for 13 years, Alan wanders a nightmare New York of subway stations, a talk-show studio, his old apartment and the Oceanview Hotel; Saga follows him there for the ending."
+    }
+  ],
+  "routes": [
+    {
+      "id": "saga",
+      "name": "Saga Anderson",
+      "characters": [
+        "Saga Anderson"
+      ],
+      "stops": [
+        "cauldron-lake-fictional-washington",
+        "oh-deer-diner-bright-falls-fictional",
+        "cauldron-lake-fictional-washington",
+        "bright-falls-fictional-washington",
+        "watery-fictional-washington",
+        "bright-falls-fictional-washington",
+        "cauldron-lake-fictional-washington",
+        "new-york-city-usa"
+      ],
+      "note": "Saga's Return chapters: the crime scene at the lake, the diner and the morgue, the hunt for Nightingale, Alan's interrogation, Watery, Valhalla Nursing Home and the sheriff's station, the summoning on the lake shore and the Dark Place.",
+      "source": "https://www.neoseeker.com/alan-wake-2/walkthrough"
+    },
+    {
+      "id": "alan",
+      "name": "Alan Wake",
+      "characters": [
+        "Alan Wake"
+      ],
+      "stops": [
+        "new-york-city-usa",
+        "cauldron-lake-fictional-washington",
+        "bright-falls-fictional-washington",
+        "new-york-city-usa",
+        "cauldron-lake-fictional-washington",
+        "bright-falls-fictional-washington",
+        "new-york-city-usa"
+      ],
+      "note": "Alan's Initiation chapters in the Dark Place's New York, washing ashore at the lake and the attack on the Elderwood Palace Lodge, back into the Dark Place, his return through the ritual on the lake shore, Deerfest in Bright Falls, and the Dark Place again for the ending.",
+      "source": "https://www.trueachievements.com/game/Alan-Wake-2/walkthrough/12"
+    }
+  ]
+}

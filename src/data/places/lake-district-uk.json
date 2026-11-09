@@ -1,0 +1,12 @@
+{
+  "id": "lake-district-uk",
+  "name": "Lake District, UK",
+  "position": {
+    "lat": 54.4609,
+    "lon": -3.0886
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lake_District",
+  "description": "A mountainous region and national park in Cumbria, North West England, known as the Lakes or Lakeland."
+}

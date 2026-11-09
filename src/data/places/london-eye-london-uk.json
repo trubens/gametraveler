@@ -1,0 +1,14 @@
+{
+  "id": "london-eye-london-uk",
+  "name": "London Eye, London, UK",
+  "position": {
+    "lat": 51.5033,
+    "lon": -0.1194
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/London_Eye",
+  "description": "The 135-metre observation wheel on the South Bank, opened for the millennium.",
+  "descriptionSource": "wikipedia"
+}

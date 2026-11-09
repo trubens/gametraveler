@@ -1,0 +1,22 @@
+{
+  "id": 463,
+  "name": "Medal of Honor: European Assault",
+  "year": 2005,
+  "series": "Medal of Honor",
+  "developer": "EA Los Angeles",
+  "publisher": "EA Games",
+  "locations": [
+    {
+      "placeId": "saint-nazaire-france",
+      "note": "The opening missions follow Operation Chariot at the port of Saint-Nazaire."
+    }
+  ],
+  "storyYears": [
+    1942
+  ],
+  "source": "https://en.wikipedia.org/wiki/Medal_of_Honor:_European_Assault",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

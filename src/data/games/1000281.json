@@ -1,0 +1,25 @@
+{
+  "id": 1000281,
+  "name": "Postal 4: No Regerts",
+  "year": 2022,
+  "series": "Postal",
+  "developer": "Running with Scissors",
+  "publisher": "Running with Scissors",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    2022
+  ],
+  "source": "https://en.wikipedia.org/wiki/Postal_4:_No_Regerts",
+  "locations": [
+    {
+      "placeId": "arizona-usa",
+      "aliases": [
+        "Edensin"
+      ],
+      "settingType": "fictionalized",
+      "note": "The Dude takes odd jobs in Edensin, an invented Arizona town."
+    }
+  ]
+}

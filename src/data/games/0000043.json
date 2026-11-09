@@ -1,0 +1,50 @@
+{
+  "id": 43,
+  "name": "Tomb Raider: The Angel of Darkness",
+  "year": 2003,
+  "publisher": "Eidos Interactive",
+  "series": "Tomb Raider",
+  "developer": "Core Design",
+  "locations": [
+    {
+      "placeId": "paris-france",
+      "note": "Accused of murdering Von Croy, Lara flees through Paris and probes the Louvre for an Obscura Painting."
+    },
+    {
+      "placeId": "louvre-paris-france",
+      "note": "Lara breaks into the Louvre by night and finds an Obscura Painting in the dig beneath its galleries.",
+      "source": "https://en.wikipedia.org/wiki/Tomb_Raider:_The_Angel_of_Darkness"
+    },
+    {
+      "placeId": "prague-czech-republic",
+      "note": "Lara follows the Monstrum killings to Prague and infiltrates Eckhardt's headquarters in the Strahov Sanitarium."
+    }
+  ],
+  "routes": [
+    {
+      "id": "lara-croft",
+      "name": "Lara Croft",
+      "characters": [
+        "Lara Croft"
+      ],
+      "storyYears": [
+        2003
+      ],
+      "stops": [
+        "paris-france",
+        "prague-czech-republic"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Tomb_Raider:_The_Angel_of_Darkness"
+    }
+  ],
+  "storyYears": [
+    2003
+  ],
+  "source": "https://en.wikipedia.org/wiki/Tomb_Raider:_The_Angel_of_Darkness",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Core_Design",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Eidos_Interactive",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "lake-nicaragua",
+  "name": "Lake Nicaragua, Nicaragua",
+  "position": {
+    "lat": 11.6167,
+    "lon": -85.35
+  },
+  "scale": "area",
+  "parentId": "nicaragua",
+  "placeType": "body_of_water",
+  "aliases": [
+    "Cocibolca",
+    "Lake Cocibolca"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lake_Nicaragua",
+  "description": "Central America's largest lake, Cocibolca, with the volcano island of Ometepe in it.",
+  "descriptionSource": "wikipedia"
+}

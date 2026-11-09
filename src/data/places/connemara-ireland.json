@@ -1,0 +1,14 @@
+{
+  "id": "connemara-ireland",
+  "name": "Connemara, Ireland",
+  "position": {
+    "lat": 53.5,
+    "lon": -9.75
+  },
+  "scale": "area",
+  "parentId": "ireland",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Connemara",
+  "description": "A region on the Atlantic coast of western County Galway, of bogs, lakes and the Twelve Bens mountains.",
+  "descriptionSource": "wikipedia"
+}

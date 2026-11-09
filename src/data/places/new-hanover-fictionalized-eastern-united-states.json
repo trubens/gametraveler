@@ -1,0 +1,16 @@
+{
+  "id": "new-hanover-fictionalized-eastern-united-states",
+  "name": "New Hanover, USA",
+  "position": {
+    "lat": 39,
+    "lon": -85
+  },
+  "scale": "area",
+  "placeType": "area",
+  "fictional": true,
+  "aliases": [
+    "New Hanover (fictionalized eastern United States)"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eastern_United_States",
+  "description": "An invented state of plains, heartland forest and an industrial coast, drawn from the Midwest and Appalachia. Pinned in the Ohio Valley."
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1000103,
+  "name": "The Dagger of Amon Ra",
+  "year": 1992,
+  "publisher": "Sierra On-Line",
+  "developer": "Sierra On-Line",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Laura Bow investigates a theft and murders at the Leyendecker Museum in 1920s New York."
+    }
+  ],
+  "storyYears": [
+    1926
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Dagger_of_Amon_Ra",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ardnamurchan-scotland-uk",
+  "name": "Ardnamurchan, Scotland, UK",
+  "position": {
+    "lat": 56.73,
+    "lon": -6.07
+  },
+  "scale": "area",
+  "parentId": "scotland-uk",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ardnamurchan_distillery",
+  "description": "A remote peninsula in Lochaber in the Scottish Highlands."
+}

@@ -1,0 +1,77 @@
+{
+  "id": 242,
+  "name": "Metro Exodus",
+  "year": 2019,
+  "publisher": "Deep Silver",
+  "series": "Metro",
+  "developer": "4A Games",
+  "locations": [
+    {
+      "placeId": "moscow-russia",
+      "note": "Artyom and the Spartan Rangers escape the Moscow Metro aboard the Aurora at the start of their journey."
+    },
+    {
+      "placeId": "novosibirsk-russia",
+      "note": "Artyom and Miller search the irradiated city and its metro for medicine to save Anna."
+    },
+    {
+      "placeId": "vladivostok-russia",
+      "note": "The Sam's Story expansion follows Sam through Vladivostok's ruined port as he searches for a way back to America."
+    },
+    {
+      "placeId": "volga-river-region-russia",
+      "note": "Crossing the Volga, the Spartans fight the technophobic cult that rules the river and gain a passenger car and a railcar for the Aurora."
+    },
+    {
+      "placeId": "mount-yamantau-russia",
+      "note": "The Spartans reach the Ark inside Mount Yamantau, find its crew turned cannibal, luring survivors with false promises of safety, and fight their way out with a map.",
+      "source": "https://en.wikipedia.org/wiki/Metro_Exodus"
+    },
+    {
+      "placeId": "caspian-sea-region",
+      "settingType": "fictionalized",
+      "note": "In the dried-out Caspian Sea, Artyom helps the local resistance against the slavers who hold a satellite communications centre, and the Spartans leave with fuel and water."
+    },
+    {
+      "placeId": "siberian-taiga-russia",
+      "note": "The Spartans scout a forest valley held by the Children of the Forest, but the dam that shields it from radiation is about to break."
+    },
+    {
+      "placeId": "lake-baikal-russia",
+      "note": "With the map from Novosibirsk, the Spartans settle on the radiation-free shore, where the ending shows either Miller's burial and Artyom taking his place as leader, or Artyom's own funeral.",
+      "source": "https://en.wikipedia.org/wiki/Metro_Exodus"
+    }
+  ],
+  "storyYears": [
+    2035,
+    2036
+  ],
+  "source": "https://en.wikipedia.org/wiki/Metro_Exodus",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Deep_Silver",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "artyom",
+      "name": "Artyom and the Spartans",
+      "characters": [
+        "Artyom",
+        "Anna",
+        "Miller"
+      ],
+      "stops": [
+        "moscow-russia",
+        "volga-river-region-russia",
+        "mount-yamantau-russia",
+        "caspian-sea-region",
+        "siberian-taiga-russia",
+        "novosibirsk-russia",
+        "lake-baikal-russia"
+      ],
+      "note": "Aboard the Aurora from the Moscow Metro across the Volga to the false Ark at Yamantau, the dried-out Caspian and the taiga, then a desperate detour into dead Novosibirsk for Anna's cure before settling at Lake Baikal.",
+      "source": "https://en.wikipedia.org/wiki/Metro_Exodus"
+    }
+  ]
+}

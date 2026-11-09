@@ -1,0 +1,13 @@
+{
+  "id": "granada-spain",
+  "name": "Granada, Spain",
+  "position": {
+    "lat": 37.1773,
+    "lon": -3.5986
+  },
+  "scale": "area",
+  "parentId": "spain",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Granada",
+  "description": "A city in Andalusia in southern Spain."
+}

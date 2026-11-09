@@ -1,0 +1,13 @@
+{
+  "id": "australia-coffs-harbour",
+  "name": "Coffs Harbour, Australia",
+  "position": {
+    "lat": -30.3022,
+    "lon": 153.1189
+  },
+  "scale": "area",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Coffs_Harbour",
+  "description": "A coastal city on the Mid North Coast of New South Wales, on the long shore between Sydney and Brisbane.",
+  "parentId": "australia"
+}

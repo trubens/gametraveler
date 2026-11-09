@@ -1,0 +1,22 @@
+{
+  "id": 1000279,
+  "name": "Postal 2",
+  "year": 2003,
+  "series": "Postal",
+  "developer": "Running with Scissors",
+  "publisher": "Whiptail Interactive",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    2003
+  ],
+  "source": "https://en.wikipedia.org/wiki/Postal_2",
+  "locations": [
+    {
+      "placeId": "paradise-fictional-arizona-usa",
+      "settingType": "fictionalized",
+      "note": "A week of errands in Paradise, Arizona; Paradise Lost returns to the town eleven years on as a wasteland."
+    }
+  ]
+}

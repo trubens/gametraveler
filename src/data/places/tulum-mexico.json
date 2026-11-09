@@ -1,0 +1,13 @@
+{
+  "id": "tulum-mexico",
+  "name": "Tulum, Mexico",
+  "position": {
+    "lat": 20.211,
+    "lon": -87.465
+  },
+  "scale": "area",
+  "parentId": "mexico",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tulum",
+  "description": "The walled ruins of a Mayan city on the cliffs of Quintana Roo."
+}

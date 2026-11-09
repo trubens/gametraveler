@@ -1,0 +1,14 @@
+{
+  "id": "federated-states-of-micronesia",
+  "name": "Federated States of Micronesia",
+  "aliases": [
+    "Micronesia"
+  ],
+  "position": {
+    "lat": 6.89,
+    "lon": 158.23
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/"
+}

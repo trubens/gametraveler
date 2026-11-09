@@ -1,0 +1,17 @@
+{
+  "id": "dobruja-romania",
+  "name": "Dobruja, Romania",
+  "position": {
+    "lat": 44.45,
+    "lon": 28.3333
+  },
+  "scale": "area",
+  "parentId": "romania",
+  "placeType": "region",
+  "aliases": [
+    "Dobrudja"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dobruja",
+  "description": "A historical region between the lower Danube and the Black Sea, divided between Romania and Bulgaria.",
+  "descriptionSource": "wikipedia"
+}

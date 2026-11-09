@@ -1,0 +1,13 @@
+{
+  "id": "aquitaine-france",
+  "name": "Aquitaine, France",
+  "position": {
+    "lat": 44.8378,
+    "lon": -0.5792
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aquitaine",
+  "description": "A historic region of south-western France, once an administrative region in its own right and known in older English as Guyenne."
+}

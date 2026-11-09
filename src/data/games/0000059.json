@@ -1,0 +1,21 @@
+{
+  "id": 59,
+  "name": "Kona",
+  "year": 2017,
+  "publisher": "Parabole",
+  "developer": "Parabole",
+  "locations": [
+    {
+      "placeId": "nord-quebec-canada",
+      "note": "In October 1970 detective Carl Faubert finds a Nord-du-Québec village deserted in a snowstorm."
+    }
+  ],
+  "storyYears": [
+    1970
+  ],
+  "source": "https://en.wikipedia.org/wiki/Kona_(video_game)",
+  "developerUrl": "https://en.wikipedia.org/wiki/Parabola_(disambiguation)",
+  "genres": [
+    "Adventure"
+  ]
+}

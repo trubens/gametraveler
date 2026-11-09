@@ -3,19 +3,55 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-    <title>Game Traveller – where video games take place</title>
+    <!-- Det forhåndsrendrede innholdet (scripts/prerender.mjs) vises mens appen lastes, som en enkel leseside i
+         appens farger; src/main.tsx fjerner det når appen starter. Skjult ga blank side i sekunder på trege telefoner. -->
+    <style>
+      html { background: #ece5d5 }
+      #static-content { box-sizing: border-box; max-width: 44rem; margin: 0 auto; padding: 24px 16px 48px; font-family: 'Archivo Variable', system-ui, sans-serif; color: #1b2a41; line-height: 1.5 }
+      #static-content h1 { font-size: 1.75rem; line-height: 1.2; margin: 0 0 12px; font-weight: 700 }
+      #static-content h2 { font-size: 1.2rem; line-height: 1.3; margin: 28px 0 8px; font-weight: 700 }
+      #static-content p { margin: 0 0 12px }
+      #static-content ul, #static-content ol { margin: 0 0 12px; padding-left: 1.25rem }
+      #static-content ul { list-style: disc }
+      #static-content ol { list-style: decimal }
+      #static-content li { margin: 4px 0 }
+      #static-content a { color: #97321e; text-decoration: underline }
+      html[data-theme=dark] { background: #12100e; color-scheme: dark }
+      html[data-theme=dark] #static-content { color: #efe6d4 }
+      html[data-theme=dark] #static-content a { color: #eb9a84 }
+    </style>
+    <link rel="preconnect" href="https://tiles.openfreemap.org" crossorigin />
+    <title>Game Traveler – where video games take place</title>
     <meta name="description" content="A world map of the real places video games are set in. Find games by city, country and era, and follow a game's journey across the map." />
-    <meta name="theme-color" content="#121214" />
-    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-    <link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png" />
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta name="theme-color" content="#fdfaf2" />
+    <!-- Mørk modus følger systemet (prefers-color-scheme), med mindre leseren har valgt Light eller Dark under
+         Appearance i «…»-menyen (localStorage gt-theme). ?theme=dark|light|system setter valget fra adressen.
+         Settes før siden tegnes, så feil tema ikke blinker forbi. -->
+    <script>
+      try {
+        var theme = new URLSearchParams(location.search).get('theme');
+        if (theme === 'dark' || theme === 'light') localStorage.setItem('gt-theme', theme);
+        else if (theme === 'system') localStorage.removeItem('gt-theme');
+        localStorage.removeItem('gt-dark');
+        localStorage.removeItem('gt-cluster');
+        var pref = localStorage.getItem('gt-theme');
+        if (pref === 'dark' || (pref !== 'light' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+          document.documentElement.dataset.theme = 'dark';
+          document.querySelector('meta[name=theme-color]').setAttribute('content', '#221f1b');
+        }
+      } catch (e) {}
+    </script>
+    <link rel="icon" href="%BASE_URL%favicon.ico?v=fogg" sizes="16x16 32x32" />
+    <link rel="icon" href="%BASE_URL%favicon-32.png?v=fogg" sizes="32x32" type="image/png" />
+    <link rel="icon" href="%BASE_URL%favicon.svg?v=fogg" sizes="any" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="%BASE_URL%apple-touch-icon.png?v=fogg" />
+    <link rel="manifest" href="%VITE_SITE_URL%/manifest.webmanifest" />
     <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="Game Traveller" />
-    <meta property="og:title" content="Game Traveller – where video games take place" />
+    <meta property="og:site_name" content="Game Traveler" />
+    <meta property="og:title" content="Game Traveler – where video games take place" />
     <meta property="og:description" content="A world map of the real places video games are set in. Find games by city, country and era, and follow a game's journey across the map." />
     <meta property="og:url" content="%VITE_SITE_URL%/" />
-    <meta property="og:image" content="%VITE_SITE_URL%/og.png" />
+    <meta property="og:image" content="%VITE_SITE_URL%/og.png?v=fogg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta name="twitter:card" content="summary_large_image" />

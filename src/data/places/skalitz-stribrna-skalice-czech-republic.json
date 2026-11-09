@@ -1,0 +1,13 @@
+{
+  "id": "skalitz-stribrna-skalice-czech-republic",
+  "name": "Skalitz (Stříbrná Skalice), Czech Republic",
+  "position": {
+    "lat": 49.896,
+    "lon": 14.842
+  },
+  "scale": "area",
+  "parentId": "czech-republic",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/St%C5%99%C3%ADbrn%C3%A1_Skalice",
+  "description": "A small village in Central Bohemia east of Prague."
+}

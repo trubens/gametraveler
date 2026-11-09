@@ -1,0 +1,12 @@
+{
+  "id": "willamette-valley-oregon-usa",
+  "name": "Willamette Valley, Oregon, USA",
+  "position": {
+    "lat": 44.6,
+    "lon": -123.1
+  },
+  "scale": "area",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Willamette_Valley",
+  "placeType": "natural_feature",
+  "description": "A long, fertile valley in western Oregon, the settled heartland of the state in the Pacific Northwest."
+}

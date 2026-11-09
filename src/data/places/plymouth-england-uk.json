@@ -1,0 +1,14 @@
+{
+  "id": "plymouth-england-uk",
+  "name": "Plymouth, England, UK",
+  "position": {
+    "lat": 50.3714,
+    "lon": -4.1422
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Plymouth",
+  "description": "The naval port on the south coast of Devon between the Plym and the Tamar, home of the Royal Navy's dockyard at Devonport.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tunguska-russia",
+  "name": "Tunguska, Russia",
+  "position": {
+    "lat": 61.5586,
+    "lon": 101.6016
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tunguska_event",
+  "description": "A remote stretch of taiga on the Stony Tunguska river in Siberia, where an explosion flattened some 2,000 square kilometres of forest on 30 June 1908. No crater was ever found, which has kept the site in legend."
+}

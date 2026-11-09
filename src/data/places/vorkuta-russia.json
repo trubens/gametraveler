@@ -1,0 +1,14 @@
+{
+  "id": "vorkuta-russia",
+  "name": "Vorkuta, Russia",
+  "position": {
+    "lat": 67.5,
+    "lon": 64.0333
+  },
+  "scale": "area",
+  "parentId": "russia",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vorkuta",
+  "description": "A coal-mining town in the Komi Republic just north of the Arctic Circle, founded around one of the largest Gulag labour camps.",
+  "descriptionSource": "wikipedia"
+}

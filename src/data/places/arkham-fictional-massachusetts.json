@@ -1,0 +1,17 @@
+{
+  "id": "arkham-fictional-massachusetts",
+  "name": "Arkham, Massachusetts, USA",
+  "scale": "area",
+  "position": {
+    "lat": 42.55,
+    "lon": -71.8
+  },
+  "parentId": "massachusetts-usa",
+  "placeType": "city",
+  "fictional": true,
+  "aliases": [
+    "Arkham (fictional city)"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arkham",
+  "description": "H. P. Lovecraft's invented college town, home of Miskatonic University, modelled on Salem and Providence. Pinned north-west of Boston, where Lovecraft placed it on the Miskatonic River."
+}

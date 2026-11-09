@@ -1,0 +1,14 @@
+{
+  "id": "ponte-vecchio-florence-italy",
+  "name": "Ponte Vecchio, Florence, Italy",
+  "position": {
+    "lat": 43.7679,
+    "lon": 11.2531
+  },
+  "scale": "site",
+  "parentId": "florence-italy",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Ponte_Vecchio",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ponte_Vecchio",
+  "description": "A medieval stone arch bridge across the Arno in the heart of Florence."
+}

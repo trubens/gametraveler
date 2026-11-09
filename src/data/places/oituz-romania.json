@@ -1,0 +1,14 @@
+{
+  "id": "oituz-romania",
+  "name": "Oituz, Romania",
+  "position": {
+    "lat": 46.2,
+    "lon": 26.6167
+  },
+  "scale": "area",
+  "parentId": "romania",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oituz",
+  "description": "A commune in Bacău County in Western Moldavia, at the pass where Romanian forces held off the Central Powers at Oituz in 1916 and 1917.",
+  "descriptionSource": "wikipedia"
+}

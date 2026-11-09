@@ -1,0 +1,13 @@
+{
+  "id": "dirtfish-rally-school-snoqualmie-usa",
+  "name": "DirtFish Rally School, Snoqualmie, USA",
+  "position": {
+    "lat": 47.5,
+    "lon": -121.8
+  },
+  "scale": "site",
+  "parentId": "snoqualmie-washington-usa",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/DirtFish",
+  "description": "A rally driving school and media company at Snoqualmie, Washington, in the Pacific Northwest."
+}

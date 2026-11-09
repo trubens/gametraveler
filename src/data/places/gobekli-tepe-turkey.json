@@ -1,0 +1,13 @@
+{
+  "id": "gobekli-tepe-turkey",
+  "name": "Göbekli Tepe, Turkey",
+  "position": {
+    "lat": 37.2233,
+    "lon": 38.9224
+  },
+  "scale": "area",
+  "parentId": "turkey",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe",
+  "description": "A Neolithic site in Upper Mesopotamia, in modern Turkey, settled from around 9500 BCE to at least 8000 BCE."
+}

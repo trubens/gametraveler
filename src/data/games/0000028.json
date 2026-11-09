@@ -1,0 +1,55 @@
+{
+  "id": 28,
+  "name": "Uncharted 2: Among Thieves",
+  "year": 2009,
+  "publisher": "Sony Computer Entertainment",
+  "series": "Uncharted",
+  "developer": "Naughty Dog",
+  "locations": [
+    {
+      "placeId": "istanbul-turkey",
+      "note": "The story opens with a museum heist in Istanbul for a clue to Marco Polo's lost fleet."
+    },
+    {
+      "placeId": "borneo",
+      "note": "A jungle dig site in Borneo for Marco Polo's lost fleet draws Drake into Lazarević's hunt."
+    },
+    {
+      "placeId": "nepal",
+      "note": "A war-torn Nepalese city hides the temple clues pointing toward Shambhala."
+    },
+    {
+      "placeId": "tibet-china",
+      "note": "A Tibetan village in the Himalayas is the last stop before the search for Shambhala."
+    }
+  ],
+  "storyYears": [
+    2009
+  ],
+  "source": "https://en.wikipedia.org/wiki/Uncharted_2:_Among_Thieves",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Naughty_Dog",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "nathan-drake",
+      "name": "Nathan Drake",
+      "characters": [
+        "Nathan Drake",
+        "Chloe Frazer",
+        "Elena Fisher"
+      ],
+      "stops": [
+        "istanbul-turkey",
+        "borneo",
+        "nepal",
+        "tibet-china"
+      ],
+      "note": "From a museum heist in Istanbul to Marco Polo's lost fleet in Borneo, through war-torn Nepal and up into the Himalayas in search of Shambhala.",
+      "source": "https://en.wikipedia.org/wiki/Uncharted_2:_Among_Thieves"
+    }
+  ]
+}

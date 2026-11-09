@@ -1,0 +1,17 @@
+{
+  "id": "lofoten-norway",
+  "name": "Lofoten, Norway",
+  "position": {
+    "lat": 68.3333,
+    "lon": 14.6667
+  },
+  "scale": "area",
+  "parentId": "norway",
+  "placeType": "region",
+  "aliases": [
+    "Lofoten Islands"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lofoten",
+  "description": "An archipelago off Nordland in northern Norway, dramatic peaks rising straight out of the sea, with fishing villages along the shore.",
+  "descriptionSource": "wikipedia"
+}

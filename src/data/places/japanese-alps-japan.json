@@ -1,0 +1,14 @@
+{
+  "id": "japanese-alps-japan",
+  "name": "Japanese Alps, Japan",
+  "position": {
+    "lat": 35.6742,
+    "lon": 138.2367
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Japanese_Alps",
+  "description": "The three ranges that cut across central Honshu, with peaks over 3,000 metres.",
+  "descriptionSource": "wikipedia"
+}

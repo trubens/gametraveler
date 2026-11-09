@@ -1,0 +1,84 @@
+{
+  "id": 382,
+  "name": "WRC 10",
+  "year": 2021,
+  "series": "WRC",
+  "developer": "Kylotonn",
+  "publisher": "Nacon",
+  "locations": [
+    {
+      "placeId": "monte-carlo-monaco",
+      "note": "The Monte Carlo Rally."
+    },
+    {
+      "placeId": "torsby-sweden",
+      "note": "Rally Sweden from Torsby."
+    },
+    {
+      "placeId": "zagreb-croatia",
+      "note": "The Croatia Rally, new in 2021, on the tarmac in the hills around Zagreb."
+    },
+    {
+      "placeId": "matosinhos-portugal",
+      "note": "Rally de Portugal from Matosinhos."
+    },
+    {
+      "placeId": "olbia-sardinia-italy",
+      "note": "Rally Italia Sardegna from Olbia."
+    },
+    {
+      "placeId": "naivasha-kenya",
+      "note": "The Safari Rally around Naivasha."
+    },
+    {
+      "placeId": "tartu-estonia",
+      "note": "Rally Estonia, the fastest gravel of the year, from Tartu."
+    },
+    {
+      "placeId": "ypres-belgium",
+      "note": "The Ypres Rally, Belgium's first world round, between the ditches of Flanders."
+    },
+    {
+      "placeId": "lamia-greece",
+      "note": "The Acropolis Rally's return, from Lamia."
+    },
+    {
+      "placeId": "jyvaskyla-finland",
+      "note": "Rally Finland from Jyväskylä."
+    },
+    {
+      "placeId": "salou-spain",
+      "note": "RallyRACC Catalunya from Salou."
+    },
+    {
+      "placeId": "toyota-aichi-japan",
+      "note": "Rally Japan based at Toyota City."
+    },
+    {
+      "placeId": "trier-germany",
+      "note": "Rallye Deutschland, an anniversary rally from Trier."
+    },
+    {
+      "placeId": "auckland-new-zealand",
+      "note": "Rally New Zealand north of Auckland."
+    },
+    {
+      "placeId": "villa-carlos-paz-argentina",
+      "note": "Rally Argentina from Villa Carlos Paz."
+    },
+    {
+      "placeId": "concepcion-chile",
+      "note": "Rally Chile from Concepción."
+    },
+    {
+      "placeId": "llandudno-wales-uk",
+      "note": "Wales Rally GB from Llandudno."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/WRC_10",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

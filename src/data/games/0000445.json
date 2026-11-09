@@ -1,0 +1,23 @@
+{
+  "id": 445,
+  "name": "Call of Duty: Black Ops 6",
+  "year": 2024,
+  "series": "Call of Duty",
+  "developer": "Treyarch / Raven Software",
+  "publisher": "Activision",
+  "locations": [
+    {
+      "placeId": "washington-d-c-usa",
+      "note": "The Most Wanted mission infiltrates a political fundraiser in Washington, D.C."
+    }
+  ],
+  "storyYears": [
+    1991
+  ],
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_6",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Activision",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

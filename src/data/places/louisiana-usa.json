@@ -1,0 +1,14 @@
+{
+  "id": "louisiana-usa",
+  "name": "Louisiana, USA",
+  "scale": "area",
+  "parentId": "united-states",
+  "position": {
+    "lat": 30.9843,
+    "lon": -91.9623
+  },
+  "source": "https://en.wikipedia.org/wiki/Louisiana",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Louisiana",
+  "placeType": "region",
+  "description": "A state in the Deep South of the United States, with Texas to the west, Arkansas to the north and Mississippi to the east."
+}

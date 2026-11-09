@@ -1,0 +1,14 @@
+{
+  "id": "catacombs-of-paris-france",
+  "name": "Catacombs of Paris, Paris, France",
+  "position": {
+    "lat": 48.8339,
+    "lon": 2.3324
+  },
+  "scale": "site",
+  "parentId": "paris-france",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Catacombs_of_Paris",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Catacombs_of_Paris",
+  "description": "Underground ossuaries holding the remains of more than six million people, built to shore up the city's old stone quarries and extending south from the Barrière d'Enfer."
+}

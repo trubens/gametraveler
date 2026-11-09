@@ -1,0 +1,12 @@
+{
+  "id": "virginia-usa",
+  "name": "Virginia, USA",
+  "position": {
+    "lat": 37.4316,
+    "lon": -78.6569
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Virginia",
+  "description": "A state of the US Mid-Atlantic and South-east, stretching from the Atlantic coast to the Appalachian Mountains."
+}

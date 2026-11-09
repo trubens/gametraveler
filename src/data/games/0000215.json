@@ -1,0 +1,18 @@
+{
+  "id": 215,
+  "name": "A Date in the Park",
+  "year": 2014,
+  "publisher": "Cloak and Dagger Games",
+  "developer": "Cloak and Dagger Games",
+  "locations": [
+    {
+      "placeId": "tapada-das-necessidades-lisbon-portugal",
+      "note": "The whole game is the park: Lou wanders Tapada das Necessidades looking for his date, in scenes built from photographs of the real paths and greenhouses."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://store.steampowered.com/app/468530/",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1000289,
+  "name": "Black Mirror III: Final Fear",
+  "year": 2011,
+  "series": "Black Mirror",
+  "developer": "Cranberry Production",
+  "publisher": "dtp entertainment",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    1993
+  ],
+  "source": "https://en.wikipedia.org/wiki/Black_Mirror_III:_Final_Fear",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "suffolk-england-uk",
+      "aliases": [
+        "Willow Creek",
+        "Black Mirror Castle"
+      ],
+      "settingType": "fictionalized",
+      "note": "Arrested as Black Mirror Castle burns, Adrian Gordon clears his name around Willow Creek, reclaims the ruined castle, hunts through the White Woods and ends in the Black Mirror chamber beneath it.",
+      "source": "https://www.gameboomers.com/wtcheats/pcBb/BM3/BM3.htm"
+    }
+  ]
+}

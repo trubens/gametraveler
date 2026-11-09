@@ -1,0 +1,47 @@
+{
+  "id": 476,
+  "name": "Assassin's Creed II: Discovery",
+  "year": 2009,
+  "series": "Assassin's Creed",
+  "developer": "Griptonite Games",
+  "publisher": "Ubisoft",
+  "locations": [
+    {
+      "placeId": "granada-spain",
+      "note": "In Granada Ezio meets Luis again, an Assassin at the King's court, as Ferdinand and Isabella take the city."
+    },
+    {
+      "placeId": "venice-italy",
+      "note": "In Venice Luis de Santángel asks Ezio to protect Christopher Columbus, and Ezio learns that Torquemada has arrested most of the Spanish Assassins."
+    },
+    {
+      "placeId": "barcelona-spain",
+      "note": "In Barcelona Ezio finds the Assassins' headquarters taken by Inquisition soldiers and starts freeing the captured Brotherhood."
+    }
+  ],
+  "storyYears": [
+    1491
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_II:_Discovery",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "ezio-spain",
+      "name": "Ezio in Spain",
+      "characters": [
+        "Ezio Auditore da Firenze"
+      ],
+      "stops": [
+        "venice-italy",
+        "barcelona-spain",
+        "granada-spain"
+      ],
+      "note": "1491 to 1492: Ezio leaves Venice to protect Columbus, frees captured Assassins in Barcelona and ends in Granada as Ferdinand and Isabella take the city.",
+      "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_II:_Discovery"
+    }
+  ]
+}

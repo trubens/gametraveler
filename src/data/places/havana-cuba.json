@@ -1,0 +1,13 @@
+{
+  "id": "havana-cuba",
+  "name": "Havana, Cuba",
+  "position": {
+    "lat": 23.135,
+    "lon": -82.3589
+  },
+  "scale": "area",
+  "parentId": "cuba",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Havana",
+  "description": "Cuba's capital and largest city."
+}

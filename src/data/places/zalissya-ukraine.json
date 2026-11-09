@@ -1,0 +1,14 @@
+{
+  "id": "zalissya-ukraine",
+  "name": "Zalissya, Ukraine",
+  "position": {
+    "lat": 51.255,
+    "lon": 30.1878
+  },
+  "scale": "area",
+  "parentId": "chernobyl-exclusion-zone-ukraine",
+  "placeType": "city",
+  "wikipediaUrl": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BB%D1%96%D1%81%D1%81%D1%8F_(%D0%A7%D0%BE%D1%80%D0%BD%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD)",
+  "description": "An abandoned village in the Chernobyl exclusion zone of northern Ukraine.",
+  "source": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BB%D1%96%D1%81%D1%81%D1%8F_(%D0%A7%D0%BE%D1%80%D0%BD%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD)"
+}

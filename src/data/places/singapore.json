@@ -1,0 +1,12 @@
+{
+  "id": "singapore",
+  "name": "Singapore",
+  "position": {
+    "lat": 1.3521,
+    "lon": 103.8198
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Singapore",
+  "description": "An island city-state at the tip of the Malay Peninsula in Southeast Asia, made up of one main island and dozens of smaller islands and islets."
+}

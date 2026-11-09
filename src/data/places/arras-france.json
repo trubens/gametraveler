@@ -1,0 +1,14 @@
+{
+  "id": "arras-france",
+  "name": "Arras, France",
+  "position": {
+    "lat": 50.292,
+    "lon": 2.78
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arras",
+  "description": "The prefecture of Pas-de-Calais in northern France, fought over in both world wars and known for its two Flemish-baroque squares.",
+  "descriptionSource": "wikipedia"
+}

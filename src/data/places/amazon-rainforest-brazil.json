@@ -1,0 +1,17 @@
+{
+  "id": "amazon-rainforest-brazil",
+  "name": "Amazon rainforest, Brazil",
+  "position": {
+    "lat": -3.4653,
+    "lon": -62.2159
+  },
+  "scale": "area",
+  "parentId": "brazil",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amazon_rainforest",
+  "description": "The Brazilian expanse of the Amazon, a moist tropical rainforest that covers most of the Amazon basin of South America.",
+  "aliases": [
+    "Amazon Jungle, Brazil",
+    "Amazon Jungle"
+  ]
+}

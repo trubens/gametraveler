@@ -1,0 +1,61 @@
+{
+  "id": 38,
+  "name": "Tomb Raider",
+  "year": 1996,
+  "publisher": "Eidos Interactive",
+  "series": "Tomb Raider",
+  "developer": "Core Design",
+  "locations": [
+    {
+      "placeId": "vilcabamba-peru",
+      "note": "Lara's hunt for the Scion begins in the Peruvian Andes: through the lost city of Vilcabamba and the Lost Valley to the tomb of Qualopec."
+    },
+    {
+      "placeId": "greece",
+      "settingType": "fictionalized",
+      "note": "St Francis' Folly: Lara descends through a ruined monastery into the chambers of four gods, past the Colosseum and Midas's palace, to the tomb of Tihocan."
+    },
+    {
+      "placeId": "giza-pyramid-complex-egypt",
+      "note": "Through the lost city of Khamoon to the Sanctuary of the Scion beneath the Sphinx, where Lara takes the third piece and Natla ambushes her."
+    },
+    {
+      "placeId": "atlantis-fictional-atlantic",
+      "settingType": "imaginary",
+      "note": "The final levels take Lara to the lost island of Atlantis, placed where Plato put it: beyond the Pillars of Heracles, out in the Atlantic.",
+      "source": "https://www.wikiraider.com/index.php/Atlantis_(location)"
+    },
+    {
+      "placeId": "croft-manor-fictional-surrey-england-uk",
+      "settingType": "fictionalized",
+      "note": "The training level at Lara's home, reached from the menu."
+    }
+  ],
+  "storyYears": [
+    1996
+  ],
+  "source": "https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game)",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Core_Design",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Eidos_Interactive",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "the-scion",
+      "name": "The hunt for the Scion",
+      "characters": [
+        "Lara Croft"
+      ],
+      "stops": [
+        "vilcabamba-peru",
+        "greece",
+        "giza-pyramid-complex-egypt",
+        "atlantis-fictional-atlantic"
+      ],
+      "note": "Peru, Greece, Egypt, then the lost island of Atlantis.",
+      "source": "https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game)"
+    }
+  ]
+}

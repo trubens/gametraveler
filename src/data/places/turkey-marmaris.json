@@ -1,0 +1,13 @@
+{
+  "id": "turkey-marmaris",
+  "name": "Marmaris, Turkey",
+  "position": {
+    "lat": 36.8533,
+    "lon": 28.2708
+  },
+  "scale": "area",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marmaris",
+  "description": "The resort coast of south-western Turkey around Marmaris, a sailing harbour where the Aegean meets the Mediterranean.",
+  "parentId": "turkey"
+}

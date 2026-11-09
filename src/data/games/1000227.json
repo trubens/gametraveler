@@ -1,0 +1,24 @@
+{
+  "id": 1000227,
+  "name": "Nancy Drew: Curse of Blackmoor Manor",
+  "year": 2004,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "england-uk",
+      "aliases": [
+        "Blackmoor Manor"
+      ],
+      "settingType": "fictionalized",
+      "note": "Nancy visits Linda Penvellyn, newly married into an old family and hidden behind her bed curtains with a strange illness, and with Linda's stepdaughter Jane unravels the Penvellyns' centuries-old puzzles and curse."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Curse_of_Blackmoor_Manor",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

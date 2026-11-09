@@ -1,0 +1,16 @@
+{
+  "id": "san-diego-usa",
+  "name": "San Diego, USA",
+  "position": {
+    "lat": 32.7157,
+    "lon": -117.1611
+  },
+  "scale": "area",
+  "parentId": "california-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/San_Diego",
+  "description": "The southernmost big city on California's Pacific coast.",
+  "aliases": [
+    "San Diego, California, USA"
+  ]
+}

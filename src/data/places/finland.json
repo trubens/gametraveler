@@ -1,0 +1,12 @@
+{
+  "id": "finland",
+  "name": "Finland",
+  "position": {
+    "lat": 64,
+    "lon": 26
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Finland",
+  "description": "A Nordic country in Northern Europe, the easternmost of the Nordic countries."
+}

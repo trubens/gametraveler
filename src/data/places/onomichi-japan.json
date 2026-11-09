@@ -1,0 +1,13 @@
+{
+  "id": "onomichi-japan",
+  "name": "Onomichi, Japan",
+  "position": {
+    "lat": 34.4067,
+    "lon": 133.1961
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Onomichi",
+  "description": "A city in Hiroshima Prefecture."
+}

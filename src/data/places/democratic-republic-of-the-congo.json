@@ -1,0 +1,16 @@
+{
+  "id": "democratic-republic-of-the-congo",
+  "name": "Democratic Republic of the Congo",
+  "aliases": [
+    "Dem. Rep. Congo"
+  ],
+  "position": {
+    "lat": -1.86,
+    "lon": 23.46
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+  "description": "A country in Central Africa, also called Congo-Kinshasa or simply the Congo, and formerly named Zaire."
+}

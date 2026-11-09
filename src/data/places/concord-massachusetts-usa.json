@@ -1,0 +1,14 @@
+{
+  "id": "concord-massachusetts-usa",
+  "name": "Concord, Massachusetts, USA",
+  "position": {
+    "lat": 42.4604,
+    "lon": -71.3489
+  },
+  "scale": "area",
+  "parentId": "massachusetts-usa",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Concord,_Massachusetts",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Concord,_Massachusetts",
+  "description": "A small town in Middlesex County."
+}

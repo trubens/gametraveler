@@ -1,0 +1,82 @@
+{
+  "id": 8,
+  "name": "Secret Files: Tunguska",
+  "year": 2006,
+  "publisher": "Deep Silver",
+  "series": "Secret Files",
+  "developer": "Fusionsphere Systems, Animation Arts",
+  "locations": [
+    {
+      "placeId": "moscow-russia",
+      "note": "Nina's search for her missing father leads from Berlin to Moscow."
+    },
+    {
+      "placeId": "berlin-germany",
+      "note": "Opens in Berlin, where Nina's father vanishes after an attack at his museum."
+    },
+    {
+      "placeId": "tunguska-russia",
+      "note": "The remote site of the 1908 Tunguska explosion is the key to the conspiracy."
+    },
+    {
+      "placeId": "ireland",
+      "note": "The investigation follows evidence to Ireland."
+    },
+    {
+      "placeId": "cuba",
+      "note": "Nina flies to Cuba on the trail of Vladimir's old expedition companion, who was transferred to a clinic there at Dr Charlesroi's request."
+    },
+    {
+      "placeId": "chinese-himalayas",
+      "note": "Nina's investigation reaches a remote temple in the Himalayas."
+    },
+    {
+      "placeId": "antarctica",
+      "note": "The journey reaches an isolated Antarctic research station."
+    }
+  ],
+  "routes": [
+    {
+      "id": "nina",
+      "name": "Nina's investigation",
+      "characters": [
+        "Nina Kalenkov"
+      ],
+      "stops": [
+        "berlin-germany",
+        "moscow-russia",
+        "tunguska-russia",
+        "cuba",
+        "chinese-himalayas",
+        "antarctica"
+      ],
+      "note": "Nina follows her vanished father's trail from Berlin to Moscow, the Tunguska blast site, a clinic in Cuba, a Himalayan temple and an Antarctic research station.",
+      "source": "https://en.wikipedia.org/wiki/Secret_Files:_Tunguska"
+    },
+    {
+      "id": "max",
+      "name": "Max's investigation",
+      "characters": [
+        "Max Gruber"
+      ],
+      "stops": [
+        "berlin-germany",
+        "ireland",
+        "antarctica"
+      ],
+      "note": "Max's Ireland chapter runs in parallel to Nina's Cuba chapter; he reunites with her at the Antarctic finale.",
+      "source": "https://en.wikipedia.org/wiki/Secret_Files:_Tunguska"
+    }
+  ],
+  "storyYears": [
+    2006,
+    1908
+  ],
+  "source": "https://en.wikipedia.org/wiki/Secret_Files:_Tunguska",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Fusionsphere_Systems,_Animation_Arts",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Deep_Silver",
+  "genres": [
+    "Adventure"
+  ]
+}

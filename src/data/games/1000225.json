@@ -1,0 +1,24 @@
+{
+  "id": 1000225,
+  "name": "Nancy Drew: Danger on Deception Island",
+  "year": 2003,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "deception-island-fictionalized-washington",
+      "aliases": [
+        "Snake Horse Harbor"
+      ],
+      "settingType": "fictionalized",
+      "note": "Visiting marine biologist Katie Firestone, Nancy finds her whale-watching boat vandalized and follows the trail to a ring using an orphaned orca to salvage smuggled cargo from a sunken ship."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Danger_on_Deception_Island",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

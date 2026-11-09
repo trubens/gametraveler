@@ -1,0 +1,21 @@
+{
+  "id": 51,
+  "name": "Cognition: An Erica Reed Thriller",
+  "year": 2012,
+  "publisher": "Phoenix Online Studios",
+  "developer": "Phoenix Online Studios",
+  "locations": [
+    {
+      "placeId": "boston-usa",
+      "note": "Boston FBI agent Erica Reed uses post-cognition to hunt serial killers and her brother's murderer."
+    }
+  ],
+  "storyYears": [
+    2012
+  ],
+  "source": "https://en.wikipedia.org/wiki/Cognition:_An_Erica_Reed_Thriller",
+  "developerUrl": "https://en.wikipedia.org/wiki/Phoenix_Online_Studios",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 486,
+  "name": "Like a Dragon: Pirate Yakuza in Hawaii",
+  "year": 2025,
+  "series": "Yakuza / Like a Dragon",
+  "developer": "Ryu Ga Gotoku Studio",
+  "publisher": "Sega",
+  "locations": [
+    {
+      "placeId": "honolulu-hawaii-usa",
+      "note": "Majima meets Naomi in Honolulu, who confirms the Esperanza treasure lies on Nele Island; later the wounded Jason is rushed here for treatment."
+    }
+  ],
+  "storyYears": [
+    2024
+  ],
+  "source": "https://en.wikipedia.org/wiki/Like_a_Dragon:_Pirate_Yakuza_in_Hawaii",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

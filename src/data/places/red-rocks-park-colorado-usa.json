@@ -1,0 +1,13 @@
+{
+  "id": "red-rocks-park-colorado-usa",
+  "name": "Red Rocks Park, Colorado, USA",
+  "position": {
+    "lat": 39.6697,
+    "lon": -105.2033
+  },
+  "scale": "area",
+  "parentId": "colorado-usa",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Red_Rocks_Park",
+  "description": "A mountain park west of Denver known for its huge red sandstone outcrops, owned and run by the city as part of its mountain parks."
+}

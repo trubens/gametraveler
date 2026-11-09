@@ -1,0 +1,13 @@
+{
+  "id": "gotland-sweden",
+  "name": "Gotland, Sweden",
+  "position": {
+    "lat": 57.5,
+    "lon": 18.5
+  },
+  "scale": "area",
+  "parentId": "sweden",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gotland",
+  "description": "Sweden's largest island, historically spelled Gottland or Gothland, and a province in its own right."
+}

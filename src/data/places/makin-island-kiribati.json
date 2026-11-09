@@ -1,0 +1,16 @@
+{
+  "id": "makin-island-kiribati",
+  "name": "Makin Island, Kiribati",
+  "position": {
+    "lat": 3,
+    "lon": 172.9
+  },
+  "scale": "area",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Makin_(atoll)",
+  "description": "The northernmost of the Gilbert Islands, an atoll of Kiribati in the Pacific Ocean.",
+  "aliases": [
+    "Makin Atoll, Kiribati",
+    "Makin Atoll"
+  ]
+}

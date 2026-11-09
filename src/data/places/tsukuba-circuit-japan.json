@@ -1,0 +1,13 @@
+{
+  "id": "tsukuba-circuit-japan",
+  "name": "Tsukuba Circuit, Japan",
+  "position": {
+    "lat": 36.151,
+    "lon": 139.923
+  },
+  "scale": "site",
+  "parentId": "japan",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tsukuba_Circuit",
+  "description": "A motorsport circuit at Shimotsuma in Ibaraki Prefecture, north of Tokyo, next door to the city of Tsukuba."
+}

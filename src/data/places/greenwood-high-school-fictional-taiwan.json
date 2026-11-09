@@ -1,0 +1,19 @@
+{
+  "id": "greenwood-high-school-fictional-taiwan",
+  "name": "Greenwood High School, Taiwan",
+  "position": {
+    "lat": 25.118,
+    "lon": 121.737
+  },
+  "scale": "area",
+  "parentId": "taiwan",
+  "placeType": "landmark",
+  "fictional": true,
+  "aliases": [
+    "Cuihua High School",
+    "翠華中學"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Keelung",
+  "description": "An invented secondary school deep in the Taiwanese mountains, under martial law in the 1960s. It is based on Keelung Senior High School, whose 1947 book-club arrests opened the White Terror; pinned at Keelung.",
+  "source": "https://signalhorizon.com/reality-folklore-and-history-meet-in-the-game-detention/"
+}

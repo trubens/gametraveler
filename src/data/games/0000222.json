@@ -1,0 +1,19 @@
+{
+  "id": 222,
+  "name": "Mundaun",
+  "year": 2021,
+  "publisher": "MWM Interactive",
+  "developer": "Hidden Fields",
+  "locations": [
+    {
+      "placeId": "mundaun-switzerland",
+      "settingType": "fictionalized",
+      "note": "Curdin investigates his grandfather's death in a reimagined Mundaun, past the real Platenga chapel and Alois Carigiet's painted house."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://blog.playstation.com/2021/03/15/mundaun-invites-you-to-a-world-of-hand-drawn-horror-on-ps4-tomorrow/",
+  "genres": [
+    "Adventure"
+  ]
+}

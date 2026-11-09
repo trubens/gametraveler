@@ -1,0 +1,49 @@
+{
+  "id": 138,
+  "name": "Tom Clancy's The Division",
+  "year": 2016,
+  "publisher": "Ubisoft",
+  "series": "The Division",
+  "developer": "Massive Entertainment",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "In a quarantined mid-winter Manhattan after a smallpox virus spread on Black Friday banknotes, the Agent fights the Rioters, the Rikers, the Cleaners and the Last Man Battalion, starting by retaking the JTF checkpoint at the Lincoln Tunnel.",
+      "source": "https://primagames.com/news/division-security-mission-lincoln-tunnel-checkpoint"
+    },
+    {
+      "placeId": "james-a-farley-building-new-york-city-usa",
+      "note": "The Agent reclaims the Farley post office as the Division's base of operations and builds up its medical, tech and security wings.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_The_Division"
+    },
+    {
+      "placeId": "madison-square-garden-new-york-city-usa",
+      "note": "Rioters have taken over the field hospital in Madison Square Garden; the Agent fights through the lobby to the roof and rescues the virologist Dr. Jessica Kandel.",
+      "source": "https://thedivision.wiki.fextralife.com/Madison+Field+Hospital"
+    },
+    {
+      "placeId": "times-square-new-york-city-usa",
+      "note": "In the Times Square Power Relay mission the Agent goes down into the subway under Times Square, cuts the power, finds CCTV footage of a WarrenGate van and holds the relay while the fuse goes back in.",
+      "source": "https://primagames.com/news/division-tech-mission-times-square-power-relay"
+    },
+    {
+      "placeId": "grand-central-terminal-new-york-city-usa",
+      "note": "The Agent assaults a Last Man Battalion checkpoint in the subway, disables its automated turrets and helps the JTF hold Grand Central as a forward base.",
+      "source": "https://thedivision.fandom.com/wiki/Grand_Central_Station"
+    },
+    {
+      "placeId": "united-nations-headquarters-new-york-city-usa",
+      "note": "In the final mission, General Assembly, the JTF and the Agent storm the Last Man Battalion's base in the evacuated UN headquarters, where Charles Bliss makes his last stand and dies.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_The_Division"
+    }
+  ],
+  "storyYears": [
+    2015
+  ],
+  "source": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_The_Division",
+  "reviewed": "2026-11-06",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Third-Person Shooter"
+  ]
+}

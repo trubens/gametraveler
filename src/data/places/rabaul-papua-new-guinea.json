@@ -1,0 +1,13 @@
+{
+  "id": "rabaul-papua-new-guinea",
+  "name": "Rabaul, Papua New Guinea",
+  "position": {
+    "lat": -4.2,
+    "lon": 152.1833
+  },
+  "scale": "area",
+  "parentId": "papua-new-guinea",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rabaul",
+  "description": "A township on New Britain, Japan's main South Pacific base in the war."
+}

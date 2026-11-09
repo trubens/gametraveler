@@ -1,0 +1,48 @@
+{
+  "id": 507,
+  "name": "Agatha Christie: Murder on the Orient Express",
+  "year": 2006,
+  "series": "Agatha Christie",
+  "developer": "AWE Productions",
+  "publisher": "The Adventure Company",
+  "locations": [
+    {
+      "placeId": "new-paltz-new-york-usa",
+      "note": "The game opens with a 1924 flashback to one of Poirot’s earlier cases in New Paltz."
+    },
+    {
+      "placeId": "sirkeci-terminal-istanbul-turkey",
+      "note": "The player begins at Istanbul’s Sirkeci Terminal before boarding the Orient Express."
+    },
+    {
+      "placeId": "yugoslavia-between-vinkovci-and-slavonski-brod",
+      "note": "The train is stopped by an avalanche on the Yugoslav section of the route; the player investigates the snowbound train and its surroundings."
+    }
+  ],
+  "storyYears": [
+    1924,
+    1934
+  ],
+  "source": "https://en.wikipedia.org/wiki/Agatha_Christie:_Murder_on_the_Orient_Express",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/The_Adventure_Company",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "antoinette-marceau",
+      "name": "Antoinette Marceau",
+      "characters": [
+        "Antoinette Marceau",
+        "Hercule Poirot"
+      ],
+      "stops": [
+        "sirkeci-terminal-istanbul-turkey",
+        "yugoslavia-between-vinkovci-and-slavonski-brod"
+      ],
+      "note": "From Istanbul's Sirkeci Terminal westward on the Orient Express until an avalanche traps the train in the Yugoslav snow with a murderer aboard.",
+      "source": "https://en.wikipedia.org/wiki/Agatha_Christie:_Murder_on_the_Orient_Express"
+    }
+  ]
+}

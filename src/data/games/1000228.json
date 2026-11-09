@@ -1,0 +1,27 @@
+{
+  "id": 1000228,
+  "name": "Nancy Drew: Secret of the Old Clock",
+  "year": 2005,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "illinois-usa",
+      "aliases": [
+        "Titusville",
+        "Lilac Inn"
+      ],
+      "settingType": "fictionalized",
+      "note": "Nancy helps 17-year-old Emily Crandall keep the Lilac Inn as someone sabotages it, Josiah Crowley's will goes to a stranger and Emily's guardian turns out to be an impostor."
+    }
+  ],
+  "storyYears": [
+    1930
+  ],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Secret_of_the_Old_Clock",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

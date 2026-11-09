@@ -1,0 +1,12 @@
+{
+  "id": "silverstone-circuit-uk",
+  "name": "Silverstone Circuit, UK",
+  "position": {
+    "lat": 52.0786,
+    "lon": -1.0169
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Silverstone_Circuit",
+  "description": "A motor racing circuit in Northamptonshire between the villages of Silverstone and Whittlebury, home of the British Grand Prix since 1948."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "perth-scotland-uk",
+  "name": "Perth, Scotland, UK",
+  "position": {
+    "lat": 56.3958,
+    "lon": -3.4333
+  },
+  "scale": "area",
+  "parentId": "scotland-uk",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Perth,_Scotland",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Perth,_Scotland",
+  "description": "A central Scottish city on the banks of the River Tay, the administrative centre of Perth and Kinross.",
+  "descriptionSource": "wikipedia"
+}

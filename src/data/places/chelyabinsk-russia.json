@@ -1,0 +1,14 @@
+{
+  "id": "chelyabinsk-russia",
+  "name": "Chelyabinsk, Russia",
+  "position": {
+    "lat": 55.1644,
+    "lon": 61.4368
+  },
+  "scale": "area",
+  "parentId": "russia",
+  "source": "https://en.wikipedia.org/wiki/Chelyabinsk",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chelyabinsk",
+  "placeType": "city",
+  "description": "The largest city of its namesake oblast in Russia."
+}

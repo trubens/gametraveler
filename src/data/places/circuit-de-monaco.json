@@ -1,0 +1,13 @@
+{
+  "id": "circuit-de-monaco",
+  "name": "Circuit de Monaco",
+  "position": {
+    "lat": 43.7347,
+    "lon": 7.4206
+  },
+  "scale": "site",
+  "parentId": "monte-carlo-monaco",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Circuit_de_Monaco",
+  "description": "A street circuit laid out through Monte Carlo and La Condamine around the harbour of Monaco."
+}

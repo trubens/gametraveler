@@ -1,0 +1,14 @@
+{
+  "id": "skipbrot-fictionalized-iceland",
+  "name": "Skipbrot, Iceland",
+  "position": {
+    "lat": 63.4194,
+    "lon": -19.0097
+  },
+  "scale": "area",
+  "placeType": "city",
+  "fictional": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Iceland",
+  "description": "An invented fishing town on the south coast of Iceland, as the game places it; the exact spot is not given, so it is pinned at Vík, midway along that coast.",
+  "source": "https://nancydrew.fandom.com/wiki/Skipbrot"
+}

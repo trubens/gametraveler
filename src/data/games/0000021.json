@@ -1,0 +1,32 @@
+{
+  "id": 21,
+  "name": "Runaway 2: The Dream of the Turtle",
+  "year": 2006,
+  "publisher": "Focus Home Interactive",
+  "series": "Runaway",
+  "developer": "Pendulo Studios",
+  "locations": [
+    {
+      "placeId": "hawaii-usa",
+      "note": "Brian and Gina's Hawaiian holiday goes wrong when their small plane crashes."
+    },
+    {
+      "placeId": "alaska-usa",
+      "note": "The hunt for the missing Gina leads Brian to a snowbound military base in Alaska."
+    },
+    {
+      "placeId": "palenque-mexico",
+      "note": "The Maya ruins of Palenque in Mexico are the game's final destination."
+    }
+  ],
+  "storyYears": [
+    2006
+  ],
+  "source": "https://en.wikipedia.org/wiki/Runaway_2:_The_Dream_of_the_Turtle",
+  "route": true,
+  "publisherUrl": "https://en.wikipedia.org/wiki/Focus_Entertainment",
+  "developerUrl": "https://en.wikipedia.org/wiki/Pendulo_Studios",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "laos",
+  "name": "Laos",
+  "position": {
+    "lat": 19.9,
+    "lon": 102.5
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Laos",
+  "description": "The only landlocked country in Southeast Asia, set in the interior of the mainland."
+}

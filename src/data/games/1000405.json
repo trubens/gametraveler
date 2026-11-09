@@ -1,0 +1,80 @@
+{
+  "id": 1000405,
+  "name": "Tannenberg",
+  "year": 2019,
+  "series": "WW1 Game Series",
+  "developer": "M2H, BlackMill Games",
+  "publisher": "M2H, BlackMill Games",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    1914,
+    1915,
+    1916,
+    1917
+  ],
+  "source": "https://en.wikipedia.org/wiki/Tannenberg_(video_game)",
+  "reviewed": "2026-11-08",
+  "locations": [
+    {
+      "placeId": "masurian-lake-district-poland",
+      "aliases": [
+        "East Prussia"
+      ],
+      "note": "East Prussia: log-walled trenches in dense pine forest along a deep lake, the map inspired by the Masurian Lakes.",
+      "source": "https://m.facebook.com/WW1GameSeries/photos/tannenberg-preview-east-prussia-mapthis-map-is-inspired-by-the-masurian-lakes-ar/1417908084939648/"
+    },
+    {
+      "placeId": "zboriv-ukraine",
+      "aliases": [
+        "Zborov"
+      ],
+      "note": "Ukraine: open plains and long machine-gun sightlines, built from the Zborov trench maps of the Brusilov and Kerensky offensives.",
+      "source": "https://medium.com/@verdunpress/recreating-ukraine-1914-18-9f0f2aecf11f"
+    },
+    {
+      "placeId": "przemysl-poland",
+      "note": "Przemyśl: the fortress city of the war's longest siege, a map added in 2020.",
+      "source": "https://www.gamingonlinux.com/2020/07/wwi-fps-tannenberg-adds-a-big-new-free-map-with-a-famous-fortress-on-a-big-sale/"
+    },
+    {
+      "placeId": "galicia-ukraine",
+      "note": "Galicia: a damaged armoured train in a hilly region of Galicia.",
+      "source": "https://www.m2h.nl/news/authentic-ww1-shooter-tannenberg-released/"
+    },
+    {
+      "placeId": "carpathian-mountains",
+      "note": "Carpathians: a church at the centre of a valley in the Carpathians.",
+      "source": "https://www.m2h.nl/news/authentic-ww1-shooter-tannenberg-released/"
+    },
+    {
+      "placeId": "dobruja-romania",
+      "note": "Dobrudja: the Romanian front with a view of the Danube, the new map at the game's full release in 2019.",
+      "source": "https://www.m2h.nl/news/authentic-ww1-shooter-tannenberg-released/"
+    },
+    {
+      "placeId": "poland",
+      "note": "Poland: fighting for a village on the flat plains of the Eastern Front in Poland, between the German and Russian armies.",
+      "source": "https://www.m2h.nl/news/authentic-ww1-shooter-tannenberg-released/"
+    },
+    {
+      "placeId": "oituz-romania",
+      "settingType": "fictionalized",
+      "aliases": [
+        "Roumania",
+        "Mount Cosna"
+      ],
+      "note": "Roumania: a map inspired by Mount Cosna, the Second Battle of Oituz in 1916 and the western parts of Romania.",
+      "source": "https://warhistoryonline.com/instant-articles/romanians-join-the-fight.html"
+    },
+    {
+      "placeId": "latvia",
+      "aliases": [
+        "The Baltic"
+      ],
+      "note": "The Baltic: swamps, dunes and wooden fortifications around lakes, from the free Latvia expansion of 2019.",
+      "source": "https://www.moddb.com/news/gather-under-the-latvian-flag-free-expansion-for-tannenberg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "tuileries-palace-paris-france",
+  "name": "Tuileries Palace, Paris, France",
+  "position": {
+    "lat": 48.8637,
+    "lon": 2.3287
+  },
+  "scale": "site",
+  "parentId": "paris-france",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Tuileries_Palace",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tuileries_Palace",
+  "description": "A royal palace that stood on the right bank of the Seine, directly west of the Louvre, before fire and demolition swept it away in the nineteenth century."
+}

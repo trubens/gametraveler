@@ -1,0 +1,14 @@
+{
+  "id": "highland-park-michigan-usa",
+  "name": "Highland Park, Michigan, USA",
+  "position": {
+    "lat": 42.4056,
+    "lon": -83.0969
+  },
+  "scale": "area",
+  "parentId": "michigan-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Highland_Park,_Michigan",
+  "description": "A small city surrounded by Detroit, once home of Ford's first moving assembly line, emptied by the auto industry's decline.",
+  "descriptionSource": "wikipedia"
+}

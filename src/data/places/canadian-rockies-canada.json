@@ -1,0 +1,14 @@
+{
+  "id": "canadian-rockies-canada",
+  "name": "Canadian Rockies, Canada",
+  "position": {
+    "lat": 53.1106,
+    "lon": -119.1558
+  },
+  "scale": "area",
+  "parentId": "canada",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Canadian_Rockies",
+  "description": "The Canadian stretch of the Rocky Mountains along the Alberta-British Columbia border, with Banff and Jasper among its peaks.",
+  "descriptionSource": "wikipedia"
+}

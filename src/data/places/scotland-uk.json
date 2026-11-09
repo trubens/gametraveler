@@ -1,0 +1,12 @@
+{
+  "id": "scotland-uk",
+  "name": "Scotland, UK",
+  "position": {
+    "lat": 57.8956,
+    "lon": -6.3695
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Scotland",
+  "description": "The northern part of the island of Great Britain and its islands, chiefly the Hebrides and the Northern Isles, a country within the United Kingdom."
+}

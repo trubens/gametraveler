@@ -1,0 +1,22 @@
+{
+  "id": 466,
+  "name": "Medal of Honor (2010)",
+  "year": 2010,
+  "series": "Medal of Honor",
+  "developer": "Danger Close Games (single-player) / DICE (multiplayer) / EA Mobile (J2ME)",
+  "publisher": "Electronic Arts",
+  "locations": [
+    {
+      "placeId": "afghanistan",
+      "note": "The campaign follows special forces operations in Afghanistan."
+    }
+  ],
+  "storyYears": [
+    2002
+  ],
+  "source": "https://en.wikipedia.org/wiki/Medal_of_Honor_(2010_video_game)",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

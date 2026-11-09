@@ -1,0 +1,61 @@
+{
+  "id": 1000141,
+  "name": "Nancy Drew: The Shattered Medallion",
+  "year": 2014,
+  "publisher": "Her Interactive",
+  "series": "Nancy Drew",
+  "developer": "Her Interactive",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://www.herinteractive.com/shop-games/the-shattered-medallion/",
+  "reviewed": "2026-11-03",
+  "locations": [
+    {
+      "placeId": "lake-wakatipu-new-zealand",
+      "note": "Nancy and George join the Pacific Run reality contest at its base camp, where the first challenges are trains and plants.",
+      "source": "https://www.gameboomers.com/wtcheats/pcNn/ND30/ND30.htm"
+    },
+    {
+      "placeId": "mossburn-new-zealand",
+      "note": "Team Tui's challenge at the woolshed; George is badly hurt in a fall from the rope bridge, and Bess takes her place.",
+      "source": "https://www.gameboomers.com/wtcheats/pcNn/ND30/ND30.htm"
+    },
+    {
+      "placeId": "doubtful-sound-new-zealand",
+      "note": "Nancy races kayaks between buoys and takes a minisub down from the underwater observatory.",
+      "source": "https://www.gameboomers.com/wtcheats/pcNn/ND30/ND30.htm"
+    },
+    {
+      "placeId": "cromwell-new-zealand",
+      "note": "Nancy works through two old gold-mine tunnels for a piece of the medallion.",
+      "source": "https://www.gameboomers.com/wtcheats/pcNn/ND30/ND30.htm"
+    },
+    {
+      "placeId": "lake-te-anau-new-zealand",
+      "note": "In a cave on the lake Nancy deciphers Māori symbols for the last piece and confronts the man behind the contest.",
+      "source": "https://www.gameboomers.com/wtcheats/pcNn/ND30/ND30.htm"
+    }
+  ],
+  "storyYears": [],
+  "routes": [
+    {
+      "id": "pacific-run",
+      "name": "The Pacific Run",
+      "characters": [
+        "Nancy Drew",
+        "George Fayne",
+        "Bess Marvin"
+      ],
+      "stops": [
+        "lake-wakatipu-new-zealand",
+        "mossburn-new-zealand",
+        "doubtful-sound-new-zealand",
+        "cromwell-new-zealand",
+        "lake-te-anau-new-zealand"
+      ],
+      "note": "The contest's five stages, from the base camp on Lake Wakatipu to the final cave on Lake Te Anau.",
+      "source": "https://www.uhs-hints.com/uhsweb/nancydrew30"
+    }
+  ]
+}

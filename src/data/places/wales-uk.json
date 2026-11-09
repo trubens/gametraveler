@@ -1,0 +1,12 @@
+{
+  "id": "wales-uk",
+  "name": "Wales, UK",
+  "position": {
+    "lat": 53.2,
+    "lon": -3
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wales",
+  "description": "A country of the western United Kingdom, a land of mountains, castles and the Welsh language."
+}

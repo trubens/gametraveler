@@ -1,0 +1,17 @@
+{
+  "id": "pylos-greece",
+  "name": "Pylos, Greece",
+  "position": {
+    "lat": 36.9139,
+    "lon": 21.6964
+  },
+  "scale": "area",
+  "parentId": "greece",
+  "placeType": "city",
+  "aliases": [
+    "Navarino"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pylos",
+  "description": "The bay town in Messenia where Athens defeated Sparta in 425 BC, later Navarino.",
+  "descriptionSource": "wikipedia"
+}

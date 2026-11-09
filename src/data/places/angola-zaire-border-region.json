@@ -1,0 +1,16 @@
+{
+  "id": "angola-zaire-border-region",
+  "name": "Angola–DR Congo border",
+  "position": {
+    "lat": -7.5,
+    "lon": 18.5
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angola",
+  "description": "The borderlands between Angola and the Democratic Republic of the Congo, called Zaire from 1971 to 1997.",
+  "aliases": [
+    "Angola–Zaire border region",
+    "Zaire"
+  ]
+}

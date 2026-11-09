@@ -1,0 +1,14 @@
+{
+  "id": "new-england-usa",
+  "name": "New England, USA",
+  "position": {
+    "lat": 44.0,
+    "lon": -71.0
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/New_England",
+  "description": "The six north-eastern states of the United States, from Connecticut to Maine.",
+  "descriptionSource": "wikipedia"
+}

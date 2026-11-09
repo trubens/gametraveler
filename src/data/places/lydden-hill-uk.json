@@ -1,0 +1,12 @@
+{
+  "id": "lydden-hill-uk",
+  "name": "Lydden Hill, UK",
+  "position": {
+    "lat": 51.2,
+    "lon": 1.2
+  },
+  "scale": "area",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lydden_Hill_Race_Circuit",
+  "description": "A motorsport circuit in the Kent countryside, about halfway between Canterbury and Dover."
+}

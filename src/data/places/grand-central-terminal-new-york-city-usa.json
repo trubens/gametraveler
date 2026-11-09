@@ -1,0 +1,14 @@
+{
+  "id": "grand-central-terminal-new-york-city-usa",
+  "name": "Grand Central Terminal, New York City, USA",
+  "position": {
+    "lat": 40.7528,
+    "lon": -73.9772
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Grand_Central_Terminal",
+  "description": "The Beaux-Arts railway terminal at 42nd Street with the most platforms of any station in the world.",
+  "descriptionSource": "wikipedia"
+}

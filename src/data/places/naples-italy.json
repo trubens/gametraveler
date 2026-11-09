@@ -1,0 +1,13 @@
+{
+  "id": "naples-italy",
+  "name": "Naples, Italy",
+  "position": {
+    "lat": 40.8533,
+    "lon": 14.3056
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Naples",
+  "description": "The capital of Campania in southern Italy."
+}

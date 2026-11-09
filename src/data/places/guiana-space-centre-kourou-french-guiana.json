@@ -1,0 +1,17 @@
+{
+  "id": "guiana-space-centre-kourou-french-guiana",
+  "name": "Guiana Space Centre, Kourou, French Guiana",
+  "position": {
+    "lat": 5.169,
+    "lon": -52.6903
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "venue",
+  "aliases": [
+    "Kourou"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Guiana_Space_Centre",
+  "description": "Europe's spaceport on the coast of French Guiana, from which Ariane rockets launch over the Atlantic.",
+  "descriptionSource": "wikipedia"
+}

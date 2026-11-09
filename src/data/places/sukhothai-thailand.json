@@ -1,0 +1,13 @@
+{
+  "id": "sukhothai-thailand",
+  "name": "Sukhothai, Thailand",
+  "position": {
+    "lat": 17.0078,
+    "lon": 99.8232
+  },
+  "scale": "area",
+  "parentId": "thailand",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sukhothai_Thani",
+  "placeType": "city",
+  "description": "A small town on the Yom River."
+}

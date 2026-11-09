@@ -1,0 +1,13 @@
+{
+  "id": "bergen-norway",
+  "name": "Bergen, Norway",
+  "position": {
+    "lat": 60.3913,
+    "lon": 5.3221
+  },
+  "scale": "area",
+  "parentId": "norway",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bergen",
+  "description": "Norway's second city after Oslo."
+}

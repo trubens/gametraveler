@@ -1,0 +1,15 @@
+{
+  "id": "chambois-france",
+  "name": "Chambois, France",
+  "position": {
+    "lat": 48.8058,
+    "lon": 0.1061
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Chambois,_Orne",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chambois,_Orne",
+  "description": "A former commune in the Orne department in Normandy, merged into Gouffern en Auge in 2017.",
+  "descriptionSource": "wikipedia"
+}

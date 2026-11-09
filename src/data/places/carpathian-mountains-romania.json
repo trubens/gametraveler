@@ -1,0 +1,13 @@
+{
+  "id": "carpathian-mountains-romania",
+  "name": "Carpathian Mountains, Romania",
+  "position": {
+    "lat": 45.5,
+    "lon": 25
+  },
+  "scale": "area",
+  "parentId": "romania",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carpathian_Mountains",
+  "description": "The mountain range that sweeps in an arc across Central and south-eastern Europe, with its greatest stretch in Romania."
+}

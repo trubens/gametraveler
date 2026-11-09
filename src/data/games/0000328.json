@@ -1,0 +1,23 @@
+{
+  "id": 328,
+  "name": "MotoGP (2000)",
+  "year": 2000,
+  "series": "MotoGP",
+  "developer": "Namco",
+  "publisher": "Namco",
+  "locations": [
+    {
+      "placeId": "mugello-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 6 of 16 in the 2000 MotoGP season."
+    },
+    {
+      "placeId": "suzuka-international-racing-course-japan",
+      "note": "Raced as the Japanese Grand Prix, round 3 of 16 in the 2000 MotoGP season."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/MotoGP_(2000_video_game)",
+  "genres": [
+    "Racing"
+  ]
+}

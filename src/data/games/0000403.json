@@ -1,0 +1,20 @@
+{
+  "id": 403,
+  "name": "Nancy Drew: Stay Tuned for Danger",
+  "year": 1999,
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "publisher": "DreamCatcher",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Staying with soap star Mattie Jensen, Nancy tracks down whoever is sending death threats to her co-star Rick Arlen behind the scenes at the WWB television studios."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Stay_Tuned_for_Danger",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

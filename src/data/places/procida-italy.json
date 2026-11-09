@@ -1,0 +1,13 @@
+{
+  "id": "procida-italy",
+  "name": "Procida, Italy",
+  "position": {
+    "lat": 40.7564,
+    "lon": 14.0146
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Procida",
+  "description": "One of the Phlegraean Islands off Naples, a small island lying between Cape Miseno and the larger Ischia."
+}

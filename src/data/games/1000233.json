@@ -1,0 +1,21 @@
+{
+  "id": 1000233,
+  "name": "Nancy Drew: Ransom of the Seven Ships",
+  "year": 2009,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "dread-isle-fictionalized-bahamas",
+      "settingType": "fictionalized",
+      "note": "Bess is kidnapped during a prize holiday on Dread Isle, and Nancy must crack the riddle of the pirate El Toro's lost fleet of seven ships to get her back."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Ransom_of_the_Seven_Ships",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

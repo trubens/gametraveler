@@ -1,0 +1,19 @@
+{
+  "id": 350,
+  "name": "Project CARS",
+  "year": 2015,
+  "series": "Project CARS",
+  "developer": "Slightly Mad Studios",
+  "publisher": "Bandai Namco Entertainment",
+  "locations": [
+    {
+      "placeId": "brands-hatch-uk",
+      "note": "The Brands Hatch circuit is recreated as a playable racing venue."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Project_CARS_(video_game)",
+  "genres": [
+    "Racing"
+  ]
+}

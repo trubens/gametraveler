@@ -1,0 +1,32 @@
+{
+  "id": 1000191,
+  "name": "Deadly Premonition 2: A Blessing in Disguise",
+  "year": 2020,
+  "series": "Deadly Premonition",
+  "developer": "TOYBOX Inc.",
+  "publisher": "TOYBOX Inc.",
+  "locations": [
+    {
+      "placeId": "boston-usa",
+      "note": "The framing investigation with FBI agents Aaliyah Davis and Simon Jones takes place in Boston in 2019.",
+      "source": "https://toybox-games.jp/dp2_eng/"
+    },
+    {
+      "placeId": "louisiana-usa",
+      "aliases": [
+        "Le Carré"
+      ],
+      "settingType": "fictionalized",
+      "note": "Francis York Morgan investigates the 2005 murder of Lilith Ann Sullivan in Le Carré, a case reopened in the story's 2019 frame.",
+      "source": "https://toybox-games.jp/dp2_eng/"
+    }
+  ],
+  "storyYears": [
+    2005,
+    2019
+  ],
+  "source": "https://toybox-games.jp/dp2_eng/",
+  "genres": [
+    "Adventure"
+  ]
+}

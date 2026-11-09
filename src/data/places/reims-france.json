@@ -1,0 +1,13 @@
+{
+  "id": "reims-france",
+  "name": "Reims, France",
+  "position": {
+    "lat": 49.2583,
+    "lon": 4.0317
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Reims",
+  "description": "A city on the Vesle river north-east of Paris."
+}

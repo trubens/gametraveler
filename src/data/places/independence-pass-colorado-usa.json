@@ -1,0 +1,14 @@
+{
+  "id": "independence-pass-colorado-usa",
+  "name": "Independence Pass, Colorado, USA",
+  "position": {
+    "lat": 39.1081,
+    "lon": -106.5644
+  },
+  "scale": "area",
+  "parentId": "colorado-usa",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Independence_Pass_(Colorado)",
+  "description": "A 12,095-foot pass on the Continental Divide east of Aspen, the highest paved crossing in Colorado.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "boston-common-boston-usa",
+  "name": "Boston Common, Boston, USA",
+  "position": {
+    "lat": 42.355,
+    "lon": -71.0656
+  },
+  "scale": "site",
+  "parentId": "boston-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Boston_Common",
+  "description": "The oldest public park in the United States, bought by the town in 1634 for grazing and militia drill.",
+  "descriptionSource": "wikipedia"
+}

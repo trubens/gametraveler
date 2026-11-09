@@ -1,0 +1,31 @@
+{
+  "id": 1000391,
+  "name": "Persona 2: Innocent Sin",
+  "aliases": [
+    "Shin Megami Tensei: Persona 2 – Innocent Sin"
+  ],
+  "year": 1999,
+  "series": "Persona",
+  "publisher": "Atlus",
+  "developer": "Atlus",
+  "genres": [
+    "RPG"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Persona_2:_Innocent_Sin",
+  "reviewed": "2026-11-06",
+  "locations": [
+    {
+      "placeId": "japan",
+      "aliases": [
+        "Sumaru City",
+        "Sumaru"
+      ],
+      "settingType": "fictionalized",
+      "note": "In Sumaru City, a seaside city whose districts the developers based on Shibuya, Yamate and Odaiba, rumours start coming true; Tatsuya Suou and his Seven Sisters friends hunt the Joker until the city is lifted into the sky as the spaceship Xibalba.",
+      "source": "https://en.wikipedia.org/wiki/Persona_2:_Innocent_Sin"
+    }
+  ],
+  "storyYears": [
+    1999
+  ]
+}

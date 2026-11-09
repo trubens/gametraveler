@@ -1,0 +1,13 @@
+{
+  "id": "debrecen-hungary",
+  "name": "Debrecen, Hungary",
+  "position": {
+    "lat": 47.5316,
+    "lon": 21.6273
+  },
+  "scale": "area",
+  "parentId": "hungary",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Debrecen",
+  "description": "Hungary's second city."
+}

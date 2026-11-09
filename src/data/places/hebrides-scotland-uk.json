@@ -1,0 +1,14 @@
+{
+  "id": "hebrides-scotland-uk",
+  "name": "Hebrides, Scotland, UK",
+  "position": {
+    "lat": 57,
+    "lon": -7
+  },
+  "scale": "area",
+  "parentId": "scotland-uk",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hebrides",
+  "description": "The islands off Scotland's west coast, from Skye and Mull to the Atlantic-facing Outer Hebrides.",
+  "descriptionSource": "wikipedia"
+}

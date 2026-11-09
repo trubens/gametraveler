@@ -1,0 +1,72 @@
+{
+  "id": 161,
+  "name": "inFamous Second Son",
+  "series": "inFamous",
+  "year": 2014,
+  "publisher": "Sony Computer Entertainment",
+  "developer": "Sucker Punch Productions",
+  "locations": [
+    {
+      "placeId": "akomish-reservation-fictional-washington-usa",
+      "note": "Graffiti artist Delsin Rowe pulls the Conduit Hank from a crashed D.U.P. truck and absorbs his smoke powers; Brooke Augustine then leaves the tribe dying from concrete shards, and Delsin returns at the end to heal or be exiled."
+    },
+    {
+      "placeId": "seattle-usa",
+      "note": "Under D.U.P. martial law, Delsin and his brother Reggie fight to free the city district by district, taking the neon and video powers of Fetch and Eugene, before storming Augustine's D.U.P. tower."
+    },
+    {
+      "placeId": "pioneer-square-seattle-usa",
+      "note": "Pioneer Square is one of the districts Delsin wins back from the D.U.P. by tearing down its checkpoints and hunting its agents.",
+      "source": "https://www.gamepressure.com/infamous3/city/zb6140"
+    },
+    {
+      "placeId": "pike-place-market-seattle-usa",
+      "settingType": "fictionalized",
+      "aliases": [
+        "Seattle Fish Market"
+      ],
+      "note": "The game's Seattle Fish Market, modelled on Pike Place, is the heart of the Market District that Delsin wins back from the D.U.P.",
+      "source": "https://www.gameskinny.com/culture/how-does-infamous-second-sons-seattle-compare-to-the-real-one/"
+    },
+    {
+      "placeId": "space-needle-seattle-usa",
+      "note": "The full 605-foot tower stands in the Seattle Center district with D.U.P. additions, and Delsin can climb to the top.",
+      "source": "https://www.dualshockers.com/infamous-second-son-screenshots-vs-real-world-how-sucker-punch-created-a-darker-seattle-on-ps4/"
+    },
+    {
+      "placeId": "puget-sound-washington-usa",
+      "settingType": "fictionalized",
+      "aliases": [
+        "D.U.P. concrete island"
+      ],
+      "note": "Augustine's trap on an artificial concrete island in the Sound, where Reggie falls to his death and Delsin's fight with her wrecks the island.",
+      "source": "https://en.wikipedia.org/wiki/Infamous_Second_Son"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Infamous_Second_Son",
+  "reviewed": "2026-11-06",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "delsin",
+      "name": "Delsin Rowe",
+      "characters": [
+        "Delsin Rowe",
+        "Reggie Rowe"
+      ],
+      "stops": [
+        "akomish-reservation-fictional-washington-usa",
+        "seattle-usa",
+        "puget-sound-washington-usa",
+        "seattle-usa",
+        "akomish-reservation-fictional-washington-usa"
+      ],
+      "note": "From the truck crash on the Akomish reservation to occupied Seattle, Augustine's island in Puget Sound and the D.U.P. tower, and home to the reservation.",
+      "source": "https://en.wikipedia.org/wiki/Infamous_Second_Son"
+    }
+  ]
+}

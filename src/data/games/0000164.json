@@ -1,0 +1,103 @@
+{
+  "id": 164,
+  "name": "The Saboteur",
+  "year": 2009,
+  "publisher": "Electronic Arts",
+  "developer": "Pandemic Studios",
+  "locations": [
+    {
+      "placeId": "saarbrucken-germany",
+      "note": "Kurt Dierker shoots out Sean's tyre to win the 1940 Saarbrücken Grand Prix; when Sean and Jules break into the Doppelsieg factory for revenge, Dierker tortures Jules to death. Sean later returns to blow up the factory and its atomic project."
+    },
+    {
+      "placeId": "paris-france",
+      "note": "Living above the Belle Du Nuit cabaret, Sean joins Luc Gaudin's resistance, kills Nazi officers and blows up installations until the occupied city rises up."
+    },
+    {
+      "placeId": "gare-de-l-est-paris-france",
+      "note": "On his first job with Luc, Sean blows up the fuel tanks at the depot by the Gare de l'Est, and later kills Colonel Gower in the red-light district beside it.",
+      "source": "https://www.supercheats.com/guides/the-saboteur/prologue"
+    },
+    {
+      "placeId": "le-havre-france",
+      "note": "Skylar brings Sean to her British SOE contacts, who send him to recover a box hidden in a mausoleum and take him into their fight.",
+      "source": "https://www.supercheats.com/guides/the-saboteur/act-1-11-17"
+    },
+    {
+      "placeId": "louvre-paris-france",
+      "note": "In disguise, Sean drives a tank across the Louvre complex to blow up a German tower.",
+      "source": "https://www.supercheats.com/guides/the-saboteur/act-2-1-10"
+    },
+    {
+      "placeId": "saint-sulpice-paris-france",
+      "note": "Sean climbs the scaffolding at the back of the church to a sniper's nest and covers Dr. Kwong's escape from the rooftop.",
+      "source": "https://www.supercheats.com/guides/the-saboteur/act-2-11-20"
+    },
+    {
+      "placeId": "pantheon-paris-france",
+      "note": "In a German uniform, Sean climbs up through the Panthéon to the big gun mounted on top and blows it up with RDX.",
+      "source": "https://www.supercheats.com/guides/the-saboteur/act-2-11-20"
+    },
+    {
+      "placeId": "hotel-de-ville-paris-france",
+      "settingType": "fictionalized",
+      "aliases": [
+        "Gestapo HQ"
+      ],
+      "note": "The game makes it the Gestapo headquarters: Sean breaks in through a window, fights down through the library and cells, blows the boiler and gets Maria Kessler out.",
+      "source": "https://www.supercheats.com/guides/the-saboteur/act-2-21-26"
+    },
+    {
+      "placeId": "grande-halle-de-la-villette-paris-france",
+      "aliases": [
+        "La Villette"
+      ],
+      "note": "The resistance's headquarters; when the Nazis attack it, Sean holds them off with a machine gun and dynamite and drives Skylar and the Kesslers to the catacombs.",
+      "source": "https://www.supercheats.com/guides/the-saboteur/act-2-21-26"
+    },
+    {
+      "placeId": "catacombs-of-paris-france",
+      "note": "The resistance flees into the catacombs when its headquarters is raided; in the later Nazi attack there, Veronique has to kill the trapped Luc."
+    },
+    {
+      "placeId": "notre-dame-de-paris-france",
+      "note": "Sean single-handedly rescues Veronique, who is being readied for execution at Notre-Dame."
+    },
+    {
+      "placeId": "eiffel-tower-paris-france",
+      "note": "Sean tracks Dierker to the Eiffel Tower, where he is executing his own men, and confronts him at the top."
+    }
+  ],
+  "storyYears": [
+    1940
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Saboteur",
+  "reviewed": "2026-11-06",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "sean-devlin",
+      "name": "Sean Devlin",
+      "characters": [
+        "Sean Devlin"
+      ],
+      "stops": [
+        "saarbrucken-germany",
+        "paris-france",
+        "gare-de-l-est-paris-france",
+        "le-havre-france",
+        "hotel-de-ville-paris-france",
+        "grande-halle-de-la-villette-paris-france",
+        "catacombs-of-paris-france",
+        "notre-dame-de-paris-france",
+        "catacombs-of-paris-france",
+        "saarbrucken-germany",
+        "eiffel-tower-paris-france"
+      ],
+      "note": "From the rigged Grand Prix in Saarbrücken to the resistance in Paris, back to destroy the Doppelsieg factory and up the Eiffel Tower after Dierker.",
+      "source": "https://en.wikipedia.org/wiki/The_Saboteur"
+    }
+  ]
+}

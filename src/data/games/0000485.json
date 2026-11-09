@@ -1,0 +1,57 @@
+{
+  "id": 485,
+  "name": "Like a Dragon Gaiden: The Man Who Erased His Name",
+  "year": 2023,
+  "series": "Yakuza / Like a Dragon",
+  "developer": "Ryu Ga Gotoku Studio",
+  "publisher": "Sega",
+  "locations": [
+    {
+      "placeId": "isezakicho-yokohama-japan",
+      "aliases": [
+        "Isezaki Ijincho"
+      ],
+      "settingType": "fictionalized",
+      "note": "In Isezaki Ijincho, the series' Isezakicho in Yokohama, a Daidoji smuggling job goes wrong when Omi yakuza ambush the agents, kidnap Kiryu's handler Hanawa and recognise the man thought dead.",
+      "source": "https://en.wikipedia.org/wiki/Like_a_Dragon_Gaiden:_The_Man_Who_Erased_His_Name"
+    },
+    {
+      "placeId": "dotonbori-osaka-japan",
+      "aliases": [
+        "Sotenbori"
+      ],
+      "settingType": "fictionalized",
+      "note": "In Sotenbori, the series' Dotonbori, working as Daidoji agent Joryu, Kiryu runs jobs for the fixer Akame, fights in the Castle's coliseum and is caught between the Daidoji and the Omi's Watase Family."
+    },
+    {
+      "placeId": "honolulu-hawaii-usa",
+      "note": "In a closing scene set three years later, Kiryu leaves a ring for Yumi on the altar of a Honolulu church.",
+      "source": "https://en.wikipedia.org/wiki/Like_a_Dragon_Gaiden:_The_Man_Who_Erased_His_Name"
+    }
+  ],
+  "storyYears": [
+    2019,
+    2020
+  ],
+  "source": "https://en.wikipedia.org/wiki/Like_a_Dragon_Gaiden:_The_Man_Who_Erased_His_Name",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "joryu",
+      "name": "Joryu",
+      "characters": [
+        "Kazuma Kiryu"
+      ],
+      "stops": [
+        "isezakicho-yokohama-japan",
+        "dotonbori-osaka-japan"
+      ],
+      "note": "From a botched Daidoji job in Yokohama to Sotenbori and the Castle off its shore.",
+      "source": "https://en.wikipedia.org/wiki/Like_a_Dragon_Gaiden:_The_Man_Who_Erased_His_Name"
+    }
+  ]
+}

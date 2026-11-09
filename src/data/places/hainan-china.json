@@ -1,0 +1,14 @@
+{
+  "id": "hainan-china",
+  "name": "Hainan, China",
+  "position": {
+    "lat": 19.2,
+    "lon": 109.7
+  },
+  "scale": "area",
+  "parentId": "china",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hainan",
+  "description": "China's tropical island province in the South China Sea, with beach resorts along its southern coast.",
+  "descriptionSource": "wikipedia"
+}

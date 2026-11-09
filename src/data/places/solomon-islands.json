@@ -1,0 +1,16 @@
+{
+  "id": "solomon-islands",
+  "name": "Solomon Islands",
+  "aliases": [
+    "Solomon Is."
+  ],
+  "position": {
+    "lat": -8.03,
+    "lon": 159.17
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Solomon_Islands",
+  "description": "An island country in Melanesia north-east of Australia, made up of six major islands and a great many smaller ones."
+}

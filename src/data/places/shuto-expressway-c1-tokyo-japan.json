@@ -1,0 +1,18 @@
+{
+  "id": "shuto-expressway-c1-tokyo-japan",
+  "name": "Shuto Expressway C1 Loop, Tokyo, Japan",
+  "position": {
+    "lat": 35.6608,
+    "lon": 139.7376
+  },
+  "scale": "site",
+  "parentId": "tokyo-japan",
+  "placeType": "landmark",
+  "aliases": [
+    "C1 Loop",
+    "Inner Circular Route"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shuto_Expressway",
+  "description": "The elevated Inner Circular Route around central Tokyo, the 14.8-kilometre loop of the capital's toll expressway.",
+  "descriptionSource": "wikipedia"
+}

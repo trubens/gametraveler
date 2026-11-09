@@ -1,0 +1,14 @@
+{
+  "id": "el-dorado-island-fictional-south-pacific",
+  "name": "El Dorado island, South Pacific",
+  "position": {
+    "lat": -12.0,
+    "lon": -95.0
+  },
+  "scale": "area",
+  "parentId": "south-pacific-ocean-near-french-polynesia",
+  "placeType": "island",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Uncharted:_Drake%27s_Fortune",
+  "description": "An invented, unnamed island in the South Pacific where Sir Francis Drake hid the golden El Dorado idol, with a Spanish fort, a flooded colonial town and a Nazi bunker. The game gives no location beyond the South Pacific, so the pin is a guess."
+}

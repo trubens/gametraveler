@@ -1,0 +1,18 @@
+{
+  "id": 184,
+  "name": "Dear Esther",
+  "year": 2012,
+  "publisher": "The Chinese Room",
+  "developer": "The Chinese Room",
+  "locations": [
+    {
+      "placeId": "outer-hebrides-scotland",
+      "note": "A narrator reads letters to Esther while you wander an unnamed, deserted Hebridean island."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Dear_Esther",
+  "genres": [
+    "Adventure"
+  ]
+}

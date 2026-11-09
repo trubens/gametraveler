@@ -1,0 +1,23 @@
+{
+  "id": 449,
+  "name": "Call of Duty: Roads to Victory",
+  "year": 2007,
+  "series": "Call of Duty",
+  "developer": "Amaze Entertainment",
+  "publisher": "Activision",
+  "locations": [
+    {
+      "placeId": "normandy-france",
+      "note": "The portable campaign includes Allied combat in Normandy."
+    }
+  ],
+  "storyYears": [
+    1944
+  ],
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Roads_to_Victory",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Activision",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

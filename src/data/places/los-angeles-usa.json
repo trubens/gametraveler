@@ -1,0 +1,17 @@
+{
+  "id": "los-angeles-usa",
+  "name": "Los Angeles, USA",
+  "position": {
+    "lat": 34.0522,
+    "lon": -118.2437
+  },
+  "scale": "area",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Los_Angeles",
+  "description": "The most populous city in California.",
+  "parentId": "california-usa",
+  "aliases": [
+    "LA",
+    "L.A."
+  ]
+}

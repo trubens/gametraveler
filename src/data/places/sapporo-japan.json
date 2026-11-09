@@ -1,0 +1,13 @@
+{
+  "id": "sapporo-japan",
+  "name": "Sapporo, Japan",
+  "position": {
+    "lat": 43.0556,
+    "lon": 141.352
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sapporo",
+  "description": "The main city of Hokkaido."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "veghel-netherlands",
+  "name": "Veghel, Netherlands",
+  "position": {
+    "lat": 51.6167,
+    "lon": 5.5436
+  },
+  "scale": "area",
+  "parentId": "netherlands",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Veghel",
+  "description": "A town in the southern Netherlands."
+}

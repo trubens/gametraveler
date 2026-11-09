@@ -1,0 +1,20 @@
+{
+  "id": 217,
+  "name": "Dance of Death: Du Lac & Fey",
+  "year": 2019,
+  "publisher": "Salix Games",
+  "developer": "Salix Games, Tea Clipper Games",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "Du Lac, Fey and Mary Kelly investigate Jack the Ripper's crimes through researched Whitechapel streets and crime scenes."
+    }
+  ],
+  "storyYears": [
+    1888
+  ],
+  "source": "https://store.steampowered.com/app/976920/",
+  "genres": [
+    "Adventure"
+  ]
+}

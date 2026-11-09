@@ -1,0 +1,46 @@
+{
+  "id": 1000192,
+  "name": "Call of Cthulhu",
+  "year": 2018,
+  "series": "Call of Cthulhu",
+  "developer": "Cyanide",
+  "publisher": "Focus Home Interactive",
+  "locations": [
+    {
+      "placeId": "boston-usa",
+      "note": "Edward Pierce is a Boston private investigator before the case takes him to Darkwater Island.",
+      "source": "https://www.chaosium.com/blogcall-of-cthulhu-the-official-video-game-is-out-now-on-nintendo-switch/"
+    },
+    {
+      "placeId": "darkwater-island-fictional-massachusetts",
+      "settingType": "fictionalized",
+      "note": "Private investigator Edward Pierce sails to Darkwater Island, off the coast of Boston, to look into the deaths of Sarah Hawkins and her family in a fire.",
+      "source": "https://press.kochmedia.com/Call-of-Cthulhu"
+    }
+  ],
+  "routes": [
+    {
+      "id": "pierce-investigation",
+      "name": "Pierce's investigation",
+      "characters": [
+        "Edward Pierce"
+      ],
+      "stops": [
+        "boston-usa",
+        "darkwater-island-fictional-massachusetts"
+      ],
+      "storyYears": [
+        1924
+      ],
+      "source": "https://www.focus-entmt.com/en/games/call-of-cthulhu"
+    }
+  ],
+  "storyYears": [
+    1924
+  ],
+  "source": "https://www.focus-entmt.com/en/games/call-of-cthulhu",
+  "genres": [
+    "Adventure",
+    "Survival Horror"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": 93,
+  "name": "Hitman 3",
+  "year": 2021,
+  "publisher": "IO Interactive",
+  "series": "Hitman",
+  "developer": "IO Interactive",
+  "locations": [
+    {
+      "placeId": "dubai-uae",
+      "note": "Opens atop the Sceptre, a Dubai skyscraper, as 47 and Grey go after the Providence partners."
+    },
+    {
+      "placeId": "dartmoor-devon-uk",
+      "note": "A gothic manor murder mystery on the Dartmoor moors, where 47 can pose as a detective."
+    },
+    {
+      "placeId": "berlin-germany",
+      "note": "47 is hunted by rival ICA agents inside a sprawling Berlin techno club."
+    },
+    {
+      "placeId": "chongqing-china",
+      "note": "A rain-soaked Chongqing block of noodle shops and neon hides an ICA data facility."
+    },
+    {
+      "placeId": "mendoza-argentina",
+      "note": "A vineyard harvest party in Argentina's Mendoza wine country sets up the trilogy's reckoning."
+    },
+    {
+      "placeId": "carpathian-mountains-romania",
+      "note": "The finale aboard a train winding through the Romanian Carpathians."
+    },
+    {
+      "placeId": "andaman-sea",
+      "note": "Ambrose Island, a DLC pirate haven in the Andaman Sea."
+    }
+  ],
+  "storyYears": [
+    2021
+  ],
+  "source": "https://en.wikipedia.org/wiki/Hitman_3",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Stealth"
+  ],
+  "routes": [
+    {
+      "id": "agent-47",
+      "name": "Agent 47",
+      "characters": [
+        "Agent 47",
+        "Lucas Grey",
+        "Diana Burnwood"
+      ],
+      "stops": [
+        "dubai-uae",
+        "dartmoor-devon-uk",
+        "berlin-germany",
+        "chongqing-china",
+        "mendoza-argentina",
+        "carpathian-mountains-romania"
+      ],
+      "note": "47 and Grey take down Providence's partners from the top of a Dubai skyscraper to a Dartmoor manor, survive an ICA ambush in Berlin, raid Chongqing and a Mendoza vineyard, and end aboard Arthur Edwards' train through the Carpathians.",
+      "source": "https://en.wikipedia.org/wiki/Hitman_3"
+    }
+  ]
+}

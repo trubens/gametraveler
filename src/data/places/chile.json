@@ -1,0 +1,12 @@
+{
+  "id": "chile",
+  "name": "Chile",
+  "position": {
+    "lat": -35.6751,
+    "lon": -71.543
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chile",
+  "description": "A country in the Southern Cone of south-western South America, at the continent's far end."
+}

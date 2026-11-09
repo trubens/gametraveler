@@ -1,0 +1,14 @@
+{
+  "id": "alpirsbach-germany",
+  "name": "Alpirsbach, Germany",
+  "position": {
+    "lat": 48.3461,
+    "lon": 8.4039
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alpirsbach",
+  "description": "A small town on the Kinzig in the Black Forest, in the district of Freudenstadt in Baden-Württemberg.",
+  "descriptionSource": "wikipedia"
+}

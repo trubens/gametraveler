@@ -1,0 +1,78 @@
+{
+  "id": 1000297,
+  "name": "Barrow Hill: The Dark Path",
+  "year": 2016,
+  "series": "Barrow Hill",
+  "developer": "Shadow Tor Studios",
+  "publisher": "Shadow Tor Studios",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    2016
+  ],
+  "source": "https://en.wikipedia.org/wiki/Barrow_Hill:_The_Dark_Path",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "barrow-hill-fictional-cornwall-england",
+      "settingType": "fictionalized",
+      "note": "Ten years on, the player returns to Barrow Hill and its circle on the night of the autumn equinox, and the story spreads out over Barrow Moor.",
+      "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI"
+    },
+    {
+      "placeId": "duloe-stone-circle-cornwall-uk",
+      "settingType": "fictionalized",
+      "note": "The circle at the heart of both games is Duloe stone circle.",
+      "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI"
+    },
+    {
+      "placeId": "bodmin-moor-cornwall-uk",
+      "settingType": "fictionalized",
+      "note": "Barrow Moor, with its tors, mine ruins and legends, is Bodmin Moor.",
+      "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI"
+    },
+    {
+      "placeId": "tregarrick-tor-cornwall-uk",
+      "settingType": "fictionalized",
+      "note": "Bracken Tor, the hub of the moor's ancient passageways, is Tregarrick Tor; its stone enclosure was photo-mapped from Clava Cairns in Scotland.",
+      "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI"
+    },
+    {
+      "placeId": "trethevy-quoit-cornwall-uk",
+      "settingType": "fictionalized",
+      "note": "Barrow Quoit, the house of the dead, is Trethevy Quoit.",
+      "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI"
+    },
+    {
+      "placeId": "caradon-hill-cornwall-uk",
+      "settingType": "fictionalized",
+      "note": "Tregowen Mine and the moor's chimneys and pump houses come from the old mines on Caradon Hill and the Gold Mine by Minions.",
+      "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI"
+    },
+    {
+      "placeId": "golitha-falls-cornwall-uk",
+      "settingType": "fictionalized",
+      "note": "Barrow Woods is the mossy gorge of Golitha Falls.",
+      "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI"
+    },
+    {
+      "placeId": "st-nectans-glen-cornwall-uk",
+      "settingType": "fictionalized",
+      "note": "The ancient spring in Barrow Woods is the waterfall and basins of St Nectan's Kieve.",
+      "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI"
+    },
+    {
+      "placeId": "tolvan-stone-cornwall-uk",
+      "settingType": "fictionalized",
+      "note": "The holed Tolvan stones that act as portals across Bracken Tor are the real Tolvan Stone at Gweek.",
+      "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI"
+    },
+    {
+      "placeId": "clava-cairns-scotland-uk",
+      "settingType": "fictionalized",
+      "note": "The enclosure at Bracken Tor was photo-mapped from the cairns at Clava near Inverness.",
+      "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 160,
+  "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+  "aliases": [
+    "STALKER: Shadow of Chernobyl"
+  ],
+  "year": 2007,
+  "publisher": "THQ",
+  "series": "S.T.A.L.K.E.R.",
+  "developer": "GSC Game World",
+  "locations": [
+    {
+      "placeId": "chernobyl-exclusion-zone-ukraine",
+      "settingType": "fictionalized",
+      "note": "Sole survivor of a vehicle crash, the amnesiac Marked One wakes in the trader Sidorovich's bunker with one clue, 'Kill Strelok', and works his way deeper into the Zone, shutting down the Miracle Machine on the way.",
+      "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Shadow_of_Chernobyl"
+    },
+    {
+      "placeId": "pripyat-ukraine",
+      "settingType": "fictionalized",
+      "note": "Once the Brain Scorcher is switched off, the Marked One fights through Monolith cultists and Ukrainian soldiers across the abandoned city, moved by the game to the south of the plant.",
+      "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Shadow_of_Chernobyl"
+    },
+    {
+      "placeId": "chernobyl-nuclear-power-plant-ukraine",
+      "note": "Inside the sarcophagus he finds the Wish Granter and, in a lab beneath it, the C-Consciousness, which reveals that he is Strelok; in the canon ending he goes on to kill its seven scientists.",
+      "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Shadow_of_Chernobyl"
+    }
+  ],
+  "storyYears": [
+    2012
+  ],
+  "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Shadow_of_Chernobyl",
+  "reviewed": "2026-11-06",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "marked-one",
+      "name": "The Marked One",
+      "characters": [
+        "The Marked One"
+      ],
+      "stops": [
+        "chernobyl-exclusion-zone-ukraine",
+        "pripyat-ukraine",
+        "chernobyl-nuclear-power-plant-ukraine"
+      ],
+      "note": "From Sidorovich's bunker on the edge of the Zone through Pripyat to the sarcophagus of the power plant.",
+      "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Shadow_of_Chernobyl"
+    }
+  ]
+}

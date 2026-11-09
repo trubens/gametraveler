@@ -1,0 +1,14 @@
+{
+  "id": "vilnius-university-lithuania",
+  "name": "Vilnius University, Vilnius, Lithuania",
+  "position": {
+    "lat": 54.683,
+    "lon": 25.2873
+  },
+  "scale": "site",
+  "parentId": "vilnius-lithuania",
+  "placeType": "venue",
+  "source": "https://en.wikipedia.org/wiki/Vilnius_University",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vilnius_University",
+  "description": "The oldest and largest university in Lithuania, a courtyard campus in the old town of Vilnius."
+}

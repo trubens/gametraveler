@@ -1,0 +1,18 @@
+{
+  "id": "lumen-field-seattle-usa",
+  "name": "Lumen Field, Seattle, USA",
+  "position": {
+    "lat": 47.5952,
+    "lon": -122.3316
+  },
+  "scale": "site",
+  "parentId": "seattle-usa",
+  "placeType": "venue",
+  "aliases": [
+    "CenturyLink Field"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lumen_Field",
+  "description": "A multi-purpose stadium in Seattle's SoDo district, home of the Seattle Seahawks and the Seattle Sounders.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Lumen_Field"
+}

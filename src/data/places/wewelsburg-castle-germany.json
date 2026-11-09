@@ -1,0 +1,13 @@
+{
+  "id": "wewelsburg-castle-germany",
+  "name": "Wewelsburg Castle, Germany",
+  "position": {
+    "lat": 51.6114,
+    "lon": 8.6486
+  },
+  "scale": "site",
+  "parentId": "germany",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wewelsburg",
+  "description": "A triangular Renaissance castle in the village of Wewelsburg near Paderborn, in the north-east of North Rhine-Westphalia."
+}

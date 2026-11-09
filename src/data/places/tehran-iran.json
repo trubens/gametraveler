@@ -1,0 +1,13 @@
+{
+  "id": "tehran-iran",
+  "name": "Tehran, Iran",
+  "position": {
+    "lat": 35.6892,
+    "lon": 51.389
+  },
+  "scale": "area",
+  "parentId": "iran",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tehran",
+  "description": "The capital and largest city of Iran."
+}

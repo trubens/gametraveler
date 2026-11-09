@@ -1,0 +1,20 @@
+{
+  "id": 509,
+  "name": "Remedy",
+  "year": 2004,
+  "publisher": "MDNA Games",
+  "developer": "MDNA Games",
+  "locations": [
+    {
+      "placeId": "norrkoping-sweden",
+      "note": "A first-person point-and-click mystery played through photographs of real Norrköping streets and interiors; the city is the series’ central landscape."
+    }
+  ],
+  "storyYears": [
+    2004
+  ],
+  "source": "https://en.wikipedia.org/wiki/Carol_Reed_Mysteries",
+  "genres": [
+    "Adventure"
+  ]
+}

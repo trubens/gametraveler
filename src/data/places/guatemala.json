@@ -1,0 +1,13 @@
+{
+  "id": "guatemala",
+  "name": "Guatemala",
+  "position": {
+    "lat": 14.98,
+    "lon": -90.5
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Guatemala",
+  "description": "A country in northern Central America, wedged between Mexico to the north and west and Belize, Honduras and El Salvador to the east and south-east."
+}

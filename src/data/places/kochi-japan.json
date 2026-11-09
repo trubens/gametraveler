@@ -1,0 +1,15 @@
+{
+  "id": "kochi-japan",
+  "name": "Kōchi, Japan",
+  "position": {
+    "lat": 33.5589,
+    "lon": 133.5314
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Like_a_Dragon:_Ishin!",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/K%C5%8Dchi,_K%C5%8Dchi",
+  "description": "The capital of Kōchi Prefecture on Shikoku and its main commercial centre, the old castle town of the Tosa Domain.",
+  "descriptionSource": "wikipedia"
+}

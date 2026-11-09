@@ -1,0 +1,16 @@
+{
+  "id": "virginia-international-raceway-virginia-usa",
+  "name": "Virginia International Raceway, Virginia, USA",
+  "position": {
+    "lat": 36.5617,
+    "lon": -79.2047
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "aliases": [
+    "VIR"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Virginia_International_Raceway",
+  "description": "A rolling 3.27-mile road course at Alton on the North Carolina border, reopened in 2000 after a quarter-century asleep.",
+  "descriptionSource": "wikipedia"
+}

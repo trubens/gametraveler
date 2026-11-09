@@ -1,0 +1,13 @@
+{
+  "id": "amritsar-india",
+  "name": "Amritsar, India",
+  "position": {
+    "lat": 31.634,
+    "lon": 74.8723
+  },
+  "scale": "area",
+  "parentId": "india",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amritsar",
+  "description": "Punjab's second city after Ludhiana."
+}

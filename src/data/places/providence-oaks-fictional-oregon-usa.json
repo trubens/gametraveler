@@ -1,0 +1,14 @@
+{
+  "id": "providence-oaks-fictional-oregon-usa",
+  "name": "Providence Oaks, Oregon",
+  "position": {
+    "lat": 44.3,
+    "lon": -122.2
+  },
+  "scale": "area",
+  "parentId": "oregon-usa",
+  "placeType": "city",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Lake_(video_game)",
+  "description": "The invented lakeside town of Lake, a small Oregon community of pine woods and a mill. The game names only the state, so the pin is a guess: it stands in the wooded Cascade foothills, the kind of country the town is drawn as."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "serbia",
+  "name": "Serbia",
+  "position": {
+    "lat": 44.19,
+    "lon": 20.79
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Serbia",
+  "description": "A landlocked country in South-eastern and Central Europe, with Belgrade on the Danube as its capital."
+}

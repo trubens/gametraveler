@@ -1,0 +1,13 @@
+{
+  "id": "guarma-fictional-caribbean",
+  "name": "Guarma, Caribbean",
+  "position": {
+    "lat": 20.2,
+    "lon": -78.0
+  },
+  "scale": "area",
+  "placeType": "island",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Red_Dead_Redemption_2",
+  "description": "An invented Caribbean island of sugar plantations, where the gang is shipwrecked on a voyage to Cuba. The game gives no exact position, so the pin off the south coast of Cuba is a guess."
+}

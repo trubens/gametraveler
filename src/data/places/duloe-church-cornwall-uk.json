@@ -1,0 +1,18 @@
+{
+  "id": "duloe-church-cornwall-uk",
+  "name": "St Cuby's Church, Duloe, Cornwall, UK",
+  "position": {
+    "lat": 50.3962,
+    "lon": -4.4852
+  },
+  "scale": "site",
+  "parentId": "cornwall-england",
+  "placeType": "landmark",
+  "aliases": [
+    "Northfield Church"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Duloe,_Cornwall",
+  "description": "The parish church of Duloe, a village five miles south of Liskeard, with a 13th-century tower.",
+  "descriptionSource": "wikipedia",
+  "source": "https://www.openstreetmap.org/search?query=St%20Cuby%20Duloe"
+}

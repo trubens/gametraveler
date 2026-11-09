@@ -1,0 +1,26 @@
+{
+  "id": 140,
+  "name": "Sleeping Dogs",
+  "year": 2012,
+  "publisher": "Square Enix",
+  "developer": "United Front Games",
+  "locations": [
+    {
+      "placeId": "hong-kong-china",
+      "note": "Undercover cop Wei Shen infiltrates the Sun On Yee triad in contemporary Hong Kong."
+    },
+    {
+      "placeId": "aberdeen-hong-kong",
+      "note": "Wei Shen's story starts with a drug deal in Aberdeen, one of the four districts of the game's Hong Kong.",
+      "settingType": "fictionalized"
+    }
+  ],
+  "storyYears": [
+    2012
+  ],
+  "source": "https://en.wikipedia.org/wiki/Sleeping_Dogs_(video_game)",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Square_Enix",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

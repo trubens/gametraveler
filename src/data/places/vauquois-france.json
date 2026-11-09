@@ -1,0 +1,14 @@
+{
+  "id": "vauquois-france",
+  "name": "Vauquois, France",
+  "position": {
+    "lat": 49.2039,
+    "lon": 5.0733
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vauquois",
+  "description": "A village in the Meuse west of Verdun whose hilltop was torn apart by mine warfare between 1915 and 1918.",
+  "descriptionSource": "wikipedia"
+}

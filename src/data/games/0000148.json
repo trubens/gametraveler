@@ -1,0 +1,54 @@
+{
+  "id": 148,
+  "name": "Driver",
+  "year": 1999,
+  "publisher": "GT Interactive",
+  "series": "Driver",
+  "developer": "Reflections Interactive",
+  "locations": [
+    {
+      "placeId": "miami-usa",
+      "note": "Undercover NYPD detective Tanner passes the gangsters' parking-garage test and becomes their getaway driver, working his way up to the pimp Rufus."
+    },
+    {
+      "placeId": "san-francisco-usa",
+      "note": "Tanner starts working directly for syndicate boss Castaldi and wrecks his old racing rival Rusty Slater's car, getting him arrested."
+    },
+    {
+      "placeId": "los-angeles-usa",
+      "note": "Castaldi's hit on FBI agent Bill Maddox fails, and Tanner drives the gangsters out of the police ambush."
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Given the wheel of the President's car for Castaldi's assassination plot, Tanner drives the President to safety instead."
+    },
+    {
+      "placeId": "newcastle-upon-tyne-england-uk",
+      "note": "Reflections' home city turns up as an unlockable bonus city to drive around freely, with no missions.",
+      "source": "https://en.wikipedia.org/wiki/Driver_(video_game)"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Driver_(video_game)",
+  "reviewed": "2026-11-02",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "tanner-undercover",
+      "name": "Tanner undercover",
+      "characters": [
+        "John Tanner"
+      ],
+      "stops": [
+        "miami-usa",
+        "san-francisco-usa",
+        "los-angeles-usa",
+        "new-york-city-usa"
+      ],
+      "note": "Tanner follows Castaldi's syndicate from Miami across to the West Coast and on to New York.",
+      "source": "https://en.wikipedia.org/wiki/Driver_(video_game)"
+    }
+  ]
+}

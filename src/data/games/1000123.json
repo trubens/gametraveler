@@ -1,0 +1,21 @@
+{
+  "id": 1000123,
+  "name": "Maupiti Island",
+  "year": 1990,
+  "publisher": "Lankhor",
+  "developer": "Lankhor",
+  "locations": [
+    {
+      "placeId": "indian-ocean-fictional-maupiti-island",
+      "settingType": "imaginary",
+      "note": "In 1954 a hurricane forces Jérôme Lange's boat, bound from Madagascar to Japan, to anchor at Maupiti, an invented colonial outpost, where a woman named Marie vanishes in the night."
+    }
+  ],
+  "storyYears": [
+    1954
+  ],
+  "source": "https://en.wikipedia.org/wiki/Maupiti_Island_(video_game)",
+  "genres": [
+    "Adventure"
+  ]
+}

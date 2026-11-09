@@ -1,0 +1,32 @@
+{
+  "id": 530,
+  "name": "Root Film",
+  "year": 2020,
+  "publisher": "PQube",
+  "developer": "Kadokawa Games",
+  "storyYears": [
+    2020
+  ],
+  "source": "https://en.wikipedia.org/wiki/Root_Film",
+  "locations": [
+    {
+      "placeId": "matsue-shimane-japan",
+      "note": "When a murder halts their TV drama shoot, director Rintaro Yagumo and actress Riho pick places around Matsue to investigate and question people."
+    },
+    {
+      "placeId": "tsuwano-shimane-japan",
+      "note": "The film crew scouts this real town as a possible shooting location, and its streets and landmarks appear in the investigation."
+    },
+    {
+      "placeId": "izumo-shimane-japan",
+      "note": "Rintaro and Riho visit Izumo while developing their television project and following the case."
+    },
+    {
+      "placeId": "mihonoseki-shimane-japan",
+      "note": "The crew visits the coastal town of Mihonoseki, its shrine and its fishing harbour."
+    }
+  ],
+  "genres": [
+    "Visual Novel"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "old-town-square-prague-czech-republic",
+  "name": "Old Town Square, Prague, Czech Republic",
+  "position": {
+    "lat": 50.0875,
+    "lon": 14.4214
+  },
+  "scale": "site",
+  "parentId": "prague-czech-republic",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Old_Town_Square",
+  "description": "The historic square of Prague's Old Town, with the Týn Church and the astronomical clock on the Old Town Hall.",
+  "descriptionSource": "wikipedia"
+}

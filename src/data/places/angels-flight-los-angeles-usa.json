@@ -1,0 +1,14 @@
+{
+  "id": "angels-flight-los-angeles-usa",
+  "name": "Angels Flight, Los Angeles, USA",
+  "position": {
+    "lat": 34.0513,
+    "lon": -118.2502
+  },
+  "scale": "site",
+  "parentId": "los-angeles-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angels_Flight",
+  "description": "The tiny 1901 funicular up Bunker Hill, two cars on a 91-metre track.",
+  "descriptionSource": "wikipedia"
+}

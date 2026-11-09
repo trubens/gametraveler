@@ -1,0 +1,15 @@
+{
+  "id": "circuit-de-spa-francorchamps-belgium",
+  "name": "Circuit de Spa-Francorchamps, Belgium",
+  "aliases": [
+    "Spa-Francorchamps"
+  ],
+  "position": {
+    "lat": 50.4372,
+    "lon": 5.9714
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps",
+  "description": "The long motor racing circuit at Francorchamps in Wallonia, Belgium, a short drive south-east of the town of Spa."
+}

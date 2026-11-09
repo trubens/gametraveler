@@ -1,0 +1,16 @@
+{
+  "id": "blaine-county-san-andreas-fictionalized-southern-california",
+  "name": "Blaine County, San Andreas",
+  "position": {
+    "lat": 34.9,
+    "lon": -118.7
+  },
+  "scale": "area",
+  "placeType": "region",
+  "fictional": true,
+  "aliases": [
+    "Blaine County, San Andreas (fictionalized Southern California)"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Southern_California",
+  "description": "An invented rural county north of Los Santos, a blend of the Salton Sea, the Mojave and the mountains around Los Angeles. Pinned in the high desert north of the city."
+}

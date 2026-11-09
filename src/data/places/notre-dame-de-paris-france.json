@@ -1,0 +1,17 @@
+{
+  "id": "notre-dame-de-paris-france",
+  "name": "Notre-Dame de Paris, Paris, France",
+  "position": {
+    "lat": 48.853,
+    "lon": 2.3499
+  },
+  "scale": "site",
+  "parentId": "paris-france",
+  "placeType": "landmark",
+  "aliases": [
+    "Notre Dame"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+  "description": "The medieval cathedral of Paris, standing on the Île de la Cité in the heart of the city."
+}

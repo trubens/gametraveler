@@ -1,0 +1,13 @@
+{
+  "id": "zhejiang-international-circuit-china",
+  "name": "Zhejiang International Circuit, China",
+  "position": {
+    "lat": 30.0345,
+    "lon": 120.466
+  },
+  "scale": "site",
+  "parentId": "china",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Zhejiang_International_Circuit",
+  "description": "A motorsport circuit at Shaoxing in Zhejiang, designed by Apex Circuit Design and opened in 2016."
+}

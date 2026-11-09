@@ -1,0 +1,58 @@
+{
+  "id": 48,
+  "name": "Shadow of the Tomb Raider",
+  "year": 2018,
+  "publisher": "Square Enix",
+  "series": "Tomb Raider",
+  "developer": "Eidos-Montréal",
+  "locations": [
+    {
+      "placeId": "cozumel-mexico",
+      "note": "At a Trinity dig on Cozumel Lara takes the Dagger of Chak Chel and sets off a Mayan apocalypse."
+    },
+    {
+      "placeId": "peru",
+      "aliases": [
+        "Kuwaq Yaku",
+        "Mission of San Juan"
+      ],
+      "settingType": "fictionalized",
+      "note": "Lara's plane crashes in the Peruvian jungle on the trail of Paititi; the village of Kuwaq Yaku is her hub, and the story later takes her to the Mission of San Juan.",
+      "source": "https://primagames.com/eguides/shadow-of-the-tomb-raider-eguide"
+    },
+    {
+      "placeId": "paititi-peru-fictionalized",
+      "settingType": "fictionalized",
+      "note": "Lara reaches Paititi, the game's hidden city, inspired by the Peruvian legend of the same name and placed in the southern Peruvian Amazon.",
+      "source": "https://www.redbull.com/car-en/shadow-of-tomb-raider-interview"
+    }
+  ],
+  "storyYears": [
+    2015
+  ],
+  "source": "https://en.wikipedia.org/wiki/Shadow_of_the_Tomb_Raider",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Square_Enix",
+  "developerUrl": "https://en.wikipedia.org/wiki/Eidos-Montr%C3%A9al",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "paititi",
+      "name": "The race to Paititi",
+      "characters": [
+        "Lara Croft",
+        "Jonah Maiava"
+      ],
+      "stops": [
+        "cozumel-mexico",
+        "peru",
+        "paititi-peru-fictionalized",
+        "peru"
+      ],
+      "note": "From the Trinity dig on Cozumel into the Peruvian jungle.",
+      "source": "https://en.wikipedia.org/wiki/Shadow_of_the_Tomb_Raider"
+    }
+  ]
+}

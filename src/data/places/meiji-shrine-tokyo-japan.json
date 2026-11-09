@@ -1,0 +1,19 @@
+{
+  "id": "meiji-shrine-tokyo-japan",
+  "name": "Meiji Shrine, Tokyo, Japan",
+  "position": {
+    "lat": 35.6761,
+    "lon": 139.6992
+  },
+  "scale": "site",
+  "parentId": "tokyo-japan",
+  "placeType": "landmark",
+  "aliases": [
+    "Meiji Jingu",
+    "Meiji Jingū"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Meiji_Shrine",
+  "description": "The Shinto shrine in Shibuya dedicated to Emperor Meiji and Empress Shōken, set in a forest beside Harajuku.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Meiji_Shrine"
+}

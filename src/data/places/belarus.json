@@ -1,0 +1,12 @@
+{
+  "id": "belarus",
+  "name": "Belarus",
+  "position": {
+    "lat": 53.82,
+    "lon": 28.42
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "description": "A landlocked country in Eastern Europe between Russia, Ukraine, Poland and the Baltic states, with Minsk as its capital."
+}

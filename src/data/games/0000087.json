@@ -1,0 +1,66 @@
+{
+  "id": 87,
+  "name": "Hitman 2: Silent Assassin",
+  "year": 2002,
+  "publisher": "Eidos Interactive",
+  "series": "Hitman",
+  "developer": "IO Interactive",
+  "locations": [
+    {
+      "placeId": "sicily-italy",
+      "note": "47 lives as a gardener at a Sicilian church until his friend Father Vittorio is kidnapped."
+    },
+    {
+      "placeId": "st-petersburg-russia",
+      "note": "Contracts against Russian generals in St. Petersburg start 47's return to the Agency."
+    },
+    {
+      "placeId": "japan",
+      "note": "A snowbound Japanese castle hosts one of the contracts tied to nuclear warhead trafficking."
+    },
+    {
+      "placeId": "kuala-lumpur-malaysia",
+      "note": "A contract inside Kuala Lumpur's twin skyscrapers is part of the trafficking trail."
+    },
+    {
+      "placeId": "afghanistan",
+      "note": "Contracts in Afghanistan's mountains strike the arms-trafficking network."
+    },
+    {
+      "placeId": "india",
+      "note": "The trail of contracts ends in Punjab, India, after which 47 learns that Zavorotko was behind Vittorio's kidnapping and goes after him in St. Petersburg."
+    }
+  ],
+  "storyYears": [
+    2002
+  ],
+  "source": "https://en.wikipedia.org/wiki/Hitman_2:_Silent_Assassin",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Eidos_Interactive",
+  "genres": [
+    "Stealth"
+  ],
+  "routes": [
+    {
+      "id": "agent-47",
+      "name": "Agent 47",
+      "characters": [
+        "Agent 47",
+        "Father Emilio Vittorio",
+        "Sergei Zavorotko"
+      ],
+      "stops": [
+        "sicily-italy",
+        "st-petersburg-russia",
+        "japan",
+        "kuala-lumpur-malaysia",
+        "afghanistan",
+        "india",
+        "st-petersburg-russia",
+        "sicily-italy"
+      ],
+      "note": "Pulled out of retirement when his priest friend is kidnapped in Sicily, 47 works off his debt in St. Petersburg, snowbound Japan, Kuala Lumpur, Afghanistan and India, then hunts Zavorotko back through St. Petersburg to the church at Gontranno.",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2286322642"
+    }
+  ]
+}

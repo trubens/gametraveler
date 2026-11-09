@@ -1,0 +1,19 @@
+{
+  "id": "hob-hursts-house-derbyshire-england-uk",
+  "name": "Hob Hurst's House, Derbyshire, England, UK",
+  "position": {
+    "lat": 53.2199,
+    "lon": -1.5701
+  },
+  "scale": "site",
+  "parentId": "england-uk",
+  "placeType": "landmark",
+  "aliases": [
+    "Hob Hurst's House",
+    "Beeley Moor barrow"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hob_Hurst%27s_House",
+  "description": "A squarish Bronze Age barrow on Beeley Moor near Bakewell, named after a hobgoblin said to haunt the nearby woods; Thomas Bateman dug it in 1853.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Hob_Hurst%27s_House"
+}

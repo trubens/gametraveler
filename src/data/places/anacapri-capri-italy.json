@@ -1,0 +1,13 @@
+{
+  "id": "anacapri-capri-italy",
+  "name": "Anacapri, Capri, Italy",
+  "position": {
+    "lat": 40.5569,
+    "lon": 14.2219
+  },
+  "scale": "area",
+  "parentId": "capri-italy",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anacapri",
+  "description": "A town on the island of Capri in the Gulf of Naples."
+}

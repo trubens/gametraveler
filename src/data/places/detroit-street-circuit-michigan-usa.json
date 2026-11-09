@@ -1,0 +1,13 @@
+{
+  "id": "detroit-street-circuit-michigan-usa",
+  "name": "Detroit Street Circuit, Michigan, USA",
+  "position": {
+    "lat": 42.329,
+    "lon": -83.048
+  },
+  "scale": "site",
+  "parentId": "detroit-usa",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Detroit_Street_Circuit",
+  "description": "A street circuit through Detroit, Michigan, that hosted Formula One and later CART racing between 1982 and 1991."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "romania",
+  "name": "Romania",
+  "position": {
+    "lat": 45.9432,
+    "lon": 24.9668
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Romania",
+  "description": "A country in Central and South-eastern Europe on the lower Danube, north of the Balkans and on the north-western shore of the Black Sea."
+}

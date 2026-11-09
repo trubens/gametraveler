@@ -1,0 +1,16 @@
+{
+  "id": "moche-valley-peru-fictionalized-lost-city",
+  "name": "Moche Valley, Peru",
+  "position": {
+    "lat": -8.111,
+    "lon": -79.028
+  },
+  "scale": "area",
+  "placeType": "natural_feature",
+  "fictional": true,
+  "aliases": [
+    "Moche Valley, Peru (fictionalized lost city)"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Moche_Valley",
+  "description": "The real Moche valley on Peru's north coast, with its pre-Inca pyramids, given an invented lost city. Pinned at the valley near Trujillo."
+}

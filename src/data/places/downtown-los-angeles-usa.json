@@ -1,0 +1,14 @@
+{
+  "id": "downtown-los-angeles-usa",
+  "name": "Downtown, Los Angeles, USA",
+  "position": {
+    "lat": 34.05,
+    "lon": -118.25
+  },
+  "scale": "site",
+  "parentId": "los-angeles-usa",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Downtown_Los_Angeles",
+  "description": "The central business district, from the towers of Bunker Hill to the old core around Broadway and Pershing Square.",
+  "descriptionSource": "wikipedia"
+}

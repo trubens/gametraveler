@@ -1,0 +1,12 @@
+{
+  "id": "chateau-de-blanchefort-france",
+  "name": "Château de Blanchefort, France",
+  "position": {
+    "lat": 42.9378,
+    "lon": 2.3114
+  },
+  "scale": "site",
+  "parentId": "rennes-le-chateau-france",
+  "placeType": "landmark",
+  "description": "A ruined hilltop castle above Rennes-les-Bains in the Aude, tied to the Rennes-le-Château treasure legends."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "new-jersey-usa",
+  "name": "New Jersey, USA",
+  "position": {
+    "lat": 40.0583,
+    "lon": -74.4057
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Jersey",
+  "description": "A state on the Atlantic coast of the United States, counted as both Mid-Atlantic and Northeastern."
+}

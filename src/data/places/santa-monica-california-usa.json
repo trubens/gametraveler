@@ -1,0 +1,14 @@
+{
+  "id": "santa-monica-california-usa",
+  "name": "Santa Monica, California, USA",
+  "position": {
+    "lat": 34.0219,
+    "lon": -118.4814
+  },
+  "scale": "area",
+  "parentId": "los-angeles-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Santa_Monica,_California",
+  "description": "The beach city on Santa Monica Bay at the west end of Los Angeles, with its pier and the end of Route 66.",
+  "descriptionSource": "wikipedia"
+}

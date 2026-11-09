@@ -1,0 +1,14 @@
+{
+  "id": "ia-drang-valley-vietnam",
+  "name": "Ia Drang Valley, Vietnam",
+  "position": {
+    "lat": 13.5833,
+    "lon": 107.7167
+  },
+  "scale": "area",
+  "parentId": "vietnam",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Battle_of_Ia_Drang",
+  "description": "A valley in the Central Highlands near the Cambodian border, where US air cavalry and the North Vietnamese army first met in November 1965.",
+  "descriptionSource": "wikipedia"
+}

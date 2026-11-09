@@ -1,0 +1,39 @@
+{
+  "id": 1000203,
+  "name": "Shadows on the Vatican - Act I: Greed",
+  "year": 2011,
+  "series": "Shadows on the Vatican",
+  "developer": "10th Art Studio",
+  "publisher": "Adventure Productions",
+  "locations": [
+    {
+      "placeId": "rome-italy",
+      "note": "The episode is set in Rome and includes sites around the historic centre.",
+      "source": "https://www.italyformovies.it/film-serie-tv-games/detail/6384/shadows-on-the-vatican-atto-i-avarizia-game"
+    },
+    {
+      "placeId": "capena-italy",
+      "note": "James travels to Capena to investigate a church connected to the case.",
+      "source": "https://www.italyformovies.it/film-serie-tv-games/detail/6384/shadows-on-the-vatican-atto-i-avarizia-game"
+    }
+  ],
+  "routes": [
+    {
+      "id": "james-investigation",
+      "name": "James's investigation",
+      "characters": [
+        "James Murphy"
+      ],
+      "stops": [
+        "rome-italy",
+        "capena-italy"
+      ],
+      "source": "https://www.italyformovies.it/film-serie-tv-games/detail/6384/shadows-on-the-vatican-atto-i-avarizia-game"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://www.italyformovies.it/film-serie-tv-games/detail/6384/shadows-on-the-vatican-atto-i-avarizia-game",
+  "genres": [
+    "Adventure"
+  ]
+}

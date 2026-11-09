@@ -1,0 +1,74 @@
+{
+  "id": 32,
+  "name": "The Lost Crown",
+  "aliases": [
+    "The Lost Crown: A Ghost-Hunting Adventure"
+  ],
+  "year": 2008,
+  "publisher": "Got Game Entertainment",
+  "developer": "Darkling Room",
+  "locations": [
+    {
+      "placeId": "saxton-fictional-looe-polperro-composite-cornwall-uk",
+      "settingType": "fictionalized",
+      "note": "Nigel Danvers and Lucy Reubans hunt ghosts and the lost Anglo-Saxon crown around Saxton: Harbour Cottage, the museum, the Bear, Saxton Shore and Willy Wilcox Cave, the old net store on the cliffs. Every screen is a photograph of Polperro, with Looe, Talland Bay and Duloe nearby.",
+      "source": "http://www.darklingroom.co.uk/thelostcrown/realsaxton/saxton.htm"
+    },
+    {
+      "placeId": "talland-church-cornwall-uk",
+      "settingType": "fictionalized",
+      "note": "Ulcombe Church, seen only in the May Day scenes: the real cliff-top church above Talland Bay, inside and out. The crypts and the tower machinery are invented.",
+      "source": "https://www.primidi.com/the_lost_crown_-_a_ghost-hunting_adventure/filming_locations"
+    },
+    {
+      "placeId": "duloe-church-cornwall-uk",
+      "settingType": "fictionalized",
+      "note": "The church at Northfield, the one you explore: the stone effigy, the slate carvings, the Elizabethan rood screen and the pews are all St Cuby's at Duloe. Only the vestry was photographed elsewhere, at Pelynt church.",
+      "source": "https://www.primidi.com/the_lost_crown_-_a_ghost-hunting_adventure/filming_locations"
+    },
+    {
+      "placeId": "looe-cornwall-uk",
+      "settingType": "fictionalized",
+      "note": "Looe lends the rest of Saxton: Banjo Pier is the Martello Tower, the big beach is Saxton Shore and the fens, Hannafore's rocks are the Pinnacles, and the High Street antique shop is Mr Gruel's.",
+      "source": "https://www.primidi.com/the_lost_crown_-_a_ghost-hunting_adventure/filming_locations"
+    },
+    {
+      "placeId": "morwellham-quay-devon-uk",
+      "settingType": "fictionalized",
+      "note": "The Karswells' farmhouse is the restored port village of Morwellham Quay, over the border in Devon.",
+      "source": "https://www.primidi.com/the_lost_crown_-_a_ghost-hunting_adventure/filming_locations"
+    }
+  ],
+  "storyYears": [
+    2008
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Lost_Crown:_A_Ghost-Hunting_Adventure",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Darkling_Room",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Got_Game_Entertainment",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "nigel-danvers",
+      "name": "Nigel Danvers",
+      "characters": [
+        "Nigel Danvers",
+        "Lucy Reubans"
+      ],
+      "stops": [
+        "saxton-fictional-looe-polperro-composite-cornwall-uk",
+        "morwellham-quay-devon-uk",
+        "duloe-church-cornwall-uk",
+        "saxton-fictional-looe-polperro-composite-cornwall-uk",
+        "duloe-church-cornwall-uk",
+        "saxton-fictional-looe-polperro-composite-cornwall-uk",
+        "talland-church-cornwall-uk",
+        "saxton-fictional-looe-polperro-composite-cornwall-uk"
+      ],
+      "note": "On the run in Saxton, Nigel calls on the Karswells' farmhouse and Northfield church, walks the haunted railway back to the church by night, joins the May Day fair at Ulcombe and returns to find the crown's resting place.",
+      "source": "https://www.gameboomers.com/wtcheats/pcLl/TheLostCrown.htm"
+    }
+  ]
+}

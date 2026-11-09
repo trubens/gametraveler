@@ -1,0 +1,20 @@
+{
+  "id": 1000235,
+  "name": "Nancy Drew: Trail of the Twister",
+  "year": 2010,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "oklahoma-usa",
+      "note": "Undercover as an intern with Canute College's storm-chasing team, Nancy finds out who is sabotaging its equipment in the Green Skies competition."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Trail_of_the_Twister",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

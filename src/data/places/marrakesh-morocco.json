@@ -1,0 +1,13 @@
+{
+  "id": "marrakesh-morocco",
+  "name": "Marrakesh, Morocco",
+  "position": {
+    "lat": 31.6295,
+    "lon": -7.9813
+  },
+  "scale": "area",
+  "parentId": "morocco",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marrakesh",
+  "description": "One of Morocco's four imperial cities."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "bearsden-scotland-uk",
+  "name": "Bearsden, Scotland, UK",
+  "position": {
+    "lat": 55.9195,
+    "lon": -4.3337
+  },
+  "scale": "area",
+  "parentId": "scotland-uk",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bearsden",
+  "description": "An affluent town in East Dunbartonshire on the north-western edge of Glasgow, crossed by the Antonine Wall.",
+  "descriptionSource": "wikipedia"
+}

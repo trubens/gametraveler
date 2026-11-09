@@ -1,0 +1,16 @@
+{
+  "id": "paracel-islands",
+  "name": "Paracel Islands",
+  "position": {
+    "lat": 16.6667,
+    "lon": 112.3333
+  },
+  "scale": "area",
+  "placeType": "island",
+  "aliases": [
+    "Xisha Islands"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Paracel_Islands",
+  "description": "A scatter of reefs and islets in the South China Sea, held by China and claimed by Vietnam and Taiwan.",
+  "descriptionSource": "wikipedia"
+}

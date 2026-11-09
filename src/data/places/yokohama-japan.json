@@ -1,0 +1,13 @@
+{
+  "id": "yokohama-japan",
+  "name": "Yokohama, Japan",
+  "position": {
+    "lat": 35.442,
+    "lon": 139.642
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yokohama",
+  "description": "Japan's second-largest city."
+}

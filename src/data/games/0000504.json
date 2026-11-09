@@ -1,0 +1,22 @@
+{
+  "id": 504,
+  "name": "Last Window: The Secret of Cape West",
+  "year": 2010,
+  "publisher": "Nintendo",
+  "developer": "Cing",
+  "locations": [
+    {
+      "placeId": "los-angeles-usa",
+      "note": "The game follows a 1980s Los Angeles mystery in Cape West, with the city and its neighborhoods at the center of the story."
+    }
+  ],
+  "storyYears": [
+    1980
+  ],
+  "source": "https://en.wikipedia.org/wiki/Last_Window:_The_Secret_of_Cape_West",
+  "developerUrl": "https://en.wikipedia.org/wiki/Cing",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Nintendo",
+  "genres": [
+    "Adventure"
+  ]
+}

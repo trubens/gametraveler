@@ -1,0 +1,14 @@
+{
+  "id": "great-inagua-bahamas",
+  "name": "Great Inagua, Bahamas",
+  "position": {
+    "lat": 21.0667,
+    "lon": -73.3333
+  },
+  "scale": "area",
+  "parentId": "the-bahamas",
+  "placeType": "island",
+  "source": "https://en.wikipedia.org/wiki/Great_Inagua",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_Inagua",
+  "description": "The larger of the two islands of Inagua, the southernmost district of the Bahamas, with its main settlement at Matthew Town."
+}

@@ -1,0 +1,23 @@
+{
+  "id": 502,
+  "name": "Midtown Madness 3",
+  "year": 2003,
+  "series": "Midtown Madness",
+  "developer": "Digital Illusions CE",
+  "publisher": "Microsoft Game Studios",
+  "locations": [
+    {
+      "placeId": "paris-france",
+      "note": "Street races take place through recreated Paris and Washington, D.C."
+    },
+    {
+      "placeId": "washington-d-c-usa",
+      "note": "Street races take place through recreated Paris and Washington, D.C."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Midtown_Madness_3",
+  "genres": [
+    "Racing"
+  ]
+}

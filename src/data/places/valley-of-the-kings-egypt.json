@@ -1,0 +1,13 @@
+{
+  "id": "valley-of-the-kings-egypt",
+  "name": "Valley of the Kings, Egypt",
+  "position": {
+    "lat": 25.7402,
+    "lon": 32.6014
+  },
+  "scale": "site",
+  "parentId": "thebes-luxor-egypt",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Valley_of_the_Kings",
+  "description": "A desert valley on the west bank of the Nile where pharaohs were buried in rock-cut tombs for nearly five hundred years."
+}

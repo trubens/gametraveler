@@ -1,0 +1,18 @@
+{
+  "id": "cape-vilan-galicia-spain",
+  "name": "Cape Vilan, Galicia, Spain",
+  "position": {
+    "lat": 43.1606,
+    "lon": -9.2117
+  },
+  "scale": "area",
+  "parentId": "galicia-spain",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Cabo Vilán"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Cape_Vilan",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cape_Vilan",
+  "description": "A rock-bound peninsula on Galicia's Costa da Morte near Camariñas, declared of national interest in 1933 and now a natural monument.",
+  "descriptionSource": "wikipedia"
+}

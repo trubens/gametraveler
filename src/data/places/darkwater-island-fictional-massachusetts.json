@@ -1,0 +1,17 @@
+{
+  "id": "darkwater-island-fictional-massachusetts",
+  "name": "Darkwater Island, Massachusetts, USA",
+  "scale": "area",
+  "position": {
+    "lat": 42.3,
+    "lon": -70.7
+  },
+  "parentId": "massachusetts-usa",
+  "placeType": "island",
+  "fictional": true,
+  "aliases": [
+    "Darkwater Island (fictional)"
+  ],
+  "description": "An invented fishing island in the Innsmouth mould, which the game places off the coast of Boston. Pinned in Massachusetts Bay.",
+  "source": "https://call-of-cthulhu.fandom.com/wiki/Darkwater"
+}

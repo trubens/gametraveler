@@ -1,0 +1,13 @@
+{
+  "id": "ajaccio-corsica-france",
+  "name": "Ajaccio, Corsica, France",
+  "position": {
+    "lat": 41.92,
+    "lon": 8.74
+  },
+  "scale": "area",
+  "parentId": "corsica-france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ajaccio",
+  "description": "Corsica's capital and largest city."
+}

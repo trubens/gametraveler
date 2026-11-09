@@ -1,0 +1,72 @@
+{
+  "id": 380,
+  "name": "WRC 8",
+  "year": 2019,
+  "series": "WRC",
+  "developer": "Kylotonn",
+  "publisher": "Bigben Interactive",
+  "locations": [
+    {
+      "placeId": "monte-carlo-monaco",
+      "note": "The Monte Carlo Rally."
+    },
+    {
+      "placeId": "torsby-sweden",
+      "note": "Rally Sweden, now headquartered in Torsby."
+    },
+    {
+      "placeId": "leon-mexico",
+      "note": "Rally Mexico around León."
+    },
+    {
+      "placeId": "ajaccio-corsica-france",
+      "note": "The Tour de Corse on the island's tarmac."
+    },
+    {
+      "placeId": "villa-carlos-paz-argentina",
+      "note": "Rally Argentina from Villa Carlos Paz."
+    },
+    {
+      "placeId": "concepcion-chile",
+      "note": "Rally Chile, new to the championship, on the forest roads of the Bío Bío around Concepción."
+    },
+    {
+      "placeId": "matosinhos-portugal",
+      "note": "Rally de Portugal from Matosinhos."
+    },
+    {
+      "placeId": "alghero-sardinia-italy",
+      "note": "Rally Italia Sardegna from Alghero."
+    },
+    {
+      "placeId": "jyvaskyla-finland",
+      "note": "Rally Finland from Jyväskylä."
+    },
+    {
+      "placeId": "trier-germany",
+      "note": "Rallye Deutschland from Trier."
+    },
+    {
+      "placeId": "turkey-marmaris",
+      "note": "Rally Turkey on the rough, rocky gravel above Marmaris."
+    },
+    {
+      "placeId": "llandudno-wales-uk",
+      "note": "Wales Rally GB from Llandudno."
+    },
+    {
+      "placeId": "salou-spain",
+      "note": "RallyRACC Catalunya from Salou."
+    },
+    {
+      "placeId": "australia-coffs-harbour",
+      "note": "Rally Australia from Coffs Harbour, the final round."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/WRC_8",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 548,
+  "name": "Martha Is Dead",
+  "year": 2022,
+  "publisher": "Wired Productions",
+  "developer": "LKA",
+  "locations": [
+    {
+      "placeId": "la-romola-san-casciano-italy",
+      "note": "The 1944 psychological thriller is set in La Romola, a real hamlet in San Casciano in Val di Pesa; players explore its recreated Tuscan countryside.",
+      "source": "https://ivipro.it/it/portfolio-item/martha-is-dead/"
+    }
+  ],
+  "storyYears": [
+    1944
+  ],
+  "source": "https://en.wikipedia.org/wiki/Martha_Is_Dead",
+  "genres": [
+    "Adventure",
+    "Survival Horror"
+  ]
+}

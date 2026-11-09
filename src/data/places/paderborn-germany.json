@@ -1,0 +1,14 @@
+{
+  "id": "paderborn-germany",
+  "name": "Paderborn, Germany",
+  "position": {
+    "lat": 51.7189,
+    "lon": 8.7575
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Paderborn",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Paderborn",
+  "description": "A city in eastern North Rhine-Westphalia."
+}

@@ -1,0 +1,34 @@
+{
+  "id": 54,
+  "name": "A New Beginning",
+  "year": 2010,
+  "publisher": "Daedalic Entertainment",
+  "developer": "Daedalic Entertainment",
+  "locations": [
+    {
+      "placeId": "san-francisco-usa",
+      "note": "Time traveller Fay arrives in the ruins of San Francisco in 2050 to change the future."
+    },
+    {
+      "placeId": "jostedalsbreen-norway",
+      "note": "Retired scientist Bent Svensson lives quietly in Norway's fjord country when Fay comes to find him."
+    },
+    {
+      "placeId": "oslo-norway",
+      "note": "Fay talks her way into the Energy Oslo conference as an inspector to warn the delegates about the Indez power plant and put Bent's algae fuel on the table."
+    },
+    {
+      "placeId": "amazon-rainforest-brazil",
+      "note": "The last chapters: Bent and Fay reach the Indez power plant in the Brazilian rainforest on the day it is due to explode and take the earth's climate with it."
+    }
+  ],
+  "storyYears": [
+    2009,
+    2050
+  ],
+  "source": "https://en.wikipedia.org/wiki/A_New_Beginning_(video_game)",
+  "developerUrl": "https://en.wikipedia.org/wiki/Daedalic_Entertainment",
+  "genres": [
+    "Adventure"
+  ]
+}

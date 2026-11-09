@@ -1,0 +1,94 @@
+{
+  "id": 139,
+  "name": "Tom Clancy's The Division 2",
+  "year": 2019,
+  "publisher": "Ubisoft",
+  "series": "The Division",
+  "developer": "Massive Entertainment",
+  "locations": [
+    {
+      "placeId": "washington-d-c-usa",
+      "note": "Seven months after the outbreak, the Agent answers a distress call from Washington and fights the Hyenas, the Outcasts, the True Sons and later Black Tusk across the collapsing capital.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_The_Division_2"
+    },
+    {
+      "placeId": "white-house-washington-d-c-usa",
+      "note": "The Division's base in Washington; the Agent arrives to help the JTF beat off a Hyena attack on it, and at the end stops Black Tusk's missile strike on it.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_The_Division_2"
+    },
+    {
+      "placeId": "united-states-capitol-washington-d-c-usa",
+      "note": "The True Sons hold the Capitol, where President Ellis's briefcase for the antivirals is kept; the Agent storms it as one of the faction strongholds.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_The_Division_2"
+    },
+    {
+      "placeId": "theodore-roosevelt-island-washington-d-c-usa",
+      "note": "The Outcasts, survivors of the JTF quarantine zone on the island, hold it against the Division, and the Agent fights through their stronghold.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_The_Division_2"
+    },
+    {
+      "placeId": "national-museum-of-american-history-washington-d-c-usa",
+      "note": "The Agent fights through the True Sons holding the American History Museum and takes down their commander, Captain Briggs.",
+      "source": "https://thedivision.fandom.com/wiki/American_History_Museum"
+    },
+    {
+      "placeId": "national-air-and-space-museum-washington-d-c-usa",
+      "note": "The Agent investigates True Sons activity at the Air & Space Museum and defeats their Lieutenant Kelly.",
+      "source": "https://thedivision.fandom.com/wiki/Missions_in_Tom_Clancy%27s_The_Division_2"
+    },
+    {
+      "placeId": "lincoln-memorial-washington-d-c-usa",
+      "note": "The Agent helps the Campus settlement take the Lincoln Memorial from the True Sons and their commander Major Ashford.",
+      "source": "https://thedivision.fandom.com/wiki/Missions_in_Tom_Clancy%27s_The_Division_2"
+    },
+    {
+      "placeId": "tidal-basin-washington-d-c-usa",
+      "note": "The Agent raids Black Tusk's stronghold at the Tidal Basin, takes back the antivirals and stops the missile strike on the White House.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_The_Division_2"
+    },
+    {
+      "placeId": "the-pentagon-washington-usa",
+      "note": "In the Pentagon: The Last Castle episode, the Agent sabotages Black Tusk's drilling down to the DARPA labs under the Pentagon and seizes the bioreactor they came for.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_The_Division_2"
+    },
+    {
+      "placeId": "coney-island-brooklyn-nyc-usa",
+      "note": "In the Coney Island: The Hunt episode, the Agent tracks the virologist Vitaly Tchernenko to the ruined amusement park, where Black Tusk is holding him, and gets him out.",
+      "source": "https://news.ubisoft.com/en-us/article/7fqMkDBh8AMk24HFA7NXoo/the-division-2-state-of-the-game-recap-the-story-so-far"
+    },
+    {
+      "placeId": "new-york-city-hall-new-york-city-usa",
+      "note": "In Warlords of New York, the Agent finds the Division and JTF base at City Hall devastated by Keener's Eclipse virus.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_The_Division_2"
+    },
+    {
+      "placeId": "the-battery-new-york-city-usa",
+      "note": "Battery Park is the base of one of Keener's four rogue-agent warlords, whom the Agent hunts down in Warlords of New York.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_The_Division_2"
+    },
+    {
+      "placeId": "new-york-stock-exchange-new-york-city-usa",
+      "note": "Another of Keener's warlords operates from the New York Stock Exchange until the Agent eliminates them.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_The_Division_2"
+    },
+    {
+      "placeId": "liberty-island-new-york-city-usa",
+      "note": "The Agent takes a ferry to Liberty Island, fights through Black Tusk to Keener in the Statue of Liberty Museum, destroys the missile meant to spread Eclipse over Manhattan and mortally wounds him.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_The_Division_2"
+    },
+    {
+      "placeId": "the-tombs-new-york-city-usa",
+      "note": "In Warlords of New York, the rogue agent Theo Parnell makes his last stand in the Tombs, where the Agent hunts him down.",
+      "source": "https://holdtoreset.com/the-division-2-warlords-of-new-york-missions-list-includes-side-missions"
+    }
+  ],
+  "storyYears": [
+    2016
+  ],
+  "source": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_The_Division_2",
+  "reviewed": "2026-11-06",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Third-Person Shooter"
+  ]
+}

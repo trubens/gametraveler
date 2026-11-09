@@ -1,0 +1,20 @@
+{
+  "id": 1000154,
+  "name": "Attentat 1942",
+  "year": 2017,
+  "publisher": "Charles Games",
+  "developer": "Charles University and the Czech Academy of Sciences",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Attentat_1942",
+  "locations": [
+    {
+      "placeId": "prague-czech-republic",
+      "note": "The player interviews eyewitnesses in occupied Prague to learn why their grandfather was sent to a concentration camp after Heydrich's assassination in 1942."
+    }
+  ],
+  "storyYears": [
+    1942
+  ]
+}

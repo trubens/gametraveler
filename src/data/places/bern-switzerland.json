@@ -1,0 +1,14 @@
+{
+  "id": "bern-switzerland",
+  "name": "Bern, Switzerland",
+  "position": {
+    "lat": 46.9481,
+    "lon": 7.4475
+  },
+  "scale": "area",
+  "parentId": "switzerland",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bern",
+  "description": "The Swiss federal city, its arcaded old town on a bend of the Aare.",
+  "descriptionSource": "wikipedia"
+}

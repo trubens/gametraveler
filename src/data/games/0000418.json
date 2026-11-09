@@ -1,0 +1,76 @@
+{
+  "id": 418,
+  "name": "80 Days",
+  "year": 2014,
+  "developer": "Inkle",
+  "publisher": "Inkle",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "The interactive journey starts in London and can visit Paris on its branching route around the world."
+    },
+    {
+      "placeId": "paris-france",
+      "note": "The interactive journey starts in London and can visit Paris on its branching route around the world."
+    },
+    {
+      "placeId": "buenos-aires-argentina",
+      "note": "Buenos Aires is a visitable city with its own story content and onward routes, including a ship to Rio de Janeiro.",
+      "source": "https://gamefaqs.gamespot.com/switch/272474-80-days/faqs/71567"
+    },
+    {
+      "placeId": "santiago-chile",
+      "note": "Santiago connects to Buenos Aires by train in the game's branching travel network.",
+      "source": "https://gamefaqs.gamespot.com/switch/272474-80-days/faqs/71567"
+    },
+    {
+      "placeId": "rio-de-janeiro-brazil",
+      "note": "A ship route connects Buenos Aires to Rio de Janeiro.",
+      "source": "https://gamefaqs.gamespot.com/switch/272474-80-days/faqs/71567"
+    },
+    {
+      "placeId": "mumbai-india",
+      "note": "Bombay is one of the named Indian cities on Passepartout’s branching route."
+    },
+    {
+      "placeId": "agra-india",
+      "note": "Agra is a visitable stop on the route through India."
+    },
+    {
+      "placeId": "allahabad-india",
+      "note": "Allahabad is a visitable city on the route through India."
+    },
+    {
+      "placeId": "kolkata-india",
+      "note": "Calcutta is a visitable stop on the route through India."
+    },
+    {
+      "placeId": "chennai-india",
+      "note": "Madras is a visitable city on the route through India."
+    }
+  ],
+  "routes": [
+    {
+      "id": "south-america-via-buenos-aires",
+      "name": "South America via Buenos Aires",
+      "characters": [
+        "Passepartout",
+        "Phileas Fogg"
+      ],
+      "stops": [
+        "santiago-chile",
+        "buenos-aires-argentina",
+        "rio-de-janeiro-brazil"
+      ],
+      "note": "Across South America by train from Santiago to Buenos Aires, then by ship to Rio de Janeiro.",
+      "source": "https://gamefaqs.gamespot.com/switch/272474-80-days/faqs/71567"
+    }
+  ],
+  "storyYears": [
+    1872
+  ],
+  "source": "https://en.wikipedia.org/wiki/80_Days_(2014_video_game)",
+  "genres": [
+    "Adventure"
+  ]
+}

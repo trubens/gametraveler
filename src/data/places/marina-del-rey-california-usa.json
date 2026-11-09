@@ -1,0 +1,14 @@
+{
+  "id": "marina-del-rey-california-usa",
+  "name": "Marina del Rey, California, USA",
+  "position": {
+    "lat": 33.9794,
+    "lon": -118.4528
+  },
+  "scale": "site",
+  "parentId": "los-angeles-usa",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marina_del_Rey,_California",
+  "description": "A seaside community around one of the largest man-made small-craft harbours in the world, south of Venice Beach.",
+  "descriptionSource": "wikipedia"
+}

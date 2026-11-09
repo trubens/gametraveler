@@ -1,0 +1,19 @@
+{
+  "id": "ribeauville-france",
+  "name": "Ribeauvillé, France",
+  "position": {
+    "lat": 48.2,
+    "lon": 7.32
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "aliases": [
+    "Ribeauville",
+    "Rappschwihr"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Ribeauvill%C3%A9",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ribeauvill%C3%A9",
+  "description": "A commune in the Haut-Rhin department of Alsace, in Grand Est, north-eastern France.",
+  "descriptionSource": "wikipedia"
+}

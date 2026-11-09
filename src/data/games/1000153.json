@@ -1,0 +1,21 @@
+{
+  "id": 1000153,
+  "name": "Through the Darkest of Times",
+  "year": 2020,
+  "publisher": "THQ Nordic",
+  "developer": "Paintbucket Games",
+  "genres": [
+    "Strategy"
+  ],
+  "source": "https://www.thqnordicmobile.com/en/games/through-the-darkest-of-times/",
+  "locations": [
+    {
+      "placeId": "berlin-germany",
+      "note": "The resistance campaign is set in Berlin from 1933 onward, with missions and events rooted in the city."
+    }
+  ],
+  "storyYears": [
+    1933,
+    1945
+  ]
+}

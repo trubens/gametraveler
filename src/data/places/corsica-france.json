@@ -1,0 +1,13 @@
+{
+  "id": "corsica-france",
+  "name": "Corsica, France",
+  "position": {
+    "lat": 41.92,
+    "lon": 8.74
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Corsica",
+  "description": "An island in the Mediterranean Sea and one of the eighteen regions of France."
+}

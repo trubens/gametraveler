@@ -1,0 +1,17 @@
+{
+  "id": "oh-deer-diner-bright-falls-fictional",
+  "name": "Oh Deer Diner, Bright Falls",
+  "position": {
+    "lat": 47.4952,
+    "lon": -121.7869
+  },
+  "scale": "site",
+  "parentId": "bright-falls-fictional-washington",
+  "placeType": "venue",
+  "fictional": true,
+  "aliases": [
+    "Twede's Cafe"
+  ],
+  "source": "https://alanwake.fandom.com/wiki/Oh_Deer_Diner",
+  "description": "The diner on Bright Falls' main street, a nod to the Double R Diner of Twin Peaks. Its look is modelled on Twede's Cafe in North Bend, the Double R's real filming location, and the pin stands on Twede's at 137 West North Bend Way."
+}

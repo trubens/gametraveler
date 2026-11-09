@@ -1,0 +1,13 @@
+{
+  "id": "river-kwai-thailand",
+  "name": "River Kwai, Thailand",
+  "position": {
+    "lat": 14.04,
+    "lon": 99.5
+  },
+  "scale": "area",
+  "parentId": "thailand",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Khwae_Noi_River",
+  "description": "A river in western Thailand that rises in the Bilauktaung range near the Burmese border, east of the Salween."
+}

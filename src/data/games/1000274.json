@@ -1,0 +1,22 @@
+{
+  "id": 1000274,
+  "name": "Just Cause 4",
+  "year": 2018,
+  "series": "Just Cause",
+  "developer": "Avalanche Studios",
+  "publisher": "Square Enix",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "storyYears": [
+    2018
+  ],
+  "source": "https://en.wikipedia.org/wiki/Just_Cause_4",
+  "locations": [
+    {
+      "placeId": "solis-fictional-south-america",
+      "settingType": "fictionalized",
+      "note": "Solís is an invented South American country of extreme weather, from rainforest to desert and mountains."
+    }
+  ]
+}

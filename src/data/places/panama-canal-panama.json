@@ -1,0 +1,14 @@
+{
+  "id": "panama-canal-panama",
+  "name": "Panama Canal, Panama",
+  "position": {
+    "lat": 9.12,
+    "lon": -79.75
+  },
+  "scale": "area",
+  "parentId": "panama",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Panama_Canal",
+  "description": "The 82-kilometre waterway cut across the isthmus between 1904 and 1914, lifting ships through locks to Gatún Lake.",
+  "descriptionSource": "wikipedia"
+}

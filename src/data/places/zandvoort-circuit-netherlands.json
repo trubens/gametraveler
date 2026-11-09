@@ -1,0 +1,12 @@
+{
+  "id": "zandvoort-circuit-netherlands",
+  "name": "Zandvoort Circuit, Netherlands",
+  "position": {
+    "lat": 52.3888,
+    "lon": 4.5409
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Circuit_Zandvoort",
+  "description": "A motor-racing circuit in the dunes beside the beach resort of Zandvoort, on the North Holland coast."
+}

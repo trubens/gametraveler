@@ -1,0 +1,14 @@
+{
+  "id": "daqing-china",
+  "name": "Daqing, China",
+  "position": {
+    "lat": 46.589,
+    "lon": 125.104
+  },
+  "scale": "area",
+  "parentId": "china",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daqing",
+  "description": "The oil city of Heilongjiang in north-eastern China, built on the country's largest oilfield from 1959.",
+  "descriptionSource": "wikipedia"
+}

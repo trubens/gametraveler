@@ -1,0 +1,20 @@
+{
+  "id": 1000002,
+  "name": "DAHALO",
+  "year": 2020,
+  "publisher": "LOMAY",
+  "developer": "LOMAY",
+  "locations": [
+    {
+      "placeId": "southern-madagascar",
+      "note": "The game is set in southern Madagascar and draws its premise from the region's dahalo bandit groups."
+    }
+  ],
+  "storyYears": [
+    2019
+  ],
+  "source": "https://store.steampowered.com/app/1107730/DAHALO/",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

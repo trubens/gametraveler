@@ -1,0 +1,17 @@
+{
+  "id": "st-marks-basilica-venice-italy",
+  "name": "St Mark's Basilica, Venice, Italy",
+  "position": {
+    "lat": 45.4345,
+    "lon": 12.3397
+  },
+  "scale": "site",
+  "parentId": "venice-italy",
+  "placeType": "landmark",
+  "aliases": [
+    "Basilica di San Marco"
+  ],
+  "source": "https://en.wikipedia.org/wiki/St_Mark's_Basilica",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/St_Mark's_Basilica",
+  "description": "The cathedral church of Venice and the seat of the city's patriarch since 1807."
+}

@@ -1,0 +1,69 @@
+{
+  "id": 40,
+  "name": "Tomb Raider III",
+  "year": 1998,
+  "publisher": "Eidos Interactive",
+  "series": "Tomb Raider",
+  "developer": "Core Design",
+  "locations": [
+    {
+      "placeId": "india",
+      "settingType": "fictionalized",
+      "note": "Lara's hunt for the first meteorite artefact opens in the Indian jungle, among ruined temples."
+    },
+    {
+      "placeId": "nevada-usa",
+      "note": "In Nevada Lara crosses a desert canyon toward Area 51 and is taken prisoner."
+    },
+    {
+      "placeId": "london-uk",
+      "note": "In London Lara reaches the cosmetics boss Sophia Leigh in her office and takes the Eye of Isis."
+    },
+    {
+      "placeId": "south-pacific-fictionalized-islands",
+      "settingType": "imaginary",
+      "note": "Lara crosses island villages and a crash site, then infiltrates a temple to defeat the deity Puna and take the Ora Dagger."
+    },
+    {
+      "placeId": "antarctica",
+      "note": "The meteorite crater and the ancient city of Tinnos lie under RX-Tech's Antarctic base."
+    },
+    {
+      "placeId": "area-51-usa",
+      "note": "Inside Area 51 the fourth artefact, Element 115, sits in an alien spacecraft guarded by the US government."
+    },
+    {
+      "placeId": "croft-manor-fictional-surrey-england-uk",
+      "settingType": "fictionalized",
+      "note": "The training level at Lara's home."
+    }
+  ],
+  "storyYears": [
+    1998
+  ],
+  "source": "https://en.wikipedia.org/wiki/Tomb_Raider_III",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Core_Design",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Eidos_Interactive",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "the-meteorite",
+      "name": "The meteorite artefacts",
+      "characters": [
+        "Lara Croft"
+      ],
+      "stops": [
+        "india",
+        "south-pacific-fictionalized-islands",
+        "london-uk",
+        "nevada-usa",
+        "antarctica"
+      ],
+      "note": "Lara gathers the meteorite artefacts from the Indian jungle across the South Pacific, London and the Nevada desert to the crash site in Antarctica.",
+      "source": "https://en.wikipedia.org/wiki/Tomb_Raider_III"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sonoma-raceway-california-usa",
+  "name": "Sonoma Raceway, California, USA",
+  "position": {
+    "lat": 38.162,
+    "lon": -122.458
+  },
+  "scale": "site",
+  "parentId": "california-usa",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sonoma_Raceway",
+  "description": "A racing complex in the hills of Sonoma, California, with several road-course layouts and a drag strip."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "western-desert-egypt",
+  "name": "Western Desert, Egypt",
+  "position": {
+    "lat": 26.2833,
+    "lon": 28.2167
+  },
+  "scale": "area",
+  "parentId": "egypt",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Western_Desert_(Egypt)",
+  "description": "The Egyptian Sahara west of the Nile, sand seas and oases stretching to the Libyan border.",
+  "descriptionSource": "wikipedia"
+}

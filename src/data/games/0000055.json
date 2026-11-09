@@ -1,0 +1,47 @@
+{
+  "id": 55,
+  "name": "Codename: ICEMAN",
+  "year": 1989,
+  "publisher": "Sierra On-Line",
+  "developer": "Sierra On-Line",
+  "locations": [
+    {
+      "placeId": "tahiti-french-polynesia",
+      "note": "Navy diver Johnny Westland is on leave in Tahiti when he is pulled into a near-future oil crisis."
+    },
+    {
+      "placeId": "the-pentagon-washington-usa",
+      "note": "Westland is briefed at the Pentagon, learns that Stacy from Tahiti is an agent he must meet again, and ships out on the submarine USS Blackhawk."
+    },
+    {
+      "placeId": "tunis-tunisia",
+      "note": "The mission ends in Tunisia, where a kidnapped US ambassador must be rescued from terrorists."
+    }
+  ],
+  "storyYears": [
+    1989
+  ],
+  "source": "https://en.wikipedia.org/wiki/Codename:_Iceman",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Sierra_Entertainment",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "johnny-westland",
+      "name": "Cdr. Johnny Westland",
+      "characters": [
+        "Johnny Westland",
+        "Stacy"
+      ],
+      "stops": [
+        "tahiti-french-polynesia",
+        "the-pentagon-washington-usa",
+        "tunis-tunisia"
+      ],
+      "note": "Called back from a Tahiti beach, Westland is briefed at the Pentagon and takes a submarine across hostile seas to free a kidnapped ambassador in Tunisia.",
+      "source": "https://en.wikipedia.org/wiki/Codename:_Iceman"
+    }
+  ]
+}

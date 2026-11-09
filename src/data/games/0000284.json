@@ -1,0 +1,83 @@
+{
+  "id": 284,
+  "name": "Formula 1",
+  "year": 1996,
+  "series": "Formula 1",
+  "developer": "Bizarre Creations",
+  "publisher": "Psygnosis",
+  "locations": [
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "Raced as the British Grand Prix, round 8 of 17 in the 1995 season."
+    },
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 12 of 17 in the 1995 season."
+    },
+    {
+      "placeId": "interlagos-circuit-sao-paulo-brazil",
+      "note": "Raced as the Brazilian Grand Prix, the opening round of the 1995 season."
+    },
+    {
+      "placeId": "autodromo-oscar-y-juan-galvez-buenos-aires-argentina",
+      "note": "Raced as the Argentine Grand Prix, round 2 of 17 in the 1995 season, back on the calendar for the first time since 1981."
+    },
+    {
+      "placeId": "autodromo-enzo-e-dino-ferrari-imola-italy",
+      "note": "Raced as the San Marino Grand Prix, round 3 of 17 in the 1995 season."
+    },
+    {
+      "placeId": "circuit-de-barcelona-catalunya-spain",
+      "note": "Raced as the Spanish Grand Prix, round 4 of 17 in the 1995 season."
+    },
+    {
+      "placeId": "circuit-de-monaco",
+      "note": "Raced as the Monaco Grand Prix, round 5 of 17 in the 1995 season."
+    },
+    {
+      "placeId": "circuit-gilles-villeneuve-montreal-canada",
+      "note": "Raced as the Canadian Grand Prix, round 6 of 17 in the 1995 season."
+    },
+    {
+      "placeId": "circuit-de-nevers-magny-cours-france",
+      "note": "Raced as the French Grand Prix, round 7 of 17 in the 1995 season."
+    },
+    {
+      "placeId": "hockenheimring-germany",
+      "note": "Raced as the German Grand Prix, round 9 of 17 in the 1995 season."
+    },
+    {
+      "placeId": "hungaroring-hungary",
+      "note": "Raced as the Hungarian Grand Prix, round 10 of 17 in the 1995 season."
+    },
+    {
+      "placeId": "circuit-de-spa-francorchamps-belgium",
+      "note": "Raced as the Belgian Grand Prix, round 11 of 17 in the 1995 season."
+    },
+    {
+      "placeId": "estoril-circuit-portugal",
+      "note": "Raced as the Portuguese Grand Prix, round 13 of 17 in the 1995 season."
+    },
+    {
+      "placeId": "nurburgring-germany",
+      "note": "Raced as the European Grand Prix, round 14 of 17 in the 1995 season, back on the calendar for the first time since 1985."
+    },
+    {
+      "placeId": "okayama-international-circuit-japan",
+      "note": "Raced as the Pacific Grand Prix, round 15 of 17 in the 1995 season."
+    },
+    {
+      "placeId": "suzuka-international-racing-course-japan",
+      "note": "Raced as the Japanese Grand Prix, round 16 of 17 in the 1995 season."
+    },
+    {
+      "placeId": "adelaide-street-circuit-australia",
+      "note": "Raced as the Australian Grand Prix, the final round of the 1995 season."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Formula_1_(video_game)",
+  "genres": [
+    "Racing"
+  ]
+}

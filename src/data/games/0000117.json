@@ -1,0 +1,28 @@
+{
+  "id": 117,
+  "name": "Judgment",
+  "year": 2018,
+  "publisher": "Sega",
+  "series": "Yakuza / Like a Dragon",
+  "developer": "Ryu Ga Gotoku Studio",
+  "locations": [
+    {
+      "placeId": "kabukicho-tokyo-japan",
+      "aliases": [
+        "Kamurocho"
+      ],
+      "settingType": "fictionalized",
+      "note": "Disbarred lawyer Yagami turns detective to hunt an eye-gouging serial killer in Kamurocho, the series' Kabukicho."
+    }
+  ],
+  "storyYears": [
+    2015,
+    2018
+  ],
+  "source": "https://en.wikipedia.org/wiki/Judgment_(video_game)",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

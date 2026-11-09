@@ -1,0 +1,14 @@
+{
+  "id": "tolvan-stone-cornwall-uk",
+  "name": "Tolvan Stone, Cornwall, UK",
+  "position": {
+    "lat": 50.105,
+    "lon": -5.209
+  },
+  "scale": "site",
+  "parentId": "cornwall-england",
+  "placeType": "landmark",
+  "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tolvan_holed_stone",
+  "description": "A holed standing stone in a garden at Gweek, through which children were once passed to cure them."
+}

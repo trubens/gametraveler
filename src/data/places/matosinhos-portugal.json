@@ -1,0 +1,14 @@
+{
+  "id": "matosinhos-portugal",
+  "name": "Matosinhos, Portugal",
+  "position": {
+    "lat": 41.1833,
+    "lon": -8.7
+  },
+  "scale": "area",
+  "parentId": "portugal",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Matosinhos",
+  "description": "The port and beach city beside Porto, the base of Rally de Portugal since 2015.",
+  "descriptionSource": "wikipedia"
+}

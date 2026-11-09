@@ -1,0 +1,19 @@
+{
+  "id": 1000166,
+  "name": "Knights of the Temple II",
+  "series": "Knights of the Temple",
+  "year": 2005,
+  "publisher": "Playlogic Entertainment",
+  "developer": "Cauldron",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Knights_of_the_Temple_II",
+  "locations": [
+    {
+      "placeId": "sirmium-serbia",
+      "note": "Paul travels to the Byzantine city of Sirmium, where players can explore the city and take on quests."
+    }
+  ],
+  "storyYears": []
+}

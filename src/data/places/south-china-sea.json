@@ -1,0 +1,13 @@
+{
+  "id": "south-china-sea",
+  "name": "South China Sea",
+  "position": {
+    "lat": 15,
+    "lon": 115
+  },
+  "scale": "area",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/South_China_Sea",
+  "description": "The sea between southern China, Vietnam, the Philippines and Borneo, scattered with disputed reefs and islands.",
+  "descriptionSource": "wikipedia"
+}

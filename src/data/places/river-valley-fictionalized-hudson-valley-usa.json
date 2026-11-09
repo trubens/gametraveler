@@ -1,0 +1,16 @@
+{
+  "id": "river-valley-fictionalized-hudson-valley-usa",
+  "name": "River Valley, Hudson Valley, USA",
+  "position": {
+    "lat": 43.5,
+    "lon": -74
+  },
+  "scale": "area",
+  "placeType": "body_of_water",
+  "fictional": true,
+  "aliases": [
+    "River Valley (fictionalized Hudson Valley), USA"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hudson_Valley",
+  "description": "An open wilderness built on the Hudson Valley and the Adirondack waterways. Pinned in the upper Hudson."
+}

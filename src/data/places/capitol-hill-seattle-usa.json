@@ -1,0 +1,15 @@
+{
+  "id": "capitol-hill-seattle-usa",
+  "name": "Capitol Hill, Seattle, USA",
+  "position": {
+    "lat": 47.6242,
+    "lon": -122.3208
+  },
+  "scale": "site",
+  "parentId": "seattle-usa",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Capitol_Hill,_Seattle",
+  "description": "A densely populated residential district east of downtown Seattle, long the centre of the city's nightlife and LGBT community.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Capitol_Hill,_Seattle"
+}

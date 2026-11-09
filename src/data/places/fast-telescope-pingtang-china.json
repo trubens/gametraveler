@@ -1,0 +1,17 @@
+{
+  "id": "fast-telescope-pingtang-china",
+  "name": "FAST telescope, Pingtang, China",
+  "position": {
+    "lat": 25.6531,
+    "lon": 106.8567
+  },
+  "scale": "area",
+  "parentId": "china",
+  "placeType": "landmark",
+  "aliases": [
+    "Tianyan"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Five-hundred-meter_Aperture_Spherical_Telescope",
+  "description": "The 500-metre radio dish set into a natural karst basin in Guizhou, the largest single-dish telescope in the world.",
+  "descriptionSource": "wikipedia"
+}

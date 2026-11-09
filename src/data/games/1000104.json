@@ -1,0 +1,28 @@
+{
+  "id": 1000104,
+  "name": "1979 Revolution: Black Friday",
+  "year": 2016,
+  "publisher": "iNK Stories",
+  "developer": "iNK Stories",
+  "locations": [
+    {
+      "placeId": "tehran-iran",
+      "note": "The story follows a young photographer through Tehran during the 1978 Iranian Revolution."
+    },
+    {
+      "placeId": "jaleh-square-now-shohada-square-tehran-iran",
+      "note": "Reza's story builds toward Black Friday, the September 1978 protest in Jaleh Square where troops opened fire on the crowd."
+    },
+    {
+      "placeId": "evin-prison-tehran-iran",
+      "note": "The game references political prisoners held at Evin during the period."
+    }
+  ],
+  "storyYears": [
+    1978
+  ],
+  "source": "https://en.wikipedia.org/wiki/1979_Revolution:_Black_Friday",
+  "genres": [
+    "Interactive Drama"
+  ]
+}

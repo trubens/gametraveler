@@ -1,0 +1,13 @@
+{
+  "id": "okinawa-japan",
+  "name": "Okinawa, Japan",
+  "position": {
+    "lat": 26.2124,
+    "lon": 127.6809
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Okinawa_Prefecture",
+  "description": "Japan's southernmost and westernmost prefecture, a chain of islands far to the south of the mainland."
+}

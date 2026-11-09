@@ -1,0 +1,12 @@
+{
+  "id": "amazon-rainforest-south-america",
+  "name": "Amazon rainforest, South America",
+  "position": {
+    "lat": -3,
+    "lon": -60
+  },
+  "scale": "area",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amazon_rainforest",
+  "placeType": "natural_feature",
+  "description": "A moist broadleaf tropical rainforest covering most of the Amazon basin, also called Amazonia or simply the Amazon."
+}

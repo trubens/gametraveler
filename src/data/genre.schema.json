@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Game Traveler genre",
+  "type": "string",
+  "enum": [
+    "Action RPG",
+    "Action-Adventure",
+    "Action-Platformer",
+    "Adventure",
+    "First-Person Shooter",
+    "Interactive Drama",
+    "Narrative RPG",
+    "Puzzle-Platformer",
+    "Racing",
+    "Real-Time Strategy",
+    "Real-Time Tactics",
+    "RPG",
+    "Shooter",
+    "Sports",
+    "Stealth",
+    "Strategy",
+    "Survival Horror",
+    "Tactical RPG",
+    "Tactical Shooter",
+    "Tactical Stealth",
+    "Third-Person Shooter",
+    "Visual Novel"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "nurburgring-gp-circuit-germany",
+  "name": "Nürburgring GP Circuit, Germany",
+  "position": {
+    "lat": 50.335,
+    "lon": 6.947
+  },
+  "scale": "site",
+  "parentId": "germany",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/N%C3%BCrburgring",
+  "description": "The Grand Prix circuit of the Nürburgring motorsport complex at Nürburg in Rhineland-Palatinate, Germany."
+}

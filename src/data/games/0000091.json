@@ -1,0 +1,65 @@
+{
+  "id": 91,
+  "name": "Hitman (2016)",
+  "year": 2016,
+  "publisher": "Square Enix",
+  "series": "Hitman",
+  "developer": "IO Interactive",
+  "locations": [
+    {
+      "placeId": "paris-france",
+      "note": "Opening mission: a fashion show in a Paris palace where 47 hunts two spymasters selling state secrets."
+    },
+    {
+      "placeId": "amalfi-coast-italy",
+      "settingType": "fictionalized",
+      "note": "In Sapienza, an invented town modelled on the Amalfi coast and Vernazza, 47 kills the scientists Silvio Caruso and Francesca De Santis and destroys their virus prototype in Caruso's lab."
+    },
+    {
+      "placeId": "marrakesh-morocco",
+      "note": "A brewing military coup around a besieged Swedish consulate sends 47 into the souks of Marrakesh."
+    },
+    {
+      "placeId": "bangkok-thailand",
+      "note": "47 checks into a riverside Bangkok luxury hotel where a rock star is recording an album."
+    },
+    {
+      "placeId": "colorado-usa",
+      "note": "A militia training camp on a remote Colorado farm, where 47 must eliminate four targets at once."
+    },
+    {
+      "placeId": "hokkaido-japan",
+      "note": "The season finale is set at a secluded mountain hospital and spa in snowy Hokkaido."
+    }
+  ],
+  "storyYears": [
+    2016
+  ],
+  "source": "https://en.wikipedia.org/wiki/Hitman_(2016_video_game)",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Square_Enix",
+  "genres": [
+    "Stealth"
+  ],
+  "routes": [
+    {
+      "id": "agent-47",
+      "name": "Agent 47",
+      "characters": [
+        "Agent 47",
+        "Diana Burnwood",
+        "the Shadow Client"
+      ],
+      "stops": [
+        "paris-france",
+        "amalfi-coast-italy",
+        "marrakesh-morocco",
+        "bangkok-thailand",
+        "colorado-usa",
+        "hokkaido-japan"
+      ],
+      "note": "From a Paris fashion show 47 follows the Shadow Client's trail through Sapienza on the Italian coast, Marrakesh, Bangkok and a Colorado militia farm to a mountain hospital in Hokkaido.",
+      "source": "https://en.wikipedia.org/wiki/Hitman_(2016_video_game)"
+    }
+  ]
+}

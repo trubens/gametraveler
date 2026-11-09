@@ -1,0 +1,12 @@
+{
+  "id": "hanoi-circuit-vietnam",
+  "name": "Hanoi Circuit, Vietnam",
+  "position": {
+    "lat": 21.0133,
+    "lon": 105.7614
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hanoi_Circuit",
+  "description": "A street racing circuit laid out in the Nam Từ Liêm district of Hanoi, Vietnam's capital."
+}

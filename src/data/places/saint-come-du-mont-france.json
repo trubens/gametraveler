@@ -1,0 +1,13 @@
+{
+  "id": "saint-come-du-mont-france",
+  "name": "Saint-Côme-du-Mont, France",
+  "position": {
+    "lat": 49.3339,
+    "lon": -1.2719
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Saint-C%C3%B4me-du-Mont",
+  "description": "A Normandy village in the Manche."
+}

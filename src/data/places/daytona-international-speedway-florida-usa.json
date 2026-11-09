@@ -1,0 +1,12 @@
+{
+  "id": "daytona-international-speedway-florida-usa",
+  "name": "Daytona International Speedway, Florida, USA",
+  "position": {
+    "lat": 29.185,
+    "lon": -81.071
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daytona_International_Speedway",
+  "description": "The race track at Daytona Beach, Florida, an hour or so north of Orlando."
+}

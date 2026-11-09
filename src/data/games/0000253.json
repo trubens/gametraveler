@@ -1,0 +1,38 @@
+{
+  "id": 253,
+  "name": "Driver: Parallel Lines",
+  "year": 2006,
+  "publisher": "Atari / Ubisoft",
+  "series": "Driver",
+  "developer": "Reflections Interactive",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Getaway driver TK is framed for a kidnap-murder by Corrigan's crew in 1978 and, out of prison 28 years later, hunts them down across the city."
+    },
+    {
+      "placeId": "hunts-point-bronx-nyc-usa",
+      "note": "Ray's Autos, the garage TK comes back to between jobs, is where Corrigan reveals Ray sold TK out and then kills him.",
+      "source": "https://en.wikipedia.org/wiki/Driver:_Parallel_Lines"
+    },
+    {
+      "placeId": "times-square-new-york-city-usa",
+      "note": "TK drives through it in both eras, its lights and billboards changing between 1978 and 2006.",
+      "source": "https://en.wikipedia.org/wiki/Driver:_Parallel_Lines"
+    },
+    {
+      "placeId": "world-trade-center-new-york-city-usa",
+      "note": "In 1978 TK can get onto the Twin Towers' plaza; by 2006 the site is walled off.",
+      "source": "https://en.wikipedia.org/wiki/Driver:_Parallel_Lines"
+    }
+  ],
+  "storyYears": [
+    1978,
+    2006
+  ],
+  "source": "https://en.wikipedia.org/wiki/Driver:_Parallel_Lines",
+  "reviewed": "2026-11-02",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

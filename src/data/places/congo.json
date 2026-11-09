@@ -1,0 +1,12 @@
+{
+  "id": "congo",
+  "name": "Congo",
+  "position": {
+    "lat": -0.228,
+    "lon": 15.8277
+  },
+  "scale": "area",
+  "placeType": "area",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Congo_River",
+  "description": "The basin of the Congo River, Africa's second-longest river after the Nile and the world's third largest by the water it carries."
+}

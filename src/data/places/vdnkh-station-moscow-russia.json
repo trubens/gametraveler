@@ -1,0 +1,19 @@
+{
+  "id": "vdnkh-station-moscow-russia",
+  "name": "VDNKh station, Moscow, Russia",
+  "position": {
+    "lat": 55.8211,
+    "lon": 37.6411
+  },
+  "scale": "site",
+  "parentId": "moscow-russia",
+  "placeType": "landmark",
+  "aliases": [
+    "VDNKh",
+    "Exhibition"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/VDNKh_(Moscow_Metro)",
+  "description": "A deep station of the Moscow Metro's Kaluzhsko-Rizhskaya line, under the All-Russia Exhibition Centre.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/VDNKh_(Moscow_Metro)"
+}

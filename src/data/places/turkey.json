@@ -1,0 +1,15 @@
+{
+  "id": "turkey",
+  "name": "Turkey",
+  "position": {
+    "lat": 39.35,
+    "lon": 34.51
+  },
+  "scale": "area",
+  "placeType": "country",
+  "aliases": [
+    "Türkiye"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Turkey",
+  "description": "A country mainly in Anatolia in West Asia, with a smaller foothold in East Thrace across the straits in Europe."
+}

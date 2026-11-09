@@ -1,0 +1,91 @@
+{
+  "id": 128,
+  "name": "Assassin's Creed Origins",
+  "aliases": [
+    "AC",
+    "AC Origins"
+  ],
+  "year": 2017,
+  "publisher": "Ubisoft",
+  "series": "Assassin's Creed",
+  "developer": "Ubisoft Montreal",
+  "locations": [
+    {
+      "placeId": "egypt",
+      "note": "Medjay Bayek of Siwa hunts his son's killers across Ptolemaic Egypt in Cleopatra's time."
+    },
+    {
+      "placeId": "alexandria-egypt",
+      "note": "The explorable city recreates Ptolemaic Alexandria and its harbor."
+    },
+    {
+      "placeId": "memphis-egypt",
+      "note": "The old capital, where Bayek lifts the curse on the Apis bull and Cleopatra is crowned at the temple of Ptah."
+    },
+    {
+      "placeId": "faiyum-egypt",
+      "note": "Bayek unmasks the Crocodile as Berenike, a wealthy Greek landowner of the Faiyum, and kills her at her estate north of Krokodilopolis.",
+      "source": "https://www.gamerguides.com/assassins-creed-origins/guide/walkthrough/chapter-7-the-crocodile/main-quest-the-crocodiles-jaws"
+    },
+    {
+      "placeId": "siwa-oasis-egypt",
+      "note": "Bayek's home of Siwa opens the story in 49 BC."
+    },
+    {
+      "placeId": "thebes-luxor-egypt",
+      "note": "The Curse of the Pharaohs expansion plays out around Thebes."
+    },
+    {
+      "placeId": "cyrene-libya",
+      "note": "Bayek tracks Flavius to Cyrene, where he has enthralled the city with the Apple, and kills him."
+    },
+    {
+      "placeId": "rome-italy",
+      "note": "Aya sails to Rome, kills Septimius and lands the first blow on Caesar in the Senate before the conspirators finish him.",
+      "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Origins"
+    },
+    {
+      "placeId": "sinai-desert-egypt",
+      "note": "The Hidden Ones: in 38 BC Bayek answers Tahira's call to the Sinai, where Rome is invading."
+    },
+    {
+      "placeId": "giza-pyramid-complex-egypt",
+      "note": "The pyramids and the Sphinx at Giza, with the tombs inside the Great Pyramid open to explore."
+    }
+  ],
+  "storyYears": [
+    -49,
+    -44,
+    2017
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Origins",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Ubisoft_Montreal",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action RPG"
+  ],
+  "routes": [
+    {
+      "id": "bayek",
+      "name": "Bayek of Siwa",
+      "characters": [
+        "Bayek of Siwa",
+        "Aya"
+      ],
+      "stops": [
+        "siwa-oasis-egypt",
+        "alexandria-egypt",
+        "memphis-egypt",
+        "alexandria-egypt",
+        "siwa-oasis-egypt",
+        "cyrene-libya",
+        "rome-italy",
+        "sinai-desert-egypt",
+        "thebes-luxor-egypt"
+      ],
+      "note": "From his son's death at the Siwa vault through Alexandria's palace war and Memphis back to Siwa, then west to Cyrene to kill Flavius while Aya sails to Rome for Caesar, and years later to the Roman-invaded Sinai and cursed Thebes.",
+      "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Origins"
+    }
+  ]
+}

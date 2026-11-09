@@ -1,0 +1,14 @@
+{
+  "id": "essen-germany",
+  "name": "Essen, Germany",
+  "position": {
+    "lat": 51.4508,
+    "lon": 7.0131
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Essen",
+  "description": "The Krupp steel city at the heart of the Ruhr, bombed heavily through the Second World War.",
+  "descriptionSource": "wikipedia"
+}

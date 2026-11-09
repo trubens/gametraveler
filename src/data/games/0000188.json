@@ -1,0 +1,125 @@
+{
+  "id": 188,
+  "name": "Call of Duty",
+  "aliases": [
+    "COD"
+  ],
+  "year": 2003,
+  "publisher": "Activision",
+  "series": "Call of Duty",
+  "developer": "Infinity Ward",
+  "locations": [
+    {
+      "placeId": "sainte-mere-eglise-france",
+      "note": "Pvt. Martin's 101st Airborne drops around Sainte-Mère-Église on D-Day in the opening US missions."
+    },
+    {
+      "placeId": "bavarian-alps-germany",
+      "note": "August 1944: Martin's unit storms a château in the Bavarian Alps to free the British officers Price and Ingram, only to learn Ingram has been moved.",
+      "source": "https://callofduty.fandom.com/wiki/Alps_Chateau"
+    },
+    {
+      "placeId": "strasshof-an-der-nordbahn-austria",
+      "note": "Martin's unit crashes the gate of the Dulag IIIA prison camp outside Strasshof and has ten minutes to get Major Ingram out.",
+      "source": "https://callofduty.fandom.com/wiki/Dulag_IIIA"
+    },
+    {
+      "placeId": "bastogne-belgium",
+      "note": "January 1945: in the Battle of the Bulge Martin's company clears bunkers north-east of Bastogne and stops a Panzer counterattack with captured guns.",
+      "source": "https://callofduty.fandom.com/wiki/Festung_Recogne"
+    },
+    {
+      "placeId": "pegasus-bridge-benouville-france",
+      "note": "The British campaign recreates the glider assault that seized Pegasus Bridge on the eve of D-Day."
+    },
+    {
+      "placeId": "edersee-dam-germany",
+      "note": "September 1944: Evans, now with the SAS, slips onto the rebuilt Eder Dam to destroy its flak guns and generators, then escapes with Price and Waters.",
+      "source": "https://callofduty.fandom.com/wiki/The_Eder_Dam"
+    },
+    {
+      "placeId": "hakoya-norway",
+      "note": "October 1944: Evans and Price board the battleship Tirpitz, moored off Håkøya, in disguise to plant charges and steal its fleet logs; Price is killed.",
+      "source": "https://callofduty.fandom.com/wiki/Battleship_Tirpitz_(level)"
+    },
+    {
+      "placeId": "burgsteinfurt-germany",
+      "note": "February 1945: Evans's SAS unit fights through the bunkers of a V-2 launch site near Burgsteinfurt and blows up the rockets.",
+      "source": "https://callofduty.fandom.com/wiki/V-2_Rocket_Site"
+    },
+    {
+      "placeId": "stalingrad-volgograd-russia",
+      "note": "The Soviet campaign opens with the 1942 Volga crossing and savage street fighting of Stalingrad."
+    },
+    {
+      "placeId": "warsaw-poland",
+      "note": "January 1945: Voronin, now a sergeant, secures a German repair works and rail yard in Warsaw during the Vistula–Oder offensive.",
+      "source": "https://callofduty.fandom.com/wiki/Warsaw_Factory"
+    },
+    {
+      "placeId": "berlin-germany",
+      "note": "The final mission storms the Reichstag in April 1945 as the Red Army takes Berlin."
+    }
+  ],
+  "storyYears": [
+    1942,
+    1944,
+    1945
+  ],
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Activision",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "martin",
+      "name": "Pvt. Martin",
+      "characters": [
+        "Martin",
+        "Foley",
+        "Moody"
+      ],
+      "stops": [
+        "sainte-mere-eglise-france",
+        "bavarian-alps-germany",
+        "strasshof-an-der-nordbahn-austria",
+        "bastogne-belgium"
+      ],
+      "note": "From the D-Day drop at Sainte-Mère-Église to the château raid in the Bavarian Alps and the Dulag IIIA camp, ending in the Bulge bunkers near Bastogne.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)"
+    },
+    {
+      "id": "evans",
+      "name": "Sgt. Jack Evans",
+      "characters": [
+        "Jack Evans",
+        "Captain Price",
+        "Waters"
+      ],
+      "stops": [
+        "pegasus-bridge-benouville-france",
+        "edersee-dam-germany",
+        "hakoya-norway",
+        "burgsteinfurt-germany"
+      ],
+      "note": "From the glider assault on Pegasus Bridge to SAS raids on the Eder Dam, the Tirpitz off Tromsø and a V-2 site at Burgsteinfurt.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)"
+    },
+    {
+      "id": "voronin",
+      "name": "Sgt. Alexei Voronin",
+      "characters": [
+        "Alexei Voronin"
+      ],
+      "stops": [
+        "stalingrad-volgograd-russia",
+        "warsaw-poland",
+        "berlin-germany"
+      ],
+      "note": "From the deadly Volga crossing and Pavlov's House in Stalingrad, through Warsaw, to raising the Victory Banner over the Reichstag.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)"
+    }
+  ]
+}

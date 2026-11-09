@@ -1,0 +1,14 @@
+{
+  "id": "meroe-sudan",
+  "name": "Meroë, Sudan",
+  "position": {
+    "lat": 16.9333,
+    "lon": 33.7167
+  },
+  "scale": "area",
+  "parentId": "sudan",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Mero%C3%AB",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mero%C3%AB",
+  "description": "An ancient city that stood on the east bank of the Nile in Sudan, north-east of Shendi and well up-river from Khartoum."
+}

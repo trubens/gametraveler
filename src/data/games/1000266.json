@@ -1,0 +1,54 @@
+{
+  "id": 1000266,
+  "name": "Alone in the Dark (2008)",
+  "year": 2008,
+  "series": "Alone in the Dark",
+  "developer": "Eden Games",
+  "publisher": "Atari",
+  "genres": [
+    "Survival Horror"
+  ],
+  "storyYears": [
+    2008
+  ],
+  "source": "https://en.wikipedia.org/wiki/Alone_in_the_Dark_(2008_video_game)",
+  "reviewed": "2026-11-02",
+  "locations": [
+    {
+      "placeId": "central-park-new-york-city-usa",
+      "note": "The car crashes in Central Park, where the dying Theo hands Carnby the Stone; the night ends in the hidden chamber beneath the park, where Lucifer's portal waits."
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Carnby wakes with no memory in a collapsing Manhattan building and escapes with Sarah Flores and Theo Paddington by car through streets torn open by supernatural fissures."
+    },
+    {
+      "placeId": "metropolitan-museum-of-art-new-york-city-usa",
+      "note": "In Room 943 Theo's ghost tells Carnby the Stone's history, and Sarah stays behind to study his notes until Crowley kidnaps her."
+    },
+    {
+      "placeId": "belvedere-castle-new-york-city-usa",
+      "note": "Carnby trails the Path of Light deep beneath the castle to the underground temple where the alchemist Hermes Treismajice guards the other half of the Stone."
+    }
+  ],
+  "routes": [
+    {
+      "id": "carnby",
+      "name": "Carnby's night in New York",
+      "characters": [
+        "Edward Carnby",
+        "Sarah Flores"
+      ],
+      "stops": [
+        "new-york-city-usa",
+        "central-park-new-york-city-usa",
+        "metropolitan-museum-of-art-new-york-city-usa",
+        "belvedere-castle-new-york-city-usa",
+        "metropolitan-museum-of-art-new-york-city-usa",
+        "central-park-new-york-city-usa"
+      ],
+      "note": "From a collapsing Manhattan building through Central Park and the Met to the alchemists' temple under Belvedere Castle, and back with Hermes to the chamber where Lucifer's portal opens.",
+      "source": "https://en.wikipedia.org/wiki/Alone_in_the_Dark_(2008_video_game)"
+    }
+  ]
+}

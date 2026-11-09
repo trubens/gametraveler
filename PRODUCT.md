@@ -12,7 +12,7 @@ Gamers aged roughly 30–60 who grew up with games from the late 1980s onward. T
 
 ## Product Purpose
 
-Game Traveller places video games on a world map by where their stories take place. Success is a visitor recognizing a favorite, following it to its locations, and stumbling onto other games set nearby or in the same era.
+Game Traveler places video games on a world map by where their stories take place. Success is a visitor recognizing a favorite, following it to its locations, and stumbling onto other games set nearby or in the same era.
 
 ## Positioning
 
@@ -32,7 +32,7 @@ Single-page map app. Visitors pan/zoom the map, click markers or clusters to ope
 
 ## Brand Commitments
 
-Name: "Game Traveller". Favicon and Open Graph image live in `public/` (marker-and-route mark on ink black).
+Name: "Game Traveler". Favicon and Open Graph image live in `public/`: the folded-map mark, and a share card drawn from the catalogue by `scripts/og-card.mjs`.
 
 ## Evidence on Hand
 

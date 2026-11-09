@@ -1,0 +1,17 @@
+{
+  "id": "sabotin-slovenia",
+  "name": "Sabotin, Slovenia",
+  "position": {
+    "lat": 45.9884,
+    "lon": 13.6348
+  },
+  "scale": "area",
+  "parentId": "slovenia",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Monte Sabotino"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sabotin",
+  "description": "A 609-metre ridge overlooking Gorizia, Nova Gorica and Solkan on the Slovenian–Italian border.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pakistan",
+  "name": "Pakistan",
+  "position": {
+    "lat": 30.38,
+    "lon": 69.35
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pakistan",
+  "description": "A country in South Asia, the fifth most populous in the world and home to the second-largest Muslim population."
+}

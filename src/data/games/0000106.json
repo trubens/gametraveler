@@ -1,0 +1,20 @@
+{
+  "id": 106,
+  "name": "Detroit: Become Human",
+  "year": 2018,
+  "publisher": "Sony Interactive Entertainment",
+  "developer": "Quantic Dream",
+  "locations": [
+    {
+      "placeId": "detroit-usa",
+      "note": "Three androids find sentience in a near-future Detroit of 2038, the city that mass-produces them."
+    }
+  ],
+  "storyYears": [
+    2038
+  ],
+  "source": "https://en.wikipedia.org/wiki/Detroit:_Become_Human",
+  "genres": [
+    "Adventure"
+  ]
+}

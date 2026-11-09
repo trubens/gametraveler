@@ -1,0 +1,12 @@
+{
+  "id": "caribbean",
+  "name": "Caribbean",
+  "position": {
+    "lat": 14.5256,
+    "lon": -75.8183
+  },
+  "scale": "area",
+  "placeType": "area",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Caribbean",
+  "description": "The region of islands and coasts around the Caribbean Sea in the middle of the Americas, largely overlapping the West Indies."
+}

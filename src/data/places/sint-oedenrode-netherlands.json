@@ -1,0 +1,18 @@
+{
+  "id": "sint-oedenrode-netherlands",
+  "name": "Sint-Oedenrode, Netherlands",
+  "position": {
+    "lat": 51.5667,
+    "lon": 5.4667
+  },
+  "scale": "area",
+  "parentId": "netherlands",
+  "placeType": "city",
+  "aliases": [
+    "Oedenrode"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Sint-Oedenrode",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sint-Oedenrode",
+  "description": "A town in the Dutch province of North Brabant, on the Market Garden corridor between Eindhoven and Veghel.",
+  "descriptionSource": "wikipedia"
+}

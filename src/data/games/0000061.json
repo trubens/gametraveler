@@ -1,0 +1,22 @@
+{
+  "id": 61,
+  "name": "Alfred Hitchcock – Vertigo",
+  "year": 2021,
+  "publisher": "Microids",
+  "developer": "Pendulo Studios",
+  "locations": [
+    {
+      "placeId": "california-usa",
+      "note": "Writer Ed Miller survives a car crash into Brody Canyon, California, and therapy unpicks what happened."
+    }
+  ],
+  "storyYears": [
+    2024
+  ],
+  "source": "https://en.wikipedia.org/wiki/Alfred_Hitchcock_%E2%80%93_Vertigo",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Microids",
+  "developerUrl": "https://en.wikipedia.org/wiki/Pendulo_Studios",
+  "genres": [
+    "Adventure"
+  ]
+}

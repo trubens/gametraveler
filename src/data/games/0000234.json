@@ -1,0 +1,28 @@
+{
+  "id": 234,
+  "name": "Test Drive Unlimited Solar Crown",
+  "aliases": [
+    "TDU",
+    "TDU Solar Crown"
+  ],
+  "year": 2024,
+  "publisher": "Nacon",
+  "series": "Test Drive",
+  "developer": "KT Racing",
+  "locations": [
+    {
+      "placeId": "hong-kong-china",
+      "note": "The Solar Crown competition takes place on a recreated Hong Kong Island, including Central, Wan Chai and its mountain roads."
+    },
+    {
+      "placeId": "ibiza-spain",
+      "note": "The Season 2 update adds Eivissa and its surroundings on Ibiza, including races near the old town and marina."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://www.testdriveunlimited.gg/en-US/news/season2-all-you-need-to-know",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

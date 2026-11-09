@@ -1,0 +1,21 @@
+{
+  "id": 1000127,
+  "name": "Afterlove EP",
+  "year": 2025,
+  "publisher": "Fellow Traveller",
+  "developer": "Pikselnesia",
+  "genres": [
+    "Adventure",
+    "Visual Novel"
+  ],
+  "source": "https://www.fellowtraveller.games/afterlove-ep",
+  "locations": [
+    {
+      "placeId": "jakarta-indonesia",
+      "note": "A year after his girlfriend Cinta's death, Jakarta musician Rama tries to finish an EP with his band while hearing her voice, around places such as Blok M and Ayodya Park."
+    }
+  ],
+  "storyYears": [
+    2025
+  ]
+}

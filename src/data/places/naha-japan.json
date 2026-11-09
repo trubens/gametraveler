@@ -1,0 +1,15 @@
+{
+  "id": "naha-japan",
+  "name": "Naha, Okinawa, Japan",
+  "position": {
+    "lat": 26.2125,
+    "lon": 127.6811
+  },
+  "scale": "area",
+  "parentId": "okinawa-japan",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Naha",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Naha",
+  "description": "The capital of Okinawa, with the Kokusai-dōri shopping street, Makishi market and Shuri Castle above the city.",
+  "descriptionSource": "wikipedia"
+}

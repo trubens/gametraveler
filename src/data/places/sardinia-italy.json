@@ -1,0 +1,13 @@
+{
+  "id": "sardinia-italy",
+  "name": "Sardinia, Italy",
+  "position": {
+    "lat": 40.1,
+    "lon": 9
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sardinia",
+  "description": "The second-largest island in the Mediterranean after Sicily, an autonomous region of Italy with a rugged interior and long beaches."
+}

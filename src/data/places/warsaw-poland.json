@@ -1,0 +1,13 @@
+{
+  "id": "warsaw-poland",
+  "name": "Warsaw, Poland",
+  "position": {
+    "lat": 52.2297,
+    "lon": 21.0122
+  },
+  "scale": "area",
+  "parentId": "poland",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Warsaw",
+  "description": "Poland's capital and largest city."
+}

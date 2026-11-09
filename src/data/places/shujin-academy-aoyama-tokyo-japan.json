@@ -1,0 +1,19 @@
+{
+  "id": "shujin-academy-aoyama-tokyo-japan",
+  "name": "Shujin Academy, Aoyama, Tokyo, Japan",
+  "position": {
+    "lat": 35.6729,
+    "lon": 139.7243
+  },
+  "scale": "site",
+  "parentId": "tokyo-japan",
+  "placeType": "landmark",
+  "fictional": true,
+  "aliases": [
+    "Shujin Academy",
+    "Aoyama-Itchome"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aoyama-itch%C5%8Dme_Station",
+  "description": "The invented high school of Persona 5, which the game places in Aoyama-Itchome among office towers. Pinned on Aoyama-itchōme Station, the real stop the game names; no real building is its model.",
+  "source": "https://megatenwiki.com/wiki/Shujin_Academy"
+}

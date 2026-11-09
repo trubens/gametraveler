@@ -1,0 +1,13 @@
+{
+  "id": "holjesbanan-sweden",
+  "name": "Höljesbanan, Sweden",
+  "position": {
+    "lat": 60.9,
+    "lon": 12.6
+  },
+  "scale": "site",
+  "parentId": "sweden",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/H%C3%B6ljesbanan",
+  "description": "A rallycross circuit in the village of Höljes, deep in the Finnskogen woods of Värmland, beside the river Klarälven."
+}

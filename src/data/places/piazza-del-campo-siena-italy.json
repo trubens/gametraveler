@@ -1,0 +1,14 @@
+{
+  "id": "piazza-del-campo-siena-italy",
+  "name": "Piazza del Campo, Siena, Italy",
+  "position": {
+    "lat": 43.3183,
+    "lon": 11.3317
+  },
+  "scale": "site",
+  "parentId": "siena-italy",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Piazza_del_Campo",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Piazza_del_Campo",
+  "description": "The main public square at the heart of Siena's historic centre, in Tuscany."
+}

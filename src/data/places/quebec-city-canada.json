@@ -1,0 +1,13 @@
+{
+  "id": "quebec-city-canada",
+  "name": "Quebec City, Canada",
+  "position": {
+    "lat": 46.8139,
+    "lon": -71.208
+  },
+  "scale": "area",
+  "parentId": "canada",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Quebec_City",
+  "description": "Capital of the province of Quebec."
+}

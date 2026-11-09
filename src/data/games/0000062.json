@@ -1,0 +1,24 @@
+{
+  "id": 62,
+  "name": "Pentiment",
+  "year": 2022,
+  "publisher": "Xbox Game Studios",
+  "developer": "Obsidian Entertainment",
+  "locations": [
+    {
+      "placeId": "bavaria-germany",
+      "settingType": "fictionalized",
+      "note": "Illuminator Andreas Maler is caught up in murders at Kiersau Abbey and an uprising in Tassing, an invented Upper Bavarian town, across three acts."
+    }
+  ],
+  "storyYears": [
+    1518,
+    1525,
+    1543
+  ],
+  "source": "https://en.wikipedia.org/wiki/Pentiment_(video_game)",
+  "developerUrl": "https://en.wikipedia.org/wiki/Obsidian_Entertainment",
+  "genres": [
+    "Adventure"
+  ]
+}

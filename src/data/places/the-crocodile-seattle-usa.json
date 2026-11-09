@@ -1,0 +1,17 @@
+{
+  "id": "the-crocodile-seattle-usa",
+  "name": "The Crocodile, Seattle, USA",
+  "position": {
+    "lat": 47.6135,
+    "lon": -122.3444
+  },
+  "scale": "site",
+  "parentId": "seattle-usa",
+  "placeType": "venue",
+  "aliases": [
+    "The Crocodile Cafe"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Crocodile_(nightclub)",
+  "description": "A Belltown music club opened in 1991, a stage for Seattle's grunge bands.",
+  "descriptionSource": "wikipedia"
+}

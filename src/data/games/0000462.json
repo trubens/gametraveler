@@ -1,0 +1,57 @@
+{
+  "id": 462,
+  "name": "Medal of Honor: Pacific Assault",
+  "year": 2004,
+  "series": "Medal of Honor",
+  "developer": "EA Los Angeles",
+  "publisher": "EA Games",
+  "locations": [
+    {
+      "placeId": "tarawa-kiribati",
+      "note": "Conlin is cut down on the reef in the opening landing at Tarawa; in the finale, now a sergeant, he secures the beachhead and destroys a command centre and the AA guns."
+    },
+    {
+      "placeId": "pearl-harbor-hawaii-usa",
+      "note": "Fresh from boot camp, Conlin arrives to join the USS Arizona on the morning of 7 December 1941."
+    },
+    {
+      "placeId": "makin-island-kiribati",
+      "note": "With the 2nd Marine Raiders Conlin's squad wrecks a radio tower and a supply dump and rescues a downed airman before defending the submarines."
+    },
+    {
+      "placeId": "guadalcanal-solomon-islands",
+      "note": "Conlin's squad defends Henderson Field, fights at Edson's Ridge, patrols the Lunga River and has him fly a Dauntless."
+    }
+  ],
+  "storyYears": [
+    1941,
+    1942,
+    1943
+  ],
+  "source": "https://en.wikipedia.org/wiki/Medal_of_Honor:_Pacific_Assault",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "conlin",
+      "name": "Pvt. Tommy Conlin",
+      "characters": [
+        "Thomas Conlin",
+        "Frank Minoso",
+        "Willie Gaines",
+        "James Sullivan"
+      ],
+      "stops": [
+        "tarawa-kiribati",
+        "pearl-harbor-hawaii-usa",
+        "makin-island-kiribati",
+        "guadalcanal-solomon-islands",
+        "tarawa-kiribati"
+      ],
+      "note": "Cut down on the Tarawa reef, Conlin relives his war from Pearl Harbor through the Makin raid and Guadalcanal before returning to finish Tarawa as squad leader.",
+      "source": "https://en.wikipedia.org/wiki/Medal_of_Honor:_Pacific_Assault"
+    }
+  ]
+}

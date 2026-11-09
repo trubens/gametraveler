@@ -1,0 +1,14 @@
+{
+  "id": "roppongi-tokyo-japan",
+  "name": "Roppongi, Tokyo, Japan",
+  "position": {
+    "lat": 35.66,
+    "lon": 139.73
+  },
+  "scale": "site",
+  "parentId": "tokyo-japan",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Roppongi",
+  "description": "A district of Minato known for the Roppongi Hills development and its nightlife.",
+  "descriptionSource": "wikipedia"
+}

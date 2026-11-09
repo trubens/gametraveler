@@ -1,0 +1,16 @@
+{
+  "id": "trier-germany",
+  "name": "Trier, Germany",
+  "position": {
+    "lat": 49.75,
+    "lon": 6.64
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Trier",
+  "description": "A city on the Moselle in western Germany.",
+  "aliases": [
+    "Germany (Trier)"
+  ]
+}

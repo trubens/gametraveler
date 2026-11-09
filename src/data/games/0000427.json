@@ -1,0 +1,20 @@
+{
+  "id": 427,
+  "name": "The Messenger",
+  "year": 2000,
+  "developer": "4x Technologies / Arxel Tribe / Visual Impact",
+  "publisher": "Wanadoo Edition / Canal+ Multimedia / Réunion des Musées Nationaux / Microïds (PlayStation and Mac version) / DreamCatcher Interactive (North America)",
+  "locations": [
+    {
+      "placeId": "louvre-paris-france",
+      "note": "The whole game plays inside the Louvre, through its halls in four eras, to recover the artifacts of a curse."
+    }
+  ],
+  "storyYears": [
+    2000
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Messenger_(2000_video_game)",
+  "genres": [
+    "Adventure"
+  ]
+}

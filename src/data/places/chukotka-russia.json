@@ -1,0 +1,15 @@
+{
+  "id": "chukotka-russia",
+  "name": "Chukotka, Russia",
+  "position": {
+    "lat": 66.6667,
+    "lon": 171.0
+  },
+  "scale": "area",
+  "parentId": "russia",
+  "placeType": "region",
+  "source": "https://en.wikipedia.org/wiki/Chukotka_Autonomous_Okrug",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chukotka_Autonomous_Okrug",
+  "description": "The easternmost federal subject of Russia, in the Russian Far East, facing Alaska across the Bering Strait. Anadyr is its capital.",
+  "descriptionSource": "wikipedia"
+}

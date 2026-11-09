@@ -1,0 +1,26 @@
+{
+  "id": 208,
+  "name": "Blackwell Unbound",
+  "year": 2007,
+  "publisher": "Wadjet Eye Games",
+  "series": "Blackwell",
+  "developer": "Wadjet Eye Games",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Lauren and Joey investigate a ghost on the Roosevelt Island promenade and a haunted Midtown construction site."
+    },
+    {
+      "placeId": "roosevelt-island-new-york-city-usa",
+      "note": "Lauren and Joey question a ghost on the Roosevelt Island promenade."
+    }
+  ],
+  "storyYears": [
+    1973
+  ],
+  "source": "https://store.steampowered.com/app/80340/",
+  "developerUrl": "https://en.wikipedia.org/wiki/Wadjet_Eye_Games",
+  "genres": [
+    "Adventure"
+  ]
+}

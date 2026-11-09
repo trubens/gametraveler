@@ -1,0 +1,12 @@
+{
+  "id": "angola",
+  "name": "Angola",
+  "position": {
+    "lat": -11.2027,
+    "lon": 17.8739
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angola",
+  "description": "A country on the western coast of Southern Africa, facing the Atlantic."
+}

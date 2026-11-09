@@ -1,0 +1,21 @@
+{
+  "id": 177,
+  "name": "The Order: 1886",
+  "year": 2015,
+  "publisher": "Sony Computer Entertainment",
+  "developer": "Ready at Dawn",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "An alternate steampunk Victorian London where Knights of the Round Table fight half-breeds."
+    }
+  ],
+  "storyYears": [
+    1886
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Order:_1886",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+  "genres": [
+    "Third-Person Shooter"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "kunlun-mountains-china",
+  "name": "Kunlun Mountains, China",
+  "position": {
+    "lat": 36,
+    "lon": 84
+  },
+  "scale": "area",
+  "parentId": "china",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kunlun_Mountains",
+  "description": "One of the longest mountain chains in Asia, running along the northern edge of the Tibetan plateau.",
+  "descriptionSource": "wikipedia"
+}

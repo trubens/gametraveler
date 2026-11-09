@@ -1,0 +1,23 @@
+{
+  "id": 1000339,
+  "name": "Far Cry 4",
+  "year": 2014,
+  "series": "Far Cry",
+  "developer": "Ubisoft Montreal",
+  "publisher": "Ubisoft",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    2014
+  ],
+  "source": "https://en.wikipedia.org/wiki/Far_Cry_4",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "kyrat-fictional-nepal",
+      "note": "Ajay Ghale brings his mother's ashes home to Kyrat and is caught in the civil war between Pagan Min's Royal Army and the Golden Path rebels.",
+      "settingType": "fictionalized"
+    }
+  ]
+}

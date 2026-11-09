@@ -1,0 +1,14 @@
+{
+  "id": "lexington-massachusetts-usa",
+  "name": "Lexington, Massachusetts, USA",
+  "position": {
+    "lat": 42.4473,
+    "lon": -71.2272
+  },
+  "scale": "area",
+  "parentId": "massachusetts-usa",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Lexington,_Massachusetts",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexington,_Massachusetts",
+  "description": "A suburban town in Middlesex County."
+}

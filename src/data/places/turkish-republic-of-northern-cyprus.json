@@ -1,0 +1,17 @@
+{
+  "id": "turkish-republic-of-northern-cyprus",
+  "name": "Turkish Republic of Northern Cyprus",
+  "aliases": [
+    "N. Cyprus",
+    "Northern Cyprus"
+  ],
+  "position": {
+    "lat": 35.22,
+    "lon": 33.69
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Northern_Cyprus",
+  "description": "A de facto state covering the northern third of the island of Cyprus, recognised only by Turkey."
+}

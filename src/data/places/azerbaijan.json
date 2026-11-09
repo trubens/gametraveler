@@ -1,0 +1,13 @@
+{
+  "id": "azerbaijan",
+  "name": "Azerbaijan",
+  "position": {
+    "lat": 40.4,
+    "lon": 47.21
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Azerbaijan",
+  "description": "A landlocked country sitting on the boundary between Western Asia and Eastern Europe."
+}

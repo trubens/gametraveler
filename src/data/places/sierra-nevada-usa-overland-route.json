@@ -1,0 +1,12 @@
+{
+  "id": "sierra-nevada-usa-overland-route",
+  "name": "Sierra Nevada, USA",
+  "position": {
+    "lat": 38.5,
+    "lon": -119.5
+  },
+  "scale": "area",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sierra_Nevada",
+  "description": "The great mountain range of the Western United States, rising between California's Central Valley and the Great Basin, crossed by the old overland trails."
+}

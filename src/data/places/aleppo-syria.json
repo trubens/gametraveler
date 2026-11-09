@@ -1,0 +1,14 @@
+{
+  "id": "aleppo-syria",
+  "name": "Aleppo, Syria",
+  "position": {
+    "lat": 36.2,
+    "lon": 37.16
+  },
+  "scale": "area",
+  "parentId": "syria",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleppo",
+  "description": "The ancient trading city of northern Syria, under its great citadel.",
+  "descriptionSource": "wikipedia"
+}

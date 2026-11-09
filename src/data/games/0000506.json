@@ -1,0 +1,54 @@
+{
+  "id": 506,
+  "name": "Metal Gear Solid V: The Phantom Pain",
+  "year": 2015,
+  "publisher": "Konami",
+  "developer": "Kojima Productions",
+  "locations": [
+    {
+      "placeId": "cyprus",
+      "note": "1984: Snake wakes from a nine-year coma in a hospital on a British base in Cyprus and escapes with the bandaged Ishmael as Quiet and XOF attack."
+    },
+    {
+      "placeId": "afghanistan",
+      "note": "Venom Snake's first theatre: the Soviet-held hills of northern Kabul, where he rescues Kazuhira Miller."
+    },
+    {
+      "placeId": "angola-zaire-border-region",
+      "note": "The second theatre: the Angola–Zaire border region, where Snake hunts Skull Face and Cipher's weapon."
+    },
+    {
+      "placeId": "seychelles",
+      "note": "Diamond Dogs' new Mother Base, an offshore platform near the Seychelles, is Snake's home between missions.",
+      "settingType": "fictionalized"
+    }
+  ],
+  "storyYears": [
+    1984
+  ],
+  "source": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_V:_The_Phantom_Pain",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Kojima_Productions",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Konami",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "series": "Metal Gear",
+  "routes": [
+    {
+      "id": "venom-snake",
+      "name": "Venom Snake",
+      "characters": [
+        "Venom Snake"
+      ],
+      "stops": [
+        "cyprus",
+        "afghanistan",
+        "seychelles",
+        "angola-zaire-border-region"
+      ],
+      "note": "From the Cyprus hospital to Mother Base and out to the two theatres.",
+      "source": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_V:_The_Phantom_Pain"
+    }
+  ]
+}

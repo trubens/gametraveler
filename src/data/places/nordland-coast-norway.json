@@ -1,0 +1,13 @@
+{
+  "id": "nordland-coast-norway",
+  "name": "Nordland coast, Norway",
+  "position": {
+    "lat": 67.2804,
+    "lon": 14.4049
+  },
+  "scale": "area",
+  "parentId": "norway",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nordland",
+  "description": "The coast of Nordland, one of Norway's three northernmost counties, between Trøndelag to the south and Troms to the north."
+}

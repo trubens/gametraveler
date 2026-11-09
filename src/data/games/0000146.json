@@ -1,0 +1,37 @@
+{
+  "id": 146,
+  "name": "Midnight Club II",
+  "aliases": [
+    "MC",
+    "MC II",
+    "MC 2"
+  ],
+  "year": 2003,
+  "publisher": "Rockstar Games",
+  "series": "Midnight Club",
+  "developer": "Rockstar San Diego",
+  "locations": [
+    {
+      "placeId": "los-angeles-usa",
+      "note": "Street racing opens in LA's dry hilly suburbs and congested interstates."
+    },
+    {
+      "placeId": "paris-france",
+      "note": "Cobblestone alleys, grand roundabouts and the Catacombs host the second city."
+    },
+    {
+      "placeId": "catacombs-of-paris-france",
+      "note": "One of the Paris races runs through the catacombs."
+    },
+    {
+      "placeId": "tokyo-japan",
+      "note": "Neon avenues and tight alleyways form the final city of the racing circuit."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Midnight_Club_II",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Rockstar_Games",
+  "genres": [
+    "Racing"
+  ]
+}

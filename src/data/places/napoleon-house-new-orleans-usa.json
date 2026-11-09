@@ -1,0 +1,14 @@
+{
+  "id": "napoleon-house-new-orleans-usa",
+  "name": "Napoleon House, New Orleans, USA",
+  "position": {
+    "lat": 29.9568,
+    "lon": -90.065
+  },
+  "scale": "site",
+  "parentId": "new-orleans-usa",
+  "placeType": "venue",
+  "source": "https://en.wikipedia.org/wiki/Napoleon_House",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Napoleon_House",
+  "description": "A historic building on Chartres Street in the French Quarter of New Orleans, also known as the Girod House."
+}

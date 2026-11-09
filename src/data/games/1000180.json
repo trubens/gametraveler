@@ -1,0 +1,22 @@
+{
+  "id": 1000180,
+  "name": "Dracula Unleashed",
+  "year": 1993,
+  "series": "Dracula",
+  "developer": "ICOM Simulations",
+  "publisher": "Viacom New Media",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Dracula_Unleashed",
+  "reviewed": "2026-11-02",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "Alexander Morris, looking into his brother Quincey's death, stakes the 'bloofer lady' at her funeral and destroys Dracula, who had been posing as Lord Arthur Holmwood, at the Hades Club."
+    }
+  ],
+  "storyYears": [
+    1899
+  ]
+}

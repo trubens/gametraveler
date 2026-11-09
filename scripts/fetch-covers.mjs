@@ -1,12 +1,11 @@
-// Henter cover-bilder fra IGDB (https://api-docs.igdb.com) og skriver `coverUrl` inn i src/data/games.json.
+// Henter cover-bilder fra IGDB (https://api-docs.igdb.com) og skriver `coverUrl` i spillfilene under src/data/games/.
 //
 // Bruk:
 //   TWITCH_CLIENT_ID=… TWITCH_CLIENT_SECRET=… node scripts/fetch-covers.mjs [--force]
 // Nøklene får du gratis ved å registrere en app på https://dev.twitch.tv/console/apps.
 // Bildene lenkes direkte fra images.igdb.com; IGDB krever kreditering, som appen viser i panelet.
-import fs from 'node:fs';
+import { readGameRecords, writeGames } from './lib/game-data.mjs';
 
-const DATA = 'src/data/games.json';
 const force = process.argv.includes('--force');
 const clientId = process.env.TWITCH_CLIENT_ID;
 const clientSecret = process.env.TWITCH_CLIENT_SECRET;
@@ -15,7 +14,7 @@ if (!clientId || !clientSecret) {
   process.exit(1);
 }
 
-const games = JSON.parse(fs.readFileSync(DATA, 'utf8'));
+const games = readGameRecords();
 const normalize = s => s.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
@@ -67,6 +66,6 @@ for (const game of games) {
   await sleep(300);
 }
 
-fs.writeFileSync(DATA, JSON.stringify(games, null, 2) + '\n');
+writeGames(games);
 console.log(`\nCovers found: ${found}. Without a match: ${misses.length}.`);
 if (misses.length) console.log('Add coverUrl by hand for: ' + misses.join(', '));

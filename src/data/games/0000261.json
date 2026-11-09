@@ -1,0 +1,25 @@
+{
+  "id": 261,
+  "name": "Sniper Elite V2",
+  "aliases": [
+    "Sniper Elite 2"
+  ],
+  "year": 2012,
+  "publisher": "Rebellion Developments / 505 Games",
+  "series": "Sniper Elite",
+  "developer": "Rebellion Developments",
+  "locations": [
+    {
+      "placeId": "berlin-germany",
+      "note": "Fairburne hunts the V2 programme's scientists across wartime Berlin, including the Brandenburg Gate area."
+    }
+  ],
+  "storyYears": [
+    1945
+  ],
+  "source": "https://en.wikipedia.org/wiki/Sniper_Elite_V2",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Tactical Shooter"
+  ]
+}

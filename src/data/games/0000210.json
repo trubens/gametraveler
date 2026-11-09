@@ -1,0 +1,22 @@
+{
+  "id": 210,
+  "name": "Blackwell Deception",
+  "year": 2011,
+  "publisher": "Wadjet Eye Games",
+  "series": "Blackwell",
+  "developer": "Wadjet Eye Games",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "A trail of fraudulent psychics leads Rosa and Joey through New York nightclubs, apartments and a yacht on the Hudson."
+    }
+  ],
+  "storyYears": [
+    2011
+  ],
+  "source": "https://store.steampowered.com/app/80360/Blackwell_Deception/",
+  "developerUrl": "https://en.wikipedia.org/wiki/Wadjet_Eye_Games",
+  "genres": [
+    "Adventure"
+  ]
+}

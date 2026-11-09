@@ -1,0 +1,15 @@
+{
+  "id": "strasshof-an-der-nordbahn-austria",
+  "name": "Strasshof an der Nordbahn, Austria",
+  "position": {
+    "lat": 48.3194,
+    "lon": 16.6475
+  },
+  "scale": "area",
+  "parentId": "austria",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Strasshof_an_der_Nordbahn",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Strasshof_an_der_Nordbahn",
+  "description": "A satellite town 25 km east of Vienna, Austria.",
+  "descriptionSource": "wikipedia"
+}

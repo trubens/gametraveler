@@ -1,0 +1,19 @@
+{
+  "id": "canyon-of-the-crescent-moon-fictional-hatay-turkey",
+  "name": "Canyon of the Crescent Moon, Hatay, Turkey",
+  "position": {
+    "lat": 30.3221,
+    "lon": 35.4515
+  },
+  "scale": "site",
+  "parentId": "turkey",
+  "placeType": "landmark",
+  "fictional": true,
+  "aliases": [
+    "Valley of the Crescent Moon",
+    "Alexandretta"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Al-Khazneh",
+  "description": "The Grail temple's invented hiding place, which the story puts in the Republic of Hatay. The temple was filmed at Al-Khazneh, the Treasury of Petra in Jordan, where it is pinned."
+}

@@ -1,0 +1,24 @@
+{
+  "id": 439,
+  "name": "Call of Duty: Black Ops III",
+  "year": 2015,
+  "series": "Call of Duty",
+  "developer": "Treyarch",
+  "publisher": "Activision",
+  "locations": [
+    {
+      "placeId": "singapore",
+      "note": "Hendricks and the Player investigate a CIA black site in flooded, quarantined Singapore and fight the 54 Immortals."
+    }
+  ],
+  "storyYears": [
+    2065
+  ],
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_III",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Treyarch",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Activision",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

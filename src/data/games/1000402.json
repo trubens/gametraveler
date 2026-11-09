@@ -1,0 +1,27 @@
+{
+  "id": 1000402,
+  "name": "Grégoire Lefèbvre Investigations: The Vow of Hate",
+  "aliases": [
+    "Les enquêtes de Grégoire Lefèbvre : Le Serment de Haine",
+    "The Vow of Hate",
+    "Le Serment de Haine"
+  ],
+  "year": 2026,
+  "developer": "Tcherry",
+  "publisher": "Viridis Cosmos Games",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    1799
+  ],
+  "source": "https://store.steampowered.com/app/4111040/Grgoire_Lefbvre_Investigations__The_Vow_of_Hate/",
+  "reviewed": "2026-11-07",
+  "locations": [
+    {
+      "placeId": "moha-belgium",
+      "note": "In July 1799 gendarmerie captain Grégoire Lefèbvre, new to the department of the Ourthe, investigates the murder of Nicolas Richelle, the village's despised constitutional priest, found tortured in his ransacked presbytery.",
+      "source": "https://www.planete-aventure.net/jeux.php?cat=description&num_jeu=4298"
+    }
+  ]
+}

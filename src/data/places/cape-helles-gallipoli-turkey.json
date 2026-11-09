@@ -1,0 +1,13 @@
+{
+  "id": "cape-helles-gallipoli-turkey",
+  "name": "Cape Helles, Gallipoli, Turkey",
+  "position": {
+    "lat": 40.045,
+    "lon": 26.18
+  },
+  "scale": "area",
+  "parentId": "turkey",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cape_Helles",
+  "description": "The rocky headland at the far south-western tip of the Gallipoli peninsula in Turkey."
+}

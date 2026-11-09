@@ -1,0 +1,14 @@
+{
+  "id": "loutraki-greece",
+  "name": "Loutraki, Greece",
+  "position": {
+    "lat": 37.975,
+    "lon": 22.9767
+  },
+  "scale": "area",
+  "parentId": "greece",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Loutraki",
+  "description": "A spa resort on the Gulf of Corinth, the base of the Acropolis Rally from 2005 to 2013.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,51 @@
+{
+  "id": 391,
+  "name": "Colin McRae: Dirt 2",
+  "year": 2009,
+  "series": "Dirt",
+  "developer": "Codemasters / Firebrand Games (DS) / Sumo Digital (PSP, Wii)",
+  "publisher": "Codemasters / Feral Interactive (Mac OS X)",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "Off-road races take place at the Battersea Power Station venue."
+    },
+    {
+      "placeId": "baja-california-mexico",
+      "note": "Rally, raid, and landrush events run through Baja California."
+    },
+    {
+      "placeId": "malaysia",
+      "note": "The game includes rally and off-road events in Malaysia."
+    },
+    {
+      "placeId": "china",
+      "note": "The game includes rally and trailblazer stages in China."
+    },
+    {
+      "placeId": "croatia",
+      "note": "The game includes rally and raid events in Croatia."
+    },
+    {
+      "placeId": "morocco",
+      "note": "Rally and off-road events take place in Morocco."
+    },
+    {
+      "placeId": "los-angeles-usa",
+      "note": "A rallycross event takes place in Los Angeles."
+    },
+    {
+      "placeId": "japan",
+      "note": "The rallycross roster includes a Japanese event."
+    },
+    {
+      "placeId": "utah-usa",
+      "note": "The trailblazer stages include the distinctive canyon terrain of Utah."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Colin_McRae:_Dirt_2",
+  "genres": [
+    "Racing"
+  ]
+}

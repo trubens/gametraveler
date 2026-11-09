@@ -1,0 +1,22 @@
+{
+  "id": 1000318,
+  "name": "Jack Keane",
+  "year": 2007,
+  "developer": "Deck13 Interactive",
+  "publisher": "10tacle Studios",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Jack_Keane_(video_game)",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "Captain Jack Keane takes on a secret mission in Victorian London: ferry a British agent to Tooth Island to stop Dr T and his tea-eating plants."
+    },
+    {
+      "placeId": "cape-town-south-africa",
+      "note": "The voyage calls at Cape Town, where Jack finds a crew and a ship before the last leg to the island."
+    }
+  ]
+}

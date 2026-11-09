@@ -1,0 +1,60 @@
+{
+  "id": 111,
+  "name": "Yakuza 3",
+  "year": 2009,
+  "publisher": "Sega",
+  "series": "Yakuza / Like a Dragon",
+  "developer": "Sega",
+  "locations": [
+    {
+      "placeId": "kabukicho-tokyo-japan",
+      "aliases": [
+        "Kamurocho"
+      ],
+      "settingType": "fictionalized",
+      "note": "Kiryu returns to Kamurocho, the series' Kabukicho, to find Kashiwagi assassinated, hunts three Tojo lieutenants with Date, and ends by saving the comatose Daigo from Mine and a rogue CIA team."
+    },
+    {
+      "placeId": "okinawa-japan",
+      "note": "Kiryu runs the Morning Glory orphanage on a beach near Naha, on land a resort scheme and a military base bill want cleared, and comes home to find it in ruins."
+    },
+    {
+      "placeId": "naha-japan",
+      "aliases": [
+        "Ryukyu"
+      ],
+      "settingType": "fictionalized",
+      "note": "Kiryu tangles with the Ryudo Family over the orphanage land and later breaks Tamashiro's gang in the streets and arcades of Ryukyu, the game's Naha.",
+      "source": "https://en.wikipedia.org/wiki/Yakuza_3"
+    }
+  ],
+  "storyYears": [
+    2007,
+    2009
+  ],
+  "source": "https://en.wikipedia.org/wiki/Yakuza_3",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "kiryu",
+      "name": "Kiryu between Okinawa and Tokyo",
+      "characters": [
+        "Kazuma Kiryu"
+      ],
+      "stops": [
+        "okinawa-japan",
+        "naha-japan",
+        "kabukicho-tokyo-japan",
+        "naha-japan",
+        "okinawa-japan",
+        "kabukicho-tokyo-japan"
+      ],
+      "note": "From the orphanage outside Ryukyu to Kamurocho's yakuza intrigue and back, before a jet flies Kiryu to Tokyo for the last fight.",
+      "source": "https://en.wikipedia.org/wiki/Yakuza_3"
+    }
+  ]
+}

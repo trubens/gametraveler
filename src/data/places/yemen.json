@@ -1,0 +1,12 @@
+{
+  "id": "yemen",
+  "name": "Yemen",
+  "position": {
+    "lat": 15.5527,
+    "lon": 48.5164
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yemen",
+  "description": "A country in West Asia at the south-western corner of the Arabian Peninsula, on the Red Sea and the Gulf of Aden."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "suzuka-international-racing-course-japan",
+  "name": "Suzuka International Racing Course, Japan",
+  "position": {
+    "lat": 34.8431,
+    "lon": 136.541
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuka_International_Racing_Course",
+  "description": "A long motorsport circuit in Suzuka City, Mie Prefecture, operated by Honda and known simply as Suzuka."
+}

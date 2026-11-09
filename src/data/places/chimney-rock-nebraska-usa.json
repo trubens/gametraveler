@@ -1,0 +1,12 @@
+{
+  "id": "chimney-rock-nebraska-usa",
+  "name": "Chimney Rock, Nebraska, USA",
+  "position": {
+    "lat": 41.7038,
+    "lon": -103.3482
+  },
+  "scale": "site",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chimney_Rock_National_Historic_Site",
+  "placeType": "landmark",
+  "description": "A striking rock formation in Morrill County, western Nebraska, one of the natural landmarks of the state."
+}

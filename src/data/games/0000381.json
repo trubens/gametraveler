@@ -1,0 +1,72 @@
+{
+  "id": 381,
+  "name": "WRC 9",
+  "year": 2020,
+  "series": "WRC",
+  "developer": "Kylotonn",
+  "publisher": "Nacon",
+  "locations": [
+    {
+      "placeId": "monte-carlo-monaco",
+      "note": "The Monte Carlo Rally."
+    },
+    {
+      "placeId": "torsby-sweden",
+      "note": "Rally Sweden from Torsby."
+    },
+    {
+      "placeId": "leon-mexico",
+      "note": "Rally Mexico around León."
+    },
+    {
+      "placeId": "villa-carlos-paz-argentina",
+      "note": "Rally Argentina from Villa Carlos Paz."
+    },
+    {
+      "placeId": "matosinhos-portugal",
+      "note": "Rally de Portugal from Matosinhos."
+    },
+    {
+      "placeId": "alghero-sardinia-italy",
+      "note": "Rally Italia Sardegna from Alghero."
+    },
+    {
+      "placeId": "naivasha-kenya",
+      "note": "The Safari Rally, back on the calendar, on the Rift Valley tracks around Naivasha."
+    },
+    {
+      "placeId": "jyvaskyla-finland",
+      "note": "Rally Finland from Jyväskylä."
+    },
+    {
+      "placeId": "auckland-new-zealand",
+      "note": "Rally New Zealand's return, north of Auckland."
+    },
+    {
+      "placeId": "turkey-marmaris",
+      "note": "Rally Turkey above Marmaris."
+    },
+    {
+      "placeId": "trier-germany",
+      "note": "Rallye Deutschland from Trier."
+    },
+    {
+      "placeId": "llandudno-wales-uk",
+      "note": "Wales Rally GB from Llandudno."
+    },
+    {
+      "placeId": "toyota-aichi-japan",
+      "note": "Rally Japan's return on the tarmac of Aichi and Gifu, based at Toyota City."
+    },
+    {
+      "placeId": "ajaccio-corsica-france",
+      "note": "The Tour de Corse on the island's tarmac."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/WRC_9",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

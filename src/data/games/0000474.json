@@ -1,0 +1,47 @@
+{
+  "id": 474,
+  "name": "Assassin's Creed: Bloodlines",
+  "year": 2009,
+  "series": "Assassin's Creed",
+  "developer": "Griptonite Games",
+  "publisher": "Ubisoft",
+  "locations": [
+    {
+      "placeId": "limassol-cyprus",
+      "note": "Altaïr pursues the Templars through the Cypriot cities of Limassol and Kyrenia."
+    },
+    {
+      "placeId": "kyrenia-cyprus",
+      "note": "Altaïr pursues the Templars through the Cypriot cities of Limassol and Kyrenia."
+    },
+    {
+      "placeId": "acre-akko-israel",
+      "note": "Altaïr infiltrates a Templar stronghold in Acre as he pursues the remaining Templars."
+    }
+  ],
+  "storyYears": [
+    1191
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed:_Bloodlines",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "altair-cyprus",
+      "name": "Altaïr after the Templars",
+      "characters": [
+        "Altaïr Ibn-LaʼAhad"
+      ],
+      "stops": [
+        "acre-akko-israel",
+        "limassol-cyprus",
+        "kyrenia-cyprus"
+      ],
+      "note": "From the Templar stronghold in Acre to the Cypriot cities.",
+      "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed:_Bloodlines"
+    }
+  ]
+}

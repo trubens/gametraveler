@@ -1,0 +1,13 @@
+{
+  "id": "sumida-tokyo-japan",
+  "name": "Sumida, Tokyo, Japan",
+  "position": {
+    "lat": 35.696,
+    "lon": 139.814
+  },
+  "scale": "site",
+  "parentId": "tokyo-japan",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sumida,_Tokyo",
+  "description": "One of Tokyo's special wards."
+}

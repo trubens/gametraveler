@@ -1,0 +1,13 @@
+{
+  "id": "belem-brazil",
+  "name": "Belém, Brazil",
+  "position": {
+    "lat": -1.45583,
+    "lon": -48.50389
+  },
+  "scale": "area",
+  "parentId": "brazil",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bel%C3%A9m",
+  "placeType": "city",
+  "description": "The capital of Pará in the north of Brazil."
+}

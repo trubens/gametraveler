@@ -1,0 +1,17 @@
+{
+  "id": "topkapi-palace-istanbul-turkey",
+  "name": "Topkapı Palace, Istanbul, Turkey",
+  "position": {
+    "lat": 41.0115,
+    "lon": 28.9834
+  },
+  "scale": "site",
+  "parentId": "istanbul-turkey",
+  "placeType": "landmark",
+  "aliases": [
+    "Topkapi Palace"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Topkap%C4%B1_Palace",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Topkap%C4%B1_Palace",
+  "description": "The old palace of the Ottoman sultans in the Fatih district of Istanbul, now a museum and library."
+}

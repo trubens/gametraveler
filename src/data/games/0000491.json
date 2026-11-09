@@ -1,0 +1,21 @@
+{
+  "id": 491,
+  "name": "Akiba's Beat",
+  "year": 2016,
+  "developer": "Acquire",
+  "publisher": "Acquire / Xseed Games / PQube",
+  "locations": [
+    {
+      "placeId": "akihabara-tokyo-japan",
+      "settingType": "fictionalized",
+      "note": "Asahi Tachibana, a NEET, and his friends are trapped in an Akihabara full of delusions, where the same Sunday repeats."
+    }
+  ],
+  "storyYears": [
+    2016
+  ],
+  "source": "https://en.wikipedia.org/wiki/Akiba%27s_Beat",
+  "genres": [
+    "Action RPG"
+  ]
+}

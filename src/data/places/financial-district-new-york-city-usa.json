@@ -1,0 +1,18 @@
+{
+  "id": "financial-district-new-york-city-usa",
+  "name": "Financial District, New York City, USA",
+  "position": {
+    "lat": 40.7075,
+    "lon": -74.0092
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "neighborhood",
+  "aliases": [
+    "FiDi"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Financial_District,_Manhattan",
+  "description": "The southern tip of Lower Manhattan around Wall Street, home to the New York Stock Exchange and many of the city's financial institutions.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Financial_District,_Manhattan"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "willow-springs-international-raceway-california-usa",
+  "name": "Willow Springs International Raceway, California, USA",
+  "aliases": [
+    "Willow Springs Raceway",
+    "Willow Springs International Motorsports Park"
+  ],
+  "position": {
+    "lat": 34.875,
+    "lon": -118.2644
+  },
+  "scale": "site",
+  "parentId": "california-usa",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Willow_Springs_International_Motorsports_Park",
+  "description": "The oldest permanent road course in the United States, laid out in the high desert near Rosamond, north of Los Angeles."
+}

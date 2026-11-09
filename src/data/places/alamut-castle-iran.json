@@ -1,0 +1,14 @@
+{
+  "id": "alamut-castle-iran",
+  "name": "Alamut Castle, Iran",
+  "position": {
+    "lat": 36.4447,
+    "lon": 50.5861
+  },
+  "scale": "site",
+  "parentId": "iran",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Alamut_Castle",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alamut_Castle",
+  "description": "A ruined mountain fortress in the Alamut region south of the Caspian, near the village of Gazor Khan in Qazvin province."
+}

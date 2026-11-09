@@ -1,0 +1,14 @@
+{
+  "id": "uss-constitution-boston-usa",
+  "name": "USS Constitution, Boston, USA",
+  "position": {
+    "lat": 42.3725,
+    "lon": -71.0566
+  },
+  "scale": "site",
+  "parentId": "boston-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/USS_Constitution",
+  "description": "Old Ironsides, the 1797 frigate still in commission, moored at the Charlestown Navy Yard.",
+  "descriptionSource": "wikipedia"
+}

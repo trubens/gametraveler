@@ -1,0 +1,13 @@
+{
+  "id": "tsushima-island-japan",
+  "name": "Tsushima Island, Japan",
+  "position": {
+    "lat": 34.2028,
+    "lon": 129.2875
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tsushima_Island",
+  "description": "An island of the Japanese archipelago lying between the Tsushima and Korea straits, roughly halfway between Kyushu and the Korean Peninsula."
+}

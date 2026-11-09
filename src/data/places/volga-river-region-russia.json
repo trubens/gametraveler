@@ -1,0 +1,12 @@
+{
+  "id": "volga-river-region-russia",
+  "name": "Volga River region, Russia",
+  "position": {
+    "lat": 53.1959,
+    "lon": 50.1002
+  },
+  "scale": "area",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volga",
+  "description": "Europe's longest river, flowing through central and southern Russia into the Caspian Sea."
+}

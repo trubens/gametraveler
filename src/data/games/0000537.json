@@ -1,0 +1,21 @@
+{
+  "id": 537,
+  "name": "Steins;Gate 0",
+  "year": 2015,
+  "publisher": "5pb.",
+  "series": "Steins;Gate",
+  "developer": "5pb. / Nitroplus",
+  "storyYears": [
+    2010
+  ],
+  "source": "https://en.wikipedia.org/wiki/Steins;Gate_0",
+  "locations": [
+    {
+      "placeId": "akihabara-tokyo-japan",
+      "note": "Back in Akihabara after failing to save Kurisu, Okabe becomes a tester for Amadeus, an AI built from her memories, as rival powers chase her time-travel theories."
+    }
+  ],
+  "genres": [
+    "Visual Novel"
+  ]
+}

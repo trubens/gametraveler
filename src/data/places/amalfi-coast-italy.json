@@ -1,0 +1,13 @@
+{
+  "id": "amalfi-coast-italy",
+  "name": "Amalfi Coast, Italy",
+  "position": {
+    "lat": 40.6333,
+    "lon": 14.6027
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amalfi_Coast",
+  "description": "A stretch of Italian coastline that looks out over the Tyrrhenian Sea and the Gulf of Salerno."
+}

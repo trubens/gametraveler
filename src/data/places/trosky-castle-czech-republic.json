@@ -1,0 +1,12 @@
+{
+  "id": "trosky-castle-czech-republic",
+  "name": "Trosky Castle, Czech Republic",
+  "position": {
+    "lat": 50.5167,
+    "lon": 15.2308
+  },
+  "scale": "site",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Trosky_Castle",
+  "description": "A ruined castle in the Liberec Region south of Semily, its name meaning simply ruins, built on two volcanic rock towers."
+}

@@ -1,0 +1,20 @@
+{
+  "id": 85,
+  "name": "SPQR: The Empire's Darkest Hour",
+  "year": 1995,
+  "publisher": "GT Interactive",
+  "developer": "CyberSites",
+  "locations": [
+    {
+      "placeId": "rome-italy",
+      "note": "Play a sleuth in Rome of 205 AD, racing to stop the saboteur Calamitus from destroying the city."
+    }
+  ],
+  "storyYears": [
+    205
+  ],
+  "source": "https://en.wikipedia.org/wiki/SPQR:_The_Empire%27s_Darkest_Hour",
+  "genres": [
+    "Adventure"
+  ]
+}

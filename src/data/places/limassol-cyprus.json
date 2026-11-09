@@ -1,0 +1,13 @@
+{
+  "id": "limassol-cyprus",
+  "name": "Limassol, Cyprus",
+  "position": {
+    "lat": 34.71,
+    "lon": 33.02
+  },
+  "scale": "area",
+  "parentId": "cyprus",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Limassol",
+  "description": "A city on the southern coast of Cyprus."
+}

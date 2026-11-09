@@ -1,0 +1,25 @@
+{
+  "id": 1000212,
+  "name": "Draugen",
+  "year": 2019,
+  "developer": "Red Thread Games",
+  "publisher": "Red Thread Games",
+  "locations": [
+    {
+      "placeId": "norway",
+      "aliases": [
+        "Graavik"
+      ],
+      "settingType": "fictionalized",
+      "note": "In 1923 Edward Harden and his ward Lissie come to Graavik looking for his missing sister, and find the village deserted.",
+      "source": "https://www.redthreadgames.com/draugen"
+    }
+  ],
+  "storyYears": [
+    1923
+  ],
+  "source": "https://www.redthreadgames.com/draugen",
+  "genres": [
+    "Adventure"
+  ]
+}

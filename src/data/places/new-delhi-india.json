@@ -1,0 +1,13 @@
+{
+  "id": "new-delhi-india",
+  "name": "New Delhi, India",
+  "position": {
+    "lat": 28.6139,
+    "lon": 77.209
+  },
+  "scale": "area",
+  "parentId": "india",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Delhi",
+  "description": "The capital of India."
+}

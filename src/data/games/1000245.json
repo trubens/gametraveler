@@ -1,0 +1,44 @@
+{
+  "id": 1000245,
+  "name": "The Hardy Boys: The Hidden Theft",
+  "year": 2008,
+  "publisher": "The Adventure Company",
+  "developer": "XPEC Entertainment",
+  "locations": [
+    {
+      "placeId": "new-york-usa",
+      "aliases": [
+        "Bayport"
+      ],
+      "settingType": "fictionalized",
+      "note": "The Bayport police call in Frank and Joe Hardy after the vault of the Spencer Mansion is robbed, and the case takes them all over their hometown."
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "note": "The investigation takes Frank and Joe from Bayport to New York City."
+    }
+  ],
+  "storyYears": [
+    2008
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Hardy_Boys:_The_Hidden_Theft",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "bayport-to-new-york",
+      "name": "The investigation",
+      "characters": [
+        "Frank Hardy",
+        "Joe Hardy"
+      ],
+      "stops": [
+        "new-york-usa",
+        "new-york-city-usa"
+      ],
+      "note": "The brothers leave Bayport and continue the investigation in New York City.",
+      "source": "https://en.wikipedia.org/wiki/The_Hardy_Boys:_The_Hidden_Theft"
+    }
+  ]
+}

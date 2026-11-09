@@ -1,0 +1,32 @@
+{
+  "id": 157,
+  "name": "Fallout: New Vegas",
+  "year": 2010,
+  "publisher": "Bethesda Softworks",
+  "series": "Fallout",
+  "developer": "Obsidian Entertainment",
+  "locations": [
+    {
+      "placeId": "las-vegas-usa",
+      "note": "A Courier shot and left for dead gets caught in the fight for New Vegas and Hoover Dam."
+    },
+    {
+      "placeId": "mojave-wasteland-usa-fictionalized-mojave-desert",
+      "settingType": "fictionalized",
+      "note": "Shot and left for dead, the Courier roams the Mojave Desert hunting the man who stole the Platinum Chip."
+    },
+    {
+      "placeId": "hoover-dam-nevada-arizona-usa",
+      "note": "The real Hoover Dam is a major story location and battle site."
+    }
+  ],
+  "storyYears": [
+    2281
+  ],
+  "source": "https://en.wikipedia.org/wiki/Fallout:_New_Vegas",
+  "developerUrl": "https://en.wikipedia.org/wiki/Obsidian_Entertainment",
+  "route": false,
+  "genres": [
+    "RPG"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1000357,
+  "name": "The Battle of Visby",
+  "year": 2020,
+  "developer": "Chalkstone Interactive",
+  "publisher": "Chalkstone Interactive",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    1361
+  ],
+  "source": "https://store.steampowered.com/app/1329850/The_Battle_of_Visby/",
+  "reviewed": "2026-11-03",
+  "locations": [
+    {
+      "placeId": "visby-sweden",
+      "note": "As King Valdemar Atterdag's Danish army lands on Gotland in the summer of 1361, several characters live through the build-up in Visby's streets; the country yeomen are left to die outside the town, and Visby surrenders.",
+      "source": "https://steamcommunity.com/app/1329850/reviews/"
+    }
+  ]
+}

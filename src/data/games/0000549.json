@@ -1,0 +1,25 @@
+{
+  "id": 549,
+  "name": "South of the Circle",
+  "year": 2022,
+  "publisher": "11 bit studios",
+  "developer": "State of Play Games",
+  "locations": [
+    {
+      "placeId": "antarctica",
+      "note": "A 1964 plane crash strands Cambridge researcher Peter in Antarctica, where he searches the polar landscape for help."
+    },
+    {
+      "placeId": "cambridge-england-uk",
+      "note": "Flashbacks return to Peter's academic life at Cambridge University and his relationship with fellow researcher Clara."
+    }
+  ],
+  "storyYears": [
+    1960,
+    1964
+  ],
+  "source": "https://en.wikipedia.org/wiki/South_of_the_Circle",
+  "genres": [
+    "Interactive Drama"
+  ]
+}

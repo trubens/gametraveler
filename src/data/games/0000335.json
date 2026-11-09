@@ -1,0 +1,19 @@
+{
+  "id": 335,
+  "name": "MotoGP '06",
+  "year": 2006,
+  "series": "MotoGP",
+  "developer": "Climax Racing",
+  "publisher": "THQ",
+  "locations": [
+    {
+      "placeId": "mugello-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 6 of 17 in the 2006 MotoGP season."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/MotoGP_%2706",
+  "genres": [
+    "Racing"
+  ]
+}

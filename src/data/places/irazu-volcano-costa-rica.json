@@ -1,0 +1,15 @@
+{
+  "id": "irazu-volcano-costa-rica",
+  "name": "Irazú Volcano, Costa Rica",
+  "position": {
+    "lat": 9.9792,
+    "lon": -83.8525
+  },
+  "scale": "area",
+  "parentId": "costa-rica",
+  "placeType": "natural_feature",
+  "source": "https://en.wikipedia.org/wiki/Irazú_Volcano",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Irazú_Volcano",
+  "description": "An active volcano in Costa Rica's Cordillera Central near Cartago, the country's highest, with a green crater lake.",
+  "descriptionSource": "wikipedia"
+}

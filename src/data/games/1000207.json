@@ -1,0 +1,47 @@
+{
+  "id": 1000207,
+  "name": "Art of Murder: FBI Confidential",
+  "year": 2007,
+  "series": "Art of Murder",
+  "developer": "City Interactive",
+  "publisher": "City Interactive",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "The investigation begins in New York.",
+      "source": "https://www.worthplaying.com/article/2007/10/9/news/45687-art-of-murder-fbi-confidential-visits-peru-screens/"
+    },
+    {
+      "placeId": "cusco-peru",
+      "note": "Nicole Bonnet follows the clues to Cusco, Peru.",
+      "source": "https://www.worthplaying.com/article/2007/10/9/news/45687-art-of-murder-fbi-confidential-visits-peru-screens/"
+    },
+    {
+      "placeId": "peru",
+      "note": "The investigation leads into the Peruvian Amazon.",
+      "source": "https://www.clubic.com/actualite-89458-art-murder-fbi-confidential.html"
+    }
+  ],
+  "routes": [
+    {
+      "id": "bonnet-investigation",
+      "name": "Bonnet's investigation",
+      "characters": [
+        "Nicole Bonnet"
+      ],
+      "stops": [
+        "new-york-city-usa",
+        "cusco-peru",
+        "peru"
+      ],
+      "source": "https://www.worthplaying.com/article/2007/10/9/news/45687-art-murder-fbi-confidential-visits-peru-screens/"
+    }
+  ],
+  "storyYears": [
+    2007
+  ],
+  "source": "https://www.mobygames.com/game/30234/art-of-murder-fbi-confidential/",
+  "genres": [
+    "Adventure"
+  ]
+}

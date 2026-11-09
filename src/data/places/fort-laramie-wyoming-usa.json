@@ -1,0 +1,12 @@
+{
+  "id": "fort-laramie-wyoming-usa",
+  "name": "Fort Laramie, Wyoming, USA",
+  "position": {
+    "lat": 42.20302,
+    "lon": -104.54591
+  },
+  "scale": "site",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fort_Laramie_National_Historic_Site",
+  "placeType": "landmark",
+  "description": "The site of a nineteenth-century trading post, diplomatic meeting place and army fort where the Laramie River meets the North Platte."
+}

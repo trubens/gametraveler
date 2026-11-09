@@ -1,0 +1,116 @@
+{
+  "id": 457,
+  "name": "Battlefield 2042",
+  "year": 2021,
+  "series": "Battlefield",
+  "developer": "DICE",
+  "publisher": "Electronic Arts",
+  "locations": [
+    {
+      "placeId": "doha-qatar",
+      "note": "Hourglass: Doha half-buried in sand after the storms, and Stadium, its arena. Multiplayer maps.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "guiana-space-centre-kourou-french-guiana",
+      "note": "Orbital: a rocket launch at the spaceport that can be shot down mid-count. A multiplayer map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "songdo-incheon-south-korea",
+      "note": "Kaleidoscope: the glass towers of Songdo, a multiplayer map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "pulau-brani-singapore",
+      "note": "Manifest: the container terminal on Brani Island, a multiplayer map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "alang-india",
+      "note": "Discarded: the ship-breaking beach at Alang, a multiplayer map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "queen-maud-land-antarctica",
+      "note": "Breakaway: an oil rig and research station on the ice of Queen Maud Land, the largest map in the series.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "western-desert-egypt",
+      "note": "Renewal: a green wall of farmland holding back the desert, a multiplayer map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "canadian-rockies-canada",
+      "note": "Exposure: a cliffside base in the Canadian Rockies, a Season 1 map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "panama-canal-panama",
+      "note": "Stranded: a tanker wrecked in the Panama Canal, a Season 2 map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "sweden",
+      "note": "Spearhead: two megafactories in the Swedish forest, a Season 3 map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "south-africa",
+      "note": "Flashpoint: the deserts of northern South Africa, a Season 4 map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "czech-republic",
+      "note": "Reclaimed: an abandoned factory in the Czech Republic, a Season 5 map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "hebrides-scotland-uk",
+      "note": "Redacted: a hidden research facility in the Hebrides, a Season 6 map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "chile",
+      "note": "Haven: abandoned farmland in Chile, a Season 7 map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "arica-chile",
+      "note": "Portal: Arica Harbor from Bad Company 2.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "valparaiso-chile",
+      "note": "Portal: Valparaíso from Bad Company 2.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "bastogne-belgium",
+      "note": "Portal: Battle of the Bulge from Battlefield 1942."
+    },
+    {
+      "placeId": "el-alamein-egypt",
+      "note": "Portal: El Alamein from Battlefield 1942."
+    },
+    {
+      "placeId": "caspian-sea-region",
+      "note": "Portal: Caspian Border from Battlefield 3.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "nowshahr-iran",
+      "note": "Portal: Noshahr Canals from Battlefield 3.",
+      "settingType": "fictionalized"
+    }
+  ],
+  "storyYears": [
+    2042
+  ],
+  "source": "https://en.wikipedia.org/wiki/Battlefield_2042",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

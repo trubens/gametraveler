@@ -1,0 +1,45 @@
+{
+  "id": 236,
+  "name": "The Crew 2",
+  "year": 2018,
+  "publisher": "Ubisoft",
+  "series": "The Crew",
+  "developer": "Ivory Tower",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Street racing and the opening LIVE event run through a condensed recreation of New York."
+    },
+    {
+      "placeId": "miami-usa",
+      "note": "Miami's streets and waterfront host car and powerboat events in the motorsport career."
+    },
+    {
+      "placeId": "san-francisco-usa",
+      "note": "San Francisco's hills and bay form a recognizable setting for driving and other motorsport events."
+    },
+    {
+      "placeId": "los-angeles-usa",
+      "note": "The condensed open-world United States includes a recognizable Los Angeles."
+    },
+    {
+      "placeId": "las-vegas-usa",
+      "note": "The map includes the Las Vegas Strip and surrounding desert."
+    },
+    {
+      "placeId": "chicago-usa",
+      "note": "The game recreates a recognizable Chicago skyline and waterfront."
+    },
+    {
+      "placeId": "detroit-usa",
+      "note": "Detroit is one of the recognizable city regions in the open world."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://news.ubisoft.com/en-us/article/7M5jToecBsBJ5JzftV8bkB/the-crew-2-available-now-on-ps4-pc-and-xbox-one",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "route": false,
+  "genres": [
+    "Racing"
+  ]
+}

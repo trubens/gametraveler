@@ -1,0 +1,13 @@
+{
+  "id": "amiens-france",
+  "name": "Amiens, France",
+  "position": {
+    "lat": 49.8941,
+    "lon": 2.2958
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amiens",
+  "description": "A city in northern France between Paris and Lille."
+}

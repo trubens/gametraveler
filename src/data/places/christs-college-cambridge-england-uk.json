@@ -1,0 +1,15 @@
+{
+  "id": "christs-college-cambridge-england-uk",
+  "name": "Christ's College, Cambridge, England, UK",
+  "position": {
+    "lat": 52.2063,
+    "lon": 0.1224
+  },
+  "scale": "site",
+  "parentId": "cambridge-england-uk",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Christ's_College,_Cambridge",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christ's_College,_Cambridge",
+  "description": "A college of the University of Cambridge, founded in 1505 on the site of God's House, with Milton and Darwin among its former students.",
+  "descriptionSource": "wikipedia"
+}

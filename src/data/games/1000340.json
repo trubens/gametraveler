@@ -1,0 +1,23 @@
+{
+  "id": 1000340,
+  "name": "Far Cry Primal",
+  "year": 2016,
+  "series": "Far Cry",
+  "developer": "Ubisoft Montreal",
+  "publisher": "Ubisoft",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    -10000
+  ],
+  "source": "https://en.wikipedia.org/wiki/Far_Cry_Primal",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "oros-valley-fictional-slovakia",
+      "note": "In 10,000 BC the hunter Takkar leads the Wenja tribe to survive in the Oros valley against the cannibal Udam and the fire-worshipping Izila.",
+      "settingType": "fictionalized"
+    }
+  ]
+}

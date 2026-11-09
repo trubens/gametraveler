@@ -1,0 +1,14 @@
+{
+  "id": "chatham-county-georgia-usa",
+  "name": "Chatham County, Georgia, USA",
+  "position": {
+    "lat": 31.97,
+    "lon": -81.09
+  },
+  "scale": "area",
+  "parentId": "georgia-usa",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chatham_County,_Georgia",
+  "description": "Georgia's easternmost county, with Savannah and the marsh-fringed sea islands of the state's northern coast.",
+  "descriptionSource": "wikipedia"
+}

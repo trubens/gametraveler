@@ -1,0 +1,16 @@
+{
+  "id": "monza-circuit-italy",
+  "name": "Monza Circuit, Italy",
+  "aliases": [
+    "Autodromo Nazionale Monza"
+  ],
+  "position": {
+    "lat": 45.6156,
+    "lon": 9.2811
+  },
+  "scale": "site",
+  "parentId": "italy",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Monza_Circuit",
+  "description": "A race track near the city of Monza, just north of Milan in northern Italy."
+}

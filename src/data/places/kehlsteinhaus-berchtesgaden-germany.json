@@ -1,0 +1,17 @@
+{
+  "id": "kehlsteinhaus-berchtesgaden-germany",
+  "name": "Kehlsteinhaus, Berchtesgaden, Germany",
+  "position": {
+    "lat": 47.6115,
+    "lon": 13.0421
+  },
+  "scale": "area",
+  "parentId": "bavaria-germany",
+  "placeType": "landmark",
+  "aliases": [
+    "Eagle's Nest"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kehlsteinhaus",
+  "description": "The Eagle's Nest, a chalet on a peak above Obersalzberg built for Hitler in 1938, reached by a lift bored through the rock.",
+  "descriptionSource": "wikipedia"
+}

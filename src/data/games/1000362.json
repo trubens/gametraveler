@@ -1,0 +1,49 @@
+{
+  "id": 1000362,
+  "name": "inFamous First Light",
+  "series": "inFamous",
+  "aliases": [
+    "Infamous: First Light"
+  ],
+  "year": 2014,
+  "publisher": "Sony Computer Entertainment",
+  "developer": "Sucker Punch Productions",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Infamous_First_Light",
+  "reviewed": "2026-11-06",
+  "locations": [
+    {
+      "placeId": "seattle-usa",
+      "settingType": "fictionalized",
+      "note": "After the Akuran mob takes her brother Brent hostage, Fetch Walker searches Seattle for him and is used by the drug dealer Shane to win his gang war against the Akurans, as she later tells Augustine."
+    },
+    {
+      "placeId": "the-crocodile-seattle-usa",
+      "note": "Shane meets Fetch at the Crocodile and drugs her with a needle; in the haze she kills Brent, and the D.U.P. closes in."
+    },
+    {
+      "placeId": "akomish-reservation-fictional-washington-usa",
+      "note": "Freed from Curdun Cay with Eugene and Hank, Fetch escapes when Hank crashes the D.U.P. truck at Salmon Bay, setting off Second Son."
+    }
+  ],
+  "routes": [
+    {
+      "id": "fetch",
+      "name": "Fetch Walker",
+      "characters": [
+        "Abigail \"Fetch\" Walker",
+        "Brent Walker"
+      ],
+      "stops": [
+        "seattle-usa",
+        "the-crocodile-seattle-usa",
+        "akomish-reservation-fictional-washington-usa"
+      ],
+      "note": "From the hunt for Brent through Seattle's drug war to Shane's betrayal at the Crocodile, and years later the truck crash at Salmon Bay.",
+      "source": "https://en.wikipedia.org/wiki/Infamous_First_Light"
+    }
+  ],
+  "storyYears": []
+}

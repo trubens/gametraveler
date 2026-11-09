@@ -1,0 +1,13 @@
+{
+  "id": "bexhill-on-sea-england-uk",
+  "name": "Bexhill-on-Sea, England",
+  "position": {
+    "lat": 50.8417,
+    "lon": 0.471
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bexhill-on-Sea",
+  "placeType": "body_of_water",
+  "description": "A seaside town on the Sussex coast of south-east England, between Hastings and Eastbourne."
+}

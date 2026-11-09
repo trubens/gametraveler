@@ -1,0 +1,59 @@
+{
+  "id": 1000370,
+  "name": "Persona 3",
+  "aliases": [
+    "Persona 3 FES",
+    "Persona 3 Portable",
+    "P3"
+  ],
+  "year": 2006,
+  "publisher": "Atlus",
+  "series": "Persona",
+  "developer": "Atlus",
+  "genres": [
+    "RPG"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Persona_3",
+  "reviewed": "2026-11-06",
+  "locations": [
+    {
+      "placeId": "tatsumi-port-island-fictional-japan",
+      "aliases": [
+        "Tatsumi Port Island",
+        "Iwatodai"
+      ],
+      "note": "A transfer student moves into the Iwatodai dorm and joins S.E.E.S., which climbs Tartarus, the tower Gekkoukan High becomes during the hidden Dark Hour; FES adds The Answer, in which Aigis and the others are trapped in the dorm on the last day of March."
+    },
+    {
+      "placeId": "yakushima-japan",
+      "note": "On a summer holiday on Yakushima, S.E.E.S. meets and recruits Aigis, a Persona-wielding android with an inexplicable need to stay near the protagonist."
+    },
+    {
+      "placeId": "kyoto-japan",
+      "note": "Gekkoukan's November class trip takes the second-years to Kyoto, where they stay at an inn and Yukari and Mitsuru talk things out on the bank of the Kamo River.",
+      "source": "https://samurai-gamers.com/?p=307874"
+    }
+  ],
+  "routes": [
+    {
+      "id": "sees",
+      "name": "S.E.E.S.",
+      "characters": [
+        "Makoto Yuki"
+      ],
+      "stops": [
+        "tatsumi-port-island-fictional-japan",
+        "yakushima-japan",
+        "tatsumi-port-island-fictional-japan",
+        "kyoto-japan",
+        "tatsumi-port-island-fictional-japan"
+      ],
+      "note": "From the Iwatodai dorm to the summer at Yakushima, the November trip to Kyoto, and back to Tartarus for the last climb.",
+      "source": "https://en.wikipedia.org/wiki/Persona_3"
+    }
+  ],
+  "storyYears": [
+    2009,
+    2010
+  ]
+}

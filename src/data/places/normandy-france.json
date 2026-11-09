@@ -1,0 +1,13 @@
+{
+  "id": "normandy-france",
+  "name": "Normandy, France",
+  "position": {
+    "lat": 49.4144,
+    "lon": -0.8322
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Normandy",
+  "description": "A region of north-western France, roughly matching the old Duchy of Normandy."
+}

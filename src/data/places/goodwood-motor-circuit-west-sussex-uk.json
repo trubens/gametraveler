@@ -1,0 +1,12 @@
+{
+  "id": "goodwood-motor-circuit-west-sussex-uk",
+  "name": "Goodwood Motor Circuit, West Sussex, UK",
+  "position": {
+    "lat": 50.859,
+    "lon": -0.759
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Goodwood_Circuit",
+  "description": "A historic motorsport venue in West Sussex, England, for racing on two wheels and four."
+}

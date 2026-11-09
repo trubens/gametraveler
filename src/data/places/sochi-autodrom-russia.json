@@ -1,0 +1,12 @@
+{
+  "id": "sochi-autodrom-russia",
+  "name": "Sochi Autodrom, Russia",
+  "position": {
+    "lat": 43.4057,
+    "lon": 39.9578
+  },
+  "scale": "site",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sochi_Autodrom",
+  "description": "A permanent race track at Sirius beside Sochi's Olympic Park on the Black Sea coast, now called the Sirius Autodrom."
+}

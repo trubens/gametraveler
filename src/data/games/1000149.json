@@ -1,0 +1,25 @@
+{
+  "id": 1000149,
+  "name": "The Great Ace Attorney Chronicles",
+  "year": 2021,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Great_Ace_Attorney_Chronicles",
+  "route": true,
+  "locations": [
+    {
+      "placeId": "japan",
+      "note": "The cases begin in Meiji-era Japan, where Ryunosuke investigates crimes and argues them in court."
+    },
+    {
+      "placeId": "london-uk",
+      "note": "Several cases take place across London streets and interiors, which the player investigates directly."
+    }
+  ],
+  "storyYears": [
+    1900
+  ]
+}

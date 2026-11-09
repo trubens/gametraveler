@@ -1,0 +1,13 @@
+{
+  "id": "norco-louisiana-usa",
+  "name": "Norco, Louisiana, USA",
+  "position": {
+    "lat": 29.9991,
+    "lon": -90.4118
+  },
+  "scale": "area",
+  "parentId": "louisiana-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Norco,_Louisiana",
+  "description": "A small community in St."
+}

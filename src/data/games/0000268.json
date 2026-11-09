@@ -1,0 +1,25 @@
+{
+  "id": 268,
+  "name": "F1 2010",
+  "year": 2010,
+  "series": "F1",
+  "developer": "Codemasters Birmingham",
+  "publisher": "Codemasters",
+  "locations": [
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "Raced as the British Grand Prix, round 10 of 19 in the 2010 season."
+    },
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 14 of 19 in the 2010 season."
+    }
+  ],
+  "storyYears": [
+    2010
+  ],
+  "source": "https://en.wikipedia.org/wiki/F1_2010_(video_game)",
+  "genres": [
+    "Racing"
+  ]
+}

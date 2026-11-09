@@ -1,0 +1,17 @@
+{
+  "id": "burg-rabenstein-bavaria-germany",
+  "name": "Burg Rabenstein, Bavaria, Germany",
+  "position": {
+    "lat": 49.8392,
+    "lon": 11.3486
+  },
+  "scale": "site",
+  "parentId": "bavaria-germany",
+  "placeType": "landmark",
+  "aliases": [
+    "Rabenstein Castle"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Rabenstein_Castle_(Upper_Franconia)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rabenstein_Castle_(Upper_Franconia)",
+  "description": "A former high-medieval aristocratic castle at Ahorntal in Upper Franconia, in the north of Bavaria."
+}

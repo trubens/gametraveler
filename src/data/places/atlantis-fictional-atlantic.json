@@ -1,0 +1,16 @@
+{
+  "id": "atlantis-fictional-atlantic",
+  "name": "Atlantis, Atlantic",
+  "position": {
+    "lat": 31,
+    "lon": -40
+  },
+  "scale": "area",
+  "placeType": "area",
+  "fictional": true,
+  "aliases": [
+    "Atlantis (traditional Atlantic location)"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Atlantis",
+  "description": "The sunken island of Plato's legend, placed beyond the Pillars of Heracles in the Atlantic. Pinned mid-ocean west of Gibraltar, where the legend puts it."
+}

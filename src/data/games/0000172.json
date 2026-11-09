@@ -1,0 +1,128 @@
+{
+  "id": 172,
+  "name": "Call of Duty: Modern Warfare 3",
+  "aliases": [
+    "COD",
+    "COD Modern Warfare 3"
+  ],
+  "year": 2011,
+  "publisher": "Activision",
+  "series": "Call of Duty",
+  "developer": "Infinity Ward, Sledgehammer Games",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Opens with Delta Force fighting Russian forces in a besieged Manhattan."
+    },
+    {
+      "placeId": "london-uk",
+      "note": "SAS chases a chemical-weapon plot through London's docklands and the Underground."
+    },
+    {
+      "placeId": "hamburg-germany",
+      "note": "Goalpost: Team Metal lands on the Hamburg waterfront under fire and fights through the city to rescue the US Vice President.",
+      "source": "https://callofduty.fandom.com/wiki/Goalpost_(mission)"
+    },
+    {
+      "placeId": "paris-france",
+      "note": "Delta Force fights through a war-torn Paris to extract an informant, ending at the Eiffel Tower."
+    },
+    {
+      "placeId": "eiffel-tower-paris-france",
+      "note": "The fight through Paris ends under the Eiffel Tower as it collapses into the Seine."
+    },
+    {
+      "placeId": "berlin-germany",
+      "note": "Delta Force rescues the Russian president's daughter in a devastated Berlin."
+    },
+    {
+      "placeId": "prague-czech-republic",
+      "note": "Price's team sneaks into Russian-occupied Prague with the resistance to go after Makarov."
+    },
+    {
+      "placeId": "karlstejn-castle-czech-republic",
+      "settingType": "fictionalized",
+      "note": "Stronghold: Price and Yuri infiltrate Makarov's castle base outside Prague and learn he plans to seize Alena Vorshevsky in Berlin.",
+      "source": "https://callofduty.fandom.com/wiki/Stronghold_(Mission)"
+    },
+    {
+      "placeId": "siberia-russia",
+      "note": "Down the Rabbit Hole: Task Force 141 and Delta Force rescue President Vorshevsky and Alena from a Siberian diamond mine as it collapses on Team Metal.",
+      "source": "https://callofduty.fandom.com/wiki/Down_the_Rabbit_Hole"
+    },
+    {
+      "placeId": "dubai-uae",
+      "note": "January 2017: Price and Yuri storm Makarov's hotel in Dubai; Makarov kills Yuri, and Price hangs him through the rooftop skylight.",
+      "source": "https://callofduty.fandom.com/wiki/Dust_to_Dust"
+    },
+    {
+      "placeId": "himachal-pradesh-india",
+      "note": "The mission “Persona Non Grata” follows Yuri as he helps evacuate Soap from a mountain safe house in Himachal Pradesh."
+    },
+    {
+      "placeId": "sierra-leone",
+      "note": "Back on the Grid: Yuri, Price and Soap raid Makarov's chemical-bomb shipment in Sierra Leone but cannot stop the bombs leaving for Europe.",
+      "source": "https://callofduty.fandom.com/wiki/Back_on_the_Grid"
+    },
+    {
+      "placeId": "bosaso-somalia",
+      "note": "Return to Sender: Task Force 141 storms Bosaso to seize the warlord Waraabe, who gives up Makarov's bomb maker in Paris before Price executes him.",
+      "source": "https://callofduty.fandom.com/wiki/Return_To_Sender"
+    },
+    {
+      "placeId": "new-york-stock-exchange-new-york-city-usa",
+      "note": "Black Tuesday: Delta Force fights up to the Stock Exchange to destroy the Russian jammer on its roof."
+    }
+  ],
+  "storyYears": [
+    2016,
+    2017
+  ],
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_3",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Activision",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "frost",
+      "name": "SSgt. Derek 'Frost' Westbrook",
+      "characters": [
+        "Derek 'Frost' Westbrook",
+        "Sandman",
+        "Truck",
+        "Grinch"
+      ],
+      "stops": [
+        "new-york-stock-exchange-new-york-city-usa",
+        "hamburg-germany",
+        "paris-france",
+        "eiffel-tower-paris-france",
+        "berlin-germany"
+      ],
+      "note": "Team Metal fights from the Stock Exchange roof in besieged Manhattan to the Hamburg waterfront, then to Paris, where the Eiffel Tower falls, and on to a ruined Berlin.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_3"
+    },
+    {
+      "id": "yuri",
+      "name": "Yuri",
+      "characters": [
+        "Yuri",
+        "Captain Price",
+        "Soap MacTavish"
+      ],
+      "stops": [
+        "himachal-pradesh-india",
+        "sierra-leone",
+        "bosaso-somalia",
+        "prague-czech-republic",
+        "karlstejn-castle-czech-republic",
+        "siberia-russia",
+        "dubai-uae"
+      ],
+      "note": "From the burning safe house in the Himalayan foothills to Sierra Leone and Somalia, occupied Prague where Soap dies, Makarov's castle, the Siberian mine, and the Dubai hotel where Makarov dies.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_3"
+    }
+  ]
+}

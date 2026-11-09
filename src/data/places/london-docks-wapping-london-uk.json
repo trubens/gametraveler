@@ -1,0 +1,18 @@
+{
+  "id": "london-docks-wapping-london-uk",
+  "name": "London Docks, Wapping, London, UK",
+  "position": {
+    "lat": 51.506,
+    "lon": -0.0603
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "neighborhood",
+  "aliases": [
+    "Wapping",
+    "The Docks"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/London_Docks",
+  "description": "The old enclosed docks at Wapping east of the Tower, opened in 1805 and filled in during the 1970s.",
+  "descriptionSource": "wikipedia"
+}

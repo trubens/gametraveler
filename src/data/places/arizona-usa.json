@@ -1,0 +1,12 @@
+{
+  "id": "arizona-usa",
+  "name": "Arizona, USA",
+  "position": {
+    "lat": 34.0489,
+    "lon": -111.0937
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arizona",
+  "description": "A landlocked state of the American Southwest that shares the Four Corners with Colorado, New Mexico and Utah."
+}

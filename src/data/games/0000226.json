@@ -1,0 +1,20 @@
+{
+  "id": 226,
+  "name": "The Secrets of Da Vinci: The Forbidden Manuscript",
+  "year": 2006,
+  "publisher": "Nobilis, Tri Synergy",
+  "developer": "Kheops Studio, Totem Studio, Mzone Studio, Elektrogames",
+  "locations": [
+    {
+      "placeId": "clos-luce-amboise-france",
+      "note": "Valdo searches Leonardo's last home, known in the story as Cloux Manor, for a hidden manuscript in a researched recreation of the estate."
+    }
+  ],
+  "storyYears": [
+    1522
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Secrets_of_Da_Vinci:_The_Forbidden_Manuscript",
+  "genres": [
+    "Adventure"
+  ]
+}

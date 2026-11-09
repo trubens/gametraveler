@@ -1,0 +1,13 @@
+{
+  "id": "cairo-egypt",
+  "name": "Cairo, Egypt",
+  "position": {
+    "lat": 30.0444,
+    "lon": 31.2357
+  },
+  "scale": "area",
+  "parentId": "egypt",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cairo",
+  "description": "Egypt's capital and by far its largest city."
+}

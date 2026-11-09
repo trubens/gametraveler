@@ -1,0 +1,12 @@
+{
+  "id": "tortuga-haiti",
+  "name": "Tortuga, Haiti",
+  "position": {
+    "lat": 20.05,
+    "lon": -72.8
+  },
+  "scale": "area",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tortuga",
+  "description": "A West Indian island off the north-west coast of Hispaniola, part of Haiti and once a notorious pirate haven."
+}

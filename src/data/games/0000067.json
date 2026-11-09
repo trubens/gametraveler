@@ -1,0 +1,70 @@
+{
+  "id": 67,
+  "name": "Broken Sword 5: The Serpent's Curse",
+  "aliases": [
+    "Broken Sword V",
+    "Broken Sword 5"
+  ],
+  "year": 2013,
+  "publisher": "Revolution Software",
+  "series": "Broken Sword",
+  "developer": "Revolution Software",
+  "locations": [
+    {
+      "placeId": "paris-france",
+      "note": "A gallery theft and murder in Paris, with George as insurance assessor, open the case."
+    },
+    {
+      "placeId": "london-uk",
+      "note": "George and Nico visit claimant Roman Medovsky's London home to chase the stolen painting."
+    },
+    {
+      "placeId": "catalonia-spain",
+      "aliases": [
+        "Castell dels Sants"
+      ],
+      "settingType": "fictionalized",
+      "note": "The Marqués family's castle, seen in the 1937 prologue and today, where the painting's clues point on to Montserrat and Langham kidnaps Tiago.",
+      "source": "https://en.wikipedia.org/wiki/Broken_Sword_5:_The_Serpent%27s_Curse"
+    },
+    {
+      "placeId": "montserrat-spain",
+      "note": "A hidden Gnostic shrine at Montserrat holds the artifact the villains are after."
+    },
+    {
+      "placeId": "iraq",
+      "note": "The finale unfolds at a site in Iraq called Eden, where the Tabula can be used."
+    }
+  ],
+  "storyYears": [
+    1937,
+    2013
+  ],
+  "source": "https://en.wikipedia.org/wiki/Broken_Sword_5:_The_Serpent%27s_Curse",
+  "reviewed": "2026-11-01",
+  "routes": [
+    {
+      "id": "george-and-nico-investigation",
+      "name": "George and Nico",
+      "characters": [
+        "George Stobbart",
+        "Nicole Collard"
+      ],
+      "stops": [
+        "paris-france",
+        "london-uk",
+        "paris-france",
+        "london-uk",
+        "catalonia-spain",
+        "montserrat-spain",
+        "iraq"
+      ],
+      "note": "Twice to London: the gallery theft in Paris, Medovsky's house and Hobbs's studio in London, back to Paris for the crime reconstruction and Father Simeon, London again to confront Hobbs, then the Castell dels Sants, the shrine at Montserrat and the finale at Eden in Iraq.",
+      "source": "https://mysterymanor.net/walkthroughs/Broken_Sword_5/broken_5_index_english.htm"
+    }
+  ],
+  "developerUrl": "https://en.wikipedia.org/wiki/Revolution_Software",
+  "genres": [
+    "Adventure"
+  ]
+}

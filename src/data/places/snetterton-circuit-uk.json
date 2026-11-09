@@ -1,0 +1,12 @@
+{
+  "id": "snetterton-circuit-uk",
+  "name": "Snetterton Circuit, UK",
+  "position": {
+    "lat": 52.466,
+    "lon": 0.956
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Snetterton_Circuit",
+  "description": "A motor racing circuit in Norfolk, England, on the site of a wartime airfield, opened in 1953."
+}

@@ -1,0 +1,54 @@
+{
+  "id": 112,
+  "name": "Yakuza 4",
+  "year": 2010,
+  "publisher": "Sega",
+  "series": "Yakuza / Like a Dragon",
+  "developer": "Sega CS1 R&D",
+  "locations": [
+    {
+      "placeId": "kabukicho-tokyo-japan",
+      "aliases": [
+        "Kamurocho"
+      ],
+      "settingType": "fictionalized",
+      "note": "Akiyama, Saejima, Tanimura and Kiryu untangle the 1985 Ueno Seiwa hit and a police plot to take Kamurocho, the series' Kabukicho, ending on the roof of the Millennium Tower."
+    },
+    {
+      "placeId": "okinawa-japan",
+      "note": "Saejima escapes an island prison off Okinawa and washes up near Kiryu's orphanage, where Kiryu later beats the prison chief Saito.",
+      "source": "https://en.wikipedia.org/wiki/Yakuza_4"
+    }
+  ],
+  "storyYears": [
+    1985,
+    2010
+  ],
+  "source": "https://en.wikipedia.org/wiki/Yakuza_4",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "four",
+      "name": "Four men, one conspiracy",
+      "characters": [
+        "Shun Akiyama",
+        "Taiga Saejima",
+        "Masayoshi Tanimura",
+        "Kazuma Kiryu"
+      ],
+      "stops": [
+        "kabukicho-tokyo-japan",
+        "okinawa-japan",
+        "kabukicho-tokyo-japan",
+        "okinawa-japan",
+        "kabukicho-tokyo-japan"
+      ],
+      "note": "From Akiyama's Sky Finance in Kamurocho to Saejima's prison break off Okinawa, and from Kiryu's orphanage to the showdown on the Millennium Tower.",
+      "source": "https://en.wikipedia.org/wiki/Yakuza_4"
+    }
+  ]
+}

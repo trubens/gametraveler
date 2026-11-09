@@ -1,0 +1,12 @@
+{
+  "id": "nepal",
+  "name": "Nepal",
+  "position": {
+    "lat": 28.3949,
+    "lon": 84.124
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nepal",
+  "description": "A landlocked country in South Asia, mostly in the Himalayas, reaching down to the Indo-Gangetic Plain."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "bronx-new-york-usa",
+  "name": "The Bronx, New York, USA",
+  "position": {
+    "lat": 40.8372,
+    "lon": -73.8861
+  },
+  "scale": "area",
+  "parentId": "new-york-city-usa",
+  "placeType": "neighborhood",
+  "source": "https://en.wikipedia.org/wiki/The_Bronx",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Bronx",
+  "description": "The northernmost of the five boroughs of New York City, with a land area of 42 square miles and about 1.47 million people.",
+  "descriptionSource": "wikipedia"
+}

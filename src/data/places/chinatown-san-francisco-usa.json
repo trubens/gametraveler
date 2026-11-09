@@ -1,0 +1,14 @@
+{
+  "id": "chinatown-san-francisco-usa",
+  "name": "Chinatown, San Francisco, USA",
+  "position": {
+    "lat": 37.7941,
+    "lon": -122.4078
+  },
+  "scale": "site",
+  "parentId": "san-francisco-usa",
+  "placeType": "neighborhood",
+  "source": "https://en.wikipedia.org/wiki/Chinatown,_San_Francisco",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chinatown,_San_Francisco",
+  "description": "The oldest Chinatown in North America and one of the largest Chinese enclaves outside Asia, centred on Grant Avenue and Stockton Street."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "midway-atoll-usa",
+  "name": "Midway Atoll, USA",
+  "position": {
+    "lat": 28.2075,
+    "lon": -177.35
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Midway_Atoll",
+  "description": "A small atoll in the North Pacific, the scene of the 1942 carrier battle."
+}

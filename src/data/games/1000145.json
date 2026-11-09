@@ -1,0 +1,19 @@
+{
+  "id": 1000145,
+  "name": "This War of Mine",
+  "year": 2014,
+  "publisher": "11 bit studios",
+  "developer": "11 bit studios",
+  "genres": [
+    "Strategy"
+  ],
+  "source": "https://en.wikipedia.org/wiki/This_War_of_Mine",
+  "locations": [
+    {
+      "placeId": "sarajevo-bosnia-and-herzegovina",
+      "settingType": "fictionalized",
+      "note": "Civilians scavenge and hide to survive in Pogoren, an invented besieged city modelled on Sarajevo and other sieges."
+    }
+  ],
+  "storyYears": []
+}

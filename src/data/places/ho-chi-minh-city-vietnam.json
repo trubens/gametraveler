@@ -1,0 +1,17 @@
+{
+  "id": "ho-chi-minh-city-vietnam",
+  "name": "Ho Chi Minh City, Vietnam",
+  "position": {
+    "lat": 10.7756,
+    "lon": 106.7019
+  },
+  "scale": "area",
+  "parentId": "vietnam",
+  "placeType": "city",
+  "aliases": [
+    "Saigon"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City",
+  "description": "Vietnam's largest city on the Saigon River, the capital of South Vietnam as Saigon until it fell in April 1975.",
+  "descriptionSource": "wikipedia"
+}

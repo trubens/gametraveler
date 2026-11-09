@@ -1,0 +1,14 @@
+{
+  "id": "river-heights-fictionalized-illinois",
+  "name": "River Heights, Illinois",
+  "position": {
+    "lat": 41.9294,
+    "lon": -88.7583
+  },
+  "scale": "area",
+  "placeType": "city",
+  "fictional": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Illinois",
+  "description": "Nancy Drew's invented hometown of the books and games, which the Nancy Drew games put about an hour's drive west of Chicago; pinned at that distance, near DeKalb, as an approximation.",
+  "source": "https://nancydrew.fandom.com/wiki/River_Heights"
+}

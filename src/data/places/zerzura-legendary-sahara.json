@@ -1,0 +1,18 @@
+{
+  "id": "zerzura-legendary-sahara",
+  "name": "Zerzura, Sahara",
+  "position": {
+    "lat": 23.4,
+    "lon": 25.9
+  },
+  "scale": "area",
+  "parentId": "egypt",
+  "placeType": "area",
+  "legendary": true,
+  "aliases": [
+    "Oasis of Zerzura",
+    "The White City"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Zerzura",
+  "description": "The legendary white city of the Sahara, an oasis that medieval Arab writers and 1930s desert explorers searched for and never found. Pinned in the Libyan Desert by the Gilf Kebir, where the hunt for it was concentrated."
+}

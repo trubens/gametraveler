@@ -1,0 +1,13 @@
+{
+  "id": "adelaide-street-circuit-australia",
+  "name": "Adelaide Street Circuit, Australia",
+  "position": {
+    "lat": -34.927,
+    "lon": 138.617
+  },
+  "scale": "site",
+  "parentId": "australia",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adelaide_Street_Circuit",
+  "description": "A temporary street circuit laid out through the East Parklands beside Adelaide's city centre in South Australia."
+}

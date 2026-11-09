@@ -1,0 +1,67 @@
+{
+  "id": 154,
+  "name": "Deus Ex: Human Revolution",
+  "year": 2011,
+  "publisher": "Square Enix",
+  "series": "Deus Ex",
+  "developer": "Eidos-Montréal",
+  "locations": [
+    {
+      "placeId": "detroit-usa",
+      "note": "Home of Sarif Industries, where security chief Adam Jensen is rebuilt with augmentations after an attack on the company."
+    },
+    {
+      "placeId": "highland-park-michigan-usa",
+      "note": "Pritchard traces the hacking signal to an abandoned factory in Highland Park, where the Tyrants guard a FEMA detention camp."
+    },
+    {
+      "placeId": "hengsha-fictional-shanghai-china",
+      "note": "Adam Jensen's China is Lower Hengsha, the invented two-tier city on Hengsha Island off Shanghai, with Upper Hengsha built over it.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "montreal-canada",
+      "note": "Jensen infiltrates the Picus media conglomerate's Montreal headquarters and finds Eliza Cassan."
+    },
+    {
+      "placeId": "singapore",
+      "note": "Jensen stows away in a stasis pod and wakes in a secret base in Singapore, where the kidnapped scientists are held."
+    },
+    {
+      "placeId": "arctic-sea",
+      "note": "The finale at Hugh Darrow's Panchaea, an invented climate-engineering platform in the Arctic Ocean.",
+      "settingType": "fictionalized"
+    }
+  ],
+  "storyYears": [
+    2027
+  ],
+  "source": "https://en.wikipedia.org/wiki/Deus_Ex:_Human_Revolution",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Square_Enix",
+  "developerUrl": "https://en.wikipedia.org/wiki/Eidos-Montr%C3%A9al",
+  "genres": [
+    "Action RPG"
+  ],
+  "routes": [
+    {
+      "id": "adam-jensen",
+      "name": "Adam Jensen",
+      "characters": [
+        "Adam Jensen"
+      ],
+      "stops": [
+        "detroit-usa",
+        "highland-park-michigan-usa",
+        "hengsha-fictional-shanghai-china",
+        "montreal-canada",
+        "detroit-usa",
+        "hengsha-fictional-shanghai-china",
+        "singapore",
+        "arctic-sea"
+      ],
+      "note": "Adam Jensen chases the attackers of Sarif Industries from Detroit to Hengsha and Montreal, back through Detroit and Hengsha to Singapore, and ends on Panchaea in the Arctic.",
+      "source": "https://en.wikipedia.org/wiki/Deus_Ex:_Human_Revolution"
+    }
+  ]
+}

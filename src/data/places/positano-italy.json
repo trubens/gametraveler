@@ -1,0 +1,13 @@
+{
+  "id": "positano-italy",
+  "name": "Positano, Italy",
+  "position": {
+    "lat": 40.6294,
+    "lon": 14.4823
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Positano",
+  "description": "A town on the Amalfi Coast in Campania."
+}

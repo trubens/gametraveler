@@ -1,0 +1,26 @@
+{
+  "id": 495,
+  "name": "Resistance: Fall of Man",
+  "year": 2006,
+  "series": "Resistance",
+  "developer": "Insomniac Games",
+  "publisher": "Sony Computer Entertainment",
+  "locations": [
+    {
+      "placeId": "manchester-uk",
+      "note": "The alternate-history campaign fights an alien invasion through Manchester and London."
+    },
+    {
+      "placeId": "london-uk",
+      "note": "The alternate-history campaign fights an alien invasion through Manchester and London."
+    }
+  ],
+  "storyYears": [
+    1951
+  ],
+  "source": "https://en.wikipedia.org/wiki/Resistance:_Fall_of_Man",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

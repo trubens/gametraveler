@@ -1,0 +1,23 @@
+{
+  "id": 1000336,
+  "name": "Far Cry",
+  "year": 2004,
+  "series": "Far Cry",
+  "developer": "Crytek",
+  "publisher": "Ubisoft",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    2004
+  ],
+  "source": "https://en.wikipedia.org/wiki/Far_Cry_(video_game)",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "micronesia",
+      "note": "Ex-special forces boatman Jack Carver ferries the journalist Valerie Constantine to an uncharted island in Micronesia, loses her when mercenaries blow up his boat, and uncovers Dr Krieger's mutant experiments.",
+      "settingType": "fictionalized"
+    }
+  ]
+}

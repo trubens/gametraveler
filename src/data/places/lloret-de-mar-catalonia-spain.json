@@ -1,0 +1,13 @@
+{
+  "id": "lloret-de-mar-catalonia-spain",
+  "name": "Lloret de Mar, Catalonia, Spain",
+  "position": {
+    "lat": 41.7,
+    "lon": 2.85
+  },
+  "scale": "area",
+  "parentId": "catalonia-spain",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lloret_de_Mar",
+  "description": "A Mediterranean coastal town in Catalonia."
+}

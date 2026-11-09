@@ -1,0 +1,13 @@
+{
+  "id": "halfaya-pass-egypt",
+  "name": "Halfaya Pass, Egypt",
+  "position": {
+    "lat": 31.505,
+    "lon": 25.1875
+  },
+  "scale": "area",
+  "parentId": "egypt",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Halfaya_Pass",
+  "description": "A pass through the ridge in north-west Egypt, just east of the Libyan border and south of the larger pass that carries traffic today."
+}

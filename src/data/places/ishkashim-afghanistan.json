@@ -1,0 +1,17 @@
+{
+  "id": "ishkashim-afghanistan",
+  "name": "Ishkashim, Afghanistan",
+  "position": {
+    "lat": 36.7092,
+    "lon": 71.5739
+  },
+  "scale": "area",
+  "parentId": "afghanistan",
+  "placeType": "city",
+  "aliases": [
+    "Eshkashem"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ishkashim,_Afghanistan",
+  "description": "A border town in Badakhshan on the Panj river, where the Wakhan corridor begins.",
+  "descriptionSource": "wikipedia"
+}

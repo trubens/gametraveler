@@ -1,0 +1,21 @@
+{
+  "id": 521,
+  "name": "Night Call",
+  "year": 2019,
+  "publisher": "Raw Fury",
+  "developer": "Monkey Moon / BlackMuffin",
+  "locations": [
+    {
+      "placeId": "paris-france",
+      "note": "As a night-shift taxi driver, the player drives passengers across a map based on real Paris and hears their stories while investigating a murder."
+    }
+  ],
+  "storyYears": [
+    2019
+  ],
+  "source": "https://en.wikipedia.org/wiki/Night_Call_(video_game)",
+  "route": false,
+  "genres": [
+    "Adventure"
+  ]
+}

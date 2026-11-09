@@ -1,0 +1,11 @@
+{
+  "id": "uzbekistan",
+  "name": "Uzbekistan",
+  "position": {
+    "lat": 41.69,
+    "lon": 64.01
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/"
+}

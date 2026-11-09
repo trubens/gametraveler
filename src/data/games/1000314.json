@@ -1,0 +1,20 @@
+{
+  "id": 1000314,
+  "name": "Alter Ego",
+  "year": 2010,
+  "developer": "Future Games",
+  "publisher": "Future Games",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    1894
+  ],
+  "source": "https://en.wikipedia.org/wiki/Alter_Ego_(2010_video_game)",
+  "locations": [
+    {
+      "placeId": "plymouth-england-uk",
+      "note": "Plymouth in 1894: the thief Timothy Moor slips ashore as a stowaway while Detective Bristol investigates the death of Sir William, after which people in the town begin to disappear."
+    }
+  ]
+}

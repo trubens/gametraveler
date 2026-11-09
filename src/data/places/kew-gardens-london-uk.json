@@ -1,0 +1,14 @@
+{
+  "id": "kew-gardens-london-uk",
+  "name": "Kew Gardens, London, UK",
+  "position": {
+    "lat": 51.4789,
+    "lon": -0.2936
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kew_Gardens",
+  "description": "The Royal Botanic Gardens by the Thames in south-west London, with the great Victorian glasshouses and the world's largest living plant collection.",
+  "descriptionSource": "wikipedia"
+}

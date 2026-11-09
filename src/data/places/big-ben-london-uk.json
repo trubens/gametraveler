@@ -1,0 +1,18 @@
+{
+  "id": "big-ben-london-uk",
+  "name": "Big Ben, London, UK",
+  "position": {
+    "lat": 51.5007,
+    "lon": -0.1245
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "aliases": [
+    "Elizabeth Tower",
+    "Palace of Westminster"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Big_Ben",
+  "description": "The great bell and clock tower of the Palace of Westminster, the Elizabeth Tower, completed in 1859.",
+  "descriptionSource": "wikipedia"
+}

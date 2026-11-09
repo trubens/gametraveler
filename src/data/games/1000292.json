@@ -1,0 +1,30 @@
+{
+  "id": 1000292,
+  "name": "Roots in the Sky - The Hand of Glory 2",
+  "series": "The Hand of Glory",
+  "year": 2026,
+  "developer": "Madit Entertainment",
+  "publisher": "Daring Touch",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [],
+  "source": "https://store.steampowered.com/app/2062380/Roots_in_the_Sky__The_Hand_of_Glory_2/",
+  "locations": [
+    {
+      "placeId": "rome-italy",
+      "note": "Lars Bundy, now working incognito for a security agency in Italy, investigates the murder of his client from his Rome apartment.",
+      "source": "https://amigamaster.github.io/Simple-Game-Solutions/solutions/R/Roots%20in%20the%20Sky%20-%20The%20Hand%20of%20Glory%202-EN.html"
+    },
+    {
+      "placeId": "villa-borghese-rome-italy",
+      "note": "The Villa Borghese gardens are a recurring scene.",
+      "source": "https://amigamaster.github.io/Simple-Game-Solutions/solutions/R/Roots%20in%20the%20Sky%20-%20The%20Hand%20of%20Glory%202-EN.html"
+    },
+    {
+      "placeId": "spanish-steps-rome-italy",
+      "note": "The Spanish Steps are another recurring Rome location.",
+      "source": "https://amigamaster.github.io/Simple-Game-Solutions/solutions/R/Roots%20in%20the%20Sky%20-%20The%20Hand%20of%20Glory%202-EN.html"
+    }
+  ]
+}

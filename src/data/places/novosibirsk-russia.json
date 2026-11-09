@@ -1,0 +1,13 @@
+{
+  "id": "novosibirsk-russia",
+  "name": "Novosibirsk, Russia",
+  "position": {
+    "lat": 55.0084,
+    "lon": 82.9357
+  },
+  "scale": "area",
+  "parentId": "russia",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Novosibirsk",
+  "description": "Siberia's largest city."
+}

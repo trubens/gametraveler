@@ -1,0 +1,49 @@
+{
+  "id": 1000150,
+  "name": "A Plague Tale: Requiem",
+  "year": 2022,
+  "publisher": "Focus Entertainment",
+  "series": "A Plague Tale",
+  "developer": "Asobo Studio",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/A_Plague_Tale:_Requiem",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "provence-france",
+      "note": "Amicia and Hugo travel through a stylized version of Provence, exploring villages, countryside, and historic sites."
+    },
+    {
+      "placeId": "mediterranean-sea",
+      "settingType": "imaginary",
+      "note": "Amicia takes Hugo across the sea to La Cuna, the island from his dreams, hoping it holds a cure for the Macula."
+    },
+    {
+      "placeId": "marseille-france",
+      "note": "Believing Amicia dead, Hugo gives himself over to the Macula and rats overrun Marseille; Amicia and Lucas enter the ruined city to face him.",
+      "source": "https://en.wikipedia.org/wiki/A_Plague_Tale:_Requiem"
+    }
+  ],
+  "storyYears": [
+    1349
+  ],
+  "routes": [
+    {
+      "id": "amicia-hugo",
+      "name": "Amicia and Hugo de Rune",
+      "characters": [
+        "Amicia de Rune",
+        "Hugo de Rune"
+      ],
+      "stops": [
+        "provence-france",
+        "mediterranean-sea",
+        "marseille-france"
+      ],
+      "note": "Fleeing the rats through a sunlit Provence, the siblings sail in search of the island from Hugo's dreams, and the story ends in a Marseille overrun by the plague.",
+      "source": "https://en.wikipedia.org/wiki/A_Plague_Tale:_Requiem"
+    }
+  ]
+}

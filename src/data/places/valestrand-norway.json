@@ -1,0 +1,16 @@
+{
+  "id": "valestrand-norway",
+  "name": "Valestrand, Norway",
+  "aliases": [
+    "Valestrandsfossen"
+  ],
+  "position": {
+    "lat": 60.5056,
+    "lon": 5.4325
+  },
+  "scale": "area",
+  "parentId": "norway",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Valestrandsfossen",
+  "description": "A village on the island of Osterøy near Bergen, where Ole Bull's family estate of Valestrand stood."
+}

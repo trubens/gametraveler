@@ -1,0 +1,13 @@
+{
+  "id": "valletta-malta",
+  "name": "Valletta, Malta",
+  "scale": "area",
+  "position": {
+    "lat": 35.8989,
+    "lon": 14.5141
+  },
+  "parentId": "malta",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Valletta",
+  "description": "Malta's capital."
+}

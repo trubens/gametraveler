@@ -1,0 +1,14 @@
+{
+  "id": "rothbury-england-uk",
+  "name": "Rothbury, England, UK",
+  "position": {
+    "lat": 55.3097,
+    "lon": -1.9109
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rothbury",
+  "description": "A market town on the River Coquet in Northumberland, below the Simonside Hills.",
+  "descriptionSource": "wikipedia"
+}

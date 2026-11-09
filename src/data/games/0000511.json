@@ -1,0 +1,20 @@
+{
+  "id": 511,
+  "name": "Time Stand Still",
+  "year": 2006,
+  "publisher": "MDNA Games",
+  "developer": "MDNA Games",
+  "locations": [
+    {
+      "placeId": "norrkoping-sweden",
+      "note": "While its owners are on holiday, Carol investigates a supposedly haunted house in Norrköping designed by the architect Carl Bergsten."
+    }
+  ],
+  "storyYears": [
+    2006
+  ],
+  "source": "https://en.wikipedia.org/wiki/Carol_Reed_Mysteries",
+  "genres": [
+    "Adventure"
+  ]
+}

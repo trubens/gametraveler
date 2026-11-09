@@ -1,0 +1,20 @@
+{
+  "id": 219,
+  "name": "A Case of Distrust",
+  "year": 2018,
+  "publisher": "Serenity Forge",
+  "developer": "The Wandering Ben",
+  "locations": [
+    {
+      "placeId": "san-francisco-usa",
+      "note": "Private investigator Phyllis Cadence Malone questions suspects in San Francisco's speakeasies, shops and other Prohibition-era locations."
+    }
+  ],
+  "storyYears": [
+    1924
+  ],
+  "source": "https://en.wikipedia.org/wiki/A_Case_of_Distrust",
+  "genres": [
+    "Adventure"
+  ]
+}

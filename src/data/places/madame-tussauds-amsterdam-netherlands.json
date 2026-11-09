@@ -1,0 +1,14 @@
+{
+  "id": "madame-tussauds-amsterdam-netherlands",
+  "name": "Madame Tussauds, Amsterdam, Netherlands",
+  "position": {
+    "lat": 52.3725,
+    "lon": 4.8925
+  },
+  "scale": "site",
+  "parentId": "amsterdam-netherlands",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Madame_Tussauds_Amsterdam",
+  "description": "The wax museum on Dam Square, in the Peek & Cloppenburg building opposite the Royal Palace.",
+  "descriptionSource": "wikipedia"
+}

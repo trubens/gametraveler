@@ -1,0 +1,55 @@
+{
+  "id": 80,
+  "name": "Max Payne 3",
+  "year": 2012,
+  "publisher": "Rockstar Games",
+  "series": "Max Payne",
+  "developer": "Rockstar Studios",
+  "locations": [
+    {
+      "placeId": "sao-paulo-brazil",
+      "note": "Max works private security for a wealthy São Paulo family and is dragged into a kidnapping conspiracy."
+    },
+    {
+      "placeId": "panama-city-panama",
+      "note": "A yacht trip off Panama turns into an ambush tied to money laundering."
+    },
+    {
+      "placeId": "hoboken-new-jersey-usa",
+      "note": "Playable flashbacks to Max's last winter in Hoboken, from a dive bar to a graveyard shootout, show the mob trouble that drives him to take Passos's offer of work in Brazil."
+    },
+    {
+      "placeId": "bahia-brazil",
+      "note": "A week after the showdown, Max hears in a bar that Victor has died in prison and walks the beach at sunset, finally at peace.",
+      "source": "https://en.wikipedia.org/wiki/Max_Payne_3"
+    }
+  ],
+  "storyYears": [
+    2012
+  ],
+  "source": "https://en.wikipedia.org/wiki/Max_Payne_3",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Rockstar_Games",
+  "genres": [
+    "Third-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "max-payne",
+      "name": "Max Payne",
+      "characters": [
+        "Max Payne",
+        "Raul Passos"
+      ],
+      "stops": [
+        "hoboken-new-jersey-usa",
+        "sao-paulo-brazil",
+        "panama-city-panama",
+        "sao-paulo-brazil",
+        "bahia-brazil"
+      ],
+      "note": "Driven out of Hoboken by the mob, Max takes a bodyguard job in São Paulo, survives an ambush on a yacht in Panama, comes back to tear through the city's corruption and ends on a beach in Bahia.",
+      "source": "https://en.wikipedia.org/wiki/Max_Payne_3"
+    }
+  ]
+}

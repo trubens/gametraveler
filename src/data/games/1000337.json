@@ -1,0 +1,24 @@
+{
+  "id": 1000337,
+  "name": "Far Cry 2",
+  "year": 2008,
+  "series": "Far Cry",
+  "developer": "Ubisoft Montreal",
+  "publisher": "Ubisoft",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    2008
+  ],
+  "source": "https://en.wikipedia.org/wiki/Far_Cry_2",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "kenya",
+      "note": "In an unnamed African country modelled on Kenya, a mercenary with malaria hunts the Jackal, the arms dealer selling to both sides of its civil war.",
+      "settingType": "fictionalized",
+      "source": "https://en.wikipedia.org/wiki/Far_Cry_2"
+    }
+  ]
+}

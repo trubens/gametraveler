@@ -1,0 +1,17 @@
+{
+  "id": "10-downing-street-london-uk",
+  "name": "10 Downing Street, London, UK",
+  "position": {
+    "lat": 51.5033,
+    "lon": -0.1275
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "aliases": [
+    "Downing Street"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/10_Downing_Street",
+  "description": "The Prime Minister's house and office in Whitehall, behind the most photographed front door in Britain.",
+  "descriptionSource": "wikipedia"
+}

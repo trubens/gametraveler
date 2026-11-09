@@ -1,0 +1,18 @@
+{
+  "id": "shibuya-hikarie-tokyo-japan",
+  "name": "Shibuya Hikarie, Tokyo, Japan",
+  "position": {
+    "lat": 35.6589,
+    "lon": 139.7033
+  },
+  "scale": "site",
+  "parentId": "shibuya-tokyo-japan",
+  "placeType": "landmark",
+  "aliases": [
+    "Hikarie"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shibuya_Hikarie",
+  "description": "A 183-metre office, shopping and theatre tower beside Shibuya Station, opened by the Tokyu Group in 2012.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Shibuya_Hikarie"
+}

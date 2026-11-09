@@ -1,0 +1,58 @@
+{
+  "id": 205,
+  "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+  "aliases": [
+    "STALKER 2: Heart of Chornobyl"
+  ],
+  "year": 2024,
+  "publisher": "GSC Game World",
+  "series": "S.T.A.L.K.E.R.",
+  "developer": "GSC Game World",
+  "locations": [
+    {
+      "placeId": "chernobyl-exclusion-zone-ukraine",
+      "settingType": "fictionalized",
+      "note": "The veteran Skif enters the Zone to find out what destroyed his apartment, has his belongings stolen, and is caught between the Ward, which wants to contain the Zone, and Scar's Spark faction; he faces Faust of the Monolith among the Duga radar.",
+      "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R._2:_Heart_of_Chornobyl"
+    },
+    {
+      "placeId": "zalissya-ukraine",
+      "settingType": "fictionalized",
+      "note": "The real abandoned village of Zalissya is the first stalker settlement Skif reaches.",
+      "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R._2:_Heart_of_Chornobyl"
+    },
+    {
+      "placeId": "pripyat-ukraine",
+      "settingType": "fictionalized",
+      "note": "The evacuated city is one of the game's largest areas, with real buildings such as the Energetik Palace of Culture rebuilt closely.",
+      "source": "https://novyny.live/en/tehnologii/stalker-2-locations-were-compared-to-real-ones-detailing-214460.html"
+    },
+    {
+      "placeId": "chernobyl-nuclear-power-plant-ukraine",
+      "note": "At the Heart of the Zone Skif reaches the last pod of the C-Consciousness, and the faction he sides with decides who enters it and what becomes of the Zone.",
+      "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R._2:_Heart_of_Chornobyl"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R._2:_Heart_of_Chornobyl",
+  "reviewed": "2026-11-06",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "skif",
+      "name": "Skif",
+      "characters": [
+        "Skif"
+      ],
+      "stops": [
+        "zalissya-ukraine",
+        "pripyat-ukraine",
+        "chernobyl-nuclear-power-plant-ukraine"
+      ],
+      "note": "From the first camp at Zalissya through Pripyat to the Heart of the Zone at the power plant.",
+      "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R._2:_Heart_of_Chornobyl"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "detroit-usa",
+  "name": "Detroit, USA",
+  "position": {
+    "lat": 42.3314,
+    "lon": -83.0458
+  },
+  "scale": "area",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Detroit",
+  "description": "The largest city in Michigan.",
+  "parentId": "michigan-usa",
+  "aliases": [
+    "Detroit, Michigan, USA"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tahiti-french-polynesia",
+  "name": "Tahiti, French Polynesia",
+  "position": {
+    "lat": -17.6509,
+    "lon": -149.426
+  },
+  "scale": "area",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tahiti",
+  "description": "The largest of the Society Islands of French Polynesia, a tropical island in the central Pacific."
+}

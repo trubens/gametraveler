@@ -1,0 +1,13 @@
+{
+  "id": "barcelona-spain",
+  "name": "Barcelona, Spain",
+  "position": {
+    "lat": 41.3874,
+    "lon": 2.1686
+  },
+  "scale": "area",
+  "parentId": "spain",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Barcelona",
+  "description": "The capital and largest city of Catalonia."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "maldives",
+  "name": "Maldives",
+  "position": {
+    "lat": 3.2028,
+    "lon": 73.2207
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maldives",
+  "description": "An island country in the Indian Ocean, near the south-eastern edge of the Arabian Sea, once known as the Maldive Islands."
+}

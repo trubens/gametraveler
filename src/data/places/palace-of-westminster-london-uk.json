@@ -1,0 +1,18 @@
+{
+  "id": "palace-of-westminster-london-uk",
+  "name": "Palace of Westminster, London, UK",
+  "position": {
+    "lat": 51.4992,
+    "lon": -0.1247
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "aliases": [
+    "Houses of Parliament"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Palace_of_Westminster",
+  "description": "The meeting place of the Parliament of the United Kingdom, on the Thames in Westminster.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Palace_of_Westminster"
+}

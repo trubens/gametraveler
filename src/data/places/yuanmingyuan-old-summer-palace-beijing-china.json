@@ -1,0 +1,13 @@
+{
+  "id": "yuanmingyuan-old-summer-palace-beijing-china",
+  "name": "Yuanmingyuan (Old Summer Palace), Beijing, China",
+  "position": {
+    "lat": 40.0087,
+    "lon": 116.3031
+  },
+  "scale": "site",
+  "parentId": "beijing-china",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Old_Summer_Palace",
+  "description": "A vast complex of imperial palaces and gardens in Beijing's Haidian district, sacked and burned in 1860 and now a park of ruins."
+}

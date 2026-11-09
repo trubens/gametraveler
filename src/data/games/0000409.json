@@ -1,0 +1,20 @@
+{
+  "id": 409,
+  "name": "Nancy Drew: Midnight in Salem",
+  "year": 2019,
+  "series": "Nancy Drew",
+  "developer": "Her Interactive, Mi'pu'mi Games",
+  "publisher": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "salem-massachusetts-usa",
+      "note": "Nancy works out who burned the Hathorne House, which locals blame on Mei Parry, among staged hauntings tied to the witch trials."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Midnight_in_Salem",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

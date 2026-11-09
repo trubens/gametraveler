@@ -1,0 +1,15 @@
+{
+  "id": "ganryu-jima-japan",
+  "name": "Ganryū-jima, Japan",
+  "position": {
+    "lat": 33.9333,
+    "lon": 130.9303
+  },
+  "scale": "site",
+  "parentId": "japan",
+  "placeType": "island",
+  "source": "https://en.wikipedia.org/wiki/Ry%C5%AB_ga_Gotoku_Kenzan!",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ganry%C5%AB-jima",
+  "description": "A small island between Honshū and Kyūshū, reached by ferry from Shimonoseki; site of Miyamoto Musashi's 1612 duel with Sasaki Kojirō.",
+  "descriptionSource": "wikipedia"
+}

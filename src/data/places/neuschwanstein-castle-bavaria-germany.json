@@ -1,0 +1,14 @@
+{
+  "id": "neuschwanstein-castle-bavaria-germany",
+  "name": "Neuschwanstein Castle, Bavaria, Germany",
+  "position": {
+    "lat": 47.5576,
+    "lon": 10.7498
+  },
+  "scale": "site",
+  "parentId": "bavaria-germany",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Neuschwanstein_Castle",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Neuschwanstein_Castle",
+  "description": "A nineteenth-century palace on a rugged hill in the Alpine foothills of southern Germany, near the Austrian border."
+}

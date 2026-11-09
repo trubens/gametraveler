@@ -1,0 +1,13 @@
+{
+  "id": "geneva-switzerland",
+  "name": "Geneva, Switzerland",
+  "position": {
+    "lat": 46.2044,
+    "lon": 6.1432
+  },
+  "scale": "area",
+  "parentId": "switzerland",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geneva",
+  "description": "Switzerland's second city and the largest in French-speaking Romandy."
+}

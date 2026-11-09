@@ -1,0 +1,29 @@
+{
+  "id": 1000162,
+  "name": "Homefront: The Revolution",
+  "year": 2016,
+  "publisher": "Deep Silver",
+  "series": "Homefront",
+  "developer": "Dambuster Studios",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Homefront:_The_Revolution",
+  "locations": [
+    {
+      "placeId": "philadelphia-pennsylvania-usa",
+      "note": "Explore occupied Philadelphia as an open-world resistance fighter."
+    },
+    {
+      "placeId": "independence-hall-philadelphia-usa",
+      "note": "The player infiltrates Independence Hall, renamed the Hall of Justice by the occupying forces."
+    },
+    {
+      "placeId": "philadelphia-city-hall-pennsylvania-usa",
+      "note": "Philadelphia City Hall is one of the city's recognizable landmarks represented in the game."
+    }
+  ],
+  "storyYears": [
+    2029
+  ]
+}

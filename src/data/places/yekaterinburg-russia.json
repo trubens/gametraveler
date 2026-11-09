@@ -1,0 +1,13 @@
+{
+  "id": "yekaterinburg-russia",
+  "name": "Yekaterinburg, Russia",
+  "position": {
+    "lat": 56.8389,
+    "lon": 60.6057
+  },
+  "scale": "area",
+  "parentId": "russia",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yekaterinburg",
+  "description": "The chief city of the Urals."
+}

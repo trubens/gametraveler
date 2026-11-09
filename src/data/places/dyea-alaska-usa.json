@@ -1,0 +1,14 @@
+{
+  "id": "dyea-alaska-usa",
+  "name": "Dyea, Alaska, USA",
+  "position": {
+    "lat": 59.50444,
+    "lon": -135.36
+  },
+  "scale": "area",
+  "parentId": "alaska-usa",
+  "source": "https://www.nps.gov/places/chilkoot-trail-and-dyea.htm",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dyea,_Alaska",
+  "placeType": "city",
+  "description": "A ghost town in Alaska."
+}

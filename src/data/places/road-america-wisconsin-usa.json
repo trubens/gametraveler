@@ -1,0 +1,12 @@
+{
+  "id": "road-america-wisconsin-usa",
+  "name": "Road America, Wisconsin, USA",
+  "position": {
+    "lat": 43.798,
+    "lon": -87.99
+  },
+  "scale": "site",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Road_America",
+  "description": "A motorsport road course beside Wisconsin Highway 67 near Elkhart Lake, in the countryside of eastern Wisconsin."
+}

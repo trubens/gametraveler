@@ -1,0 +1,109 @@
+{
+  "id": 433,
+  "name": "Call of Duty 2",
+  "year": 2005,
+  "series": "Call of Duty",
+  "developer": "Infinity Ward",
+  "publisher": "Activision",
+  "locations": [
+    {
+      "placeId": "stalingrad-volgograd-russia",
+      "note": "Koslov fights for Stalingrad from December 1942, mending phone lines and retaking the railway station, and in January 1943 storms the city hall."
+    },
+    {
+      "placeId": "moscow-russia",
+      "note": "December 1941: Koslov trains with potatoes for grenades and fights in the defence of Moscow."
+    },
+    {
+      "placeId": "el-alamein-egypt",
+      "note": "Davis's Desert Rats raid and hold a desert town, break through the German lines in the Second Battle of El Alamein and push on to El Daba.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty_2"
+    },
+    {
+      "placeId": "libya",
+      "note": "January 1943: tank commander David Welsh leads his Crusaders against German armour in north-western Libya.",
+      "source": "https://callofduty.fandom.com/wiki/Crusader_Charge"
+    },
+    {
+      "placeId": "toujane-tunisia",
+      "note": "March 1943: Davis is trapped in a house in Toujane, breaks out in an armoured car and retakes the village the next day.",
+      "source": "https://callofduty.fandom.com/wiki/Retaking_Toujane"
+    },
+    {
+      "placeId": "matmata-tunisia",
+      "note": "Davis's unit assaults the German positions in Matmata at the end of March 1943.",
+      "source": "https://callofduty.fandom.com/wiki/Assault_on_Matmata"
+    },
+    {
+      "placeId": "amaye-sur-seulles-france",
+      "note": "June 1944, in the push on Caen: Davis fights through Anctoville and Saint-Louet against Tiger tanks and holds the brigade box at Amayé-sur-Seulles.",
+      "source": "https://callofduty.fandom.com/wiki/The_Brigade_Box"
+    },
+    {
+      "placeId": "pointe-du-hoc-france",
+      "note": "D-Day: Taylor's Rangers climb the cliffs of Pointe du Hoc to destroy the German guns and hold the point against counterattacks.",
+      "source": "https://callofduty.fandom.com/wiki/The_Battle_of_Pointe_du_Hoc"
+    },
+    {
+      "placeId": "hurtgen-forest-germany",
+      "note": "December 1944: Taylor's Rangers take Bergstein, charge the bunkers on Hill 400 and hold the hill against German counterattacks.",
+      "source": "https://callofduty.fandom.com/wiki/The_Battle_for_Hill_400"
+    }
+  ],
+  "storyYears": [
+    1941,
+    1945
+  ],
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty_2",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Activision",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "koslov",
+      "name": "Pvt. Vasili Koslov",
+      "characters": [
+        "Vasili Koslov"
+      ],
+      "stops": [
+        "moscow-russia",
+        "stalingrad-volgograd-russia"
+      ],
+      "note": "From the winter defence of Moscow in 1941 to the street-by-street recapture of Stalingrad and its city hall.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty_2"
+    },
+    {
+      "id": "davis",
+      "name": "Sgt. John Davis",
+      "characters": [
+        "John Davis",
+        "David Welsh"
+      ],
+      "stops": [
+        "el-alamein-egypt",
+        "libya",
+        "toujane-tunisia",
+        "matmata-tunisia",
+        "amaye-sur-seulles-france"
+      ],
+      "note": "With the Desert Rats from El Alamein, with Welsh's tanks across Libya, to Toujane and Matmata in Tunisia, then to the bocage west of Caen.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty_2"
+    },
+    {
+      "id": "taylor",
+      "name": "Cpl. Bill Taylor",
+      "characters": [
+        "Bill Taylor",
+        "Randall"
+      ],
+      "stops": [
+        "pointe-du-hoc-france",
+        "hurtgen-forest-germany"
+      ],
+      "note": "From the cliffs of Pointe du Hoc to Bergstein and Hill 400.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty_2"
+    }
+  ]
+}

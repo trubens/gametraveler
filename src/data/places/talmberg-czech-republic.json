@@ -1,0 +1,13 @@
+{
+  "id": "talmberg-czech-republic",
+  "name": "Talmberg, Czech Republic",
+  "position": {
+    "lat": 49.906,
+    "lon": 14.931
+  },
+  "scale": "area",
+  "parentId": "czech-republic",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Talmberk",
+  "description": "A small village in the Kutná Hora district."
+}

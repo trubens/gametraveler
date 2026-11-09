@@ -1,0 +1,94 @@
+{
+  "id": 159,
+  "name": "Metro 2033",
+  "year": 2010,
+  "publisher": "THQ",
+  "series": "Metro",
+  "developer": "4A Games",
+  "locations": [
+    {
+      "placeId": "moscow-russia",
+      "note": "Twenty years after a nuclear war, the survivors live in the Moscow Metro; when the Dark Ones attack his home station, Artyom crosses the tunnels and the ruined surface to bring help.",
+      "source": "https://en.wikipedia.org/wiki/Metro_2033_(video_game)"
+    },
+    {
+      "placeId": "vdnkh-station-moscow-russia",
+      "aliases": [
+        "Exhibition"
+      ],
+      "note": "Artyom's home station, renamed Exhibition, is under attack by the Dark Ones; the Ranger Hunter gives him his dog tags and sends him to Polis.",
+      "source": "https://en.wikipedia.org/wiki/Metro_2033_(video_game)"
+    },
+    {
+      "placeId": "rizhskaya-station-moscow-russia",
+      "aliases": [
+        "Riga"
+      ],
+      "note": "Guarding a caravan to the neighbouring station of Riga, Artyom shrugs off a psychic attack and meets the smuggler Bourbon.",
+      "source": "https://en.wikipedia.org/wiki/Metro_2033_(video_game)"
+    },
+    {
+      "placeId": "sukharevskaya-station-moscow-russia",
+      "note": "On the way to Polis, bandits from Sukharevskaya seize Artyom and kill the smuggler Bourbon, and the wandering mystic Khan saves him.",
+      "source": "https://ru.wikipedia.org/wiki/Metro_2033"
+    },
+    {
+      "placeId": "turgenevskaya-station-moscow-russia",
+      "note": "Khan leads Artyom through haunted tunnels and the fight for Turgenevskaya, the cursed station.",
+      "source": "https://ru.wikipedia.org/wiki/Metro_2033"
+    },
+    {
+      "placeId": "kuznetsky-most-station-moscow-russia",
+      "note": "Khan sends Artyom to Andrew the smith at Kuznetsky Most, a Red Line station, and Andrew helps him slip away from the communists.",
+      "source": "https://ru.wikipedia.org/wiki/Metro_2033"
+    },
+    {
+      "placeId": "paveletskaya-station-moscow-russia",
+      "note": "Artyom joins the Children of the Underground as they try to keep a mutant horde out of Paveletskaya; they fail, but he saves a small boy and the defenders get him up to the surface.",
+      "source": "https://ru.wikipedia.org/wiki/Metro_2033"
+    },
+    {
+      "placeId": "biblioteka-imeni-lenina-station-moscow-russia",
+      "aliases": [
+        "Polis"
+      ],
+      "settingType": "fictionalized",
+      "note": "In Polis, the Metro's capital beneath the Russian State Library, the council refuses to help, so Colonel Miller sends Artyom up into the library to find the map to the D6 missile bunker.",
+      "source": "https://en.wikipedia.org/wiki/Metro_2033_(video_game)"
+    },
+    {
+      "placeId": "ostankino-tower-moscow-russia",
+      "note": "Artyom and Miller make for the ruined tower, and Artyom climbs to the top to set up the laser guidance for the missile strike on the Dark Ones' hive in the Botanical Garden.",
+      "source": "https://ru.wikipedia.org/wiki/Metro_2033"
+    }
+  ],
+  "storyYears": [
+    2033
+  ],
+  "source": "https://en.wikipedia.org/wiki/Metro_2033_(video_game)",
+  "reviewed": "2026-11-06",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "artyom",
+      "name": "Artyom",
+      "characters": [
+        "Artyom"
+      ],
+      "stops": [
+        "vdnkh-station-moscow-russia",
+        "rizhskaya-station-moscow-russia",
+        "sukharevskaya-station-moscow-russia",
+        "turgenevskaya-station-moscow-russia",
+        "kuznetsky-most-station-moscow-russia",
+        "paveletskaya-station-moscow-russia",
+        "biblioteka-imeni-lenina-station-moscow-russia",
+        "ostankino-tower-moscow-russia"
+      ],
+      "note": "From Exhibition station through Riga, Sukharevskaya, Turgenevskaya, Kuznetsky Most and Paveletskaya to Polis and the great library, and up Ostankino Tower to guide the missiles.",
+      "source": "https://ru.wikipedia.org/wiki/Metro_2033"
+    }
+  ]
+}

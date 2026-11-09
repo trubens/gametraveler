@@ -1,0 +1,16 @@
+{
+  "id": "rogaland-norway",
+  "name": "Rogaland, Norway",
+  "position": {
+    "lat": 59,
+    "lon": 6
+  },
+  "scale": "area",
+  "parentId": "norway",
+  "aliases": [
+    "Rygjafylke"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rogaland",
+  "placeType": "region",
+  "description": "A county in Western Norway on the North Sea coast, with Stavanger as its main city, Vestland to the north and Telemark and Agder to the east."
+}

@@ -1,0 +1,48 @@
+{
+  "id": 1000346,
+  "name": "Death Stranding",
+  "year": 2019,
+  "series": "Death Stranding",
+  "developer": "Kojima Productions",
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Death_Stranding",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "capital-knot-city-fictional-usa",
+      "settingType": "fictionalized",
+      "note": "Sam revives in Capital Knot City after Central Knot City is destroyed, delivers morphine to the dying President Bridget Strand and sets off west; the story ends back here, at the incinerator outside the city, where he decides Lou's fate."
+    },
+    {
+      "placeId": "united-states",
+      "settingType": "fictionalized",
+      "note": "Sam crosses what is left of the contiguous United States on foot, delivering cargo between knot cities and preppers' shelters through Timefall and BT territory."
+    },
+    {
+      "placeId": "edge-knot-city-fictional-usa",
+      "settingType": "fictionalized",
+      "note": "The last city on the west coast, where the terrorists of Homo Demens hold Amelie; Sam defeats Higgs on Amelie's Beach."
+    }
+  ],
+  "routes": [
+    {
+      "id": "sam",
+      "name": "Sam Porter Bridges",
+      "characters": [
+        "Sam Porter Bridges"
+      ],
+      "stops": [
+        "capital-knot-city-fictional-usa",
+        "united-states",
+        "edge-knot-city-fictional-usa",
+        "capital-knot-city-fictional-usa"
+      ],
+      "note": "East coast to west coast, then back to Capital Knot City for the ending.",
+      "source": "https://www.powerpyx.com/death-stranding-story-ending-explained/"
+    }
+  ]
+}

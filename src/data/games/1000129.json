@@ -1,0 +1,22 @@
+{
+  "id": 1000129,
+  "name": "Detention",
+  "year": 2017,
+  "publisher": "Red Candle Games",
+  "developer": "Red Candle Games",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Detention_(video_game)",
+  "locations": [
+    {
+      "placeId": "greenwood-high-school-fictional-taiwan",
+      "settingType": "fictionalized",
+      "note": "Fang Ray-shin and Wei Chung-ting wake in the deserted school after a typhoon and walk its nightmare halls, haunted by the banned book club that brought the secret police to its door.",
+      "source": "https://en.wikipedia.org/wiki/Detention_(video_game)"
+    }
+  ],
+  "storyYears": [
+    1960
+  ]
+}

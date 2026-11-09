@@ -1,0 +1,14 @@
+{
+  "id": "capital-knot-city-fictional-usa",
+  "name": "Capital Knot City, United States",
+  "position": {
+    "lat": 38.9,
+    "lon": -77.04
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "city",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Death_Stranding",
+  "description": "The invented capital of the United Cities of America in Death Stranding, on the east coast where Sam's journey starts and ends. The game gives no real city; the name suggests the old capital, so the pin stands on Washington, D.C. as a guess. The game's moss, black sand and lava fields are widely compared to Iceland, where Kojima went scouting in 2014."
+}

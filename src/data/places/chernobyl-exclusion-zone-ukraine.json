@@ -1,0 +1,20 @@
+{
+  "id": "chernobyl-exclusion-zone-ukraine",
+  "name": "Chernobyl Exclusion Zone, Ukraine",
+  "position": {
+    "lat": 51.3,
+    "lon": 30.005
+  },
+  "scale": "area",
+  "parentId": "ukraine",
+  "placeType": "region",
+  "aliases": [
+    "Zone of Alienation",
+    "Chornobyl Exclusion Zone",
+    "The Zone"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chernobyl_exclusion_zone",
+  "description": "The 30-kilometre zone of alienation around the Chernobyl Nuclear Power Plant, evacuated after the 1986 disaster.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Chernobyl_exclusion_zone"
+}

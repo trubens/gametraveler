@@ -1,0 +1,23 @@
+{
+  "id": 1000190,
+  "name": "Deadly Premonition",
+  "year": 2010,
+  "series": "Deadly Premonition",
+  "developer": "Access Games",
+  "publisher": "Ignition Entertainment",
+  "locations": [
+    {
+      "placeId": "greenvale-fictional-washington",
+      "note": "FBI agent Francis York Morgan investigates the murder of 18-year-old Anna Graham in Greenvale, an invented rural town in Washington.",
+      "settingType": "fictionalized",
+      "source": "https://www.gamedeveloper.com/design/classic-postmortem-i-deadly-premonition-i-"
+    }
+  ],
+  "storyYears": [
+    2010
+  ],
+  "source": "https://www.toybox-games.jp/dpo/index_en.html",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blue-ridge-parkway-usa",
+  "name": "Blue Ridge Parkway, USA",
+  "position": {
+    "lat": 36.5,
+    "lon": -81.0
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Blue_Ridge_Parkway",
+  "description": "The 469-mile scenic road along the Blue Ridge Mountains through Virginia and North Carolina.",
+  "descriptionSource": "wikipedia"
+}

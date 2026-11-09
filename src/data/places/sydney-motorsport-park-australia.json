@@ -1,0 +1,13 @@
+{
+  "id": "sydney-motorsport-park-australia",
+  "name": "Sydney Motorsport Park, Australia",
+  "position": {
+    "lat": -33.809,
+    "lon": 150.878
+  },
+  "scale": "site",
+  "parentId": "australia",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sydney_Motorsport_Park",
+  "description": "A motor-racing circuit at Eastern Creek, west of Sydney, sitting next door to the Western Sydney International Dragway."
+}

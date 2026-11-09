@@ -1,0 +1,75 @@
+{
+  "id": 393,
+  "name": "Dirt 4",
+  "year": 2017,
+  "series": "Dirt",
+  "developer": "Codemasters",
+  "publisher": "Codemasters",
+  "locations": [
+    {
+      "placeId": "michigan-usa",
+      "note": "Rally stages take place on gravel roads in Michigan's forest landscape."
+    },
+    {
+      "placeId": "fitzroy-county-australia",
+      "settingType": "fictionalized",
+      "note": "Rally stages run through Fitzroy, an invented Australian rally region."
+    },
+    {
+      "placeId": "tarragona-spain",
+      "note": "The game includes rally stages around Tarragona."
+    },
+    {
+      "placeId": "varmland-sweden",
+      "note": "The game includes Rally Sweden stages in the Värmland region."
+    },
+    {
+      "placeId": "powys-wales-uk",
+      "note": "The game includes Welsh rally stages in Powys."
+    },
+    {
+      "placeId": "lydden-hill-uk",
+      "note": "The rallycross roster includes Lydden Hill."
+    },
+    {
+      "placeId": "holjesbanan-sweden",
+      "note": "The game includes the Höljes rallycross circuit."
+    },
+    {
+      "placeId": "lankebanen-norway",
+      "note": "The rallycross roster includes Lånkebanen near Hell."
+    },
+    {
+      "placeId": "loheac-france",
+      "note": "The game includes the Lohéac rallycross circuit."
+    },
+    {
+      "placeId": "montalegre-portugal",
+      "note": "The game includes the Montalegre rallycross circuit."
+    },
+    {
+      "placeId": "dirtfish-rally-school-snoqualmie-usa",
+      "note": "The tutorial recreates the DirtFish rally school in Washington."
+    },
+    {
+      "placeId": "california-usa",
+      "settingType": "fictionalized",
+      "note": "Landrush off-road races run on invented desert tracks in California."
+    },
+    {
+      "placeId": "nevada-usa",
+      "settingType": "fictionalized",
+      "note": "Landrush off-road races run on invented desert tracks in Nevada."
+    },
+    {
+      "placeId": "mexico",
+      "settingType": "fictionalized",
+      "note": "Landrush off-road races run on invented desert tracks in Mexico."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Dirt_4",
+  "genres": [
+    "Racing"
+  ]
+}

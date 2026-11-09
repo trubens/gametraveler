@@ -1,0 +1,19 @@
+{
+  "id": "eiger-switzerland",
+  "name": "Eiger, Switzerland",
+  "position": {
+    "lat": 46.5775,
+    "lon": 8.0053
+  },
+  "scale": "area",
+  "parentId": "switzerland",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Eiger Nordwand",
+    "Eiger north face"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eiger",
+  "description": "A 3,967-metre mountain of the Bernese Alps above Grindelwald and Lauterbrunnen, famous for its north face, the Nordwand.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Eiger"
+}

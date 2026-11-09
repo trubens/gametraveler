@@ -1,0 +1,14 @@
+{
+  "id": "duloe-stone-circle-cornwall-uk",
+  "name": "Duloe stone circle, Cornwall, UK",
+  "position": {
+    "lat": 50.3981,
+    "lon": -4.4836
+  },
+  "scale": "site",
+  "parentId": "cornwall-england",
+  "placeType": "landmark",
+  "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Duloe_stone_circle",
+  "description": "A small Bronze Age circle of eight white quartz stones just outside Duloe, the smallest circle in Cornwall."
+}

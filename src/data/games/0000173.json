@@ -1,0 +1,46 @@
+{
+  "id": 173,
+  "name": "Stranglehold",
+  "year": 2007,
+  "publisher": "Midway Games",
+  "developer": "Midway Chicago",
+  "locations": [
+    {
+      "placeId": "hong-kong-china",
+      "note": "Inspector Tequila tears through Hong Kong's markets and Triad turf in this Hard Boiled sequel."
+    },
+    {
+      "placeId": "chicago-usa",
+      "note": "The trail crosses the Pacific to Chicago, where Tequila battles the Zakarov crime syndicate."
+    },
+    {
+      "placeId": "tai-o-hong-kong",
+      "note": "Tequila follows a tip to the stilt village of Tai O."
+    }
+  ],
+  "storyYears": [
+    2007
+  ],
+  "source": "https://en.wikipedia.org/wiki/Stranglehold_(video_game)",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Third-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "tequila",
+      "name": "Inspector Tequila",
+      "characters": [
+        "Inspector Tequila Yuen"
+      ],
+      "stops": [
+        "hong-kong-china",
+        "tai-o-hong-kong",
+        "chicago-usa",
+        "hong-kong-china"
+      ],
+      "note": "Tequila hunts a dead cop's killers from Kowloon's markets to the stilt houses of Tai O, across the Pacific to a Chicago penthouse and back to a Hong Kong estate for the showdown.",
+      "source": "https://en.wikipedia.org/wiki/Stranglehold_(video_game)"
+    }
+  ]
+}

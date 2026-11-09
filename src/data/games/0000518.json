@@ -1,0 +1,22 @@
+{
+  "id": 518,
+  "name": "The Clue!",
+  "year": 1994,
+  "publisher": "Kompart UK",
+  "developer": "Neo Software",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "Much of the game is spent travelling around a London city map, meeting contacts and scouting places before planning heists."
+    }
+  ],
+  "storyYears": [
+    1953
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Clue!",
+  "route": false,
+  "genres": [
+    "Adventure",
+    "Strategy"
+  ]
+}

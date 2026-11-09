@@ -1,0 +1,14 @@
+{
+  "id": "bulgaria",
+  "name": "Bulgaria",
+  "position": {
+    "lat": 42.73,
+    "lon": 25.49
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bulgaria",
+  "description": "A country in South-eastern Europe on the Black Sea, between the Danube and Greece, with Sofia as its capital.",
+  "descriptionSource": "wikipedia"
+}

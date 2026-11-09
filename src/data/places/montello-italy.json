@@ -1,0 +1,14 @@
+{
+  "id": "montello-italy",
+  "name": "Montello, Italy",
+  "position": {
+    "lat": 45.8095,
+    "lon": 12.0963
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Montello_(hill)",
+  "description": "A hill in the province of Treviso in Veneto, site of a First World War battle.",
+  "descriptionSource": "wikipedia"
+}

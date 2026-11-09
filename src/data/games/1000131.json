@@ -1,0 +1,19 @@
+{
+  "id": 1000131,
+  "name": "Paper Ghost Stories: Third Eye Open",
+  "year": 2024,
+  "publisher": "Soft Source",
+  "developer": "Cellar Vault Games",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://www.softsourcegames.com/paper-ghost-stories",
+  "locations": [
+    {
+      "placeId": "malaysia",
+      "settingType": "fictionalized",
+      "note": "Ting wanders an invented Malaysian suburb, meeting neighbours and spirits drawn from Malaysian customs and folklore."
+    }
+  ],
+  "storyYears": []
+}

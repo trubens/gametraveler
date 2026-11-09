@@ -1,0 +1,12 @@
+{
+  "id": "sweden",
+  "name": "Sweden",
+  "position": {
+    "lat": 60.1282,
+    "lon": 18.6435
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sweden",
+  "description": "A Nordic kingdom on the Scandinavian Peninsula, with Norway to the west and north, Finland to the east and Denmark across the water to the south."
+}

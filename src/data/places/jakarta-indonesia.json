@@ -1,0 +1,13 @@
+{
+  "id": "jakarta-indonesia",
+  "name": "Jakarta, Indonesia",
+  "position": {
+    "lat": -6.2088,
+    "lon": 106.8456
+  },
+  "scale": "area",
+  "parentId": "indonesia",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jakarta",
+  "description": "Indonesia's capital and largest city."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "montrose-colorado-usa",
+  "name": "Montrose, Colorado, USA",
+  "position": {
+    "lat": 38.4783,
+    "lon": -107.8762
+  },
+  "scale": "area",
+  "parentId": "colorado-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Montrose,_Colorado",
+  "description": "The county seat and main town of Montrose County in western Colorado."
+}

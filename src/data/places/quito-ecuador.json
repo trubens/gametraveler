@@ -1,0 +1,13 @@
+{
+  "id": "quito-ecuador",
+  "name": "Quito, Ecuador",
+  "position": {
+    "lat": -0.1807,
+    "lon": -78.4678
+  },
+  "scale": "area",
+  "parentId": "ecuador",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Quito",
+  "description": "Ecuador's capital and the seat of Pichincha province."
+}

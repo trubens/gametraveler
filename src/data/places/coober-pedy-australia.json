@@ -1,0 +1,14 @@
+{
+  "id": "coober-pedy-australia",
+  "name": "Coober Pedy, Australia",
+  "position": {
+    "lat": -29.0111,
+    "lon": 134.7556
+  },
+  "scale": "area",
+  "parentId": "australia",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Coober_Pedy",
+  "description": "The opal-mining town in the South Australian desert where half the people live underground.",
+  "descriptionSource": "wikipedia"
+}

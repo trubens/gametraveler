@@ -1,0 +1,13 @@
+{
+  "id": "oslo-norway",
+  "name": "Oslo, Norway",
+  "position": {
+    "lat": 59.9139,
+    "lon": 10.7522
+  },
+  "scale": "area",
+  "parentId": "norway",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oslo",
+  "description": "The capital and largest city of Norway."
+}

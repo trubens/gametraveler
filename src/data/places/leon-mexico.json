@@ -1,0 +1,13 @@
+{
+  "id": "leon-mexico",
+  "name": "León, Mexico",
+  "position": {
+    "lat": 21.12,
+    "lon": -101.68
+  },
+  "scale": "area",
+  "parentId": "mexico",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Le%C3%B3n,_Guanajuato",
+  "description": "The largest city in the Mexican state of Guanajuato."
+}

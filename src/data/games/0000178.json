@@ -1,0 +1,112 @@
+{
+  "id": 178,
+  "name": "The Last of Us Part II",
+  "aliases": [
+    "TLOU",
+    "TLOU Part II",
+    "TLOU Part 2"
+  ],
+  "year": 2020,
+  "publisher": "Sony Interactive Entertainment",
+  "series": "The Last of Us",
+  "developer": "Naughty Dog",
+  "locations": [
+    {
+      "placeId": "jackson-wyoming-usa",
+      "note": "Joel and Ellie have built a life in Jackson when Joel and Tommy rescue a stranger, Abby, who beats Joel to death at her group's outpost while Ellie watches.",
+      "source": "https://en.wikipedia.org/wiki/The_Last_of_Us_Part_II"
+    },
+    {
+      "placeId": "salt-lake-city-usa",
+      "note": "In flashbacks, Ellie travels to the Fireflies' old hospital in Salt Lake City and learns the truth about what Joel did there; Abby's own memories go back to the day Joel killed her father, the surgeon, in that hospital.",
+      "source": "https://en.wikipedia.org/wiki/The_Last_of_Us_Part_II"
+    },
+    {
+      "placeId": "seattle-usa",
+      "note": "Ellie and Dina follow Tommy to Seattle, torn by war between the WLF militia and the Seraphite cult; Abby's three days, played after Ellie's, follow her from the WLF to the Seraphite island with the runaways Yara and Lev.",
+      "source": "https://en.wikipedia.org/wiki/The_Last_of_Us_Part_II"
+    },
+    {
+      "placeId": "capitol-hill-seattle-usa",
+      "note": "Ellie and Dina cross the overgrown Capitol Hill district on their first day in Seattle, hunting for Abby's crew.",
+      "source": "https://game8.co/games/Last-of-Us-2/archives/290713"
+    },
+    {
+      "placeId": "lumen-field-seattle-usa",
+      "aliases": [
+        "SoundView Stadium"
+      ],
+      "settingType": "fictionalized",
+      "note": "The WLF has turned the stadium into its fortified base, where Abby's days in Seattle begin.",
+      "source": "https://collider.com/last-of-us-2-locations-seattle/"
+    },
+    {
+      "placeId": "paramount-theatre-seattle-usa",
+      "aliases": [
+        "Pinnacle Theatre"
+      ],
+      "settingType": "fictionalized",
+      "note": "Ellie and Dina hole up in the old theatre, and it is here that Abby finally catches up with them.",
+      "source": "https://collider.com/last-of-us-2-locations-seattle/"
+    },
+    {
+      "placeId": "seattle-aquarium-seattle-usa",
+      "settingType": "fictionalized",
+      "note": "The aquarium is Owen's hideout, where he plans to sail for Santa Barbara; Ellie tracks him and Mel there and kills them, and Abby comes back to find them dead.",
+      "source": "https://en.wikipedia.org/wiki/Seattle_Aquarium"
+    },
+    {
+      "placeId": "santa-barbara-usa",
+      "note": "The slaver Rattlers capture Abby and Lev in Santa Barbara; Ellie frees them, fights Abby in the surf and spares her, and Abby and Lev sail for the Fireflies on Catalina Island.",
+      "source": "https://en.wikipedia.org/wiki/The_Last_of_Us_Part_II"
+    }
+  ],
+  "storyYears": [
+    2038,
+    2039
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Last_of_Us_Part_II",
+  "reviewed": "2026-11-06",
+  "developerUrl": "https://en.wikipedia.org/wiki/Naughty_Dog",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "ellie",
+      "name": "Ellie",
+      "characters": [
+        "Ellie",
+        "Dina"
+      ],
+      "stops": [
+        "jackson-wyoming-usa",
+        "capitol-hill-seattle-usa",
+        "paramount-theatre-seattle-usa",
+        "seattle-aquarium-seattle-usa",
+        "paramount-theatre-seattle-usa",
+        "santa-barbara-usa",
+        "jackson-wyoming-usa"
+      ],
+      "note": "From Joel's death outside Jackson to three days of revenge in Seattle and the last fight on the beach at Santa Barbara.",
+      "source": "https://en.wikipedia.org/wiki/The_Last_of_Us_Part_II"
+    },
+    {
+      "id": "abby",
+      "name": "Abby",
+      "characters": [
+        "Abby",
+        "Lev"
+      ],
+      "stops": [
+        "jackson-wyoming-usa",
+        "lumen-field-seattle-usa",
+        "seattle-aquarium-seattle-usa",
+        "paramount-theatre-seattle-usa",
+        "santa-barbara-usa"
+      ],
+      "note": "From the killing in Jackson back to the WLF's war in Seattle, the aquarium and the Rattlers' camp at Santa Barbara.",
+      "source": "https://en.wikipedia.org/wiki/The_Last_of_Us_Part_II"
+    }
+  ]
+}

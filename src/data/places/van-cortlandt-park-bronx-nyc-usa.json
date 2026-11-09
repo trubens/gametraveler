@@ -1,0 +1,14 @@
+{
+  "id": "van-cortlandt-park-bronx-nyc-usa",
+  "name": "Van Cortlandt Park, Bronx, New York City, USA",
+  "position": {
+    "lat": 40.8978,
+    "lon": -73.8839
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "source": "https://en.wikipedia.org/wiki/Van_Cortlandt_Park",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Van_Cortlandt_Park",
+  "placeType": "venue",
+  "description": "A large park in the Bronx, a stretch of woods, fields and lake in the north of New York City."
+}

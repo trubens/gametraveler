@@ -1,0 +1,25 @@
+{
+  "id": 60,
+  "name": "1954: Alcatraz",
+  "year": 2014,
+  "publisher": "Daedalic Entertainment",
+  "developer": "Irresponsible Games",
+  "locations": [
+    {
+      "placeId": "san-francisco-usa",
+      "note": "Joe's wife Christine works 1950s San Francisco's North Beach to find the loot and spring him."
+    },
+    {
+      "placeId": "alcatraz-island-usa",
+      "note": "Joe serves 40 years in Alcatraz for an armoured-truck heist and plots his escape."
+    }
+  ],
+  "storyYears": [
+    1954
+  ],
+  "source": "https://www.gog.com/game/1954_alcatraz",
+  "developerUrl": "https://en.wikipedia.org/wiki/Irresponsible_Games",
+  "genres": [
+    "Adventure"
+  ]
+}

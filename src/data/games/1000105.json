@@ -1,0 +1,20 @@
+{
+  "id": 1000105,
+  "name": "The Legend of Lotus Spring",
+  "year": 2000,
+  "publisher": "Women Wise",
+  "developer": "Women Wise, Xing Xing Computer Graphics",
+  "locations": [
+    {
+      "placeId": "yuanmingyuan-old-summer-palace-beijing-china",
+      "note": "The historical adventure explores the real Garden of Perfect Brightness during the Qing dynasty."
+    }
+  ],
+  "storyYears": [
+    1850
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Legend_of_Lotus_Spring",
+  "genres": [
+    "Adventure"
+  ]
+}

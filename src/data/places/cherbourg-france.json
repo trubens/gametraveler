@@ -1,0 +1,13 @@
+{
+  "id": "cherbourg-france",
+  "name": "Cherbourg, France",
+  "position": {
+    "lat": 49.6337,
+    "lon": -1.6221
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cherbourg-Octeville",
+  "description": "A town in Normandy's Manche department on the north-west coast of France."
+}

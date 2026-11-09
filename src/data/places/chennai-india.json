@@ -1,0 +1,13 @@
+{
+  "id": "chennai-india",
+  "name": "Chennai, India",
+  "position": {
+    "lat": 13.0827,
+    "lon": 80.2707
+  },
+  "scale": "area",
+  "parentId": "india",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chennai",
+  "description": "Capital and largest city of Tamil Nadu."
+}

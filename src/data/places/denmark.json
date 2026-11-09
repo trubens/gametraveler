@@ -1,0 +1,13 @@
+{
+  "id": "denmark",
+  "name": "Denmark",
+  "position": {
+    "lat": 55.97,
+    "lon": 9.02
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Denmark",
+  "description": "A Nordic country in Northern Europe, one of the Scandinavian lands and part of the Nordic family."
+}

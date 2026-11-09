@@ -1,0 +1,13 @@
+{
+  "id": "capena-italy",
+  "name": "Capena, Italy",
+  "scale": "area",
+  "position": {
+    "lat": 42.14,
+    "lon": 12.54
+  },
+  "parentId": "italy",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Capena",
+  "description": "A town north of Rome in Lazio."
+}

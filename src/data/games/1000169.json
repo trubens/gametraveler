@@ -1,0 +1,27 @@
+{
+  "id": 1000169,
+  "name": "Amnesia: The Dark Descent",
+  "year": 2010,
+  "series": "Amnesia",
+  "developer": "Frictional Games",
+  "publisher": "Frictional Games",
+  "genres": [
+    "Survival Horror"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Amnesia:_The_Dark_Descent",
+  "locations": [
+    {
+      "placeId": "germany",
+      "aliases": [
+        "Brennenburg Castle",
+        "Brennenburg",
+        "Prussia"
+      ],
+      "settingType": "fictionalized",
+      "note": "In 1839 Daniel wakes in Brennenburg Castle in Prussia with no memory, and descends through it to kill the baron Alexander."
+    }
+  ],
+  "storyYears": [
+    1839
+  ]
+}

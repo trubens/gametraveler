@@ -1,0 +1,16 @@
+{
+  "id": "united-arab-emirates",
+  "name": "United Arab Emirates",
+  "aliases": [
+    "UAE"
+  ],
+  "position": {
+    "lat": 23.47,
+    "lon": 54.55
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+  "description": "A country at the eastern end of the Arabian Peninsula, a federation of seven emirates on the Gulf."
+}

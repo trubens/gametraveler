@@ -1,0 +1,13 @@
+{
+  "id": "haiphong-vietnam",
+  "name": "Haiphong, Vietnam",
+  "position": {
+    "lat": 20.8449,
+    "lon": 106.6881
+  },
+  "scale": "area",
+  "parentId": "vietnam",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Haiphong",
+  "description": "Vietnam's third-largest city."
+}

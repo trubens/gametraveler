@@ -1,0 +1,13 @@
+{
+  "id": "new-caledonia",
+  "name": "New Caledonia",
+  "position": {
+    "lat": -21.06,
+    "lon": 165.08
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Caledonia",
+  "description": "A French territory of islands in the south-west Pacific, east of Australia and south-west of Vanuatu."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cheddar-gorge-england-uk",
+  "name": "Cheddar Gorge, England, UK",
+  "position": {
+    "lat": 51.2824,
+    "lon": -2.7655
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cheddar_Gorge",
+  "description": "The limestone gorge in the Mendip Hills of Somerset, with the road winding between its cliffs.",
+  "descriptionSource": "wikipedia"
+}

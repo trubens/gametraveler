@@ -1,0 +1,14 @@
+{
+  "id": "samara-russia",
+  "name": "Samara, Russia",
+  "position": {
+    "lat": 53.1959,
+    "lon": 50.1002
+  },
+  "scale": "area",
+  "parentId": "russia",
+  "source": "https://en.wikipedia.org/wiki/Samara",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Samara",
+  "placeType": "city",
+  "description": "A Russian city at the meeting of the Volga and Samara rivers."
+}

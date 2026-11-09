@@ -1,0 +1,68 @@
+{
+  "id": 1000184,
+  "name": "Prisoner of Ice",
+  "year": 1995,
+  "developer": "Infogrames Europe",
+  "publisher": "Infogrames",
+  "locations": [
+    {
+      "placeId": "antarctica",
+      "note": "The story opens aboard HMS Victoria during a mission around Antarctica and a rescue from a secret German base.",
+      "source": "https://en.wikipedia.org/wiki/Prisoner_of_Ice"
+    },
+    {
+      "placeId": "falkland-islands",
+      "note": "Ryan's journey takes him to the Falkland Islands before reaching Buenos Aires.",
+      "source": "https://de.wikipedia.org/wiki/Prisoner_of_Ice"
+    },
+    {
+      "placeId": "buenos-aires-argentina",
+      "note": "A chapter takes Lt. Ryan to Buenos Aires, including the city's library, before the Antarctic expedition continues.",
+      "source": "https://www.mobygames.com/game/376/prisoner-of-ice/"
+    },
+    {
+      "placeId": "bavarian-alps-germany",
+      "aliases": [
+        "Schlossadler"
+      ],
+      "settingType": "fictionalized",
+      "note": "Captured in Buenos Aires, Ryan wakes in a cell at Schlossadler, the Nazis' Eagle Castle, and must break out before Dietrich completes his ritual with the Necronomicon.",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=1564656497"
+    },
+    {
+      "placeId": "massachusetts-usa",
+      "aliases": [
+        "Illsmouth"
+      ],
+      "settingType": "fictionalized",
+      "note": "The last chapter leaps a century ahead: Ryan is carried to Illsmouth in 2037, to the hall of the sorcerer Narackamous.",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=1564656497"
+    }
+  ],
+  "routes": [
+    {
+      "id": "ryans-journey",
+      "name": "Ryan's journey",
+      "characters": [
+        "Lt. Ryan"
+      ],
+      "stops": [
+        "antarctica",
+        "falkland-islands",
+        "buenos-aires-argentina",
+        "bavarian-alps-germany",
+        "massachusetts-usa"
+      ],
+      "note": "Lt. Ryan goes from a mission around Antarctica via the Falklands and Buenos Aires to a Nazi castle in the Bavarian Alps, then a century ahead to Illsmouth.",
+      "source": "https://de.wikipedia.org/wiki/Prisoner_of_Ice"
+    }
+  ],
+  "storyYears": [
+    1937,
+    2037
+  ],
+  "source": "https://www.mobygames.com/game/376/prisoner-of-ice/",
+  "genres": [
+    "Adventure"
+  ]
+}

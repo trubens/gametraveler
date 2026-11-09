@@ -1,0 +1,19 @@
+{
+  "id": 388,
+  "name": "Colin McRae Rally 04",
+  "year": 2003,
+  "series": "Colin McRae Rally",
+  "developer": "Codemasters",
+  "publisher": "Codemasters",
+  "locations": [
+    {
+      "placeId": "finland",
+      "note": "Rally stages take players through Finland's forests and gravel roads."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Colin_McRae_Rally_04",
+  "genres": [
+    "Racing"
+  ]
+}

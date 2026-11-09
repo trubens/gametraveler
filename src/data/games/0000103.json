@@ -1,0 +1,20 @@
+{
+  "id": 103,
+  "name": "Fahrenheit",
+  "year": 2005,
+  "publisher": "Atari",
+  "developer": "Quantic Dream",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "A possessed man kills a stranger in a New York diner; players control both the fugitive and the detectives."
+    }
+  ],
+  "storyYears": [
+    2009
+  ],
+  "source": "https://en.wikipedia.org/wiki/Fahrenheit_(2005_video_game)",
+  "genres": [
+    "Interactive Drama"
+  ]
+}

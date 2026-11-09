@@ -1,0 +1,14 @@
+{
+  "id": "graumans-chinese-theatre-los-angeles-usa",
+  "name": "Grauman's Chinese Theatre, Los Angeles, USA",
+  "position": {
+    "lat": 34.1019,
+    "lon": -118.341
+  },
+  "scale": "site",
+  "parentId": "los-angeles-usa",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Grauman%27s_Chinese_Theatre",
+  "description": "The 1927 Hollywood Boulevard cinema with the stars' hand and footprints in its forecourt.",
+  "descriptionSource": "wikipedia"
+}

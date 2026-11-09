@@ -1,0 +1,13 @@
+{
+  "id": "glasgow-scotland-uk",
+  "name": "Glasgow, Scotland, UK",
+  "position": {
+    "lat": 55.8642,
+    "lon": -4.2518
+  },
+  "scale": "area",
+  "parentId": "scotland-uk",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Glasgow",
+  "description": "Scotland's largest city."
+}

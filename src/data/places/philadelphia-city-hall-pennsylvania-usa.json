@@ -1,0 +1,13 @@
+{
+  "id": "philadelphia-city-hall-pennsylvania-usa",
+  "name": "Philadelphia City Hall, USA",
+  "position": {
+    "lat": 39.9524,
+    "lon": -75.1636
+  },
+  "scale": "site",
+  "parentId": "philadelphia-pennsylvania-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Philadelphia_City_Hall",
+  "description": "The city hall at the centre of Philadelphia, largest city in Pennsylvania and among the largest in the United States."
+}

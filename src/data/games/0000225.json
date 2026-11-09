@@ -1,0 +1,20 @@
+{
+  "id": 225,
+  "name": "Chinatown Detective Agency",
+  "year": 2022,
+  "publisher": "General Interactive Co., Humble Games",
+  "developer": "General Interactive Co.",
+  "locations": [
+    {
+      "placeId": "singapore",
+      "note": "Amira Darma runs her detective agency from Chinatown and investigates cases across a futuristic but recognizable Singapore."
+    }
+  ],
+  "storyYears": [
+    2037
+  ],
+  "source": "https://www.generalinteractive.co/cda-presskit",
+  "genres": [
+    "Adventure"
+  ]
+}

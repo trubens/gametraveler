@@ -1,0 +1,12 @@
+{
+  "id": "zion-national-park-usa",
+  "name": "Zion National Park, USA",
+  "position": {
+    "lat": 37.2982,
+    "lon": -113.0263
+  },
+  "scale": "area",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Zion_National_Park",
+  "description": "A national park in south-western Utah near Springdale, a canyon country of red sandstone cliffs."
+}

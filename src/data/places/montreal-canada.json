@@ -1,0 +1,13 @@
+{
+  "id": "montreal-canada",
+  "name": "Montreal, Canada",
+  "position": {
+    "lat": 45.5019,
+    "lon": -73.5674
+  },
+  "scale": "area",
+  "parentId": "canada",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Montreal",
+  "description": "The largest city in the province of Quebec."
+}

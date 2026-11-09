@@ -1,0 +1,72 @@
+{
+  "id": 241,
+  "name": "Metro: Last Light",
+  "year": 2013,
+  "publisher": "Deep Silver",
+  "series": "Metro",
+  "developer": "4A Games",
+  "locations": [
+    {
+      "placeId": "moscow-russia",
+      "note": "A year after the missile strike, the Ranger Artyom is sent to kill the last Dark One, is captured by the Fourth Reich, and crosses the tunnels and the ruined surface with the Red Line soldier Pavel before the last stand at the D6 bunker.",
+      "source": "https://en.wikipedia.org/wiki/Metro:_Last_Light"
+    },
+    {
+      "placeId": "bolshoi-theatre-moscow-russia",
+      "settingType": "fictionalized",
+      "note": "Escaped from the Reich, Artyom and Pavel head for the Red Line through the Bolshoi Theatre, now a shelter for survivors above Teatralnaya.",
+      "source": "https://www.gamepressure.com/metrolastlight/chapter-9-bolshoi-1/zd4e3a"
+    },
+    {
+      "placeId": "teatralnaya-station-moscow-russia",
+      "note": "At the Red Line's stronghold in Teatralnaya, Artyom learns that Pavel is a Red Line major, and Pavel has him detained to learn more about Sparta and the Dark One.",
+      "source": "https://ru.wikipedia.org/wiki/Metro:_Last_Light"
+    },
+    {
+      "placeId": "oktyabrskaya-station-moscow-russia",
+      "note": "Artyom finds Red Line troops killing the people of Oktyabrskaya to contain an outbreak of the Ebola virus that Lesnitsky stole from D6, and rescues Anna there.",
+      "source": "https://ru.wikipedia.org/wiki/Metro:_Last_Light"
+    },
+    {
+      "placeId": "red-square-moscow-russia",
+      "note": "Crossing the dead city, Artyom fights his way into Red Square to reach the Rangers' lighthouse and warn them of the Red Line's attack on D6.",
+      "source": "https://www.gamepressure.com/metrolastlight/chapter-27-red-square-1/zf4ee1"
+    },
+    {
+      "placeId": "biblioteka-imeni-lenina-station-moscow-russia",
+      "settingType": "fictionalized",
+      "aliases": [
+        "Polis"
+      ],
+      "note": "Artyom and the Dark One reach the peace conference of Sparta, the Red Line, the Reich and the Hanza in Polis, where Artyom exposes the Red Line's plan for D6.",
+      "source": "https://ru.wikipedia.org/wiki/Metro:_Last_Light"
+    }
+  ],
+  "storyYears": [
+    2034
+  ],
+  "source": "https://en.wikipedia.org/wiki/Metro:_Last_Light",
+  "reviewed": "2026-11-06",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Deep_Silver",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "artyom",
+      "name": "Artyom",
+      "characters": [
+        "Artyom"
+      ],
+      "stops": [
+        "bolshoi-theatre-moscow-russia",
+        "teatralnaya-station-moscow-russia",
+        "oktyabrskaya-station-moscow-russia",
+        "red-square-moscow-russia",
+        "biblioteka-imeni-lenina-station-moscow-russia"
+      ],
+      "note": "From the Bolshoi Theatre and the Red Line's stronghold at Teatralnaya through plague-struck Oktyabrskaya and Red Square to the peace conference in Polis.",
+      "source": "https://www.gamepressure.com/metrolastlight/"
+    }
+  ]
+}

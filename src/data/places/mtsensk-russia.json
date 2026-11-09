@@ -1,0 +1,15 @@
+{
+  "id": "mtsensk-russia",
+  "name": "Mtsensk, Russia",
+  "position": {
+    "lat": 53.2833,
+    "lon": 36.5667
+  },
+  "scale": "area",
+  "parentId": "russia",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Mtsensk",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mtsensk",
+  "description": "A town in Oryol Oblast, Russia, on the Zusha River 49 km north-east of Oryol.",
+  "descriptionSource": "wikipedia"
+}

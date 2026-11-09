@@ -1,0 +1,18 @@
+{
+  "id": "zboriv-ukraine",
+  "name": "Zboriv, Ukraine",
+  "position": {
+    "lat": 49.6667,
+    "lon": 25.15
+  },
+  "scale": "area",
+  "parentId": "ukraine",
+  "placeType": "city",
+  "aliases": [
+    "Zborov",
+    "Zborów"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Zboriv",
+  "description": "A small town in Ternopil Oblast in western Ukraine, site of the Battle of Zborov in the Kerensky Offensive of 1917.",
+  "descriptionSource": "wikipedia"
+}

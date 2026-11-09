@@ -1,0 +1,26 @@
+{
+  "id": 1000330,
+  "name": "Test Drive III: The Passion",
+  "year": 1990,
+  "series": "Test Drive",
+  "developer": "Distinctive Software",
+  "publisher": "Accolade",
+  "genres": [
+    "Racing"
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Test_Drive_III:_The_Passion",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "california-usa",
+      "note": "A free-roaming drive across Northern California in five sections, from the Pacific coast through farm valleys and foothills to the Sierra.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "yosemite-valley-usa",
+      "note": "The course ends in the Sierra Vista section at Yosemite National Park.",
+      "settingType": "fictionalized"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "chicago-usa",
+  "name": "Chicago, USA",
+  "position": {
+    "lat": 41.8781,
+    "lon": -87.6298
+  },
+  "scale": "area",
+  "parentId": "illinois-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chicago",
+  "description": "The great city of the American Midwest.",
+  "aliases": [
+    "Chicago, Illinois, USA"
+  ]
+}

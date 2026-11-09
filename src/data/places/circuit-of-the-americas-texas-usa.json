@@ -1,0 +1,12 @@
+{
+  "id": "circuit-of-the-americas-texas-usa",
+  "name": "Circuit of the Americas, Texas, USA",
+  "position": {
+    "lat": 30.1328,
+    "lon": -97.6411
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Circuit_of_the_Americas",
+  "description": "A Formula One-grade motor racing track and complex outside Austin, Texas, in the United States."
+}

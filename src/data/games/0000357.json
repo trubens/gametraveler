@@ -1,0 +1,26 @@
+{
+  "id": 357,
+  "name": "GT Legends",
+  "year": 2005,
+  "developer": "SimBin Studios",
+  "publisher": "10tacle Publishing",
+  "locations": [
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "1960s and 70s GT and touring cars race here on the Grand Prix circuit or the shorter Junior layout."
+    },
+    {
+      "placeId": "donington-park-uk",
+      "note": "Raced on either the Grand Prix circuit or the shorter National layout."
+    },
+    {
+      "placeId": "mondello-park-ireland",
+      "note": "Four layouts: International, National, Intermediate and Short; the FIA historic GT and touring car series the game is based on raced here in 2004."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/GT_Legends",
+  "genres": [
+    "Racing"
+  ]
+}

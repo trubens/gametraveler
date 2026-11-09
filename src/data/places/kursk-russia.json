@@ -1,0 +1,13 @@
+{
+  "id": "kursk-russia",
+  "name": "Kursk, Russia",
+  "position": {
+    "lat": 51.7167,
+    "lon": 36.1833
+  },
+  "scale": "area",
+  "parentId": "russia",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kursk",
+  "description": "A city in western Russia, named for the 1943 tank battle fought around it."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "rosslyn-chapel-roslin-scotland-uk",
+  "name": "Rosslyn Chapel, Roslin, Scotland, UK",
+  "position": {
+    "lat": 55.8553,
+    "lon": -3.1602
+  },
+  "scale": "site",
+  "parentId": "scotland-uk",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rosslyn_Chapel",
+  "description": "A richly carved fifteenth-century chapel in the village of Roslin in Midlothian, south of Edinburgh."
+}

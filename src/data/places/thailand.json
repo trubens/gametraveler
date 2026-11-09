@@ -1,0 +1,12 @@
+{
+  "id": "thailand",
+  "name": "Thailand",
+  "position": {
+    "lat": 15.9,
+    "lon": 100.9
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Thailand",
+  "description": "A kingdom in mainland Southeast Asia, once known to the world as Siam."
+}

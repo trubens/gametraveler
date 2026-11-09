@@ -1,0 +1,12 @@
+{
+  "id": "hawaii-usa",
+  "name": "Hawaii, USA",
+  "position": {
+    "lat": 20.55,
+    "lon": -157.1
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hawaii",
+  "description": "The island state of the United States, scattered across the Pacific Ocean far to the south-west of the mainland."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "newcastle-upon-tyne-england-uk",
+  "name": "Newcastle upon Tyne, England, UK",
+  "position": {
+    "lat": 54.9739,
+    "lon": -1.6133
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "city",
+  "aliases": [
+    "Newcastle"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Newcastle_upon_Tyne",
+  "description": "The city on the Tyne in north-east England, bridges stacked over the river.",
+  "descriptionSource": "wikipedia"
+}

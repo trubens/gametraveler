@@ -1,0 +1,38 @@
+{
+  "id": 1000199,
+  "name": "Chronicle of Innsmouth",
+  "year": 2017,
+  "series": "Chronicle of Innsmouth",
+  "developer": "PsychoDev",
+  "publisher": "AtomicHorde",
+  "locations": [
+    {
+      "placeId": "newburyport-massachusetts-usa",
+      "note": "The journey begins with arrival at the Newburyport train station.",
+      "source": "https://store.steampowered.com/app/420180/Chronicle_of_Innsmouth/"
+    },
+    {
+      "placeId": "innsmouth-fictional-massachusetts",
+      "settingType": "fictionalized",
+      "note": "From Newburyport the narrator goes to Innsmouth, a decayed fishing port full of rumours of disappearances and hidden cults.",
+      "source": "https://store.steampowered.com/app/420180/Chronicle_of_Innsmouth/"
+    }
+  ],
+  "routes": [
+    {
+      "id": "trip-to-innsmouth",
+      "name": "The trip to Innsmouth",
+      "stops": [
+        "newburyport-massachusetts-usa",
+        "innsmouth-fictional-massachusetts"
+      ],
+      "source": "https://store.steampowered.com/app/420180/Chronicle_of_Innsmouth/"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://store.steampowered.com/app/420180/Chronicle_of_Innsmouth/",
+  "genres": [
+    "Adventure",
+    "Survival Horror"
+  ]
+}

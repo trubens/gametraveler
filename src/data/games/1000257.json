@@ -1,0 +1,25 @@
+{
+  "id": 1000257,
+  "name": "Wolfenstein: Youngblood",
+  "year": 2019,
+  "series": "Wolfenstein",
+  "developer": "MachineGames / Arkane Lyon",
+  "publisher": "Bethesda Softworks",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    1980
+  ],
+  "source": "https://en.wikipedia.org/wiki/Wolfenstein:_Youngblood",
+  "locations": [
+    {
+      "placeId": "paris-france",
+      "note": "The Blazkowicz twins search occupied Paris for their father, from the catacombs to the three Brother towers that guard Lab X."
+    },
+    {
+      "placeId": "catacombs-of-paris-france",
+      "note": "The twins come up through the catacombs into occupied Paris."
+    }
+  ]
+}

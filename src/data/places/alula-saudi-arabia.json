@@ -1,0 +1,13 @@
+{
+  "id": "alula-saudi-arabia",
+  "name": "AlUla, Saudi Arabia",
+  "scale": "area",
+  "parentId": "saudi-arabia",
+  "position": {
+    "lat": 26.61,
+    "lon": 37.92
+  },
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/AlUla",
+  "description": "An oasis town in a sandstone valley of north-west Saudi Arabia."
+}

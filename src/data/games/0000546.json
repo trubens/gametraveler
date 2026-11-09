@@ -1,0 +1,30 @@
+{
+  "id": 546,
+  "name": "The Warriors",
+  "year": 2005,
+  "publisher": "Rockstar Games",
+  "developer": "Rockstar Toronto",
+  "locations": [
+    {
+      "placeId": "van-cortlandt-park-bronx-nyc-usa",
+      "note": "After a gang conclave in the Bronx, the Warriors are framed for a murder and begin their journey home."
+    },
+    {
+      "placeId": "riverside-park-manhattan-nyc-usa",
+      "note": "The gang crosses Manhattan and enters the Baseball Furies' territory around Riverside Park."
+    },
+    {
+      "placeId": "coney-island-brooklyn-nyc-usa",
+      "note": "Coney Island is the Warriors' home territory and the destination of their trip across New York."
+    }
+  ],
+  "storyYears": [
+    1978,
+    1979
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Warriors_(video_game)",
+  "route": true,
+  "genres": [
+    "Action-Adventure"
+  ]
+}

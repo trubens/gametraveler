@@ -1,0 +1,13 @@
+{
+  "id": "chongqing-china",
+  "name": "Chongqing, China",
+  "position": {
+    "lat": 29.4244,
+    "lon": 106.5863
+  },
+  "scale": "area",
+  "parentId": "china",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chongqing",
+  "description": "A great inland city of south-western China."
+}

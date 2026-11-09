@@ -1,0 +1,13 @@
+{
+  "id": "saint-nazaire-france",
+  "name": "Saint-Nazaire, France",
+  "position": {
+    "lat": 47.2735,
+    "lon": -2.2137
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Saint-Nazaire",
+  "description": "A port town at the mouth of the Loire in western France."
+}

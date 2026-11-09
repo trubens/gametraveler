@@ -1,0 +1,84 @@
+{
+  "id": 1000310,
+  "name": "Invasion Deutschland",
+  "year": 2000,
+  "developer": "Davilex Games",
+  "publisher": "Davilex Games",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    2000
+  ],
+  "source": "https://de.wikipedia.org/wiki/Invasion_Deutschland",
+  "locations": [
+    {
+      "placeId": "berlin-germany",
+      "note": "Aliens have landed in Germany's big cities; Berlin's levels run from the Brandenburg Gate to the Reichstag's plenary chamber."
+    },
+    {
+      "placeId": "brandenburg-gate-berlin-germany",
+      "note": "The fight at the gate on Pariser Platz."
+    },
+    {
+      "placeId": "reichstag-berlin-germany",
+      "note": "Clearing the aliens out of the Reichstag's plenary chamber."
+    },
+    {
+      "placeId": "unter-den-linden-berlin-germany",
+      "note": "The S-Bahn station under the boulevard."
+    },
+    {
+      "placeId": "hamburg-germany",
+      "note": "Hamburg's levels: the warehouses of the Speicherstadt, the Reeperbahn and the Rathaus."
+    },
+    {
+      "placeId": "speicherstadt-hamburg-germany",
+      "note": "A level through the canal-side warehouses."
+    },
+    {
+      "placeId": "reeperbahn-hamburg-germany",
+      "note": "A level down St. Pauli's nightlife street."
+    },
+    {
+      "placeId": "hamburg-city-hall-germany",
+      "note": "A level inside the Rathaus."
+    },
+    {
+      "placeId": "munich-germany",
+      "note": "Munich's levels: the Hofbräuhaus and the town hall on Marienplatz."
+    },
+    {
+      "placeId": "hofbrauhaus-munich-germany",
+      "note": "A level through the beer hall."
+    },
+    {
+      "placeId": "marienplatz-munich-germany",
+      "note": "A level in the New Town Hall on Marienplatz."
+    },
+    {
+      "placeId": "cologne-germany",
+      "note": "Cologne's levels: the cathedral, the Alter Markt and the Wallraf-Richartz museum."
+    },
+    {
+      "placeId": "cologne-cathedral-germany",
+      "note": "A level in and around the cathedral."
+    },
+    {
+      "placeId": "alter-markt-cologne-germany",
+      "note": "A level across the old market square."
+    },
+    {
+      "placeId": "wallraf-richartz-museum-cologne-germany",
+      "note": "A level through the art museum."
+    },
+    {
+      "placeId": "frankfurt-germany",
+      "note": "Frankfurt's level is the Römerberg."
+    },
+    {
+      "placeId": "romerberg-frankfurt-germany",
+      "note": "The last stand on the square in front of the Römer."
+    }
+  ]
+}

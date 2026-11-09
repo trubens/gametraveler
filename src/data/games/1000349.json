@@ -1,0 +1,23 @@
+{
+  "id": 1000349,
+  "name": "Metal Gear Solid",
+  "year": 1998,
+  "series": "Metal Gear",
+  "developer": "Konami Computer Entertainment Japan",
+  "publisher": "Konami",
+  "genres": [
+    "Stealth"
+  ],
+  "storyYears": [
+    2005
+  ],
+  "source": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_(1998_video_game)",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "shadow-moses-fictional-fox-islands-alaska-usa",
+      "note": "2005: Solid Snake is sent into the nuclear disposal facility on Shadow Moses, seized by the rogue FOXHOUND unit under Liquid Snake, to rescue the hostages and stop a nuclear strike from Metal Gear REX.",
+      "settingType": "fictionalized"
+    }
+  ]
+}

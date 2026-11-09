@@ -1,0 +1,13 @@
+{
+  "id": "easter-island-rapa-nui-chile",
+  "name": "Easter Island (Rapa Nui), Chile",
+  "position": {
+    "lat": -27.1127,
+    "lon": -109.3497
+  },
+  "scale": "area",
+  "parentId": "chile",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Easter_Island",
+  "description": "An island of Chile in the south-eastern Pacific Ocean, at the far corner of the Polynesian Triangle."
+}

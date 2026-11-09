@@ -1,0 +1,22 @@
+{
+  "id": 446,
+  "name": "Call of Duty: United Offensive",
+  "year": 2004,
+  "series": "Call of Duty",
+  "developer": "Gray Matter Studios",
+  "publisher": "Activision / Aspyr (Mac)",
+  "locations": [
+    {
+      "placeId": "bastogne-belgium",
+      "note": "The American campaign includes the defense of Bastogne."
+    }
+  ],
+  "storyYears": [
+    1944
+  ],
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_United_Offensive",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "circuit-de-barcelona-catalunya-spain",
+  "name": "Circuit de Barcelona-Catalunya, Spain",
+  "position": {
+    "lat": 41.57,
+    "lon": 2.261
+  },
+  "scale": "site",
+  "parentId": "spain",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya",
+  "description": "A motorsport circuit at Montmeló outside Barcelona, with long straights and a varied set of corners that make it an all-rounder track."
+}

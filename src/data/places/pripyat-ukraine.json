@@ -1,0 +1,13 @@
+{
+  "id": "pripyat-ukraine",
+  "name": "Pripyat, Ukraine",
+  "position": {
+    "lat": 51.4045,
+    "lon": 30.0542
+  },
+  "scale": "area",
+  "parentId": "ukraine",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pripyat",
+  "description": "An abandoned city near the Belarus border in northern Ukraine."
+}

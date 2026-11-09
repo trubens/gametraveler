@@ -1,0 +1,13 @@
+{
+  "id": "monaco",
+  "name": "Monaco",
+  "position": {
+    "lat": 43.74,
+    "lon": 7.4
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Monaco",
+  "description": "A sovereign city-state and microstate on the Mediterranean coast of Western Europe."
+}

@@ -1,0 +1,101 @@
+{
+  "id": 16,
+  "name": "The Last of Us",
+  "aliases": [
+    "TLOU"
+  ],
+  "year": 2013,
+  "publisher": "Sony Computer Entertainment",
+  "series": "The Last of Us",
+  "developer": "Naughty Dog",
+  "locations": [
+    {
+      "placeId": "austin-texas-usa",
+      "note": "On the night of the 2013 outbreak, Joel flees the Austin suburbs with his brother Tommy and his daughter Sarah, who is shot by a soldier and dies in his arms.",
+      "source": "https://en.wikipedia.org/wiki/The_Last_of_Us_(video_game)"
+    },
+    {
+      "placeId": "boston-usa",
+      "aliases": [
+        "Boston quarantine zone"
+      ],
+      "note": "Twenty years on, the smuggler Joel and his partner Tess are hired by the Fireflies' Marlene to get Ellie out of the Boston quarantine zone; the Left Behind chapter returns to the city for Ellie's night in an abandoned mall with her friend Riley.",
+      "source": "https://en.wikipedia.org/wiki/The_Last_of_Us_(video_game)"
+    },
+    {
+      "placeId": "massachusetts-state-house-boston-usa",
+      "note": "Joel and Tess bring Ellie to the State House to hand her to the Fireflies and find them dead; Tess, bitten on the way, stays behind to hold off the soldiers.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "lincoln-massachusetts-usa",
+      "note": "Joel and Ellie get a working vehicle with the help of Bill, a smuggler and survivalist living alone in Lincoln.",
+      "source": "https://en.wikipedia.org/wiki/The_Last_of_Us_(video_game)"
+    },
+    {
+      "placeId": "pittsburgh-pennsylvania-usa",
+      "note": "Bandits wreck Joel and Ellie's truck in Pittsburgh; they escape the city with the brothers Henry and Sam, until Sam turns and Henry shoots him and then himself.",
+      "source": "https://en.wikipedia.org/wiki/The_Last_of_Us_(video_game)"
+    },
+    {
+      "placeId": "jackson-wyoming-usa",
+      "note": "In the fall Joel finds his brother Tommy running a fortified settlement by a hydroelectric dam near Jackson; at the end Joel and Ellie head back here, and on the way he lies to her about the Fireflies.",
+      "source": "https://en.wikipedia.org/wiki/The_Last_of_Us_(video_game)"
+    },
+    {
+      "placeId": "colorado-usa-fictional-university-setting",
+      "settingType": "fictionalized",
+      "note": "Joel and Ellie ride to the University of Eastern Colorado looking for the Fireflies, find the campus abandoned, and Joel is badly wounded there."
+    },
+    {
+      "placeId": "colorado-usa",
+      "aliases": [
+        "Lakeside Resort"
+      ],
+      "settingType": "fictionalized",
+      "note": "Through the winter at the Lakeside Resort in the mountains, Ellie keeps the wounded Joel alive, is captured by David's cannibal survivors, and kills David in a burning restaurant. In Left Behind, Ellie searches an abandoned mall nearby for the medicine that saves Joel.",
+      "source": "https://thelastofus.fandom.com/wiki/Lakeside_Resort"
+    },
+    {
+      "placeId": "salt-lake-city-usa",
+      "note": "In spring the Fireflies take Ellie to their hospital in Salt Lake City to remove the infected part of her brain; Joel kills the surgeon, carries her out and shoots Marlene in the garage.",
+      "source": "https://en.wikipedia.org/wiki/The_Last_of_Us_(video_game)"
+    }
+  ],
+  "routes": [
+    {
+      "id": "joel-ellie",
+      "name": "Joel and Ellie",
+      "characters": [
+        "Joel",
+        "Ellie"
+      ],
+      "stops": [
+        "austin-texas-usa",
+        "boston-usa",
+        "massachusetts-state-house-boston-usa",
+        "lincoln-massachusetts-usa",
+        "pittsburgh-pennsylvania-usa",
+        "jackson-wyoming-usa",
+        "colorado-usa-fictional-university-setting",
+        "colorado-usa",
+        "salt-lake-city-usa",
+        "jackson-wyoming-usa"
+      ],
+      "note": "From the outbreak in Austin and the Boston quarantine zone across the country through Pittsburgh, Jackson and a Colorado winter to the Fireflies' hospital in Salt Lake City, and back to Jackson.",
+      "source": "https://en.wikipedia.org/wiki/The_Last_of_Us_(video_game)"
+    }
+  ],
+  "storyYears": [
+    2013,
+    2033,
+    2034
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Last_of_Us",
+  "reviewed": "2026-11-06",
+  "developerUrl": "https://en.wikipedia.org/wiki/Naughty_Dog",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 398,
+  "name": "Sherlock Holmes: The Case of the Silver Earring",
+  "year": 2004,
+  "series": "Sherlock Holmes",
+  "developer": "Frogwares",
+  "publisher": "Digital Jesters / Ubisoft / Frogwares",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "Holmes and Watson investigate a murder at a London reception."
+    },
+    {
+      "placeId": "221b-baker-street-london-uk",
+      "note": "Holmes and Watson work the case from their rooms at 221B."
+    },
+    {
+      "placeId": "scotland-yard-london-uk",
+      "note": "Inspector Lestrade's Scotland Yard narrows the suspects with Holmes."
+    }
+  ],
+  "storyYears": [
+    1897
+  ],
+  "source": "https://en.wikipedia.org/wiki/Sherlock_Holmes:_The_Case_of_the_Silver_Earring",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Frogwares",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1000324,
+  "name": "Need for Speed (2015)",
+  "year": 2015,
+  "aliases": [
+    "Need for Speed"
+  ],
+  "series": "Need for Speed",
+  "developer": "Ghost Games",
+  "publisher": "Electronic Arts",
+  "genres": [
+    "Racing"
+  ],
+  "storyYears": [
+    2015
+  ],
+  "source": "https://en.wikipedia.org/wiki/Need_for_Speed_(2015_video_game)",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "los-angeles-usa",
+      "aliases": [
+        "Ventura Bay"
+      ],
+      "settingType": "fictionalized",
+      "note": "Ventura Bay, a rain-slicked Los Angeles by night, across five overlapping storylines."
+    }
+  ]
+}

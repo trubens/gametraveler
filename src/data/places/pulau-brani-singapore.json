@@ -1,0 +1,14 @@
+{
+  "id": "pulau-brani-singapore",
+  "name": "Pulau Brani, Singapore",
+  "position": {
+    "lat": 1.26,
+    "lon": 103.8333
+  },
+  "scale": "area",
+  "parentId": "singapore",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brani_Island",
+  "description": "A small island off Singapore's southern shore, between the main island and Sentosa, long a container terminal.",
+  "descriptionSource": "wikipedia"
+}

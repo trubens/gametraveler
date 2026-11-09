@@ -1,0 +1,107 @@
+{
+  "id": 171,
+  "name": "Battlefield 3",
+  "year": 2011,
+  "publisher": "Electronic Arts",
+  "series": "Battlefield",
+  "developer": "DICE",
+  "locations": [
+    {
+      "placeId": "tehran-iran",
+      "note": "Operation Guillotine and the hunt for Al-Bashir in Tehran. The Grand Bazaar, Tehran Highway, Epicenter, Azadi Palace and Ziba Tower multiplayer maps are in the city."
+    },
+    {
+      "placeId": "paris-france",
+      "note": "Comrades: Dima races through Paris to stop the nuke, and fails. Operation Métro and Seine Crossing are multiplayer maps in the city."
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "note": "The Great Destroyer: Blackburn is interrogated at Hunters Point in Queens, then hunts Solomon through the subway and the streets of Manhattan."
+    },
+    {
+      "placeId": "sulaymaniyah-iraq",
+      "note": "Operation Swordbreaker: Blackburn's Marines fight the PLR in Sulaymaniyah as an earthquake brings the city down."
+    },
+    {
+      "placeId": "iran",
+      "note": "Kaffarov: the raid on the arms dealer's villa in northern Iran. Operation Firestorm, Bandar Desert, Armored Shield and Operation Riverside are multiplayer maps in Iran's deserts and valleys."
+    },
+    {
+      "placeId": "damavand-iran",
+      "note": "Damavand Peak and Alborz Mountains: multiplayer maps on the slopes of the volcano, with a base-jump off the cliff."
+    },
+    {
+      "placeId": "kharg-island-iran",
+      "note": "Kharg Island: the oil terminal in the Gulf, a multiplayer map."
+    },
+    {
+      "placeId": "nowshahr-iran",
+      "note": "Noshahr Canals: the Caspian port's docks and canals, a multiplayer map."
+    },
+    {
+      "placeId": "caspian-sea-region",
+      "note": "Caspian Border: a forested border crossing by the Caspian, a multiplayer map."
+    },
+    {
+      "placeId": "nehbandan-iran",
+      "note": "Nebandan Flats: the desert outside the town, an End Game map."
+    },
+    {
+      "placeId": "kiasar-iran",
+      "note": "Kiasar Railroad: the line through the forested hills, an End Game map."
+    },
+    {
+      "placeId": "sabalan-iran",
+      "note": "Sabalan Pipeline: a snowbound pipeline on the volcano's flank, an End Game map."
+    },
+    {
+      "placeId": "gulf-of-oman",
+      "note": "Gulf of Oman: the Battlefield 2 beach, back in Back to Karkand."
+    },
+    {
+      "placeId": "wake-island-usa",
+      "note": "Wake Island: the atoll returns in Back to Karkand."
+    }
+  ],
+  "storyYears": [
+    2014
+  ],
+  "source": "https://en.wikipedia.org/wiki/Battlefield_3",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "blackburn",
+      "name": "Sgt. Henry Blackburn",
+      "characters": [
+        "Henry Blackburn",
+        "David Montes",
+        "Misfit 1-3"
+      ],
+      "stops": [
+        "new-york-city-usa",
+        "sulaymaniyah-iraq",
+        "tehran-iran",
+        "iran",
+        "new-york-city-usa"
+      ],
+      "note": "Told from a CIA cell in Queens: a Marine's war from earthquake-struck Sulaymaniyah into Tehran and an arms dealer's villa in northern Iran, then a breakout to stop the bomb in Manhattan.",
+      "source": "https://en.wikipedia.org/wiki/Battlefield_3"
+    },
+    {
+      "id": "dima",
+      "name": "Dimitri \"Dima\" Mayakovsky",
+      "characters": [
+        "Dimitri Mayakovsky"
+      ],
+      "stops": [
+        "iran",
+        "paris-france"
+      ],
+      "note": "A Spetsnaz squad storms Kaffarov's villa in Iran, then races through Paris and fails to stop the nuke.",
+      "source": "https://en.wikipedia.org/wiki/Battlefield_3"
+    }
+  ]
+}

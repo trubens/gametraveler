@@ -1,0 +1,70 @@
+{
+  "id": 192,
+  "name": "Company of Heroes",
+  "year": 2006,
+  "publisher": "THQ",
+  "series": "Company of Heroes",
+  "developer": "Relic Entertainment",
+  "locations": [
+    {
+      "placeId": "omaha-beach-france",
+      "note": "The campaign opens with Able Company storming Omaha Beach on D-Day."
+    },
+    {
+      "placeId": "carentan-france",
+      "note": "Fox Company's paratroopers seize Carentan and hold it against a German counterattack."
+    },
+    {
+      "placeId": "montebourg-france",
+      "note": "Able Company defends the Red Ball Express convoys at Montebourg from the Panzer Lehr and its Tiger ace, Hauptmann Shultz.",
+      "source": "https://en.wikipedia.org/wiki/Company_of_Heroes_(video_game)"
+    },
+    {
+      "placeId": "cherbourg-france",
+      "note": "Capturing the port of Cherbourg is the first major objective after the beachhead."
+    },
+    {
+      "placeId": "saint-lo-france",
+      "note": "Able Company fights for Hill 192 and Saint-Lô, the hinge of the Allied breakout from the bocage."
+    },
+    {
+      "placeId": "mortain-france",
+      "note": "Under the newly promoted Lieutenant Conti, Able Company holds Hill 317 outside Mortain against a German armoured counter-attack, then retakes the town.",
+      "source": "https://en.wikipedia.org/wiki/Company_of_Heroes_(video_game)"
+    },
+    {
+      "placeId": "chambois-france",
+      "note": "Able Company links up with Canadian and Polish forces at Chambois and crushes the German escape from the Falaise pocket, ending the Normandy campaign.",
+      "source": "https://en.wikipedia.org/wiki/Company_of_Heroes_(video_game)"
+    }
+  ],
+  "storyYears": [
+    1944
+  ],
+  "source": "https://en.wikipedia.org/wiki/Company_of_Heroes_(video_game)",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Real-Time Strategy"
+  ],
+  "routes": [
+    {
+      "id": "able-company",
+      "name": "Able Company",
+      "characters": [
+        "Captain MacKay",
+        "Sergeant Conti"
+      ],
+      "stops": [
+        "omaha-beach-france",
+        "carentan-france",
+        "montebourg-france",
+        "cherbourg-france",
+        "saint-lo-france",
+        "mortain-france",
+        "chambois-france"
+      ],
+      "note": "Able Company lands on Omaha Beach, relieves the paratroopers at Carentan, guards the Red Ball Express at Montebourg, takes Cherbourg's harbour, breaks out at Saint-Lô, holds Hill 317 at Mortain and ends by closing the Falaise pocket at Chambois.",
+      "source": "https://en.wikipedia.org/wiki/Company_of_Heroes_(video_game)"
+    }
+  ]
+}

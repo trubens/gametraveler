@@ -1,0 +1,17 @@
+{
+  "id": "hofbrauhaus-munich-germany",
+  "name": "Hofbräuhaus, Munich, Germany",
+  "position": {
+    "lat": 48.1375,
+    "lon": 11.5797
+  },
+  "scale": "site",
+  "parentId": "munich-germany",
+  "placeType": "venue",
+  "aliases": [
+    "Hofbrauhaus"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hofbräuhaus_am_Platzl",
+  "description": "The beer hall on the Platzl, founded as the ducal brewery in 1589, with its vaulted hall and brass band.",
+  "descriptionSource": "wikipedia"
+}

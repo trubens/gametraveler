@@ -1,0 +1,13 @@
+{
+  "id": "baltimore-usa",
+  "name": "Baltimore, USA",
+  "position": {
+    "lat": 39.2904,
+    "lon": -76.6122
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Baltimore",
+  "description": "The most populous city in the state of Maryland."
+}

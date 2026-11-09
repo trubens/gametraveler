@@ -1,0 +1,12 @@
+{
+  "id": "silicon-valley-usa",
+  "name": "Silicon Valley, USA",
+  "position": {
+    "lat": 37.3875,
+    "lon": -122.0575
+  },
+  "scale": "area",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Silicon_Valley",
+  "description": "The world's centre of high technology, in the Santa Clara Valley at the southern end of the San Francisco Bay Area."
+}

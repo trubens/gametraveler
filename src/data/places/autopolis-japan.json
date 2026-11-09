@@ -1,0 +1,13 @@
+{
+  "id": "autopolis-japan",
+  "name": "Autopolis, Japan",
+  "position": {
+    "lat": 33.0369,
+    "lon": 130.973
+  },
+  "scale": "site",
+  "parentId": "japan",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Autopolis",
+  "description": "An international racing circuit near Kamitsue village in Ōita Prefecture, north-east of Kumamoto."
+}

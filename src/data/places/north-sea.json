@@ -1,0 +1,12 @@
+{
+  "id": "north-sea",
+  "name": "North Sea",
+  "position": {
+    "lat": 56,
+    "lon": 3
+  },
+  "scale": "area",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/North_Sea",
+  "description": "The sea between Great Britain and the mainland of Europe, bordered by Norway, Denmark, Germany, the Netherlands, Belgium and France."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "marmolada-italy",
+  "name": "Marmolada, Italy",
+  "position": {
+    "lat": 46.4347,
+    "lon": 11.8508
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marmolada",
+  "description": "The highest mountain of the Dolomites, between Trentino and Veneto.",
+  "descriptionSource": "wikipedia"
+}

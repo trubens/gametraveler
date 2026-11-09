@@ -1,0 +1,12 @@
+{
+  "id": "australian-outback",
+  "name": "Australian Outback",
+  "position": {
+    "lat": -25,
+    "lon": 135
+  },
+  "scale": "area",
+  "placeType": "area",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Outback",
+  "description": "The vast, remote, sparsely peopled interior of Australia, further out than what Australians call the bush."
+}

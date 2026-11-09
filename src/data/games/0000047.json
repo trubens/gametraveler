@@ -1,0 +1,50 @@
+{
+  "id": 47,
+  "name": "Rise of the Tomb Raider",
+  "year": 2015,
+  "publisher": "Square Enix",
+  "series": "Tomb Raider",
+  "developer": "Crystal Dynamics",
+  "locations": [
+    {
+      "placeId": "syria",
+      "note": "Lara seeks the tomb of the Prophet of Constantinople in Syria's forgotten cities."
+    },
+    {
+      "placeId": "siberia-russia",
+      "note": "In Siberia Lara searches for the lost city of Kitezh while battling the Trinity organisation."
+    },
+    {
+      "placeId": "croft-manor-fictional-surrey-england-uk",
+      "note": "Lara traces the symbol from the Syrian tomb to a book in her father's study at Croft Manor; the Blood Ties chapter explores the manor.",
+      "settingType": "fictionalized"
+    }
+  ],
+  "storyYears": [
+    2014,
+    2015
+  ],
+  "source": "https://en.wikipedia.org/wiki/Rise_of_the_Tomb_Raider",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Crystal_Dynamics",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Square_Enix",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "kitezh",
+      "name": "The search for Kitezh",
+      "characters": [
+        "Lara Croft"
+      ],
+      "stops": [
+        "syria",
+        "croft-manor-fictional-surrey-england-uk",
+        "siberia-russia"
+      ],
+      "note": "Syria, home, then Siberia.",
+      "source": "https://en.wikipedia.org/wiki/Rise_of_the_Tomb_Raider"
+    }
+  ]
+}

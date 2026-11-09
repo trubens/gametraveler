@@ -1,0 +1,101 @@
+{
+  "id": 1000406,
+  "name": "Isonzo",
+  "year": 2022,
+  "series": "WW1 Game Series",
+  "developer": "BlackMill Games",
+  "publisher": "BlackMill Games",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    1915,
+    1916,
+    1917,
+    1918
+  ],
+  "source": "https://en.wikipedia.org/wiki/Isonzo_(video_game)",
+  "reviewed": "2026-11-08",
+  "locations": [
+    {
+      "placeId": "monte-cengio-italy",
+      "note": "Cengio: Austro-Hungarian troops storm the summit and Fort Corbin in the Strafexpedition of 1916."
+    },
+    {
+      "placeId": "monte-fior-italy",
+      "note": "Fior: the second Strafexpedition map, on the Asiago plateau."
+    },
+    {
+      "placeId": "monte-san-michele-italy",
+      "aliases": [
+        "Carso"
+      ],
+      "note": "Carso: the conquest of Monte San Michele on the Karst in the Sixth Battle of the Isonzo.",
+      "source": "https://www.indiedb.com/news/isonzo-intel-is-coming-in"
+    },
+    {
+      "placeId": "sabotin-slovenia",
+      "aliases": [
+        "Sabotino"
+      ],
+      "note": "Sabotino: the Italian storm of the ridge above Gorizia in the Sixth Battle of the Isonzo."
+    },
+    {
+      "placeId": "gorizia-italy",
+      "note": "Gorizia: the last map of the Sixth Battle of the Isonzo, the Italian push into the town in August 1916."
+    },
+    {
+      "placeId": "sasso-di-sesto-italy",
+      "aliases": [
+        "Dolomiti"
+      ],
+      "note": "Dolomiti: the Italian capture of Sasso di Sesto below the Torre di Toblin in August 1915.",
+      "source": "https://www.moddb.com/news/isonzo-intel-23-the-dolomites"
+    },
+    {
+      "placeId": "monte-piana-italy",
+      "note": "Piana: the summit plateau fought over for two years, a Mountain War map."
+    },
+    {
+      "placeId": "kobarid-slovenia",
+      "aliases": [
+        "Caporetto"
+      ],
+      "note": "Caporetto: the Austro-German breakthrough of October 1917, fought from Tolmin up to the Kolovrat ridge, which brought the German army into the game."
+    },
+    {
+      "placeId": "vidor-italy",
+      "aliases": [
+        "Piave"
+      ],
+      "note": "Piave: the German attack on the Vidor bridgehead on 10 November 1917, through a vineyard and castle ruins into the town and its abbey.",
+      "source": "https://www.moddb.com/news/devblog-50-the-vidor-bridgehead-of-piave"
+    },
+    {
+      "placeId": "monte-grappa-italy",
+      "note": "Grappa: the defence of the massif after Caporetto, the third map of the Caporetto expansion.",
+      "source": "https://www.moddb.com/games/isonzo/news/monte-grappa-map-is-available-now"
+    },
+    {
+      "placeId": "marmolada-italy",
+      "note": "Marmolada: fighting in the 'Ice City' tunnelled into the glacier, a White War map; also the climb of the Ascent mode."
+    },
+    {
+      "placeId": "cima-presena-italy",
+      "aliases": [
+        "Adamello"
+      ],
+      "note": "Adamello: high-altitude fighting on the Presena peak of the Adamello-Presanella Alps.",
+      "source": "https://indigo-pearl.prezly.com/isonzo-the-free-adamello-expansion-is-out-now-prepare-for-high-altitude-ww1-frontlines"
+    },
+    {
+      "placeId": "montello-italy",
+      "note": "Montello: the Austro-Hungarian attack of the Solstice offensive in June 1918."
+    },
+    {
+      "placeId": "col-moschin-italy",
+      "note": "Moschin: a night map of the Austro-Hungarian assault on Col Moschin on 15 June 1918.",
+      "source": "https://www.focus-entmt.com/en/news/isonzo-discover-the-free-moschin-expansion-with-a-night-map-and-new-dlc-for-the-ww1-fps"
+    }
+  ]
+}

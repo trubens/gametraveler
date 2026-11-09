@@ -1,0 +1,14 @@
+{
+  "id": "caradon-hill-cornwall-uk",
+  "name": "Caradon Hill, Cornwall, UK",
+  "position": {
+    "lat": 50.5113,
+    "lon": -4.4367
+  },
+  "scale": "site",
+  "parentId": "cornwall-england",
+  "placeType": "natural_feature",
+  "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Caradon_Hill",
+  "description": "A moorland hill above Minions ringed by the engine houses and chimneys of the 19th-century copper mines."
+}

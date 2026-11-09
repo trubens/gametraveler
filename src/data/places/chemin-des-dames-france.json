@@ -1,0 +1,14 @@
+{
+  "id": "chemin-des-dames-france",
+  "name": "Chemin des Dames, France",
+  "position": {
+    "lat": 49.4431,
+    "lon": 3.7103
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chemin_des_Dames",
+  "description": "A ridge road between the Aisne and the Ailette in northern France, the scene of the Nivelle Offensive of 1917 and the fort of La Malmaison.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "swiss-alps-switzerland",
+  "name": "Swiss Alps, Switzerland",
+  "position": {
+    "lat": 46.56,
+    "lon": 8.56
+  },
+  "scale": "area",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Swiss_Alps",
+  "description": "The great mountain region of Switzerland, one of the country's three main landscapes alongside the Plateau and the Jura."
+}

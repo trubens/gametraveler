@@ -1,0 +1,14 @@
+{
+  "id": "faneuil-hall-boston-usa",
+  "name": "Faneuil Hall, Boston, USA",
+  "position": {
+    "lat": 42.36,
+    "lon": -71.0561
+  },
+  "scale": "site",
+  "parentId": "boston-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Faneuil_Hall",
+  "description": "The market hall of 1742, the 'cradle of liberty' where Samuel Adams spoke against the Crown.",
+  "descriptionSource": "wikipedia"
+}

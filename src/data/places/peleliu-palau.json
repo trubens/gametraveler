@@ -1,0 +1,12 @@
+{
+  "id": "peleliu-palau",
+  "name": "Peleliu, Palau",
+  "position": {
+    "lat": 7,
+    "lon": 134.3
+  },
+  "scale": "area",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Peleliu",
+  "description": "An island of Palau that forms, with two small neighbours to its north-east, one of the country's sixteen states."
+}

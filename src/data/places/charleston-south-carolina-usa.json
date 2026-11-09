@@ -1,0 +1,14 @@
+{
+  "id": "charleston-south-carolina-usa",
+  "name": "Charleston, South Carolina, USA",
+  "position": {
+    "lat": 32.7765,
+    "lon": -79.9311
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Charleston,_South_Carolina",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charleston,_South_Carolina",
+  "description": "South Carolina's largest city."
+}

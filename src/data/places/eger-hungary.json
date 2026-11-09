@@ -1,0 +1,13 @@
+{
+  "id": "eger-hungary",
+  "name": "Eger, Hungary",
+  "position": {
+    "lat": 47.9025,
+    "lon": 20.3772
+  },
+  "scale": "area",
+  "parentId": "hungary",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eger",
+  "description": "The second-largest city of northern Hungary and the seat of Heves County."
+}

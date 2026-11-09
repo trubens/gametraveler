@@ -1,0 +1,17 @@
+{
+  "id": "vozrozhdeniya-island-aral-sea",
+  "name": "Vozrozhdeniya Island, Aral Sea",
+  "position": {
+    "lat": 45.15,
+    "lon": 59.3167
+  },
+  "scale": "area",
+  "placeType": "island",
+  "aliases": [
+    "Rebirth Island",
+    "Vozrozhdeniya"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vozrozhdeniya_Island",
+  "description": "A former island in the Aral Sea, now a peninsula split between Uzbekistan and Kazakhstan, where the Soviet Union ran its main biological weapons test site.",
+  "descriptionSource": "wikipedia"
+}

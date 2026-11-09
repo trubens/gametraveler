@@ -1,0 +1,68 @@
+{
+  "id": 41,
+  "name": "Tomb Raider: The Last Revelation",
+  "year": 1999,
+  "publisher": "Eidos Interactive",
+  "series": "Tomb Raider",
+  "developer": "Core Design",
+  "locations": [
+    {
+      "placeId": "angkor-wat-cambodia",
+      "note": "A 1984 prologue has teenage Lara exploring Angkor Wat with her mentor Werner Von Croy."
+    },
+    {
+      "placeId": "valley-of-the-kings-egypt",
+      "note": "In late 1999 Lara takes the Amulet of Horus from the Tomb of Set and unleashes the god Set."
+    },
+    {
+      "placeId": "karnak-egypt",
+      "note": "Beneath Karnak's temples Lara hunts the tomb of Semerkhet for clues to imprisoning Set."
+    },
+    {
+      "placeId": "alexandria-egypt",
+      "note": "Lara and Jean-Yves race Von Croy's men for the Armour of Horus in the buried ruins of Cleopatra's palace."
+    },
+    {
+      "placeId": "cairo-egypt",
+      "note": "Von Croy holds Jean-Yves for ransom in a Cairo overrun by Set's forces."
+    },
+    {
+      "placeId": "cairo-citadel-egypt",
+      "note": "Lara blasts her way past a giant serpent into the Citadel of Saladin."
+    },
+    {
+      "placeId": "giza-pyramid-complex-egypt",
+      "note": "The finale beneath the Great Pyramid: Lara begins the ritual to summon Horus, Set attacks, and she traps him under the pyramid."
+    }
+  ],
+  "storyYears": [
+    1984,
+    1999
+  ],
+  "source": "https://en.wikipedia.org/wiki/Tomb_Raider:_The_Last_Revelation",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Core_Design",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Eidos_Interactive",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "the-tomb-of-set",
+      "name": "Lara and Set",
+      "characters": [
+        "Lara Croft"
+      ],
+      "stops": [
+        "angkor-wat-cambodia",
+        "valley-of-the-kings-egypt",
+        "karnak-egypt",
+        "alexandria-egypt",
+        "cairo-egypt",
+        "giza-pyramid-complex-egypt"
+      ],
+      "note": "From the 1984 prologue at Angkor Wat to the binding of Set under the Great Pyramid.",
+      "source": "https://en.wikipedia.org/wiki/Tomb_Raider:_The_Last_Revelation"
+    }
+  ]
+}

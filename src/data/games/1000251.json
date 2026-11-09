@@ -1,0 +1,63 @@
+{
+  "id": 1000251,
+  "name": "NiBiRu: Age of Secrets",
+  "aliases": [
+    "Nibiru",
+    "NiBiRu: Messenger of the Gods"
+  ],
+  "year": 2005,
+  "developer": "Future Games",
+  "publisher": "The Adventure Company",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    2005
+  ],
+  "source": "https://en.wikipedia.org/wiki/NiBiRu:_Age_of_Secrets",
+  "locations": [
+    {
+      "placeId": "charles-bridge-prague-czech-republic",
+      "note": "Martin Holan searches Charles Bridge for his missing contact, beginning with a painter and a message hidden by a statue.",
+      "source": "https://www.justadventure.com/walkthrough/ni-bi-ru/"
+    },
+    {
+      "placeId": "prague-czech-republic",
+      "note": "The investigation continues through an apartment, archives and government offices in Prague.",
+      "source": "https://www.justadventure.com/walkthrough/ni-bi-ru/"
+    },
+    {
+      "placeId": "western-bohemia-czech-republic",
+      "note": "Martin explores a wartime mine and the hidden laboratory beneath it in western Bohemia.",
+      "source": "https://www.justadventure.com/walkthrough/ni-bi-ru/"
+    },
+    {
+      "placeId": "france",
+      "note": "The French chapter: a hotel, the docks and his uncle's mansion.",
+      "source": "https://www.justadventure.com/walkthrough/ni-bi-ru/"
+    },
+    {
+      "placeId": "mexico",
+      "note": "Martin visits the invented town of Tecolut and explores Maya temples that are not tied to real sites.",
+      "source": "https://www.justadventure.com/walkthrough/ni-bi-ru/"
+    }
+  ],
+  "routes": [
+    {
+      "id": "martin-holan",
+      "name": "Martin's investigation",
+      "characters": [
+        "Martin Holan"
+      ],
+      "stops": [
+        "charles-bridge-prague-czech-republic",
+        "prague-czech-republic",
+        "western-bohemia-czech-republic",
+        "france",
+        "mexico"
+      ],
+      "note": "Martin Holan's search runs from Charles Bridge and Prague to a wartime mine in western Bohemia, then to France and the Maya temples of Mexico.",
+      "source": "https://www.justadventure.com/walkthrough/ni-bi-ru/"
+    }
+  ]
+}

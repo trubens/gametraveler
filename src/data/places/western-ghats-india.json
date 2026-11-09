@@ -1,0 +1,13 @@
+{
+  "id": "western-ghats-india",
+  "name": "Western Ghats, India",
+  "position": {
+    "lat": 13,
+    "lon": 75.5
+  },
+  "scale": "area",
+  "parentId": "india",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Western_Ghats",
+  "description": "A mountain range, also called the Sahyadri, running the length of India's west coast."
+}

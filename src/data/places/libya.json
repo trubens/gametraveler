@@ -1,0 +1,12 @@
+{
+  "id": "libya",
+  "name": "Libya",
+  "position": {
+    "lat": 26.3351,
+    "lon": 17.2283
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Libya",
+  "description": "A country of North Africa, one of the lands of the Maghreb."
+}

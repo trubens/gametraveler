@@ -1,0 +1,35 @@
+{
+  "id": 118,
+  "name": "Lost Judgment",
+  "year": 2021,
+  "publisher": "Sega",
+  "series": "Yakuza / Like a Dragon",
+  "developer": "Ryu Ga Gotoku Studio",
+  "locations": [
+    {
+      "placeId": "kabukicho-tokyo-japan",
+      "aliases": [
+        "Kamurocho"
+      ],
+      "settingType": "fictionalized",
+      "note": "Yagami's agency and the Genda Law Office are in Kamurocho, the series' Kabukicho, where Shirosaki asks him to break the groping alibi of Ehara, a police officer tied to a body found in Yokohama; Kaito's own case in The Kaito Files starts there too."
+    },
+    {
+      "placeId": "isezakicho-yokohama-japan",
+      "aliases": [
+        "Isezaki Ijincho"
+      ],
+      "settingType": "fictionalized",
+      "note": "Yagami goes undercover at Seiryo High School in Ijincho, the series' Isezakicho in Yokohama, to expose its bullying, chases the handyman Kuwana and fights the RK gang across the district."
+    }
+  ],
+  "storyYears": [
+    2021
+  ],
+  "source": "https://en.wikipedia.org/wiki/Lost_Judgment",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

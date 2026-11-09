@@ -1,0 +1,23 @@
+{
+  "id": 441,
+  "name": "Call of Duty: Modern Warfare (2019)",
+  "year": 2019,
+  "series": "Call of Duty",
+  "developer": "Infinity Ward",
+  "publisher": "Activision",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "The Piccadilly and Clean House missions take place in London."
+    }
+  ],
+  "storyYears": [
+    2019
+  ],
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_(2019_video_game)",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Activision",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": 4,
+  "name": "Gabriel Knight: Sins of the Fathers",
+  "year": 1993,
+  "publisher": "Sierra On-Line",
+  "series": "Gabriel Knight",
+  "developer": "Sierra On-Line",
+  "locations": [
+    {
+      "placeId": "new-orleans-usa",
+      "note": "Novelist Gabriel Knight investigates voodoo-linked murders in his home town of New Orleans."
+    },
+    {
+      "placeId": "bavaria-germany",
+      "note": "Gabriel visits his family's ancestral castle, Schloss Ritter, in the German town of Rittersburg."
+    },
+    {
+      "placeId": "benin",
+      "note": "Gabriel follows the stolen Ritter talisman to a snake burial mound in Africa, where he finds his great-uncle Wolfgang, who gives his life to win it back.",
+      "source": "https://en.wikipedia.org/wiki/Gabriel_Knight:_Sins_of_the_Fathers"
+    },
+    {
+      "placeId": "jackson-square-new-orleans-usa",
+      "note": "Jackson Square is where Gabriel sketches the voodoo murder pattern and meets the mime and the street artist.",
+      "source": "https://sierrahelp.com/Walkthroughs/GK1Walkthrough.html"
+    },
+    {
+      "placeId": "st-louis-cathedral-new-orleans-usa",
+      "note": "Gabriel returns to the cathedral several times, and at the end its confessional hides the passage down to the voodoo cult's hounfour, where he rescues Grace and faces Malia.",
+      "source": "https://sierrahelp.com/Walkthroughs/GK1Walkthrough.html"
+    },
+    {
+      "placeId": "st-louis-cemetery-no-1-new-orleans-usa",
+      "note": "Marie Laveau's tomb in St. Louis Cemetery No. 1 carries the chalked messages Gabriel decodes.",
+      "source": "https://sierrahelp.com/Walkthroughs/GK1Walkthrough.html"
+    },
+    {
+      "placeId": "tulane-university-new-orleans-usa",
+      "note": "Professor Hartridge at Tulane University helps with the voodoo research.",
+      "source": "https://sierrahelp.com/Walkthroughs/GK1Walkthrough.html"
+    },
+    {
+      "placeId": "napoleon-house-new-orleans-usa",
+      "note": "Gabriel drinks and asks around at the Napoleon House.",
+      "source": "https://sierrahelp.com/Walkthroughs/GK1Walkthrough.html"
+    },
+    {
+      "placeId": "bayou-st-john-new-orleans-usa",
+      "note": "The night-time voodoo rites are hidden out at Bayou St. John.",
+      "source": "https://sierrahelp.com/Walkthroughs/GK1Walkthrough.html"
+    },
+    {
+      "placeId": "voodoo-museum-new-orleans-usa",
+      "note": "The Historic Voodoo Museum is where Gabriel starts his research and meets Dr. John.",
+      "source": "https://sierrahelp.com/Walkthroughs/GK1Walkthrough.html"
+    },
+    {
+      "placeId": "lake-pontchartrain-louisiana-usa",
+      "note": "On the first day Gabriel tags along with Mosely to the lakeshore where a voodoo murder victim was found, copies the pattern drawn in the sand and picks up a snake scale.",
+      "source": "https://www.uhs-hints.com/uhsweb/gk.php"
+    }
+  ],
+  "storyYears": [
+    1993
+  ],
+  "source": "https://en.wikipedia.org/wiki/Gabriel_Knight:_Sins_of_the_Fathers",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Sierra_Entertainment",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "gabriel-knight",
+      "name": "Gabriel Knight",
+      "characters": [
+        "Gabriel Knight",
+        "Grace Nakimura",
+        "Detective Frank Mosely"
+      ],
+      "stops": [
+        "jackson-square-new-orleans-usa",
+        "lake-pontchartrain-louisiana-usa",
+        "voodoo-museum-new-orleans-usa",
+        "st-louis-cemetery-no-1-new-orleans-usa",
+        "napoleon-house-new-orleans-usa",
+        "tulane-university-new-orleans-usa",
+        "st-louis-cathedral-new-orleans-usa",
+        "bayou-st-john-new-orleans-usa",
+        "bavaria-germany",
+        "benin",
+        "st-louis-cathedral-new-orleans-usa"
+      ],
+      "note": "From the French Quarter's voodoo murders and a crime scene on the lakeshore out to a masked rite on the bayou, then to the Ritter family castle in Germany and a snake mound in Africa, before returning to descend through the cathedral into the hidden hounfour.",
+      "source": "https://gameboomers.com/wtcheats/pcGg/GK1.htm"
+    }
+  ]
+}

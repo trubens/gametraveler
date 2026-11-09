@@ -1,0 +1,18 @@
+{
+  "id": "mortain-france",
+  "name": "Mortain, France",
+  "position": {
+    "lat": 48.6486,
+    "lon": -0.9397
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "aliases": [
+    "Hill 317"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Mortain",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mortain",
+  "description": "A former commune in the Manche department in Normandy, merged into Mortain-Bocage in 2016.",
+  "descriptionSource": "wikipedia"
+}

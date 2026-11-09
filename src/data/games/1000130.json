@@ -1,0 +1,21 @@
+{
+  "id": 1000130,
+  "name": "Devotion",
+  "year": 2019,
+  "publisher": "Red Candle Games",
+  "developer": "Red Candle Games",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://redcandlegames.com/presskit/sheet.php?p=devotion",
+  "locations": [
+    {
+      "placeId": "taipei-taiwan",
+      "note": "The player repeatedly explores and revisits a family apartment in 1980s Taipei as its rooms change across memories and years."
+    }
+  ],
+  "storyYears": [
+    1980,
+    1987
+  ]
+}

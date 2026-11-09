@@ -1,0 +1,32 @@
+{
+  "id": 20,
+  "name": "Runaway: A Road Adventure",
+  "year": 2001,
+  "publisher": "Dinamic Multimedia",
+  "series": "Runaway",
+  "developer": "Pendulo Studios",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Student Brian Basco's ordeal starts in New York after he runs into Gina with his car."
+    },
+    {
+      "placeId": "chicago-usa",
+      "note": "Brian and Gina head to a Chicago museum to learn what the mysterious crucifix means."
+    },
+    {
+      "placeId": "arizona-usa",
+      "note": "The road trip ends in the Arizona desert, among Hopi land and a ghost town."
+    }
+  ],
+  "storyYears": [
+    2001
+  ],
+  "route": true,
+  "source": "https://en.wikipedia.org/wiki/Runaway:_A_Road_Adventure",
+  "developerUrl": "https://en.wikipedia.org/wiki/Pendulo_Studios",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Dinamic_Multimedia",
+  "genres": [
+    "Adventure"
+  ]
+}

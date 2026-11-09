@@ -1,0 +1,13 @@
+{
+  "id": "sepang-international-circuit-malaysia",
+  "name": "Sepang International Circuit, Malaysia",
+  "position": {
+    "lat": 2.7608,
+    "lon": 101.738
+  },
+  "scale": "site",
+  "parentId": "malaysia",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sepang_International_Circuit",
+  "description": "A motorsport circuit at Sepang in Selangor, Malaysia, south of Kuala Lumpur beside the international airport."
+}

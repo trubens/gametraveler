@@ -1,0 +1,12 @@
+{
+  "id": "california-usa",
+  "name": "California, USA",
+  "position": {
+    "lat": 36.7783,
+    "lon": -119.4179
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/California",
+  "description": "A state on the Pacific coast of the western United States, with Oregon to the north, Nevada and Arizona to the east and Mexico's Baja California to the south."
+}

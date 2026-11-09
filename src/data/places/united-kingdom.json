@@ -1,0 +1,16 @@
+{
+  "id": "united-kingdom",
+  "name": "United Kingdom",
+  "aliases": [
+    "UK"
+  ],
+  "position": {
+    "lat": 54.4,
+    "lon": -2.12
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/United_Kingdom",
+  "description": "An island country off the north-west coast of mainland Europe, made up of Great Britain and Northern Ireland."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "hadrians-wall-england-uk",
+  "name": "Hadrian's Wall, England, UK",
+  "position": {
+    "lat": 55.0167,
+    "lon": -2.2833
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Hadrian%27s_Wall",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hadrian%27s_Wall",
+  "description": "The Roman frontier wall begun in AD 122 under Emperor Hadrian, running across northern England from Wallsend on the Tyne to the Solway Firth.",
+  "descriptionSource": "wikipedia"
+}

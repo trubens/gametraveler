@@ -1,0 +1,14 @@
+{
+  "id": "masurian-lake-district-poland",
+  "name": "Masurian Lake District, Poland",
+  "position": {
+    "lat": 54.0,
+    "lon": 22.0
+  },
+  "scale": "area",
+  "parentId": "poland",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Masurian_Lake_District",
+  "description": "A lake district of more than 2,000 lakes in Masuria in north-eastern Poland.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "bosaso-somalia",
+  "name": "Bosaso, Somalia",
+  "position": {
+    "lat": 11.2886,
+    "lon": 49.1819
+  },
+  "scale": "area",
+  "parentId": "somalia",
+  "placeType": "city",
+  "aliases": [
+    "Bosasso",
+    "Bender Qassim"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Bosaso",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bosaso",
+  "description": "A port city on the Gulf of Aden in the Bari province of Puntland, Somalia, and Puntland's main commercial centre.",
+  "descriptionSource": "wikipedia"
+}

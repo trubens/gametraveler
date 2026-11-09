@@ -1,0 +1,21 @@
+{
+  "id": 1000237,
+  "name": "Nancy Drew: Alibi in Ashes",
+  "year": 2011,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "river-heights-fictionalized-illinois",
+      "settingType": "fictionalized",
+      "note": "During the town's Clues Challenge Nancy is lured to the old town hall just before it burns, and while she sits in jail for arson, Ned, Bess and George gather the evidence to clear her."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Alibi_in_Ashes",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

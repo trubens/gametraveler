@@ -1,0 +1,14 @@
+{
+  "id": "mesquite-texas-usa",
+  "name": "Mesquite, Texas, USA",
+  "position": {
+    "lat": 32.7668,
+    "lon": -96.5992
+  },
+  "scale": "area",
+  "parentId": "texas-usa",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Mesquite,_Texas",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mesquite,_Texas",
+  "description": "A city of Dallas County in Texas."
+}

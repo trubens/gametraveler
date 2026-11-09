@@ -1,0 +1,57 @@
+{
+  "id": 1000181,
+  "name": "Dracula 4: The Shadow of the Dragon",
+  "year": 2013,
+  "series": "Dracula",
+  "developer": "Koalabs Studio",
+  "publisher": "Anuman Interactive",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Dracula_4:_The_Shadow_of_the_Dragon",
+  "reviewed": "2026-11-02",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Ellen Cross learns in her New York apartment that the Vambery collection went down with its freighter, and at the end opens the case from Istanbul there to find a portrait of Adam Stoker that comes to life."
+    },
+    {
+      "placeId": "budapest-hungary",
+      "note": "Ellen confirms the auctioned painting is from the Vambery collection, but the thief Adrian Friedlen dies in terror in his police cell before she can question him."
+    },
+    {
+      "placeId": "whitby-england-uk",
+      "note": "At Professor Vambery's manor Ellen meets Adam Stoker and finds a bust of Vlad Tepes and a vampire hunter's kit hidden in the family tomb."
+    },
+    {
+      "placeId": "istanbul-turkey",
+      "note": "Ellen breaks into the painter Yanek's home and finds two lost Vambery paintings, a body in the attic and a sealed case."
+    },
+    {
+      "placeId": "metropolitan-museum-of-art-new-york-city-usa",
+      "note": "Museum director Phillips sends Ellen, a restorer at the Met, to Budapest to check whether one of the lost Vambery paintings has resurfaced."
+    }
+  ],
+  "storyYears": [
+    2013
+  ],
+  "routes": [
+    {
+      "id": "ellen-cross-shadow",
+      "name": "Ellen Cross",
+      "characters": [
+        "Ellen Cross"
+      ],
+      "stops": [
+        "new-york-city-usa",
+        "metropolitan-museum-of-art-new-york-city-usa",
+        "budapest-hungary",
+        "whitby-england-uk",
+        "istanbul-turkey",
+        "new-york-city-usa"
+      ],
+      "note": "Ellen's hunt for the lost Vambery paintings from New York to Budapest, Whitby and Istanbul and back home.",
+      "source": "https://en.wikipedia.org/wiki/Dracula_4:_The_Shadow_of_the_Dragon"
+    }
+  ]
+}

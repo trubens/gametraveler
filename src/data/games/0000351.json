@@ -1,0 +1,35 @@
+{
+  "id": 351,
+  "name": "Project CARS 2",
+  "year": 2017,
+  "series": "Project CARS",
+  "developer": "Slightly Mad Studios",
+  "publisher": "Bandai Namco Entertainment",
+  "locations": [
+    {
+      "placeId": "brands-hatch-uk",
+      "note": "Raced on the Grand Prix and Indy layouts; the Fun Pack DLC later added a historic Brands Hatch rallycross course for its Group B and RX cars."
+    },
+    {
+      "placeId": "fuji-speedway-japan",
+      "note": "One of the circuits new to the series in Project CARS 2, raced on its single Grand Prix layout."
+    },
+    {
+      "placeId": "knockhill-racing-circuit-scotland",
+      "note": "Its first official game recreation, helped in by two Scots on the team; the short circuit comes in several layouts plus a separate rallycross course."
+    },
+    {
+      "placeId": "long-beach-california-usa",
+      "note": "A scanned recreation of the current 11-turn Grand Prix of Long Beach street circuit, which the developers said took six months to build."
+    },
+    {
+      "placeId": "dirtfish-rally-school-snoqualmie-usa",
+      "note": "Added as one of the game's new rallycross venues, with three layouts: the Pro Rallycross, Mill Run and Boneyard courses."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Project_CARS_2",
+  "genres": [
+    "Racing"
+  ]
+}

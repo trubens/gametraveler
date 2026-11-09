@@ -1,0 +1,88 @@
+{
+  "id": 1000327,
+  "name": "Test Drive 5",
+  "year": 1998,
+  "series": "Test Drive",
+  "developer": "Pitbull Syndicate",
+  "publisher": "Accolade",
+  "genres": [
+    "Racing"
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Test_Drive_5",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "bern-switzerland",
+      "note": "Bern, one of the twelve point-to-point courses."
+    },
+    {
+      "placeId": "blue-ridge-parkway-usa",
+      "note": "The Blue Ridge Parkway through the Appalachians."
+    },
+    {
+      "placeId": "edinburgh-uk",
+      "note": "Edinburgh's streets and closes."
+    },
+    {
+      "placeId": "honolulu-hawaii-usa",
+      "note": "Honolulu's waterfront."
+    },
+    {
+      "placeId": "keswick-england-uk",
+      "note": "Keswick in the Lake District."
+    },
+    {
+      "placeId": "kyoto-japan",
+      "note": "Kyoto."
+    },
+    {
+      "placeId": "moscow-russia",
+      "note": "Moscow, past the Kremlin walls."
+    },
+    {
+      "placeId": "munich-germany",
+      "note": "Munich."
+    },
+    {
+      "placeId": "san-francisco-usa",
+      "note": "San Francisco's hills."
+    },
+    {
+      "placeId": "sydney-australia",
+      "note": "Sydney's harbour city."
+    },
+    {
+      "placeId": "tokyo-japan",
+      "note": "Tokyo at night."
+    },
+    {
+      "placeId": "washington-d-c-usa",
+      "note": "Washington's avenues."
+    },
+    {
+      "placeId": "cheddar-gorge-england-uk",
+      "note": "A circuit through Cheddar Gorge."
+    },
+    {
+      "placeId": "courmayeur-italy",
+      "note": "A circuit at Courmayeur under Mont Blanc."
+    },
+    {
+      "placeId": "jerash-jordan",
+      "note": "A circuit among the Roman ruins of Jerash."
+    },
+    {
+      "placeId": "maui-hawaii-usa",
+      "note": "A circuit on Maui."
+    },
+    {
+      "placeId": "montego-bay-jamaica",
+      "note": "A circuit at Montego Bay."
+    },
+    {
+      "placeId": "newcastle-upon-tyne-england-uk",
+      "note": "A circuit on the Tyne at Newcastle."
+    }
+  ]
+}

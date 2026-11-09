@@ -1,0 +1,55 @@
+{
+  "id": 39,
+  "name": "Tomb Raider II",
+  "year": 1997,
+  "publisher": "Eidos Interactive",
+  "series": "Tomb Raider",
+  "developer": "Core Design",
+  "locations": [
+    {
+      "placeId": "venice-italy",
+      "note": "Lara tracks the Fiamma Nera to an abandoned opera house in Venice and stows away on Bartoli's seaplane."
+    },
+    {
+      "placeId": "tibet-china",
+      "note": "A monk of the Barkhang Monastery helps Lara through the Tibetan foothills toward the Dagger's resting place."
+    },
+    {
+      "placeId": "great-wall-china",
+      "note": "The game opens at the Great Wall, where the chamber of the Dagger of Xian is sealed."
+    },
+    {
+      "placeId": "croft-manor-fictional-surrey-england-uk",
+      "note": "The training level, and the last level: the Fiamma Nera storm Lara's home after the Dagger.",
+      "settingType": "fictionalized"
+    }
+  ],
+  "routes": [
+    {
+      "id": "lara-croft",
+      "name": "Lara Croft",
+      "characters": [
+        "Lara Croft"
+      ],
+      "stops": [
+        "great-wall-china",
+        "venice-italy",
+        "tibet-china",
+        "great-wall-china",
+        "croft-manor-fictional-surrey-england-uk"
+      ],
+      "note": "Lara chases the Dagger of Xian from the Great Wall to Venice and a Tibetan monastery, back to the Great Wall to face Bartoli, and home to an attack on Croft Manor.",
+      "source": "https://en.wikipedia.org/wiki/Tomb_Raider_II"
+    }
+  ],
+  "storyYears": [
+    1997
+  ],
+  "source": "https://en.wikipedia.org/wiki/Tomb_Raider_II",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Core_Design",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Eidos_Interactive",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

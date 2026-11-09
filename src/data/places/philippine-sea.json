@@ -1,0 +1,14 @@
+{
+  "id": "philippine-sea",
+  "name": "Philippine Sea",
+  "position": {
+    "lat": 20.0,
+    "lon": 130.0
+  },
+  "scale": "area",
+  "placeType": "body_of_water",
+  "source": "https://en.wikipedia.org/wiki/Philippine_Sea",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Philippine_Sea",
+  "description": "A marginal sea of the Western Pacific east of the Philippines, bounded in the north-west by the Ryukyu Islands and Taiwan.",
+  "descriptionSource": "wikipedia"
+}

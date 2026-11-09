@@ -1,0 +1,18 @@
+{
+  "id": "palais-garnier-paris-france",
+  "name": "Palais Garnier, Paris, France",
+  "position": {
+    "lat": 48.8719,
+    "lon": 2.3317
+  },
+  "scale": "site",
+  "parentId": "paris-france",
+  "placeType": "landmark",
+  "aliases": [
+    "Paris Opera",
+    "Opéra Garnier"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Palais_Garnier",
+  "description": "The 1875 opera house on the Place de l'Opéra, the setting of The Phantom of the Opera.",
+  "descriptionSource": "wikipedia"
+}

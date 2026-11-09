@@ -1,0 +1,19 @@
+{
+  "id": 356,
+  "name": "GTR 2 – FIA GT Racing Game",
+  "year": 2006,
+  "series": "GTR",
+  "developer": "Blimey! Games / SimBin",
+  "publisher": "Viva Media / 10tacle Studios",
+  "locations": [
+    {
+      "placeId": "circuit-de-spa-francorchamps-belgium",
+      "note": "The FIA GT championship includes races on Spa-Francorchamps."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/GTR_2_%E2%80%93_FIA_GT_Racing_Game",
+  "genres": [
+    "Racing"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "delphi-greece",
+  "name": "Delphi, Greece",
+  "position": {
+    "lat": 38.4824,
+    "lon": 22.501
+  },
+  "scale": "area",
+  "parentId": "greece",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Delphi",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Delphi",
+  "description": "The sanctuary in central Greece, once called Pytho, where the oracle Pythia was consulted on the great decisions of the ancient world."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "laguna-seca-california-usa",
+  "name": "Laguna Seca, California, USA",
+  "position": {
+    "lat": 36.5844,
+    "lon": -121.7536
+  },
+  "scale": "area",
+  "parentId": "california-usa",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Laguna_Seca",
+  "description": "A paved road racing track near Salinas and Monterey in California, built in 1957 for cars and motorcycles alike."
+}

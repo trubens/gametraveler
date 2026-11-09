@@ -1,0 +1,13 @@
+{
+  "id": "mendoza-argentina",
+  "name": "Mendoza, Argentina",
+  "position": {
+    "lat": -32.8895,
+    "lon": -68.8458
+  },
+  "scale": "area",
+  "parentId": "argentina",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mendoza,_Argentina",
+  "description": "Capital of Argentina's Mendoza province."
+}

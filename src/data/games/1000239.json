@@ -1,0 +1,26 @@
+{
+  "id": 1000239,
+  "name": "Nancy Drew: The Deadly Device",
+  "year": 2012,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "colorado-springs-colorado-usa",
+      "aliases": [
+        "Technology of Tomorrow Today"
+      ],
+      "settingType": "fictionalized",
+      "note": "Posing as a buyer, Nancy investigates the electrocution of physicist Niko Jovic in the Tesla-coil lab of Technology of Tomorrow Today, in the mountains near the city."
+    }
+  ],
+  "storyYears": [
+    2012
+  ],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_The_Deadly_Device",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

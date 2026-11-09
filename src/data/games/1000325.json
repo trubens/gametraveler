@@ -1,0 +1,26 @@
+{
+  "id": 1000325,
+  "name": "Need for Speed: Undercover",
+  "year": 2008,
+  "series": "Need for Speed",
+  "developer": "EA Black Box",
+  "publisher": "Electronic Arts",
+  "genres": [
+    "Racing"
+  ],
+  "storyYears": [
+    2008
+  ],
+  "source": "https://en.wikipedia.org/wiki/Need_for_Speed:_Undercover",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "miami-usa",
+      "aliases": [
+        "Tri-City Bay Area"
+      ],
+      "settingType": "fictionalized",
+      "note": "In the Tri-City Bay Area, a region modelled mostly on Miami, an undercover cop races through boroughs linked by highways to break a smuggling syndicate."
+    }
+  ]
+}

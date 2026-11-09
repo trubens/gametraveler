@@ -1,0 +1,28 @@
+{
+  "id": 1000001,
+  "name": "Madagascar",
+  "year": 2005,
+  "publisher": "Activision",
+  "developer": "Toys for Bob",
+  "locations": [
+    {
+      "placeId": "madagascar",
+      "note": "The story follows the film's escape from New York to Madagascar, where the animals explore the island's jungle and coastline."
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "note": "The opening chapters take place at the Central Park Zoo before the characters are shipped to Madagascar."
+    },
+    {
+      "placeId": "central-park-zoo-new-york-city-usa",
+      "note": "Alex, Marty, Gloria and Melman start in their enclosures at the Central Park Zoo."
+    }
+  ],
+  "storyYears": [
+    2005
+  ],
+  "source": "https://en.wikipedia.org/wiki/Madagascar_(video_game)",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

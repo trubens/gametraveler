@@ -1,0 +1,17 @@
+{
+  "id": "mit-cambridge-massachusetts-usa",
+  "name": "MIT, Cambridge, Massachusetts, USA",
+  "position": {
+    "lat": 42.3597,
+    "lon": -71.0919
+  },
+  "scale": "site",
+  "parentId": "cambridge-massachusetts-usa",
+  "placeType": "venue",
+  "aliases": [
+    "Massachusetts Institute of Technology"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology",
+  "description": "The Massachusetts Institute of Technology, its domed campus along the Charles River in Cambridge.",
+  "descriptionSource": "wikipedia"
+}

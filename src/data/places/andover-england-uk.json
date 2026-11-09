@@ -1,0 +1,13 @@
+{
+  "id": "andover-england-uk",
+  "name": "Andover, England",
+  "position": {
+    "lat": 51.2113,
+    "lon": -1.4919
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andover,_Hampshire",
+  "placeType": "city",
+  "description": "A town in Hampshire, England, in the valley of the River Test."
+}

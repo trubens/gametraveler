@@ -1,0 +1,13 @@
+{
+  "id": "brooklyn-new-york-usa",
+  "name": "Brooklyn, New York, USA",
+  "position": {
+    "lat": 40.6782,
+    "lon": -73.9442
+  },
+  "scale": "area",
+  "parentId": "new-york-city-usa",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brooklyn",
+  "description": "The most populous of New York City's five boroughs, coextensive with Kings County."
+}

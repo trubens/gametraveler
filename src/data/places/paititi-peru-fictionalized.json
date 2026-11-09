@@ -1,0 +1,18 @@
+{
+  "id": "paititi-peru-fictionalized",
+  "name": "Paititi, Peru",
+  "position": {
+    "lat": -12.7,
+    "lon": -71.5
+  },
+  "scale": "area",
+  "parentId": "peru",
+  "aliases": [
+    "The Hidden City",
+    "Paititi, Peru (fictionalized lost city)"
+  ],
+  "placeType": "city",
+  "fictional": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Paititi",
+  "description": "The legendary lost Inca city, imagined hidden in the Peruvian Amazon. Pinned where the legend looks for it, east of Cusco."
+}

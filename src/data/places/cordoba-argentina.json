@@ -1,0 +1,13 @@
+{
+  "id": "cordoba-argentina",
+  "name": "Córdoba, Argentina",
+  "position": {
+    "lat": -31.42,
+    "lon": -64.19
+  },
+  "scale": "area",
+  "parentId": "argentina",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/C%C3%B3rdoba,_Argentina",
+  "description": "A city in central Argentina."
+}

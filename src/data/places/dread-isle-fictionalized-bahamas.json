@@ -1,0 +1,14 @@
+{
+  "id": "dread-isle-fictionalized-bahamas",
+  "name": "Dread Isle, Bahamas",
+  "position": {
+    "lat": 24.0,
+    "lon": -73.4
+  },
+  "scale": "area",
+  "placeType": "area",
+  "fictional": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Bahamas",
+  "description": "An invented island just east of the Bahamas, pinned at the coordinates the game itself gives, 24°00′N 73°24′W.",
+  "source": "https://nancydrew.fandom.com/wiki/Dread_Isle"
+}

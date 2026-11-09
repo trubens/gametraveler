@@ -1,0 +1,13 @@
+{
+  "id": "bavaria-germany",
+  "name": "Bavaria, Germany",
+  "position": {
+    "lat": 48.7904,
+    "lon": 11.4979
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bavaria",
+  "description": "A landlocked state in Germany, with the city of Munich as its capital."
+}

@@ -1,0 +1,23 @@
+{
+  "id": 473,
+  "name": "Assassin's Creed Freedom Cry",
+  "year": 2014,
+  "series": "Assassin's Creed",
+  "developer": "Ubisoft Quebec",
+  "publisher": "Ubisoft",
+  "locations": [
+    {
+      "placeId": "port-au-prince-haiti",
+      "note": "Adéwalé helps enslaved people resist colonial rule in Port-au-Prince."
+    }
+  ],
+  "storyYears": [
+    1735
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Freedom_Cry",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 448,
+  "name": "Call of Duty 2: Big Red One",
+  "year": 2005,
+  "series": "Call of Duty",
+  "developer": "Treyarch / High Voltage Software (GC)",
+  "publisher": "Activision",
+  "locations": [
+    {
+      "placeId": "sicily-italy",
+      "note": "The American infantry campaign includes the invasion of Sicily."
+    }
+  ],
+  "storyYears": [
+    1943
+  ],
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty_2:_Big_Red_One",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Activision",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

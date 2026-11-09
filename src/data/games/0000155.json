@@ -1,0 +1,54 @@
+{
+  "id": 155,
+  "name": "Deus Ex: Mankind Divided",
+  "year": 2016,
+  "publisher": "Square Enix",
+  "series": "Deus Ex",
+  "developer": "Eidos-Montréal",
+  "locations": [
+    {
+      "placeId": "dubai-uae",
+      "note": "The game opens with a Task Force 29 raid on an abandoned, half-built luxury hotel in Dubai."
+    },
+    {
+      "placeId": "prague-czech-republic",
+      "note": "The main hub: a segregated Prague where the augmented are herded into the Golem City ghetto after the Incident."
+    },
+    {
+      "placeId": "swiss-alps-switzerland",
+      "note": "Adam reaches Marchenko's base in the Swiss Alps and is captured and injected with Orchid."
+    },
+    {
+      "placeId": "london-uk",
+      "note": "The finale: Adam races to stop an attack on a summit in London."
+    }
+  ],
+  "storyYears": [
+    2029
+  ],
+  "source": "https://en.wikipedia.org/wiki/Deus_Ex:_Mankind_Divided",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Square_Enix",
+  "developerUrl": "https://en.wikipedia.org/wiki/Eidos-Montr%C3%A9al",
+  "genres": [
+    "Action RPG"
+  ],
+  "routes": [
+    {
+      "id": "adam-jensen-2",
+      "name": "Adam Jensen",
+      "characters": [
+        "Adam Jensen"
+      ],
+      "stops": [
+        "dubai-uae",
+        "prague-czech-republic",
+        "swiss-alps-switzerland",
+        "prague-czech-republic",
+        "london-uk"
+      ],
+      "note": "From the Dubai raid to segregated Prague, Marchenko's base in the Alps and back to Prague, ending at the London summit.",
+      "source": "https://en.wikipedia.org/wiki/Deus_Ex:_Mankind_Divided"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "paramount-theatre-seattle-usa",
+  "name": "Paramount Theatre, Seattle, USA",
+  "position": {
+    "lat": 47.6131,
+    "lon": -122.3314
+  },
+  "scale": "site",
+  "parentId": "seattle-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Paramount_Theatre_(Seattle)",
+  "description": "A 2,807-seat performing arts venue in downtown Seattle, opened in 1928.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Paramount_Theatre_(Seattle)"
+}

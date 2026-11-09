@@ -1,0 +1,12 @@
+{
+  "id": "tamiami-trail-florida-usa",
+  "name": "Tamiami Trail, Florida, USA",
+  "position": {
+    "lat": 25.7577,
+    "lon": -80.7669
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tamiami_Trail",
+  "description": "The long southern stretch of US Highway 41, running from Tampa down the Gulf coast and across the Everglades to Miami."
+}

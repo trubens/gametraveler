@@ -1,0 +1,18 @@
+{
+  "id": "akademicheskaya-station-moscow-russia",
+  "name": "Akademicheskaya station, Moscow, Russia",
+  "position": {
+    "lat": 55.6877,
+    "lon": 37.5733
+  },
+  "scale": "site",
+  "parentId": "moscow-russia",
+  "placeType": "landmark",
+  "aliases": [
+    "Akademicheskaya"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Akademicheskaya_(Kaluzhsko-Rizhskaya_line)",
+  "description": "A Moscow Metro station on the Kaluzhsko-Rizhskaya line in the south-west of the city.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Akademicheskaya_(Kaluzhsko-Rizhskaya_line)"
+}

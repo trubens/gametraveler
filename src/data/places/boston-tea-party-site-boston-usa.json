@@ -1,0 +1,17 @@
+{
+  "id": "boston-tea-party-site-boston-usa",
+  "name": "Boston Tea Party site, Boston, USA",
+  "position": {
+    "lat": 42.3536,
+    "lon": -71.0524
+  },
+  "scale": "site",
+  "parentId": "boston-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "Griffin's Wharf"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Boston_Tea_Party",
+  "description": "Griffin's Wharf, where colonists dumped the East India Company's tea into the harbour on 16 December 1773; the museum ships lie on the Fort Point Channel.",
+  "descriptionSource": "wikipedia"
+}

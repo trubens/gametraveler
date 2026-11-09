@@ -1,0 +1,13 @@
+{
+  "id": "kingston-jamaica",
+  "name": "Kingston, Jamaica",
+  "position": {
+    "lat": 17.997,
+    "lon": -76.7936
+  },
+  "scale": "area",
+  "parentId": "jamaica",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kingston,_Jamaica",
+  "description": "Jamaica's capital and largest city."
+}

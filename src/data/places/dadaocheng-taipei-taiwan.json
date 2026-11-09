@@ -1,0 +1,13 @@
+{
+  "id": "dadaocheng-taipei-taiwan",
+  "name": "Dadaocheng, Taipei, Taiwan",
+  "position": {
+    "lat": 25.0568,
+    "lon": 121.5097
+  },
+  "scale": "area",
+  "parentId": "taipei-taiwan",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dadaocheng",
+  "description": "A quarter of Datong District in Taipei."
+}

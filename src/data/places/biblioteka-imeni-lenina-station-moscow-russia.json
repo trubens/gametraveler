@@ -1,0 +1,19 @@
+{
+  "id": "biblioteka-imeni-lenina-station-moscow-russia",
+  "name": "Biblioteka Imeni Lenina station, Moscow, Russia",
+  "position": {
+    "lat": 55.7512,
+    "lon": 37.61
+  },
+  "scale": "site",
+  "parentId": "moscow-russia",
+  "placeType": "landmark",
+  "aliases": [
+    "Lenin Library station",
+    "Polis"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Biblioteka_Imeni_Lenina",
+  "description": "A Moscow Metro station under the Russian State Library, by the Kremlin.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Biblioteka_Imeni_Lenina"
+}

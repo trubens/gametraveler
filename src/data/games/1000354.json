@@ -1,0 +1,58 @@
+{
+  "id": 1000354,
+  "name": "Metal Gear Solid: Peace Walker",
+  "year": 2010,
+  "series": "Metal Gear",
+  "developer": "Kojima Productions",
+  "publisher": "Konami",
+  "genres": [
+    "Stealth"
+  ],
+  "storyYears": [
+    1974
+  ],
+  "source": "https://en.wikipedia.org/wiki/Metal_Gear_Solid:_Peace_Walker",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "colombia",
+      "note": "November 1974: Big Boss and Kaz Miller run their mercenary unit MSF from the Colombian coast when a Costa Rican professor and a student ask for help."
+    },
+    {
+      "placeId": "mother-base-fictional-caribbean",
+      "settingType": "imaginary",
+      "note": "MSF takes over an offshore platform as its home base, where Snake builds up the army he recruits in the field."
+    },
+    {
+      "placeId": "costa-rica",
+      "note": "Snake fights through Costa Rica's jungle, cloud forest and coast against the armed force deployed there, and uncovers the nuclear launch platform Peace Walker."
+    },
+    {
+      "placeId": "irazu-volcano-costa-rica",
+      "settingType": "fictionalized",
+      "note": "Snake climbs to the crater of Irazú, where the enemy has hidden a base and one of the AI weapons."
+    },
+    {
+      "placeId": "lake-nicaragua",
+      "note": "Snake chases Peace Walker over the Nicaraguan border to an American airbase on the shores of Lake Cocibolca, held by the Soviets."
+    }
+  ],
+  "routes": [
+    {
+      "id": "big-boss-1974",
+      "name": "Big Boss",
+      "characters": [
+        "Big Boss"
+      ],
+      "stops": [
+        "colombia",
+        "mother-base-fictional-caribbean",
+        "costa-rica",
+        "irazu-volcano-costa-rica",
+        "lake-nicaragua"
+      ],
+      "note": "From MSF's camp on the Colombian coast to Mother Base, then through Costa Rica's jungles and Irazú's crater to Lake Nicaragua in pursuit of Peace Walker.",
+      "source": "https://en.wikipedia.org/wiki/Metal_Gear_Solid:_Peace_Walker"
+    }
+  ]
+}

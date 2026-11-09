@@ -1,0 +1,20 @@
+{
+  "id": 314,
+  "name": "Gran Turismo 3: A-Spec",
+  "year": 2001,
+  "series": "Gran Turismo",
+  "developer": "Polyphony Digital",
+  "publisher": "Sony Computer Entertainment",
+  "locations": [
+    {
+      "placeId": "laguna-seca-california-usa",
+      "note": "Apart from the Monaco-inspired Côte d'Azur, the only one of GT3's 19 courses set at a real place; all the others are fictional."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Gran_Turismo_3:_A-Spec",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+  "genres": [
+    "Racing"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "egyptian-museum-cairo-egypt",
+  "name": "Egyptian Museum, Cairo, Egypt",
+  "position": {
+    "lat": 30.0478,
+    "lon": 31.2333
+  },
+  "scale": "site",
+  "parentId": "cairo-egypt",
+  "placeType": "venue",
+  "aliases": [
+    "Cairo Museum"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Egyptian_Museum",
+  "description": "The 1902 museum on Tahrir Square that held the country's great collection of antiquities.",
+  "descriptionSource": "wikipedia"
+}

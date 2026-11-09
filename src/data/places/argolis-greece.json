@@ -1,0 +1,13 @@
+{
+  "id": "argolis-greece",
+  "name": "Argolis, Greece",
+  "position": {
+    "lat": 37.6,
+    "lon": 22.7
+  },
+  "scale": "area",
+  "parentId": "greece",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Argolis",
+  "description": "A region in the eastern Peloponnese."
+}

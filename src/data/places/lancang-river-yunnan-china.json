@@ -1,0 +1,17 @@
+{
+  "id": "lancang-river-yunnan-china",
+  "name": "Lancang River, Yunnan, China",
+  "position": {
+    "lat": 25.5,
+    "lon": 99.3
+  },
+  "scale": "area",
+  "parentId": "china",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Lancang Jiang"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mekong",
+  "description": "The upper Mekong, called the Lancang in China, cutting deep gorges through Yunnan on its way south.",
+  "descriptionSource": "wikipedia"
+}

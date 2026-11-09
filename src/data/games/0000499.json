@@ -1,0 +1,30 @@
+{
+  "id": 499,
+  "name": "Alpha Protocol",
+  "year": 2010,
+  "developer": "Obsidian Entertainment",
+  "publisher": "Sega",
+  "locations": [
+    {
+      "placeId": "rome-italy",
+      "note": "The espionage campaign includes playable operations in Rome, Taipei and Moscow."
+    },
+    {
+      "placeId": "taipei-taiwan",
+      "note": "The espionage campaign includes playable operations in Rome, Taipei and Moscow."
+    },
+    {
+      "placeId": "moscow-russia",
+      "note": "The espionage campaign includes playable operations in Rome, Taipei and Moscow."
+    }
+  ],
+  "storyYears": [
+    2010
+  ],
+  "source": "https://en.wikipedia.org/wiki/Alpha_Protocol",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
+  "developerUrl": "https://en.wikipedia.org/wiki/Obsidian_Entertainment",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

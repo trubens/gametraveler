@@ -1,0 +1,13 @@
+{
+  "id": "kosovo",
+  "name": "Kosovo",
+  "position": {
+    "lat": 42.59,
+    "lon": 20.86
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://en.wikipedia.org/wiki/Kosovo",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kosovo",
+  "description": "A landlocked country in Southeastern Europe, recognised by some nations and not by others."
+}

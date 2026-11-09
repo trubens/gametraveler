@@ -1,0 +1,13 @@
+{
+  "id": "washington-d-c-usa",
+  "name": "Washington, D.C., USA",
+  "position": {
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Washington,_D.C.",
+  "description": "The capital of the United States, a planned city on the Potomac that is a federal district rather than part of any state."
+}

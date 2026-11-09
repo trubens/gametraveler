@@ -1,0 +1,44 @@
+{
+  "id": 201,
+  "name": "Riders Republic",
+  "year": 2021,
+  "publisher": "Ubisoft",
+  "developer": "Ubisoft Annecy",
+  "locations": [
+    {
+      "placeId": "yosemite-valley-usa",
+      "note": "Yosemite Valley's granite walls and meadows are stitched into the single map for bike and wingsuit runs."
+    },
+    {
+      "placeId": "bryce-canyon-usa",
+      "note": "Bryce Canyon's hoodoos form one of the seven US national parks merged into the Republic's map."
+    },
+    {
+      "placeId": "grand-teton-usa",
+      "note": "The Grand Teton peaks are the snowy side of the mashup map, home to ski and snowboard events."
+    },
+    {
+      "placeId": "sequoia-national-park-usa",
+      "note": "The map combines recognizable Sequoia mountain landscapes with other western parks."
+    },
+    {
+      "placeId": "zion-national-park-usa",
+      "note": "The playable map includes Zion's sandstone cliffs and canyons."
+    },
+    {
+      "placeId": "canyonlands-national-park-usa",
+      "note": "The map recreates the red-rock terrain of Canyonlands."
+    },
+    {
+      "placeId": "mammoth-mountain-california-usa",
+      "note": "The game includes the recognizable Mammoth Mountain ski area."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Riders_Republic",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "route": false,
+  "genres": [
+    "Sports"
+  ]
+}

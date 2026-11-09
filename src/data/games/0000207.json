@@ -1,0 +1,22 @@
+{
+  "id": 207,
+  "name": "The Blackwell Legacy",
+  "year": 2006,
+  "publisher": "Wadjet Eye Games",
+  "series": "Blackwell",
+  "developer": "Wadjet Eye Games",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Rosa Blackwell investigates a series of student deaths in New York, visiting apartments, a hospital and a haunted dog park."
+    }
+  ],
+  "storyYears": [
+    2006
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Blackwell_Legacy",
+  "developerUrl": "https://en.wikipedia.org/wiki/Wadjet_Eye_Games",
+  "genres": [
+    "Adventure"
+  ]
+}

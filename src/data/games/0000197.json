@@ -1,0 +1,21 @@
+{
+  "id": 197,
+  "name": "Observer",
+  "year": 2017,
+  "publisher": "Aspyr",
+  "developer": "Bloober Team",
+  "locations": [
+    {
+      "placeId": "krakow-poland",
+      "note": "Detective Dan Lazarski hacks minds in a 2084 Kraków tenement block to find his missing son."
+    }
+  ],
+  "storyYears": [
+    2084
+  ],
+  "source": "https://en.wikipedia.org/wiki/Observer_(video_game)",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Aspyr",
+  "genres": [
+    "Adventure"
+  ]
+}

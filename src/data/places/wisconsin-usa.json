@@ -1,0 +1,12 @@
+{
+  "id": "wisconsin-usa",
+  "name": "Wisconsin, USA",
+  "position": {
+    "lat": 44.5,
+    "lon": -89.5
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wisconsin",
+  "description": "A state of the Upper Midwest on the Great Lakes, bordered by Lake Michigan and Lake Superior."
+}

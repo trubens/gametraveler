@@ -1,0 +1,15 @@
+{
+  "id": "outer-heaven-fictional-south-africa",
+  "name": "Outer Heaven, South Africa",
+  "position": {
+    "lat": -24.6,
+    "lon": 28.2
+  },
+  "scale": "area",
+  "parentId": "south-africa",
+  "placeType": "region",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Metal_Gear_(video_game)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/South_Africa",
+  "description": "The invented fortified mercenary state of the first Metal Gear, which the game puts 200 km north of the invented town of Galzburg in South Africa. The pin in northern South Africa is a guess."
+}

@@ -1,0 +1,65 @@
+{
+  "id": 266,
+  "name": "Company of Heroes 3",
+  "year": 2023,
+  "publisher": "Sega",
+  "series": "Company of Heroes",
+  "developer": "Relic Entertainment",
+  "locations": [
+    {
+      "placeId": "salerno-italy",
+      "note": "The Italian campaign begins with Allied landings and fighting around Salerno."
+    },
+    {
+      "placeId": "monte-cassino-italy",
+      "note": "The Italian campaign builds toward the battle for the fortified monastery and surrounding heights."
+    },
+    {
+      "placeId": "ajdabiya-libya",
+      "note": "The Afrikakorps' offensive opens with an assault on the British at Ajdabiya.",
+      "source": "https://www.gamewatcher.com/guides/company-of-heroes-3-north-african-operation-mission-list"
+    },
+    {
+      "placeId": "gazala-libya",
+      "note": "The Afrikakorps fights the British armour in the Cauldron at Gazala.",
+      "source": "https://www.gamewatcher.com/guides/company-of-heroes-3-north-african-operation-mission-list"
+    },
+    {
+      "placeId": "tobruk-libya",
+      "note": "The Afrikakorps storms Tobruk and seizes its port."
+    },
+    {
+      "placeId": "el-alamein-egypt",
+      "note": "The Afrikakorps' drive into Egypt is stopped at El Alamein."
+    }
+  ],
+  "storyYears": [
+    1941,
+    1942,
+    1943,
+    1944
+  ],
+  "source": "https://en.wikipedia.org/wiki/Company_of_Heroes_3",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
+  "genres": [
+    "Real-Time Strategy"
+  ],
+  "routes": [
+    {
+      "id": "afrikakorps",
+      "name": "Deutsches Afrikakorps",
+      "characters": [
+        "Deutsches Afrikakorps"
+      ],
+      "stops": [
+        "ajdabiya-libya",
+        "gazala-libya",
+        "tobruk-libya",
+        "el-alamein-egypt"
+      ],
+      "note": "The Afrikakorps rolls east from Ajdabiya through the Gazala Cauldron, takes Tobruk and drives into Egypt until it is stopped at El Alamein.",
+      "source": "https://www.gamewatcher.com/guides/company-of-heroes-3-north-african-operation-mission-list"
+    }
+  ]
+}

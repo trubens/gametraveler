@@ -1,0 +1,16 @@
+{
+  "id": "boston-usa",
+  "name": "Boston, USA",
+  "position": {
+    "lat": 42.3601,
+    "lon": -71.0589
+  },
+  "scale": "area",
+  "parentId": "massachusetts-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Boston",
+  "description": "New England's cultural and financial centre.",
+  "aliases": [
+    "Boston, Massachusetts, USA"
+  ]
+}

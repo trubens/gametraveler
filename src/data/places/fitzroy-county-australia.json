@@ -1,0 +1,13 @@
+{
+  "id": "fitzroy-county-australia",
+  "name": "Fitzroy County, Australia",
+  "position": {
+    "lat": -26.4,
+    "lon": 152.6
+  },
+  "scale": "area",
+  "parentId": "australia",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fitzroy_County",
+  "description": "One of the old land divisions of New South Wales, lying between the Orara and Bellinger rivers and including Coffs Harbour."
+}

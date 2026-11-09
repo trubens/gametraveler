@@ -1,0 +1,46 @@
+{
+  "id": 1000320,
+  "name": "True Crime: Streets of LA",
+  "year": 2003,
+  "series": "True Crime",
+  "developer": "Luxoflux",
+  "publisher": "Activision",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "storyYears": [
+    2003
+  ],
+  "source": "https://en.wikipedia.org/wiki/True_Crime:_Streets_of_LA",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "los-angeles-usa",
+      "note": "Detective Nick Kang drives, shoots and fights across a 240-square-mile recreation of Los Angeles, from Chinatown bombings to the Russian mob, the Triads and the truth about his father's death."
+    },
+    {
+      "placeId": "chinatown-los-angeles-usa",
+      "note": "The case opens with bombings in Chinatown, the Triads' ground."
+    },
+    {
+      "placeId": "downtown-los-angeles-usa",
+      "note": "Downtown's streets and towers are the hub of the open city."
+    },
+    {
+      "placeId": "hollywood-california-usa",
+      "note": "Hollywood and the Hollywood Hills, with missions among the studios and the hillside houses."
+    },
+    {
+      "placeId": "beverly-hills-california-usa",
+      "note": "Beverly Hills, the mansions and Rodeo Drive, part of the drivable city."
+    },
+    {
+      "placeId": "santa-monica-california-usa",
+      "note": "Santa Monica, from the pier to the airport, where missions end on the runway."
+    },
+    {
+      "placeId": "marina-del-rey-california-usa",
+      "note": "The marina and its harbour, the south-western edge of the map."
+    }
+  ]
+}

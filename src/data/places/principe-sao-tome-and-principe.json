@@ -1,0 +1,13 @@
+{
+  "id": "principe-sao-tome-and-principe",
+  "name": "Príncipe, São Tomé and Príncipe",
+  "position": {
+    "lat": 1.6167,
+    "lon": 7.4
+  },
+  "scale": "area",
+  "placeType": "island",
+  "source": "https://en.wikipedia.org/wiki/Pr%C3%ADncipe",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pr%C3%ADncipe",
+  "description": "The smaller, northern of the two main islands of São Tomé and Príncipe, lying in the Gulf of Guinea off Africa's west coast."
+}

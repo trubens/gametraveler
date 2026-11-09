@@ -1,0 +1,13 @@
+{
+  "id": "falkland-islands",
+  "name": "Falkland Islands",
+  "scale": "area",
+  "position": {
+    "lat": -51.7963,
+    "lon": -59.5236
+  },
+  "source": "https://en.wikipedia.org/wiki/Falkland_Islands",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Falkland_Islands",
+  "placeType": "island",
+  "description": "An archipelago in the South Atlantic on the Patagonian Shelf, usually just called the Falklands."
+}

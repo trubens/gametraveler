@@ -1,0 +1,14 @@
+{
+  "id": "himalayas",
+  "name": "Himalayas",
+  "position": {
+    "lat": 27.9833,
+    "lon": 86.9167
+  },
+  "scale": "area",
+  "placeType": "natural_feature",
+  "source": "https://en.wikipedia.org/wiki/Himalayas",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Himalayas",
+  "description": "The mountain range between the plains of the Indian subcontinent and the Tibetan Plateau, home to the world's highest peaks, Everest among them.",
+  "descriptionSource": "wikipedia"
+}

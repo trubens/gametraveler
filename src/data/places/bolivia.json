@@ -1,0 +1,12 @@
+{
+  "id": "bolivia",
+  "name": "Bolivia",
+  "position": {
+    "lat": -16.2902,
+    "lon": -63.5887
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bolivia",
+  "description": "A landlocked country in the heart of South America, Andean in the west and tropical lowland to the east and north."
+}

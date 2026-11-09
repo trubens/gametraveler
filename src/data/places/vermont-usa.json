@@ -1,0 +1,12 @@
+{
+  "id": "vermont-usa",
+  "name": "Vermont, USA",
+  "position": {
+    "lat": 44.0459,
+    "lon": -72.7107
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vermont",
+  "description": "A landlocked New England state, with Massachusetts to the south, New Hampshire to the east, New York to the west and Quebec to the north."
+}

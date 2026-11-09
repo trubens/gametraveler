@@ -1,0 +1,30 @@
+{
+  "id": 1000155,
+  "name": "Agatha Christie: The ABC Murders",
+  "year": 2016,
+  "publisher": "Microïds",
+  "series": "Agatha Christie",
+  "developer": "Artefacts Studio",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Agatha_Christie:_The_ABC_Murders_(2016_video_game)",
+  "route": true,
+  "locations": [
+    {
+      "placeId": "andover-england-uk",
+      "note": "Poirot investigates the first ABC murder and explores its crime scene in Andover."
+    },
+    {
+      "placeId": "bexhill-on-sea-england-uk",
+      "note": "The second murder investigation takes the player to Bexhill-on-Sea."
+    },
+    {
+      "placeId": "churston-devon-england-uk",
+      "note": "The third murder brings Poirot to Churston in Devon."
+    }
+  ],
+  "storyYears": [
+    1935
+  ]
+}

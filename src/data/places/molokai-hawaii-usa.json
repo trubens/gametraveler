@@ -1,0 +1,17 @@
+{
+  "id": "molokai-hawaii-usa",
+  "name": "Molokai, Hawaii, USA",
+  "position": {
+    "lat": 21.135,
+    "lon": -157.01
+  },
+  "scale": "area",
+  "parentId": "hawaii-usa",
+  "placeType": "island",
+  "aliases": [
+    "Molokaʻi"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Molokai",
+  "description": "The fifth largest of the Hawaiian islands, with the world's tallest sea cliffs along its north shore.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 1000300,
+  "name": "Mata Hari",
+  "year": 2008,
+  "developer": "Cranberry Production",
+  "publisher": "dtp entertainment",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    1905,
+    1908,
+    1912,
+    1914
+  ],
+  "source": "https://en.wikipedia.org/wiki/Mata_Hari_(video_game)",
+  "route": false,
+  "locations": [
+    {
+      "placeId": "paris-france",
+      "note": "Mata Hari arrives in 1905 to dance her way into Paris society, and later photographs the British ambassador's papers at the embassy for French counter-intelligence.",
+      "source": "http://www.gameboomers.com/wtcheats/pcMm/matahari/matahari.htm"
+    },
+    {
+      "placeId": "berlin-germany",
+      "note": "Her German handler Major von Kalle sets her on the Jules Verne weapons project; she steals aircraft designs and sabotages engines.",
+      "source": "http://www.gameboomers.com/wtcheats/pcMm/matahari/matahari.htm"
+    },
+    {
+      "placeId": "monte-carlo-monaco",
+      "note": "Monaco is her playground between assignments, reached by train and used to play the two sides against each other.",
+      "source": "http://www.gameboomers.com/wtcheats/pcMm/matahari/matahari.htm"
+    },
+    {
+      "placeId": "madrid-spain",
+      "note": "A 1912 chapter takes the double game to Madrid, on the trail of the German code wheel and its coded messages.",
+      "source": "http://www.gameboomers.com/wtcheats/pcMm/matahari/matahari.htm"
+    }
+  ]
+}

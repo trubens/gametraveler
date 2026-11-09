@@ -1,0 +1,13 @@
+{
+  "id": "vienna-austria",
+  "name": "Vienna, Austria",
+  "position": {
+    "lat": 48.2082,
+    "lon": 16.3738
+  },
+  "scale": "area",
+  "parentId": "austria",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vienna",
+  "description": "Austria's capital and largest city."
+}

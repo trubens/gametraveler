@@ -1,0 +1,20 @@
+{
+  "id": 1000231,
+  "name": "Nancy Drew: Legend of the Crystal Skull",
+  "year": 2007,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "new-orleans-usa",
+      "note": "Nancy hunts for the Whisperer, a crystal skull said to protect its owner from any death but murder, through Bruno Bolet's mansion and the cemetery he tended, while Bess scouts the French Quarter."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Legend_of_the_Crystal_Skull",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

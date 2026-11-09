@@ -1,0 +1,18 @@
+{
+  "id": "ludendorff-fictional-fargo-north-dakota-usa",
+  "name": "Ludendorff, North Yankton",
+  "position": {
+    "lat": 46.8733,
+    "lon": -96.8272
+  },
+  "scale": "area",
+  "placeType": "city",
+  "aliases": [
+    "Ludendorff",
+    "North Yankton"
+  ],
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fargo,_North_Dakota",
+  "description": "An invented snowbound town in the invented state of North Yankton, the setting of Grand Theft Auto V's prologue, largely inspired by Fargo, North Dakota. Pinned on Fargo."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "strand-lane-roman-bath-london-uk",
+  "name": "Strand Lane Roman Bath, London, UK",
+  "position": {
+    "lat": 51.5116,
+    "lon": -0.1156
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "aliases": [
+    "Roman Baths, Strand Lane"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Roman_Baths%2C_Strand_Lane",
+  "description": "A brick cold plunge bath in a lane off the Strand, sold to Victorians as Roman though it is a 17th-century cistern.",
+  "descriptionSource": "wikipedia"
+}

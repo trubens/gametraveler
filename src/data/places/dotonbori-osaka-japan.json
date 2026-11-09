@@ -1,0 +1,15 @@
+{
+  "id": "dotonbori-osaka-japan",
+  "name": "Dōtonbori, Osaka, Japan",
+  "position": {
+    "lat": 34.6687,
+    "lon": 135.5013
+  },
+  "scale": "area",
+  "parentId": "osaka-japan",
+  "placeType": "neighborhood",
+  "source": "https://en.wikipedia.org/wiki/D%C5%8Dtonbori",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/D%C5%8Dtonbori",
+  "description": "Osaka's nightlife district along the Dōtonbori canal, famous for its giant neon signs, the Glico running man and street food.",
+  "descriptionSource": "wikipedia"
+}

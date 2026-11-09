@@ -1,0 +1,13 @@
+{
+  "id": "sudan",
+  "name": "Sudan",
+  "position": {
+    "lat": 16.33,
+    "lon": 29.26
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://en.wikipedia.org/wiki/Sudan",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sudan",
+  "description": "A vast country of Northeast Africa, crossed by the Nile on its way north to Egypt."
+}

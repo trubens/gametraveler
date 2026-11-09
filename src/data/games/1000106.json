@@ -1,0 +1,20 @@
+{
+  "id": 1000106,
+  "name": "Noir: A Shadowy Thriller",
+  "year": 1996,
+  "publisher": "Cyberdreams",
+  "developer": "TSi, Inc.",
+  "locations": [
+    {
+      "placeId": "los-angeles-usa",
+      "note": "A private investigator works six cases across a film-noir version of Los Angeles in 1940."
+    }
+  ],
+  "storyYears": [
+    1940
+  ],
+  "source": "https://en.wikipedia.org/wiki/Noir:_A_Shadowy_Thriller",
+  "genres": [
+    "Adventure"
+  ]
+}

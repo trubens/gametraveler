@@ -1,0 +1,15 @@
+{
+  "id": "trafalgar-square-london-uk",
+  "name": "Trafalgar Square, London, UK",
+  "position": {
+    "lat": 51.5081,
+    "lon": -0.1281
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Trafalgar_Square",
+  "description": "A public square in the City of Westminster, built around Nelson's Column to commemorate the Battle of Trafalgar.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Trafalgar_Square"
+}

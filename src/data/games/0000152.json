@@ -1,0 +1,22 @@
+{
+  "id": 152,
+  "name": "The Getaway",
+  "year": 2002,
+  "publisher": "Sony Computer Entertainment",
+  "series": "The Getaway",
+  "developer": "Team Soho",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "Ex-gangster Mark Hammond is forced through London's underworld after his son is kidnapped."
+    }
+  ],
+  "storyYears": [
+    2002
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Getaway_(video_game)",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

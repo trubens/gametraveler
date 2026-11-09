@@ -1,0 +1,13 @@
+{
+  "id": "skagway-alaska-usa",
+  "name": "Skagway, Alaska, USA",
+  "position": {
+    "lat": 59.468519,
+    "lon": -135.305962
+  },
+  "scale": "area",
+  "parentId": "alaska-usa",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Skagway,_Alaska",
+  "placeType": "city",
+  "description": "A small town on the Alaska Panhandle at the head of the Lynn Canal."
+}

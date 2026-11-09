@@ -1,0 +1,13 @@
+{
+  "id": "independence-missouri-usa",
+  "name": "Independence, Missouri, USA",
+  "position": {
+    "lat": 39.09112,
+    "lon": -94.41551
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Independence,_Missouri",
+  "placeType": "city",
+  "description": "A satellite city of Kansas City."
+}

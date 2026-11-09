@@ -1,0 +1,79 @@
+{
+  "id": 318,
+  "name": "Gran Turismo 7",
+  "year": 2022,
+  "series": "Gran Turismo",
+  "developer": "Polyphony Digital",
+  "publisher": "Sony Interactive Entertainment",
+  "locations": [
+    {
+      "placeId": "laguna-seca-california-usa",
+      "note": "A single layout with the Corkscrew; the track came back to the series in a December 2019 GT Sport update after missing that game's launch."
+    },
+    {
+      "placeId": "interlagos-circuit-sao-paulo-brazil",
+      "note": "Raced in a single layout, carried over from GT Sport."
+    },
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "Raced as the full circuit and in a No Chicane layout."
+    },
+    {
+      "placeId": "autopolis-japan",
+      "note": "The full course and a Shortcut Course; the circuit first joined the series in a March 2019 GT Sport update."
+    },
+    {
+      "placeId": "brands-hatch-uk",
+      "note": "Both the Grand Prix circuit and the short Indy Circuit."
+    },
+    {
+      "placeId": "circuit-de-barcelona-catalunya-spain",
+      "note": "Grand Prix, National and no-chicane layouts, plus a rallycross course."
+    },
+    {
+      "placeId": "circuit-de-la-sarthe-le-mans-france",
+      "note": "Full course and a no-chicane layout; ahead of the 2026 24 Hours of Le Mans, an update added four hypercars and a Porsche safety car."
+    },
+    {
+      "placeId": "circuit-de-spa-francorchamps-belgium",
+      "note": "Raced in its standard layout and a separate 24h layout."
+    },
+    {
+      "placeId": "daytona-international-speedway-florida-usa",
+      "note": "Both the tri-oval and the road course."
+    },
+    {
+      "placeId": "fuji-speedway-japan",
+      "note": "The full circuit and a Short Course."
+    },
+    {
+      "placeId": "goodwood-motor-circuit-west-sussex-uk",
+      "note": "The Goodwood Motor Circuit, not the Festival of Speed hill climb seen in GT6, in a single layout."
+    },
+    {
+      "placeId": "nurburgring-germany",
+      "note": "Six layouts: the Nordschleife, GP, Sprint, 24h and Endurance courses, plus a Nordschleife Tourist layout."
+    },
+    {
+      "placeId": "red-bull-ring-spielberg-austria",
+      "note": "The full circuit and the Short Track layout."
+    },
+    {
+      "placeId": "suzuka-international-racing-course-japan",
+      "note": "The full circuit and the East Course."
+    },
+    {
+      "placeId": "tsukuba-circuit-japan",
+      "note": "A single 2-km layout; Tsukuba has been in every numbered Gran Turismo since GT4."
+    },
+    {
+      "placeId": "willow-springs-international-raceway-california-usa",
+      "note": "Five layouts: Big Willow, plus the Streets of Willow Springs and the Horse Thief Mile, each also run in reverse."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Gran_Turismo_7",
+  "genres": [
+    "Racing"
+  ]
+}

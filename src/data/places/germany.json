@@ -1,0 +1,12 @@
+{
+  "id": "germany",
+  "name": "Germany",
+  "position": {
+    "lat": 50.96,
+    "lon": 9.68
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Germany",
+  "description": "A country of Western and Central Europe, between the Baltic and North Sea to the north and the Alps to the south."
+}

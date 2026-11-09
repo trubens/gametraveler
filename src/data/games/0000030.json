@@ -1,0 +1,27 @@
+{
+  "id": 30,
+  "name": "Still Life",
+  "year": 2005,
+  "publisher": "Microids",
+  "series": "Still Life",
+  "developer": "Microids",
+  "locations": [
+    {
+      "placeId": "chicago-usa",
+      "note": "FBI agent Victoria McPherson hunts a serial killer in 2004 Chicago."
+    },
+    {
+      "placeId": "prague-czech-republic",
+      "note": "Her grandfather Gus investigates a parallel series of murders in Prague in 1929."
+    }
+  ],
+  "storyYears": [
+    2004,
+    1929
+  ],
+  "source": "https://en.wikipedia.org/wiki/Still_Life_(video_game)",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Microids",
+  "genres": [
+    "Adventure"
+  ]
+}

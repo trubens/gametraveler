@@ -1,0 +1,16 @@
+{
+  "id": "ashmore-and-cartier-islands",
+  "name": "Ashmore and Cartier Islands",
+  "aliases": [
+    "Ashmore and Cartier Is."
+  ],
+  "position": {
+    "lat": -12.43,
+    "lon": 123.59
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ashmore_and_Cartier_Islands",
+  "description": "An uninhabited external territory of Australia: five low-lying islands on two separate reefs."
+}

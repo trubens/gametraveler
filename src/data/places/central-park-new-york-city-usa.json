@@ -1,0 +1,18 @@
+{
+  "id": "central-park-new-york-city-usa",
+  "name": "Central Park, New York City, USA",
+  "position": {
+    "lat": 40.7829,
+    "lon": -73.9654
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "Belvedere Castle",
+    "Metropolitan Museum of Art"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Central_Park",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Central_Park",
+  "description": "The great urban park between Manhattan's Upper West Side and Upper East Side, the first landscaped park in the United States."
+}

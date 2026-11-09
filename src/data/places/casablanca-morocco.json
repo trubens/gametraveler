@@ -1,0 +1,13 @@
+{
+  "id": "casablanca-morocco",
+  "name": "Casablanca, Morocco",
+  "position": {
+    "lat": 33.5731,
+    "lon": -7.5898
+  },
+  "scale": "area",
+  "parentId": "morocco",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Casablanca",
+  "description": "Morocco's largest city and its economic and business centre."
+}

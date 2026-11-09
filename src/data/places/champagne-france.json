@@ -1,0 +1,14 @@
+{
+  "id": "champagne-france",
+  "name": "Champagne, France",
+  "position": {
+    "lat": 49.0,
+    "lon": 4.0
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Champagne_(province)",
+  "description": "The former province of north-eastern France around Reims and Troyes, best known for its sparkling wine.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "nice-france",
+  "name": "Nice, France",
+  "position": {
+    "lat": 43.7102,
+    "lon": 7.262
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nice",
+  "description": "The chief city of the Alpes-Maritimes on the French Riviera."
+}

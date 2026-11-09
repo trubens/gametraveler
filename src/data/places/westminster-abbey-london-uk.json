@@ -1,0 +1,14 @@
+{
+  "id": "westminster-abbey-london-uk",
+  "name": "Westminster Abbey, London, UK",
+  "position": {
+    "lat": 51.4994,
+    "lon": -0.1275
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Westminster_Abbey",
+  "description": "The Gothic abbey church where English and British monarchs have been crowned since 1066.",
+  "descriptionSource": "wikipedia"
+}

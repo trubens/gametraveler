@@ -1,0 +1,83 @@
+{
+  "id": 1000147,
+  "name": "Indiana Jones and the Great Circle",
+  "year": 2024,
+  "publisher": "Bethesda Softworks",
+  "series": "Indiana Jones",
+  "developer": "MachineGames",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Great_Circle",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "peru",
+      "settingType": "fictionalized",
+      "note": "The game opens with a playable dream of 1936: Indy's escape with the golden idol from the booby-trapped jungle temple, as in Raiders of the Lost Ark.",
+      "source": "https://www.ign.com/wikis/indiana-jones-and-the-great-circle/The_Golden_Idol"
+    },
+    {
+      "placeId": "marshall-college-fictional-connecticut-usa",
+      "settingType": "fictionalized",
+      "note": "Woken in his office by a break-in, Indy confronts the giant Locus, who steals a cat mummy from the college museum and knocks him out.",
+      "source": "https://www.ign.com/wikis/indiana-jones-and-the-great-circle/The_Break-In"
+    },
+    {
+      "placeId": "castel-sant-angelo-rome-italy",
+      "note": "Arriving in Rome after the stolen cat mummy, Indy sneaks through the Blackshirt-held castle and its bastions to meet his friend Antonio from the Vatican.",
+      "source": "https://www.ign.com/wikis/indiana-jones-and-the-great-circle/The_Stolen_Cat_Mummy_-_Castel_Sant%27Angelo"
+    },
+    {
+      "placeId": "vatican-city",
+      "note": "In a Vatican under Mussolini's Blackshirts Indy meets the reporter Gina Lombardi and learns of the Nephilim and the Great Circle, with a passage under a palace to the tomb of the giant Junia."
+    },
+    {
+      "placeId": "giza-pyramid-complex-egypt",
+      "note": "Indy works the Nazi dig on the Giza plateau, among the pyramids and under the Sphinx, for the Idol of Ra; Voss leaves him for dead in the desert."
+    },
+    {
+      "placeId": "himalayas",
+      "note": "High in the Himalayas Indy and Gina find a Nazi battleship carried up the mountain by the third stone, and Gina's sister Laura frozen to death.",
+      "source": "https://www.ign.com/wikis/indiana-jones-and-the-great-circle/A_Harsh_Climb"
+    },
+    {
+      "placeId": "shanghai-china",
+      "note": "The third stone opens a portal to Shanghai in the middle of the Japanese invasion, where Gantz dies; the pair escape in a hijacked fighter."
+    },
+    {
+      "placeId": "sukhothai-thailand",
+      "note": "In Siam Indy and Gina join the local rebels against Voss's Italian troops, steal his gold to buy a rebreather and follow the legend of a guardian giant to the stone hidden among Sukhothai's temples."
+    },
+    {
+      "placeId": "ziggurat-of-ur-iraq",
+      "note": "The last site of the Great Circle: at the Ziggurat of Ur Locus calls the Nephilim against the Nazis and Indy rescues Gina."
+    }
+  ],
+  "routes": [
+    {
+      "id": "indiana-jones-gina-lombardi",
+      "name": "Indiana Jones and Gina Lombardi",
+      "characters": [
+        "Indiana Jones",
+        "Gina Lombardi"
+      ],
+      "stops": [
+        "peru",
+        "marshall-college-fictional-connecticut-usa",
+        "castel-sant-angelo-rome-italy",
+        "vatican-city",
+        "giza-pyramid-complex-egypt",
+        "himalayas",
+        "shanghai-china",
+        "sukhothai-thailand",
+        "ziggurat-of-ur-iraq"
+      ],
+      "note": "From a dream of the golden idol and the break-in at Marshall College, Indy and Gina race the Nazis along the Great Circle through Rome and the Vatican to Giza, the Himalayas, Shanghai and Sukhothai, ending in the ziggurat at Ur.",
+      "source": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Great_Circle"
+    }
+  ],
+  "storyYears": [
+    1937
+  ]
+}

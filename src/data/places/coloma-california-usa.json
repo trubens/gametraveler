@@ -1,0 +1,13 @@
+{
+  "id": "coloma-california-usa",
+  "name": "Coloma, California, USA",
+  "position": {
+    "lat": 38.8,
+    "lon": -120.89
+  },
+  "scale": "area",
+  "parentId": "california-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Coloma,_California",
+  "description": "A small community in El Dorado County."
+}

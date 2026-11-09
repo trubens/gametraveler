@@ -1,0 +1,14 @@
+{
+  "id": "derwentwater-england-uk",
+  "name": "Derwentwater, England, UK",
+  "position": {
+    "lat": 54.5833,
+    "lon": -3.15
+  },
+  "scale": "area",
+  "parentId": "lake-district-uk",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Derwentwater",
+  "description": "The lake just south of Keswick in the Lake District, with Cat Bells rising on its western shore.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "utah-usa",
+  "name": "Utah, USA",
+  "position": {
+    "lat": 39.3,
+    "lon": -111.1
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Utah",
+  "description": "A landlocked state of the Mountain West and one of the Four Corners states, meeting Arizona, Colorado and New Mexico."
+}

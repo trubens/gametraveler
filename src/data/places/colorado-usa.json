@@ -1,0 +1,12 @@
+{
+  "id": "colorado-usa",
+  "name": "Colorado, USA",
+  "position": {
+    "lat": 39.5501,
+    "lon": -105.7821
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Colorado",
+  "description": "A landlocked state of the Mountain West, in the American Southwest, meeting Arizona, New Mexico and Utah at the Four Corners."
+}

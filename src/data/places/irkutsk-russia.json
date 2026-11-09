@@ -1,0 +1,14 @@
+{
+  "id": "irkutsk-russia",
+  "name": "Irkutsk, Russia",
+  "position": {
+    "lat": 52.2864,
+    "lon": 104.2807
+  },
+  "scale": "area",
+  "parentId": "russia",
+  "source": "https://en.wikipedia.org/wiki/Irkutsk",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Irkutsk",
+  "placeType": "city",
+  "description": "The largest city of its region in Russia."
+}

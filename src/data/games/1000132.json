@@ -1,0 +1,19 @@
+{
+  "id": 1000132,
+  "name": "Beautiful Desolation",
+  "year": 2020,
+  "publisher": "Untold Tales",
+  "developer": "The Brotherhood",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://untoldtales.games/games/beautiful-desolation/",
+  "locations": [
+    {
+      "placeId": "south-africa",
+      "settingType": "fictionalized",
+      "note": "An alternate post-apocalyptic future transforms South African landscapes; the journey begins around Cape Town and opens into a large explorable region."
+    }
+  ],
+  "storyYears": []
+}

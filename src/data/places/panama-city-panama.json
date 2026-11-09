@@ -1,0 +1,13 @@
+{
+  "id": "panama-city-panama",
+  "name": "Panama City, Panama",
+  "position": {
+    "lat": 8.9824,
+    "lon": -79.5199
+  },
+  "scale": "area",
+  "parentId": "panama",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Panama_City",
+  "description": "The capital and largest city of Panama."
+}

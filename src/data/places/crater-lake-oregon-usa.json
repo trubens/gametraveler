@@ -1,0 +1,12 @@
+{
+  "id": "crater-lake-oregon-usa",
+  "name": "Crater Lake, Oregon, USA",
+  "position": {
+    "lat": 42.9446,
+    "lon": -122.109
+  },
+  "scale": "area",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Crater_Lake",
+  "description": "A volcanic crater lake in south-central Oregon, the heart of its national park, famous for its deep blue colour and clear water."
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1000312,
+  "name": "Operation Flashpoint: Red River",
+  "year": 2011,
+  "developer": "Codemasters",
+  "publisher": "Codemasters",
+  "genres": [
+    "Tactical Shooter"
+  ],
+  "storyYears": [
+    2013
+  ],
+  "source": "https://en.wikipedia.org/wiki/Operation_Flashpoint:_Red_River",
+  "locations": [
+    {
+      "placeId": "tajikistan",
+      "settingType": "fictionalized",
+      "note": "A Marine fireteam, Outlaw 2 Bravo, fights an invented 2013 war across Tajikistan: first against insurgents in the west, village by village up to a dam and an airfield, then a guerrilla campaign against a Chinese invasion from the east, ending with the push back over the border."
+    }
+  ]
+}

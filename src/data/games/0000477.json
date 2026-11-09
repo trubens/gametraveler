@@ -1,0 +1,32 @@
+{
+  "id": 477,
+  "name": "Assassin's Creed Nexus VR",
+  "year": 2023,
+  "series": "Assassin's Creed",
+  "developer": "Red Storm Entertainment",
+  "publisher": "Ubisoft",
+  "locations": [
+    {
+      "placeId": "venice-italy",
+      "note": "Ezio's memories, in Renaissance Venice."
+    },
+    {
+      "placeId": "athens-greece",
+      "note": "Kassandra's memories, in Classical Athens."
+    },
+    {
+      "placeId": "boston-usa",
+      "note": "Connor's memories, in colonial Boston."
+    }
+  ],
+  "storyYears": [
+    -405,
+    1777
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Nexus_VR",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

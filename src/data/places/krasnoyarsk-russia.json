@@ -1,0 +1,14 @@
+{
+  "id": "krasnoyarsk-russia",
+  "name": "Krasnoyarsk, Russia",
+  "position": {
+    "lat": 56.0097,
+    "lon": 92.7917
+  },
+  "scale": "area",
+  "parentId": "russia",
+  "source": "https://en.wikipedia.org/wiki/Krasnoyarsk",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Krasnoyarsk",
+  "placeType": "city",
+  "description": "Siberia's second city after Novosibirsk."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "osaka-japan",
+  "name": "Osaka, Japan",
+  "position": {
+    "lat": 34.6687,
+    "lon": 135.5021
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Osaka",
+  "description": "The capital of Osaka Prefecture."
+}

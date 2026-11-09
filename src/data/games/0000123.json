@@ -1,0 +1,119 @@
+{
+  "id": 123,
+  "name": "Assassin's Creed III",
+  "aliases": [
+    "AC",
+    "AC III",
+    "AC 3"
+  ],
+  "year": 2012,
+  "publisher": "Ubisoft",
+  "series": "Assassin's Creed",
+  "developer": "Ubisoft Montreal",
+  "locations": [
+    {
+      "placeId": "boston-usa",
+      "note": "Colonial Boston, where Connor is drawn into the run-up to the American Revolution."
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "note": "British-held 18th-century New York, a major battleground in Connor's fight against the Templars."
+    },
+    {
+      "placeId": "american-frontier-fictionalized-colonial-wilderness-usa",
+      "settingType": "fictionalized",
+      "note": "The Frontier is a major explorable region between the colonial cities."
+    },
+    {
+      "placeId": "caribbean-sea-naval-missions",
+      "note": "Naval missions take Connor through the Caribbean."
+    },
+    {
+      "placeId": "lexington-massachusetts-usa",
+      "note": "Connor rides with the militia at Lexington in April 1775."
+    },
+    {
+      "placeId": "concord-massachusetts-usa",
+      "note": "The fight continues at Concord and the North Bridge."
+    },
+    {
+      "placeId": "philadelphia-pennsylvania-usa",
+      "note": "Connor comes to Philadelphia for the Continental Congress and Washington's appointment as commander."
+    },
+    {
+      "placeId": "old-state-house-boston-usa",
+      "note": "Connor stands in the crowd beneath the Old State House when the Boston Massacre erupts in March 1770."
+    },
+    {
+      "placeId": "boston-tea-party-site-boston-usa",
+      "note": "The Tea Party: Connor helps the Sons of Liberty dump the tea from Griffin's Wharf in December 1773."
+    },
+    {
+      "placeId": "old-north-church-boston-usa",
+      "note": "Connor rides with Paul Revere on the night of the lanterns, from the North End out to Lexington."
+    },
+    {
+      "placeId": "bunker-hill-monument-boston-usa",
+      "note": "The Battle of Bunker Hill: Connor crosses the battlefield under fire to assassinate John Pitcairn."
+    },
+    {
+      "placeId": "faneuil-hall-boston-usa",
+      "note": "Faneuil Hall and its market, where Connor meets Samuel Adams and the Sons of Liberty."
+    },
+    {
+      "placeId": "independence-hall-philadelphia-usa",
+      "note": "The Pennsylvania State House, where Connor watches the Continental Congress name Washington commander-in-chief."
+    },
+    {
+      "placeId": "old-north-bridge-concord-massachusetts-usa",
+      "note": "Concord Fight: Connor directs the militia's volleys at the North Bridge."
+    },
+    {
+      "placeId": "fort-george-new-york-city-usa",
+      "note": "Charles Lee takes refuge in Fort George after Monmouth; Connor infiltrates it and is forced to kill his father, Haytham."
+    },
+    {
+      "placeId": "valley-forge-pennsylvania-usa",
+      "note": "Connor finds Washington's army starving in the winter camp at Valley Forge and learns Lee's part in the Templar plan."
+    },
+    {
+      "placeId": "monmouth-battlefield-new-jersey-usa",
+      "note": "The Battle of Monmouth, June 1778: Connor holds the line as Lee's retreat nearly loses the day for Washington."
+    }
+  ],
+  "storyYears": [
+    1754,
+    1783,
+    2012
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_III",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Ubisoft_Montreal",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "connor",
+      "name": "Connor's war",
+      "characters": [
+        "Connor"
+      ],
+      "stops": [
+        "american-frontier-fictionalized-colonial-wilderness-usa",
+        "boston-usa",
+        "lexington-massachusetts-usa",
+        "concord-massachusetts-usa",
+        "bunker-hill-monument-boston-usa",
+        "new-york-city-usa",
+        "philadelphia-pennsylvania-usa",
+        "valley-forge-pennsylvania-usa",
+        "monmouth-battlefield-new-jersey-usa",
+        "fort-george-new-york-city-usa"
+      ],
+      "note": "Connor's war runs from the Frontier through Boston, Lexington and Concord, Bunker Hill, New York, Philadelphia, Valley Forge and Monmouth to the final chase at Fort George.",
+      "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_III"
+    }
+  ]
+}

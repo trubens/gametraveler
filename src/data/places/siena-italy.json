@@ -1,0 +1,14 @@
+{
+  "id": "siena-italy",
+  "name": "Siena, Italy",
+  "position": {
+    "lat": 43.3188,
+    "lon": 11.3308
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Siena",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Siena",
+  "description": "A Tuscan hill city in central Italy."
+}

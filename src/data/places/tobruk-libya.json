@@ -1,0 +1,13 @@
+{
+  "id": "tobruk-libya",
+  "name": "Tobruk, Libya",
+  "position": {
+    "lat": 32.0761,
+    "lon": 23.9614
+  },
+  "scale": "area",
+  "parentId": "libya",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tobruk",
+  "description": "A port on Libya's eastern Mediterranean coast near the Egyptian border."
+}

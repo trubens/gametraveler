@@ -1,0 +1,14 @@
+{
+  "id": "bank-of-england-london-uk",
+  "name": "Bank of England, London, UK",
+  "position": {
+    "lat": 51.5142,
+    "lon": -0.0885
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Bank_of_England",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bank_of_England",
+  "description": "The central bank of the United Kingdom, the model on which most modern central banks have been built."
+}

@@ -1,0 +1,20 @@
+{
+  "id": 515,
+  "name": "Blue Madonna",
+  "year": 2011,
+  "publisher": "MDNA Games",
+  "developer": "MDNA Games",
+  "locations": [
+    {
+      "placeId": "norrkoping-sweden",
+      "note": "The artist Christina hires Carol because she fears she is being followed, and is found dead at home the next day; Carol investigates in a Norrköping heat wave."
+    }
+  ],
+  "storyYears": [
+    2011
+  ],
+  "source": "https://en.wikipedia.org/wiki/Carol_Reed_Mysteries",
+  "genres": [
+    "Adventure"
+  ]
+}

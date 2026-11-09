@@ -1,0 +1,13 @@
+{
+  "id": "kyrenia-cyprus",
+  "name": "Kyrenia, Cyprus",
+  "position": {
+    "lat": 35.3364,
+    "lon": 33.3187
+  },
+  "scale": "area",
+  "parentId": "cyprus",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kyrenia",
+  "description": "A city on Cyprus's northern coast."
+}

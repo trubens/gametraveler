@@ -1,0 +1,26 @@
+{
+  "id": 1000209,
+  "name": "Milkmaid of the Milky Way",
+  "year": 2017,
+  "developer": "Mattis Folkestad",
+  "publisher": "Machineboy",
+  "locations": [
+    {
+      "placeId": "norway",
+      "aliases": [
+        "Calf Ledge"
+      ],
+      "settingType": "fictionalized",
+      "note": "Ruth runs her family's mountain farm at Calf Ledge alone in the 1920s until a stranger arrives, and the story leaves the farm for space.",
+      "source": "https://www.pocketgamer.com/milkmaid-of-the-milky-way/review/"
+    }
+  ],
+  "storyYears": [
+    1920,
+    1929
+  ],
+  "source": "https://store.steampowered.com/app/544970/Milkmaid_of_the_Milky_Way/",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fort-kearny-nebraska-usa",
+  "name": "Fort Kearny, Nebraska, USA",
+  "position": {
+    "lat": 40.64278,
+    "lon": -99.00583
+  },
+  "scale": "site",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fort_Kearny",
+  "placeType": "landmark",
+  "description": "A former United States Army outpost in Nebraska, founded in 1848 and named after Stephen Watts Kearny."
+}

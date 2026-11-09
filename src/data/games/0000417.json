@@ -1,0 +1,21 @@
+{
+  "id": 417,
+  "name": "Post Mortem",
+  "year": 2002,
+  "developer": "Microids",
+  "publisher": "Microids",
+  "locations": [
+    {
+      "placeId": "paris-france",
+      "note": "Gus MacPherson investigates a double murder at a Paris hotel."
+    }
+  ],
+  "storyYears": [
+    1920
+  ],
+  "source": "https://en.wikipedia.org/wiki/Post_Mortem_(video_game)",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Microids",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cote-d-azur-and-liguria",
+  "name": "Côte d'Azur and Liguria",
+  "position": {
+    "lat": 43.7,
+    "lon": 7.3
+  },
+  "scale": "area",
+  "placeType": "area",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/French_Riviera",
+  "description": "The blue coast of the Mediterranean at the south-eastern corner of France, better known as the French Riviera, together with neighbouring Liguria."
+}

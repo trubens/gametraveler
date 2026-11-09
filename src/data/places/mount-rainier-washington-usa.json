@@ -1,0 +1,18 @@
+{
+  "id": "mount-rainier-washington-usa",
+  "name": "Mount Rainier, Washington, USA",
+  "position": {
+    "lat": 46.8517,
+    "lon": -121.7603
+  },
+  "scale": "area",
+  "parentId": "washington-state-usa",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Tahoma"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Mount_Rainier",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mount_Rainier",
+  "description": "A large, active stratovolcano in the Cascade Range, in Mount Rainier National Park about 95 km south-southeast of Seattle, and the highest mountain in Washington.",
+  "descriptionSource": "wikipedia"
+}

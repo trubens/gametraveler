@@ -1,0 +1,31 @@
+{
+  "id": 395,
+  "name": "Dirt Rally",
+  "year": 2015,
+  "series": "Dirt",
+  "developer": "Codemasters",
+  "publisher": "Codemasters",
+  "locations": [
+    {
+      "placeId": "pikes-peak-colorado-usa",
+      "note": "Players climb the real Pikes Peak course, recreated with multiple surface layouts."
+    },
+    {
+      "placeId": "monte-carlo-monaco",
+      "note": "The launch rally roster includes Monte Carlo."
+    },
+    {
+      "placeId": "powys-wales-uk",
+      "note": "The launch rally roster includes Welsh stages in Powys."
+    },
+    {
+      "placeId": "argolis-greece",
+      "note": "The launch rally roster includes stages in Argolis."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Dirt_Rally",
+  "genres": [
+    "Racing"
+  ]
+}

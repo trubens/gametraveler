@@ -1,0 +1,14 @@
+{
+  "id": "bradbury-building-los-angeles-usa",
+  "name": "Bradbury Building, Los Angeles, USA",
+  "position": {
+    "lat": 34.0505,
+    "lon": -118.2479
+  },
+  "scale": "site",
+  "parentId": "los-angeles-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bradbury_Building",
+  "description": "An 1893 office building downtown whose skylit atrium of ironwork and open-cage lifts has been filmed since the 1940s.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sisteron-france",
+  "name": "Sisteron, France",
+  "position": {
+    "lat": 44.195,
+    "lon": 5.944
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sisteron",
+  "description": "A town in the Alpes-de-Haute-Provence in south-eastern France."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "the-village-fictional-end-of-the-sun-poland",
+  "name": "Village of The End of the Sun, Poland",
+  "position": {
+    "lat": 49.6192,
+    "lon": 21.0969
+  },
+  "scale": "area",
+  "parentId": "poland",
+  "placeType": "city",
+  "fictional": true,
+  "source": "https://www.endofsun.com/2020/06/24/from-real-ethnographic-museum-building-to-the-video-game-location/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Szymbark,_Lesser_Poland_Voivodeship",
+  "description": "The unnamed Slavic village of The End of the Sun, where an ashter sage walks through four seasons of myth. Its cottages and barns were photo-scanned at the Skansen in Szymbark in southern Poland, and its painted flowers come from the village of Zalipie; the pin stands on the skansen."
+}

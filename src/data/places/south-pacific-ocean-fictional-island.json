@@ -1,0 +1,16 @@
+{
+  "id": "south-pacific-ocean-fictional-island",
+  "name": "Island, South Pacific Ocean",
+  "position": {
+    "lat": -15,
+    "lon": -150
+  },
+  "scale": "area",
+  "placeType": "body_of_water",
+  "fictional": true,
+  "aliases": [
+    "South Pacific Ocean (fictional island)"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Island",
+  "description": "An invented Polynesian island with its own ruins and secrets. Pinned in the South Pacific."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "rennes-les-bains-france",
+  "name": "Rennes-les-Bains, France",
+  "position": {
+    "lat": 42.919,
+    "lon": 2.318
+  },
+  "scale": "site",
+  "parentId": "rennes-le-chateau-france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rennes-les-Bains",
+  "description": "A small spa village in the Aude department of southern France."
+}

@@ -1,0 +1,54 @@
+{
+  "id": 1000283,
+  "name": "Indiana Jones and the Last Crusade: The Graphic Adventure",
+  "year": 1989,
+  "series": "Indiana Jones",
+  "developer": "Lucasfilm Games",
+  "publisher": "Lucasfilm Games",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    1938
+  ],
+  "source": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade:_The_Graphic_Adventure",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "venice-italy",
+      "note": "Indy and Elsa search the catacombs beneath a Venetian library for the Grail knight's tomb."
+    },
+    {
+      "placeId": "castle-brunwald-fictional-austria",
+      "note": "Indy finds his father held in Castle Brunwald and fights his way through its maze of corridors; Elsa steals the Grail diary.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "berlin-germany",
+      "note": "Father and son pass through Berlin to take back the diary at the book burning, with a brief meeting with Hitler, then leave from the airport by Zeppelin or biplane."
+    },
+    {
+      "placeId": "canyon-of-the-crescent-moon-fictional-hatay-turkey",
+      "settingType": "fictionalized",
+      "note": "The Grail temple in the Canyon of the Crescent Moon, placed in the Hatay of the film and modelled on Petra."
+    }
+  ],
+  "routes": [
+    {
+      "id": "the-grail-quest",
+      "name": "The quest for the Grail",
+      "characters": [
+        "Indiana Jones",
+        "Henry Jones"
+      ],
+      "stops": [
+        "venice-italy",
+        "castle-brunwald-fictional-austria",
+        "berlin-germany",
+        "canyon-of-the-crescent-moon-fictional-hatay-turkey"
+      ],
+      "note": "In the film's order: Venice, Brunwald, Berlin, then by air to the Canyon of the Crescent Moon.",
+      "source": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade:_The_Graphic_Adventure"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1000124,
+  "name": "Call of the Sea",
+  "year": 2020,
+  "publisher": "Raw Fury",
+  "developer": "Out of the Blue Games",
+  "locations": [
+    {
+      "placeId": "south-pacific-ocean-fictional-island",
+      "settingType": "imaginary",
+      "note": "Norah searches an uncharted Polynesian island in the South Pacific for her husband's lost expedition."
+    }
+  ],
+  "storyYears": [
+    1934
+  ],
+  "source": "https://www.outbluegames.com/callofthesea",
+  "genres": [
+    "Adventure"
+  ]
+}

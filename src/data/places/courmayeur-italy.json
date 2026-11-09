@@ -1,0 +1,14 @@
+{
+  "id": "courmayeur-italy",
+  "name": "Courmayeur, Italy",
+  "position": {
+    "lat": 45.7833,
+    "lon": 6.9667
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Courmayeur",
+  "description": "The resort town at the foot of Mont Blanc on the Italian side, at the mouth of the tunnel.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sirkeci-terminal-istanbul-turkey",
+  "name": "Sirkeci Terminal, Istanbul, Turkey",
+  "position": {
+    "lat": 41.015,
+    "lon": 28.977
+  },
+  "scale": "site",
+  "parentId": "istanbul-turkey",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sirkeci_railway_station",
+  "description": "The old railway terminus in the Sirkeci neighbourhood of Istanbul's Eminönü quarter, once the end of the line for the Orient Express."
+}

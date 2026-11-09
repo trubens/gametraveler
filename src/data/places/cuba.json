@@ -1,0 +1,12 @@
+{
+  "id": "cuba",
+  "name": "Cuba",
+  "position": {
+    "lat": 21.5218,
+    "lon": -77.7812
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cuba",
+  "description": "An island country in the Caribbean, made up of one main island and thousands of smaller islands, islets and cays."
+}

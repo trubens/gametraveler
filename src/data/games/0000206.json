@@ -1,0 +1,52 @@
+{
+  "id": 206,
+  "name": "Forza Horizon 2",
+  "year": 2014,
+  "publisher": "Microsoft Studios",
+  "series": "Forza Horizon",
+  "developer": "Playground Games",
+  "locations": [
+    {
+      "placeId": "nice-france",
+      "note": "The festival's hub on the Côte d'Azur: Nice's seafront and old town, where the game opens and the championships are announced.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "sisteron-france",
+      "note": "Sisteron, scaled down with its citadel rock above the Durance, one of the map's two French towns.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "provence-france",
+      "note": "Lavender fields, vineyards and hill roads of Provence make up the inland half of the map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "saint-martin-du-var-france",
+      "settingType": "fictionalized",
+      "note": "Saint-Martin-du-Var, the other scaled-down French town, on the Var valley road."
+    },
+    {
+      "placeId": "amalfi-coast-italy",
+      "settingType": "fictionalized",
+      "note": "Drivers race through Castelletto, an invented town modelled on Amalfi, and the coast's cliff roads around it."
+    },
+    {
+      "placeId": "cote-d-azur-france",
+      "note": "The coast road along the Riviera, the game's main artery between the French towns.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "liguria-italy",
+      "note": "The Italian end of the map: Ligurian coast roads and hill villages over the border.",
+      "settingType": "fictionalized"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Forza_Horizon_2",
+  "reviewed": "2026-11-01",
+  "route": false,
+  "genres": [
+    "Racing"
+  ]
+}

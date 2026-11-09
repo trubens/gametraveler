@@ -1,0 +1,13 @@
+{
+  "id": "saint-lo-france",
+  "name": "Saint-Lô, France",
+  "position": {
+    "lat": 49.1157,
+    "lon": -1.0905
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Saint-L%C3%B4",
+  "description": "Capital of the Manche department in Normandy."
+}

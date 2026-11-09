@@ -1,0 +1,14 @@
+{
+  "id": "fort-vaux-verdun-france",
+  "name": "Fort Vaux, Verdun, France",
+  "position": {
+    "lat": 49.201,
+    "lon": 5.4707
+  },
+  "scale": "site",
+  "parentId": "verdun-france",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fort_Vaux",
+  "description": "One of the ring of forts around Verdun, taken by the Germans in June 1916 after a week of fighting in its tunnels.",
+  "descriptionSource": "wikipedia"
+}

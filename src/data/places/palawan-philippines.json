@@ -1,0 +1,14 @@
+{
+  "id": "palawan-philippines",
+  "name": "Palawan, Philippines",
+  "position": {
+    "lat": 9.8,
+    "lon": 118.7
+  },
+  "scale": "area",
+  "parentId": "philippines",
+  "placeType": "island",
+  "source": "https://en.wikipedia.org/wiki/Palawan",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Palawan",
+  "description": "An archipelagic province of the Philippines, the largest in the country by area, in the Mimaropa region."
+}

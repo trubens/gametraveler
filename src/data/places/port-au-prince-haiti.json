@@ -1,0 +1,13 @@
+{
+  "id": "port-au-prince-haiti",
+  "name": "Port-au-Prince, Haiti",
+  "position": {
+    "lat": 18.5944,
+    "lon": -72.3074
+  },
+  "scale": "area",
+  "parentId": "haiti",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Port-au-Prince",
+  "description": "Haiti's capital and largest city."
+}

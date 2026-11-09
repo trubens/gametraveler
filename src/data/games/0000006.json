@@ -1,0 +1,62 @@
+{
+  "id": 6,
+  "name": "Sherlock Holmes: The Awakened",
+  "year": 2006,
+  "publisher": "Focus Home Interactive",
+  "series": "Sherlock Holmes",
+  "developer": "Frogwares",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "Holmes and Watson begin in London investigating the disappearance of a Maori servant."
+    },
+    {
+      "placeId": "switzerland",
+      "note": "A Swiss asylum, the Black Edelweiss Institute, hides a link to the disappearances; the game never says where in Switzerland."
+    },
+    {
+      "placeId": "new-orleans-usa",
+      "note": "The investigation crosses the Atlantic to New Orleans in pursuit of a cult."
+    },
+    {
+      "placeId": "ardnamurchan-scotland-uk",
+      "note": "The final lighthouse confrontation takes place on the remote Scottish coast."
+    },
+    {
+      "placeId": "221b-baker-street-london-uk",
+      "note": "Evidence from the docks and the temple comes back to the rooms at 221B for the microscope and the chemistry bench."
+    }
+  ],
+  "routes": [
+    {
+      "id": "holmes-watson",
+      "name": "Holmes and Watson",
+      "characters": [
+        "Sherlock Holmes",
+        "Dr. Watson"
+      ],
+      "storyYears": [
+        1894
+      ],
+      "stops": [
+        "london-uk",
+        "switzerland",
+        "new-orleans-usa",
+        "ardnamurchan-scotland-uk",
+        "london-uk"
+      ],
+      "note": "The story returns to London between New Orleans and Scotland, then ends back in London.",
+      "source": "https://en.wikipedia.org/wiki/Sherlock_Holmes:_The_Awakened"
+    }
+  ],
+  "storyYears": [
+    1894
+  ],
+  "source": "https://en.wikipedia.org/wiki/Sherlock_Holmes:_The_Awakened",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Frogwares",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Focus_Entertainment",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "camden-town-london-uk",
+  "name": "Camden Town, London, UK",
+  "position": {
+    "lat": 51.541,
+    "lon": -0.1433
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "neighborhood",
+  "aliases": [
+    "Camden"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Camden_Town",
+  "description": "The market district north of Regent's Park, around the canal locks and the Underground station.",
+  "descriptionSource": "wikipedia"
+}

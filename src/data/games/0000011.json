@@ -1,0 +1,33 @@
+{
+  "id": 11,
+  "name": "The Journeyman Project 3: Legacy of Time",
+  "series": "The Journeyman Project",
+  "year": 1998,
+  "publisher": "Red Orb Entertainment",
+  "developer": "Presto Studios",
+  "locations": [
+    {
+      "placeId": "himalayas",
+      "aliases": [
+        "Shangri-La"
+      ],
+      "settingType": "fictionalized",
+      "note": "Shangri-La, hidden in the Tibetan Himalayas, is one of three lost cities agent Gage Blackwood visits."
+    },
+    {
+      "placeId": "south-america-el-dorado",
+      "note": "El Dorado, the legendary golden city of South America, holds a piece of the Legacy."
+    }
+  ],
+  "storyYears": [
+    1342,
+    -645,
+    -443
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Journeyman_Project_3:_Legacy_of_Time",
+  "developerUrl": "https://en.wikipedia.org/wiki/Presto_Studios",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Red_Orb_Entertainment",
+  "genres": [
+    "Adventure"
+  ]
+}

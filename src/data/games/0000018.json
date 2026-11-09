@@ -1,0 +1,24 @@
+{
+  "id": 18,
+  "name": "Tomb Raider (2013)",
+  "year": 2013,
+  "publisher": "Square Enix",
+  "series": "Tomb Raider",
+  "developer": "Crystal Dynamics",
+  "locations": [
+    {
+      "placeId": "dragon-s-triangle-yamatai-off-japan",
+      "note": "Lara's ship wrecks on Yamatai, a lost island in the Dragon's Triangle off the coast of Japan."
+    }
+  ],
+  "storyYears": [
+    2013
+  ],
+  "source": "https://en.wikipedia.org/wiki/Tomb_Raider_(2013_video_game)",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Crystal_Dynamics",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Square_Enix",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

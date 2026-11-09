@@ -1,0 +1,13 @@
+{
+  "id": "ibiza-spain",
+  "name": "Ibiza, Spain",
+  "position": {
+    "lat": 38.9067,
+    "lon": 1.4206
+  },
+  "scale": "area",
+  "parentId": "spain",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibiza",
+  "description": "A Spanish island in the Mediterranean off the east coast of the Iberian Peninsula, across the water from Valencia."
+}

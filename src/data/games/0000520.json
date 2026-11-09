@@ -1,0 +1,21 @@
+{
+  "id": 520,
+  "name": "The Town of Light",
+  "year": 2016,
+  "publisher": "Wired Productions",
+  "developer": "LKA",
+  "locations": [
+    {
+      "placeId": "volterra-psychiatric-hospital-tuscany-italy",
+      "settingType": "fictionalized",
+      "note": "Renée walks the derelict wards of the Volterra asylum, where she was once a patient, and relives what was done to her there."
+    }
+  ],
+  "storyYears": [
+    1938
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Town_of_Light",
+  "genres": [
+    "Adventure"
+  ]
+}

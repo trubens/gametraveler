@@ -1,0 +1,14 @@
+{
+  "id": "benin",
+  "name": "Benin",
+  "position": {
+    "lat": 9.31,
+    "lon": 2.32
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Benin",
+  "description": "A country in West Africa on the Bight of Benin, heartland of the old Kingdom of Dahomey and of Vodun.",
+  "descriptionSource": "wikipedia"
+}

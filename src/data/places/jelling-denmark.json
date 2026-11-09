@@ -1,0 +1,13 @@
+{
+  "id": "jelling-denmark",
+  "name": "Jelling, Denmark",
+  "position": {
+    "lat": 55.7558,
+    "lon": 9.4192
+  },
+  "scale": "area",
+  "parentId": "denmark",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jelling_stones",
+  "description": "The Danish town where two massive 10th-century runestones stand."
+}

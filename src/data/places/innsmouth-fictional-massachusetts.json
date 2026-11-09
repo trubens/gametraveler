@@ -1,0 +1,17 @@
+{
+  "id": "innsmouth-fictional-massachusetts",
+  "name": "Innsmouth, Massachusetts, USA",
+  "scale": "area",
+  "position": {
+    "lat": 42.68,
+    "lon": -70.84
+  },
+  "parentId": "massachusetts-usa",
+  "placeType": "city",
+  "fictional": true,
+  "aliases": [
+    "Innsmouth (fictional town)"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Innsmouth",
+  "description": "Lovecraft's decaying fishing town from The Shadow over Innsmouth, modelled on Newburyport and Gloucester. Pinned on the Massachusetts north shore, where Lovecraft placed it."
+}

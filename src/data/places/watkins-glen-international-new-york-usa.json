@@ -1,0 +1,16 @@
+{
+  "id": "watkins-glen-international-new-york-usa",
+  "name": "Watkins Glen International, New York, USA",
+  "position": {
+    "lat": 42.337,
+    "lon": -76.927
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "aliases": [
+    "The Glen"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Watkins_Glen_International",
+  "description": "The Glen, the road course above Seneca Lake that held the United States Grand Prix from 1961 to 1980.",
+  "descriptionSource": "wikipedia"
+}

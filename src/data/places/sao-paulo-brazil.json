@@ -1,0 +1,13 @@
+{
+  "id": "sao-paulo-brazil",
+  "name": "São Paulo, Brazil",
+  "position": {
+    "lat": -23.5505,
+    "lon": -46.6333
+  },
+  "scale": "area",
+  "parentId": "brazil",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo",
+  "description": "Capital of the state of São Paulo and Brazil's largest city."
+}

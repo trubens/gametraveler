@@ -1,0 +1,13 @@
+{
+  "id": "denver-usa",
+  "name": "Denver, USA",
+  "position": {
+    "lat": 39.7392,
+    "lon": -104.9903
+  },
+  "scale": "area",
+  "parentId": "colorado-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Denver",
+  "description": "Colorado's capital and largest city."
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1000158,
+  "name": "Road to India: Between Hell and Nirvana",
+  "year": 2001,
+  "publisher": "Microïds",
+  "developer": "Microïds",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Road_to_India_(video_game)",
+  "route": true,
+  "locations": [
+    {
+      "placeId": "new-delhi-india",
+      "note": "Fred searches New Delhi for his kidnapped girlfriend, exploring the city as the mystery unfolds."
+    },
+    {
+      "placeId": "taj-mahal-agra-india",
+      "note": "The Taj Mahal appears in dream sequences and as a place Fred explores during his journey."
+    }
+  ],
+  "storyYears": [
+    2001
+  ]
+}

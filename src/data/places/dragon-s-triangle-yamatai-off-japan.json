@@ -1,0 +1,12 @@
+{
+  "id": "dragon-s-triangle-yamatai-off-japan",
+  "name": "Dragon's Triangle (Yamatai), off Japan",
+  "position": {
+    "lat": 28.5,
+    "lon": 141
+  },
+  "scale": "area",
+  "placeType": "area",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Devil's_Sea",
+  "description": "A region of the Pacific south of Tokyo, known as the Devil's Sea or Dragon's Triangle, the Pacific's answer to the Bermuda Triangle."
+}

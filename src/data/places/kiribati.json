@@ -1,0 +1,13 @@
+{
+  "id": "kiribati",
+  "name": "Kiribati",
+  "position": {
+    "lat": 1.82,
+    "lon": -157.38
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kiribati",
+  "description": "An island country scattered across the central Pacific, straddling Micronesia and Polynesia."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "kobe-japan",
+  "name": "Kobe, Japan",
+  "position": {
+    "lat": 34.6901,
+    "lon": 135.1955
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Kobe",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kobe",
+  "description": "The capital of Hyōgo Prefecture."
+}

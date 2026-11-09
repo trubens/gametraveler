@@ -1,0 +1,33 @@
+{
+  "id": 69,
+  "name": "Grand Theft Auto III",
+  "aliases": [
+    "GTA",
+    "GTA III",
+    "GTA 3"
+  ],
+  "year": 2001,
+  "publisher": "Rockstar Games",
+  "series": "Grand Theft Auto",
+  "developer": "DMA Design",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "aliases": [
+        "Liberty City"
+      ],
+      "settingType": "fictionalized",
+      "note": "Shot and left for dead by Catalina in a bank heist, Claude works his way through Liberty City, the series' New York, taking on its Leone Mafia, the Yakuza and Donald Love across Portland, Staunton Island and Shoreside Vale until he kills her.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_III"
+    }
+  ],
+  "storyYears": [
+    2001
+  ],
+  "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_III",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Rockstar_Games",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "jackson-square-new-orleans-usa",
+  "name": "Jackson Square, New Orleans, USA",
+  "position": {
+    "lat": 29.9574,
+    "lon": -90.0629
+  },
+  "scale": "site",
+  "parentId": "new-orleans-usa",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Jackson_Square_(New_Orleans)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jackson_Square_(New_Orleans)",
+  "description": "A historic park at the heart of the French Quarter of New Orleans, once the Place d'Armes under the French and the Plaza de Armas under the Spanish."
+}

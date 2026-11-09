@@ -1,0 +1,17 @@
+{
+  "id": "great-synagogue-of-vilnius-lithuania",
+  "name": "Great Synagogue of Vilnius, Vilnius, Lithuania",
+  "position": {
+    "lat": 54.6778,
+    "lon": 25.2851
+  },
+  "scale": "site",
+  "parentId": "vilnius-lithuania",
+  "placeType": "landmark",
+  "aliases": [
+    "Great Synagogue of Vilna"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Great_Synagogue_of_Vilna",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_Synagogue_of_Vilna",
+  "description": "The great Orthodox synagogue that once stood at the end of Jewish Street in Vilnius' Old Town."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "beijing-forbidden-city-china",
+  "name": "Forbidden City, Beijing, China",
+  "position": {
+    "lat": 39.9158,
+    "lon": 116.3908
+  },
+  "scale": "site",
+  "parentId": "beijing-china",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Forbidden_City",
+  "description": "The walled imperial palace at the heart of Beijing, home to Ming and Qing emperors for five centuries and now the Palace Museum."
+}

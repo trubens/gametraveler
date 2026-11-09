@@ -1,0 +1,33 @@
+{
+  "id": 250,
+  "name": "Forza Horizon",
+  "aliases": [
+    "Forza Horizon 1",
+    "FH1"
+  ],
+  "year": 2012,
+  "publisher": "Microsoft Studios",
+  "series": "Forza Horizon",
+  "developer": "Playground Games",
+  "locations": [
+    {
+      "placeId": "colorado-usa",
+      "settingType": "fictionalized",
+      "note": "The first Horizon Festival: a condensed Colorado of mountain passes, plains and foothills, with the festival site in the middle and the roads closed for the races."
+    },
+    {
+      "placeId": "red-rocks-park-colorado-usa",
+      "aliases": [
+        "Red Rock"
+      ],
+      "settingType": "fictionalized",
+      "note": "The sandstone fins of Red Rocks Park, rebuilt as the festival's showcase stage and hill-climb country."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Forza_Horizon",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "eiffel-tower-paris-france",
+  "name": "Eiffel Tower, Paris, France",
+  "position": {
+    "lat": 48.8584,
+    "lon": 2.2945
+  },
+  "scale": "site",
+  "parentId": "paris-france",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+  "description": "The iron lattice tower on the Champ de Mars in Paris, built from 1887 to 1889 by the company of engineer Gustave Eiffel."
+}

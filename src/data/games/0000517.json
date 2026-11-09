@@ -1,0 +1,21 @@
+{
+  "id": 517,
+  "name": "428: Shibuya Scramble",
+  "year": 2008,
+  "publisher": "Spike Chunsoft",
+  "developer": "Chunsoft",
+  "locations": [
+    {
+      "placeId": "shibuya-tokyo-japan",
+      "note": "Five characters have ten hours to untangle what begins as a ransom kidnapping outside Shibuya Station, told through photographs of real Shibuya streets."
+    }
+  ],
+  "storyYears": [
+    2008
+  ],
+  "source": "https://en.wikipedia.org/wiki/428:_Shibuya_Scramble",
+  "genres": [
+    "Visual Novel",
+    "Adventure"
+  ]
+}

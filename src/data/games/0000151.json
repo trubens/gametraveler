@@ -1,0 +1,48 @@
+{
+  "id": 151,
+  "name": "Driver: San Francisco",
+  "year": 2011,
+  "publisher": "Ubisoft",
+  "series": "Driver",
+  "developer": "Ubisoft Reflections",
+  "locations": [
+    {
+      "placeId": "san-francisco-usa",
+      "note": "Comatose after a crash chasing the escaped Jericho, Tanner shifts between drivers in a dream San Francisco, then wakes to stop the prison breakout Jericho's bomb hoax was covering."
+    },
+    {
+      "placeId": "golden-gate-bridge-california-usa",
+      "note": "Tanner's dream city keeps the bridge as the road north out of San Francisco to the Marin headlands.",
+      "source": "https://en.wikipedia.org/wiki/Driver:_San_Francisco"
+    },
+    {
+      "placeId": "marin-county-california-usa",
+      "note": "Across the Golden Gate, Marin's hill and coast roads are part of the world Tanner shifts through.",
+      "source": "https://en.wikipedia.org/wiki/Driver:_San_Francisco"
+    },
+    {
+      "placeId": "san-francisco-oakland-bay-bridge-california-usa",
+      "note": "Tanner's dream city keeps the bridge as the road east across the bay to Oakland.",
+      "source": "https://en.wikipedia.org/wiki/Driver:_San_Francisco"
+    },
+    {
+      "placeId": "oakland-california-usa",
+      "note": "Across the Bay Bridge, Oakland's streets are part of the world Tanner shifts through.",
+      "source": "https://en.wikipedia.org/wiki/Driver:_San_Francisco"
+    },
+    {
+      "placeId": "alcatraz-island-usa",
+      "note": "In the Wii version's prequel story, Tanner and Jones chase Solomon Caine by police helicopter until his own helicopter crashes on the island.",
+      "source": "https://en.wikipedia.org/wiki/Driver:_San_Francisco"
+    }
+  ],
+  "storyYears": [
+    2011
+  ],
+  "source": "https://en.wikipedia.org/wiki/Driver:_San_Francisco",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

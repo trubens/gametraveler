@@ -1,0 +1,24 @@
+{
+  "id": 407,
+  "name": "Nancy Drew: Shadow at the Water's Edge",
+  "year": 2010,
+  "series": "Nancy Drew",
+  "developer": "Her Interactive",
+  "publisher": "Her Interactive",
+  "locations": [
+    {
+      "placeId": "kyoto-japan",
+      "aliases": [
+        "Ryokan Hiei"
+      ],
+      "note": "Teaching English and staying at the Ryokan Hiei, where guests flee a ghostly woman, Nancy rides the subway to a bento stand and a pachinko parlour to work out who is haunting the inn."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Shadow_at_the_Water%27s_Edge",
+  "reviewed": "2026-11-03",
+  "developerUrl": "https://en.wikipedia.org/wiki/HeR_Interactive",
+  "genres": [
+    "Adventure"
+  ]
+}

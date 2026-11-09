@@ -1,0 +1,18 @@
+{
+  "id": "french-quarter-new-orleans-usa",
+  "name": "French Quarter, New Orleans, USA",
+  "position": {
+    "lat": 29.9586,
+    "lon": -90.065
+  },
+  "scale": "site",
+  "parentId": "new-orleans-usa",
+  "placeType": "neighborhood",
+  "aliases": [
+    "Vieux Carré",
+    "Bourbon Street"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/French_Quarter",
+  "description": "The oldest neighbourhood of New Orleans, the Vieux Carré laid out in 1718, with Bourbon Street and Jackson Square inside it.",
+  "descriptionSource": "wikipedia"
+}

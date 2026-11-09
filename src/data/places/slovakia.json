@@ -1,0 +1,11 @@
+{
+  "id": "slovakia",
+  "name": "Slovakia",
+  "position": {
+    "lat": 48.73,
+    "lon": 19.05
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/"
+}

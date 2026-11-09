@@ -1,0 +1,14 @@
+{
+  "id": "temple-church-london-uk",
+  "name": "Temple Church, London, UK",
+  "position": {
+    "lat": 51.5132,
+    "lon": -0.1104
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Temple_Church",
+  "description": "The round church of the Knights Templar between Fleet Street and the Thames, consecrated in 1185.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1000142,
+  "name": "Venba",
+  "year": 2023,
+  "publisher": "Visai Games",
+  "developer": "Visai Games",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://venbagame.com/press/",
+  "route": true,
+  "locations": [
+    {
+      "placeId": "tamil-nadu-india",
+      "note": "The story begins with Venba and Paavalan’s life in South India before their move abroad."
+    },
+    {
+      "placeId": "toronto-canada",
+      "note": "The family rebuilds its life in Toronto across several decades; food and domestic spaces carry the story."
+    }
+  ],
+  "storyYears": [
+    1988,
+    2014
+  ]
+}

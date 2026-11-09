@@ -1,0 +1,24 @@
+{
+  "id": 368,
+  "name": "Need for Speed Payback",
+  "year": 2017,
+  "series": "Need for Speed",
+  "developer": "Ghost Games",
+  "publisher": "Electronic Arts",
+  "locations": [
+    {
+      "placeId": "las-vegas-usa",
+      "aliases": [
+        "Fortune Valley"
+      ],
+      "settingType": "fictionalized",
+      "note": "Fortune Valley, the game's Las Vegas: a casino strip, canyons and desert highways where Tyler's crew takes on the House cartel."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Need_for_Speed_Payback",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

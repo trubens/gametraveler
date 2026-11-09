@@ -1,0 +1,13 @@
+{
+  "id": "arnhem-netherlands",
+  "name": "Arnhem, Netherlands",
+  "position": {
+    "lat": 51.9833,
+    "lon": 5.9167
+  },
+  "scale": "area",
+  "parentId": "netherlands",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arnhem",
+  "description": "A city on the Rhine in the eastern Netherlands, the bridge too far of 1944."
+}

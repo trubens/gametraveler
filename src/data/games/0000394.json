@@ -1,0 +1,55 @@
+{
+  "id": 394,
+  "name": "Dirt 5",
+  "year": 2020,
+  "series": "Dirt",
+  "developer": "Codemasters Cheshire",
+  "publisher": "Codemasters",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Ice racing takes place on the East River beneath New York City's bridges."
+    },
+    {
+      "placeId": "arizona-usa",
+      "note": "The game includes off-road events in Arizona."
+    },
+    {
+      "placeId": "brazil",
+      "note": "The game includes events set in Brazil."
+    },
+    {
+      "placeId": "china",
+      "note": "The game includes events set in China."
+    },
+    {
+      "placeId": "greece",
+      "note": "The game includes events set in Greece."
+    },
+    {
+      "placeId": "italy",
+      "note": "The game includes events set in Italy."
+    },
+    {
+      "placeId": "morocco",
+      "note": "The game includes events set in Morocco."
+    },
+    {
+      "placeId": "nepal",
+      "note": "The game includes events in Nepal's mountain terrain."
+    },
+    {
+      "placeId": "norway",
+      "note": "The game includes events in Norway."
+    },
+    {
+      "placeId": "south-africa",
+      "note": "The game includes off-road events in South Africa."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Dirt_5",
+  "genres": [
+    "Racing"
+  ]
+}

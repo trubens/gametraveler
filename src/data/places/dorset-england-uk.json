@@ -1,0 +1,14 @@
+{
+  "id": "dorset-england-uk",
+  "name": "Dorset, England, UK",
+  "position": {
+    "lat": 50.8,
+    "lon": -2.3
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dorset",
+  "description": "A ceremonial county on the English Channel in South West England, known for the Jurassic Coast.",
+  "descriptionSource": "wikipedia"
+}

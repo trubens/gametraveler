@@ -1,0 +1,16 @@
+{
+  "id": "atlantis-fictional-mediterranean",
+  "name": "Atlantis, Mediterranean",
+  "position": {
+    "lat": 36,
+    "lon": 25
+  },
+  "scale": "area",
+  "placeType": "area",
+  "fictional": true,
+  "aliases": [
+    "Atlantis (Fate of Atlantis, Mediterranean)"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Atlantis",
+  "description": "Atlantis as the theory that it was a Minoan world destroyed by the Thera eruption would have it, a lost city under the Mediterranean. Pinned off Santorini."
+}

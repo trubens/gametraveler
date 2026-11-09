@@ -1,0 +1,14 @@
+{
+  "id": "sendai-japan",
+  "name": "Sendai, Japan",
+  "position": {
+    "lat": 38.2682,
+    "lon": 140.8694
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sendai",
+  "description": "The capital of Miyagi Prefecture and the largest city in the Tōhoku region.",
+  "descriptionSource": "wikipedia"
+}

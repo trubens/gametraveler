@@ -1,0 +1,15 @@
+{
+  "id": "shadow-island-fictional-massachusetts-usa",
+  "name": "Shadow Island, Massachusetts, USA",
+  "position": {
+    "lat": 42.45,
+    "lon": -70.5
+  },
+  "scale": "area",
+  "parentId": "massachusetts-usa",
+  "placeType": "island",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Alone_in_the_Dark:_The_New_Nightmare",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Massachusetts",
+  "description": "An invented island off the Massachusetts coast. The game gives no position; the pin in Massachusetts Bay is a guess."
+}

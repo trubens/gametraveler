@@ -1,0 +1,43 @@
+{
+  "id": 133,
+  "name": "Watch Dogs",
+  "year": 2014,
+  "publisher": "Ubisoft",
+  "series": "Watch Dogs",
+  "developer": "Ubisoft Montreal",
+  "locations": [
+    {
+      "placeId": "chicago-usa",
+      "aliases": [
+        "Parker Square",
+        "Mad Mile",
+        "Brandon Docks",
+        "The Wards",
+        "Pawnee"
+      ],
+      "settingType": "fictionalized",
+      "note": "Hacker Aiden Pearce uses the city's ctOS network to hunt the men behind his niece's death, from the botched heist at the Merlaut Hotel to the citywide blackout he triggers to stop his old partner Damien.",
+      "source": "https://en.wikipedia.org/wiki/Watch_Dogs_(video_game)"
+    },
+    {
+      "placeId": "englewood-chicago-usa",
+      "aliases": [
+        "The Wards",
+        "Rossi-Fremont"
+      ],
+      "settingType": "fictionalized",
+      "note": "In the Wards, the game's Englewood, Iraq's Black Viceroys hold the Rossi-Fremont housing complex; Bedbug gets inside for Aiden, who later storms the compound, downloads Iraq's data and kills him.",
+      "source": "https://shacknews.com/article/84718/watch-dogs-walkthrough-guide-act-3"
+    }
+  ],
+  "storyYears": [
+    2013
+  ],
+  "source": "https://en.wikipedia.org/wiki/Watch_Dogs_(video_game)",
+  "reviewed": "2026-11-06",
+  "developerUrl": "https://en.wikipedia.org/wiki/Ubisoft_Montreal",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

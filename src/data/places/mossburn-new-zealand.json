@@ -1,0 +1,14 @@
+{
+  "id": "mossburn-new-zealand",
+  "name": "Mossburn, New Zealand",
+  "position": {
+    "lat": -45.6667,
+    "lon": 168.25
+  },
+  "scale": "area",
+  "parentId": "new-zealand",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mossburn",
+  "description": "A small farming town in northern Southland, in sheep and deer country on the road to Fiordland.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "bavarian-alps-germany",
+  "name": "Bavarian Alps, Germany",
+  "position": {
+    "lat": 47.64,
+    "lon": 11.77
+  },
+  "scale": "area",
+  "parentId": "bavaria-germany",
+  "placeType": "natural_feature",
+  "source": "https://en.wikipedia.org/wiki/Bavarian_Alps",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bavarian_Alps",
+  "description": "The collective name for several ranges of the Northern Limestone Alps within the German state of Bavaria.",
+  "descriptionSource": "wikipedia"
+}

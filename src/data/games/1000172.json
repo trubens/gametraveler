@@ -1,0 +1,35 @@
+{
+  "id": 1000172,
+  "name": "Nocturne",
+  "year": 1999,
+  "developer": "Terminal Reality",
+  "publisher": "Gathering of Developers",
+  "genres": [
+    "Action-Adventure",
+    "Survival Horror"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Nocturne_(video_game)",
+  "locations": [
+    {
+      "placeId": "germany",
+      "note": "The first act sends the Stranger to Germany on a vampire investigation."
+    },
+    {
+      "placeId": "chicago-usa",
+      "note": "Act two, 1933: the Stranger takes on gangsters and the undead in Chicago."
+    },
+    {
+      "placeId": "france",
+      "note": "The last act: Killian Hammond's graveyard and mansion in France, where the Stranger finds who is raising the dead."
+    },
+    {
+      "placeId": "texas-usa",
+      "settingType": "fictionalized",
+      "note": "Another case takes the Stranger to the fictional town of Redeye, Texas."
+    }
+  ],
+  "storyYears": [
+    1927,
+    1935
+  ]
+}

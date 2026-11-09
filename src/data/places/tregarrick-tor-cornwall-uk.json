@@ -1,0 +1,14 @@
+{
+  "id": "tregarrick-tor-cornwall-uk",
+  "name": "Tregarrick Tor, Cornwall, UK",
+  "position": {
+    "lat": 50.514,
+    "lon": -4.4816
+  },
+  "scale": "site",
+  "parentId": "cornwall-england",
+  "placeType": "natural_feature",
+  "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bodmin_Moor",
+  "description": "A rocky outcrop on Bodmin Moor west of Minions, reached on foot across the open moor."
+}

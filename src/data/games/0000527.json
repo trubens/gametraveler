@@ -1,0 +1,21 @@
+{
+  "id": 527,
+  "name": "Dordogne",
+  "year": 2023,
+  "publisher": "Focus Entertainment",
+  "developer": "Un Je Ne Sais Quoi / Umanimation",
+  "locations": [
+    {
+      "placeId": "dordogne-france",
+      "note": "The player revisits childhood memories by exploring the Dordogne countryside, river landscapes and villages through a storybook adventure."
+    }
+  ],
+  "storyYears": [
+    1980,
+    2002
+  ],
+  "source": "https://en.wikipedia.org/wiki/Dordogne_(video_game)",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "maijishan-grottoes-china",
+  "name": "Maijishan Grottoes, China",
+  "position": {
+    "lat": 34.3517,
+    "lon": 106.0083
+  },
+  "scale": "area",
+  "parentId": "china",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maijishan_Grottoes",
+  "description": "A series of rock-cut caves hewn into Maijishan hill at Tianshui in Gansu, north-west China."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "faiyum-egypt",
+  "name": "Faiyum, Egypt",
+  "position": {
+    "lat": 29.3084,
+    "lon": 30.8441
+  },
+  "scale": "area",
+  "parentId": "egypt",
+  "placeType": "city",
+  "aliases": [
+    "Krokodilopolis",
+    "Crocodilopolis",
+    "Fayum"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Faiyum",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Faiyum",
+  "description": "A city in the Faiyum Oasis about 100 km south-west of Cairo, capital of the Faiyum Governorate and one of Egypt's oldest cities; in antiquity it was Crocodilopolis.",
+  "descriptionSource": "wikipedia"
+}

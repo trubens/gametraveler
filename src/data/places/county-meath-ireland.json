@@ -1,0 +1,12 @@
+{
+  "id": "county-meath-ireland",
+  "name": "County Meath, Ireland",
+  "position": {
+    "lat": 53.6,
+    "lon": -6.7
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/County_Meath",
+  "description": "A county in the east of Ireland, in the province of Leinster."
+}

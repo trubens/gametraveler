@@ -1,0 +1,13 @@
+{
+  "id": "madrid-spain",
+  "name": "Madrid, Spain",
+  "position": {
+    "lat": 40.416,
+    "lon": -3.704
+  },
+  "scale": "area",
+  "parentId": "spain",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Madrid",
+  "description": "Spain's capital and largest city."
+}

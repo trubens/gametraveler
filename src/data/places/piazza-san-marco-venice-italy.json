@@ -1,0 +1,14 @@
+{
+  "id": "piazza-san-marco-venice-italy",
+  "name": "Piazza San Marco, Venice, Italy",
+  "position": {
+    "lat": 45.4339,
+    "lon": 12.3381
+  },
+  "scale": "site",
+  "parentId": "venice-italy",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Piazza_San_Marco",
+  "description": "Venice's principal public square, framed by St Mark's Basilica, its campanile and the Procuratie.",
+  "descriptionSource": "wikipedia"
+}

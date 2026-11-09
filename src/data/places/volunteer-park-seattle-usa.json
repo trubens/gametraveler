@@ -1,0 +1,14 @@
+{
+  "id": "volunteer-park-seattle-usa",
+  "name": "Volunteer Park, Seattle, USA",
+  "position": {
+    "lat": 47.6304,
+    "lon": -122.3156
+  },
+  "scale": "site",
+  "parentId": "seattle-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volunteer_Park_(Seattle)",
+  "description": "The Olmsted park on Capitol Hill with the water tower, the conservatory and the Asian Art Museum.",
+  "descriptionSource": "wikipedia"
+}

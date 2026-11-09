@@ -1,0 +1,97 @@
+{
+  "id": 64,
+  "name": "Broken Sword II: The Smoking Mirror",
+  "aliases": [
+    "Broken Sword 2",
+    "Broken Sword II: The Smoking Mirror - Remastered"
+  ],
+  "year": 1997,
+  "publisher": "Virgin Interactive",
+  "series": "Broken Sword",
+  "developer": "Revolution Software",
+  "locations": [
+    {
+      "placeId": "paris-france",
+      "note": "George and Nico's look into a mysterious Mayan stone at Professor Oubier's house ends in an ambush and Nico's kidnapping; the Glease Gallery and the café are here too."
+    },
+    {
+      "placeId": "marseille-france",
+      "note": "George traces Nico to the Condor Transglobal warehouse in the Marseille docks and gets her out.",
+      "source": "https://en.wikipedia.org/wiki/Broken_Sword_II:_The_Smoking_Mirror"
+    },
+    {
+      "placeId": "quaramonte-fictional-central-america",
+      "settingType": "imaginary",
+      "note": "Quaramonte City, the jungle river, the shaman's village and the Mayan pyramid where the three stones must be brought together.",
+      "source": "https://en.wikipedia.org/wiki/Broken_Sword_II:_The_Smoking_Mirror"
+    },
+    {
+      "placeId": "caribbean",
+      "aliases": [
+        "Zombie Island"
+      ],
+      "settingType": "fictionalized",
+      "note": "George sails to Ketch's Landing and the island where the Spanish pirate who stole the second stone made his home; Nico joins him there.",
+      "source": "https://en.wikipedia.org/wiki/Broken_Sword_II:_The_Smoking_Mirror"
+    },
+    {
+      "placeId": "london-uk",
+      "note": "Nico tracks the third stone, taken by an English pirate, from the British Museum to the Underground and the docks."
+    },
+    {
+      "placeId": "british-museum-london-uk",
+      "note": "Nico finds the jaguar stone has already been stolen from the museum."
+    }
+  ],
+  "storyYears": [
+    1997
+  ],
+  "routes": [
+    {
+      "id": "george",
+      "name": "George",
+      "characters": [
+        "George Stobbart"
+      ],
+      "storyYears": [
+        1997
+      ],
+      "stops": [
+        "paris-france",
+        "marseille-france",
+        "quaramonte-fictional-central-america",
+        "caribbean",
+        "quaramonte-fictional-central-america"
+      ],
+      "note": "Paris, the Marseille warehouse, Quaramonte, then the Caribbean island for the pirate's stone and back to the pyramid.",
+      "source": "https://en.wikipedia.org/wiki/Broken_Sword_II:_The_Smoking_Mirror"
+    },
+    {
+      "id": "nico",
+      "name": "Nico",
+      "characters": [
+        "Nicole Collard"
+      ],
+      "storyYears": [
+        1997
+      ],
+      "stops": [
+        "paris-france",
+        "marseille-france",
+        "quaramonte-fictional-central-america",
+        "london-uk",
+        "caribbean",
+        "quaramonte-fictional-central-america"
+      ],
+      "note": "After Quaramonte Nico hunts the third stone in London, meets George on Zombie Island, and the two return to the pyramid together.",
+      "source": "https://en.wikipedia.org/wiki/Broken_Sword_II:_The_Smoking_Mirror"
+    }
+  ],
+  "source": "https://en.wikipedia.org/wiki/Broken_Sword_II:_The_Smoking_Mirror",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Revolution_Software",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Virgin_Interactive_Entertainment",
+  "genres": [
+    "Adventure"
+  ]
+}

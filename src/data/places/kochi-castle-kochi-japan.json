@@ -1,0 +1,15 @@
+{
+  "id": "kochi-castle-kochi-japan",
+  "name": "Kōchi Castle, Kōchi, Japan",
+  "position": {
+    "lat": 33.5607,
+    "lon": 133.5315
+  },
+  "scale": "site",
+  "parentId": "kochi-japan",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Like_a_Dragon:_Ishin!",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/K%C5%8Dchi_Castle",
+  "description": "An Edo-period castle on Ōtakayama hill in the centre of Kōchi, seat of the Yamauchi lords of Tosa.",
+  "descriptionSource": "wikipedia"
+}

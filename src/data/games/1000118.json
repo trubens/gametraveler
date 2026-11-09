@@ -1,0 +1,24 @@
+{
+  "id": 1000118,
+  "name": "The 11th Hour",
+  "year": 1995,
+  "publisher": "Virgin Interactive",
+  "developer": "Trilobyte",
+  "locations": [
+    {
+      "placeId": "new-york-usa",
+      "aliases": [
+        "Harley-on-the-Hudson"
+      ],
+      "settingType": "fictionalized",
+      "note": "Journalist Carl Denning searches Harley-on-the-Hudson and Henry Stauf's mansion for his producer Robin Morales, who vanished while investigating killings in the town."
+    }
+  ],
+  "storyYears": [
+    1995
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_11th_Hour_(video_game)",
+  "genres": [
+    "Adventure"
+  ]
+}

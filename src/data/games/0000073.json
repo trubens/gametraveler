@@ -1,0 +1,93 @@
+{
+  "id": 73,
+  "name": "Grand Theft Auto V",
+  "aliases": [
+    "GTA",
+    "GTA V",
+    "GTA 5"
+  ],
+  "year": 2013,
+  "publisher": "Rockstar Games",
+  "series": "Grand Theft Auto",
+  "developer": "Rockstar North",
+  "locations": [
+    {
+      "placeId": "ludendorff-fictional-fargo-north-dakota-usa",
+      "settingType": "fictionalized",
+      "note": "Michael, Trevor and Brad rob a bank in the 2004 prologue and Michael fakes his death; years later Trevor finds Brad buried in Michael's grave here.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V"
+    },
+    {
+      "placeId": "los-angeles-usa",
+      "aliases": [
+        "Los Santos"
+      ],
+      "settingType": "fictionalized",
+      "note": "In Los Santos, the game's Los Angeles, Michael De Santa's comfortable retirement unravels into heists with Franklin, Trevor and Lester, ending in the raid on the Union Depository's gold."
+    },
+    {
+      "placeId": "beverly-hills-california-usa",
+      "settingType": "fictionalized",
+      "note": "Recreated as Rockford Hills, where Michael lives in his mansion and the crew robs the Vangelico jewellery store.",
+      "source": "https://en.wikipedia.org/wiki/Los_Santos_(Grand_Theft_Auto)"
+    },
+    {
+      "placeId": "hollywood-california-usa",
+      "settingType": "fictionalized",
+      "note": "Recreated as Vinewood under the Vinewood sign, where Michael and Franklin pull down a hillside mansion that turns out to belong to the drug lord Martin Madrazo.",
+      "source": "https://en.wikipedia.org/wiki/Los_Santos_(Grand_Theft_Auto)"
+    },
+    {
+      "placeId": "griffith-park-los-angeles-usa",
+      "settingType": "fictionalized",
+      "note": "Recreated as the Galileo Observatory, looking down on Los Santos from the Vinewood hills.",
+      "source": "https://en.wikipedia.org/wiki/Los_Santos_(Grand_Theft_Auto)"
+    },
+    {
+      "placeId": "santa-monica-california-usa",
+      "settingType": "fictionalized",
+      "note": "Recreated as Del Perro and Vespucci Beach, with the Del Perro Pier modelled on the Santa Monica Pier.",
+      "source": "https://en.wikipedia.org/wiki/Los_Santos_(Grand_Theft_Auto)"
+    },
+    {
+      "placeId": "blaine-county-san-andreas-fictionalized-southern-california",
+      "settingType": "fictionalized",
+      "note": "Trevor runs his meth business out of a Sandy Shores trailer and wars with the Lost, Merryweather and Wei Cheng's Triads."
+    }
+  ],
+  "storyYears": [
+    2004,
+    2013
+  ],
+  "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Rockstar_Games",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "michael-franklin-trevor",
+      "name": "Michael, Franklin and Trevor",
+      "characters": [
+        "Michael De Santa",
+        "Franklin Clinton",
+        "Trevor Philips"
+      ],
+      "storyYears": [
+        2004,
+        2013
+      ],
+      "stops": [
+        "ludendorff-fictional-fargo-north-dakota-usa",
+        "los-angeles-usa",
+        "blaine-county-san-andreas-fictionalized-southern-california",
+        "los-angeles-usa",
+        "ludendorff-fictional-fargo-north-dakota-usa",
+        "los-angeles-usa"
+      ],
+      "note": "From the snowbound Ludendorff robbery to a new life in Los Santos, Trevor's desert in Blaine County, a return to the grave in Ludendorff and the gold heist back in the city.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V"
+    }
+  ]
+}

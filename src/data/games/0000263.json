@@ -1,0 +1,36 @@
+{
+  "id": 263,
+  "name": "Nancy Drew: Danger by Design",
+  "year": 2006,
+  "publisher": "Her Interactive",
+  "series": "Nancy Drew",
+  "developer": "Her Interactive",
+  "locations": [
+    {
+      "placeId": "paris-france",
+      "note": "Nancy goes undercover as assistant to the masked designer Minette, who is receiving threatening letters while she makes a gown for France's First Lady."
+    },
+    {
+      "placeId": "montmartre-paris-france",
+      "note": "Minette's studio is in an old windmill on the hill below the Sacré-Cœur, and its hidden chamber holds the game's last secret.",
+      "source": "https://www.gameboomers.com/wtcheats/pcNn/NDDDesign.htm"
+    },
+    {
+      "placeId": "square-du-vert-galant-paris-france",
+      "note": "Statue puzzles in the little park below the Pont Neuf open the way into the tunnels.",
+      "source": "https://www.gameboomers.com/wtcheats/pcNn/NDDDesign.htm"
+    },
+    {
+      "placeId": "catacombs-of-paris-france",
+      "note": "Nancy wades through flooded tunnels in a wetsuit to recover the clues that lead back to Noisette Tornade's wartime secret.",
+      "source": "https://www.gameboomers.com/wtcheats/pcNn/NDDDesign.htm"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Danger_by_Design",
+  "reviewed": "2026-11-03",
+  "developerUrl": "https://en.wikipedia.org/wiki/HeR_Interactive",
+  "genres": [
+    "Adventure"
+  ]
+}

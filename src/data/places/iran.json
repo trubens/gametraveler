@@ -1,0 +1,13 @@
+{
+  "id": "iran",
+  "name": "Iran",
+  "position": {
+    "lat": 32.17,
+    "lon": 54.93
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Iran",
+  "description": "A country of West Asia known for most of its history as Persia."
+}

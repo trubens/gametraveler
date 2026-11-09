@@ -1,0 +1,14 @@
+{
+  "id": "loch-lomond-scotland-uk",
+  "name": "Loch Lomond, Scotland, UK",
+  "position": {
+    "lat": 56.0667,
+    "lon": -4.5833
+  },
+  "scale": "area",
+  "parentId": "scotland-uk",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Loch_Lomond",
+  "description": "A freshwater loch that spans the Highland Boundary Fault, the largest lake in Great Britain by surface area.",
+  "descriptionSource": "wikipedia"
+}

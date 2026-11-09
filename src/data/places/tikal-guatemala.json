@@ -1,0 +1,13 @@
+{
+  "id": "tikal-guatemala",
+  "name": "Tikal, Guatemala",
+  "position": {
+    "lat": 17.2219,
+    "lon": -89.6236
+  },
+  "scale": "area",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tikal",
+  "description": "The ruined Maya city in the Petén rainforest, its temple pyramids rising above the canopy.",
+  "descriptionSource": "wikipedia"
+}

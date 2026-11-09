@@ -1,0 +1,16 @@
+{
+  "id": "kharkiv-ukraine",
+  "name": "Kharkiv, Ukraine",
+  "position": {
+    "lat": 49.9925,
+    "lon": 36.2311
+  },
+  "scale": "area",
+  "parentId": "ukraine",
+  "placeType": "city",
+  "aliases": [
+    "Kharkov"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kharkiv",
+  "description": "The second-largest city in Ukraine."
+}

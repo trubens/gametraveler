@@ -1,0 +1,14 @@
+{
+  "id": "kanda-tokyo-japan",
+  "name": "Kanda, Tokyo, Japan",
+  "position": {
+    "lat": 35.6917,
+    "lon": 139.7713
+  },
+  "scale": "site",
+  "parentId": "tokyo-japan",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kanda,_Tokyo",
+  "description": "An old commercial district in north-eastern Chiyoda, made up of some thirty neighbourhoods. The article gives no coordinates, so the pin is at Kanda Station.",
+  "source": "https://en.wikipedia.org/wiki/Kanda_Station_(Tokyo)"
+}

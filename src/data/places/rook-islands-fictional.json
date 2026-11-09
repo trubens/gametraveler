@@ -1,0 +1,13 @@
+{
+  "id": "rook-islands-fictional",
+  "name": "Rook Islands",
+  "position": {
+    "lat": 2.5,
+    "lon": 107.0
+  },
+  "scale": "area",
+  "placeType": "island",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Far_Cry_3",
+  "description": "The pirate-held tropical archipelago of Far Cry 3, home of the Rakyat. The game puts it somewhere in the Pacific, a skydiving flight from Bangkok, and names no real basis; the pin in the South China Sea is a guess."
+}

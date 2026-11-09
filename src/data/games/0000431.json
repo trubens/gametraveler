@@ -1,0 +1,63 @@
+{
+  "id": 431,
+  "name": "Lost Horizon",
+  "year": 2010,
+  "series": "Lost Horizon",
+  "developer": "Animation Arts",
+  "publisher": "Deep Silver",
+  "locations": [
+    {
+      "placeId": "hong-kong-china",
+      "note": "Fenton escapes the Triads and investigates a missing mapmaker across Hong Kong's nightclub, streets, and harbor."
+    },
+    {
+      "placeId": "tibet-china",
+      "note": "The prologue and later chapters take Fenton to a monastery in Tibet and on a mountain expedition to the hidden Khembalung Valley."
+    },
+    {
+      "placeId": "marrakesh-morocco",
+      "note": "Fenton searches Marrakesh for Professor Hayes, visiting the bazaar, gendarmerie, and an oasis outside the city."
+    },
+    {
+      "placeId": "berlin-germany",
+      "note": "Fenton searches Nazi sites in Berlin, including the Brandenburg Gate area, an Olympic stadium, and a museum."
+    },
+    {
+      "placeId": "wewelsburg-castle-germany",
+      "note": "Fenton infiltrates Wewelsburg Castle to recover the Piri Reis map from its crypt."
+    },
+    {
+      "placeId": "india",
+      "settingType": "fictionalized",
+      "note": "Fenton searches an Indian village, the jungle and a temple for another artifact."
+    }
+  ],
+  "storyYears": [
+    1936
+  ],
+  "source": "https://en.wikipedia.org/wiki/Lost_Horizon_(video_game)",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Deep_Silver",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "fenton",
+      "name": "Fenton's search",
+      "characters": [
+        "Fenton Paddock"
+      ],
+      "stops": [
+        "hong-kong-china",
+        "tibet-china",
+        "marrakesh-morocco",
+        "berlin-germany",
+        "wewelsburg-castle-germany",
+        "india",
+        "tibet-china"
+      ],
+      "note": "From the Hong Kong airport over Tibet, Marrakesh, Berlin and Wewelsburg to India, and back into the mountains for Shambala.",
+      "source": "https://www.walkthroughking.com/text/losthorizon.aspx"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "tower-of-london-london-uk",
+  "name": "Tower of London, London, UK",
+  "position": {
+    "lat": 51.5081,
+    "lon": -0.0759
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Tower_of_London",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tower_of_London",
+  "description": "The royal fortress on the north bank of the Thames, a castle that has stood over London since the Norman kings."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "theodore-roosevelt-island-washington-d-c-usa",
+  "name": "Theodore Roosevelt Island, Washington, D.C., USA",
+  "position": {
+    "lat": 38.8972,
+    "lon": -77.0642
+  },
+  "scale": "site",
+  "parentId": "washington-d-c-usa",
+  "placeType": "island",
+  "aliases": [
+    "Roosevelt Island"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Theodore_Roosevelt_Island",
+  "description": "An 88.5-acre island in the Potomac River kept as a national memorial to Theodore Roosevelt.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Theodore_Roosevelt_Island"
+}

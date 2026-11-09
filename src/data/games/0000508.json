@@ -1,0 +1,58 @@
+{
+  "id": 508,
+  "name": "Agatha Christie - Murder on the Orient Express",
+  "year": 2023,
+  "series": "Agatha Christie",
+  "developer": "Microids Studio Lyon",
+  "publisher": "Microids",
+  "locations": [
+    {
+      "placeId": "istanbul-turkey",
+      "note": "Poirot boards the Orient Express in Istanbul, as in the novel, with the story moved to 2023."
+    },
+    {
+      "placeId": "boston-usa",
+      "note": "Joanna Locke's playable flashbacks: her years on Cassetti's trail since 2019 and the Armstrong kidnapping case in Boston."
+    },
+    {
+      "placeId": "venice-italy",
+      "note": "Poirot and Locke leave the train and begin their investigation in the city."
+    },
+    {
+      "placeId": "geneva-switzerland",
+      "note": "Poirot and Locke work separately to get into a bank and open Cassetti's safety-deposit box."
+    },
+    {
+      "placeId": "paris-france",
+      "note": "The train's last destination, where the case is closed."
+    }
+  ],
+  "storyYears": [
+    2023
+  ],
+  "source": "https://www.microids.com/game-agatha-christie-murder-on-the-orient-express/",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Microids",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Microids",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "poirot-locke",
+      "name": "Hercule Poirot and Joanna Locke",
+      "characters": [
+        "Hercule Poirot",
+        "Joanna Locke"
+      ],
+      "stops": [
+        "istanbul-turkey",
+        "venice-italy",
+        "geneva-switzerland",
+        "paris-france"
+      ],
+      "note": "Poirot boards the Orient Express in Istanbul, then steps off with Joanna Locke in Venice and Switzerland to chase Cassetti's money before the case closes in Paris.",
+      "source": "https://agathachristie.fandom.com/wiki/Agatha_Christie:_Murder_on_the_Orient_Express_(2023_video_game)"
+    }
+  ]
+}

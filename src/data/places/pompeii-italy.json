@@ -1,0 +1,13 @@
+{
+  "id": "pompeii-italy",
+  "name": "Pompeii, Italy",
+  "position": {
+    "lat": 40.751,
+    "lon": 14.487
+  },
+  "scale": "site",
+  "parentId": "italy",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pompeii",
+  "description": "The ancient city near Naples in Campania that was buried by the eruption of Vesuvius in AD 79, its streets and houses preserved under the ash."
+}

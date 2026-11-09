@@ -1,0 +1,16 @@
+{
+  "id": "hordaland-norway",
+  "name": "Hordaland, Norway",
+  "position": {
+    "lat": 60.25,
+    "lon": 6
+  },
+  "scale": "area",
+  "parentId": "norway",
+  "aliases": [
+    "Hordafylke"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hordaland",
+  "placeType": "region",
+  "description": "A former county of Norway, among the country's most populous, that bordered Sogn og Fjordane, Rogaland, Buskerud and Telemark."
+}

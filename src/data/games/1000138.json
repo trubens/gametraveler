@@ -1,0 +1,23 @@
+{
+  "id": 1000138,
+  "name": "Road to Guangdong",
+  "year": 2020,
+  "publisher": "Excalibur Games",
+  "developer": "Just Add Oil Games",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://store.steampowered.com/app/995840/Road_to_Guangdong/",
+  "locations": [
+    {
+      "placeId": "guangdong-china",
+      "settingType": "fictionalized",
+      "note": "Sunny, new owner of the family's struggling restaurant, drives her aunt Guu Ma across 1990s Guangdong to visit long-lost relatives and save the business."
+    }
+  ],
+  "storyYears": [
+    1990,
+    1999
+  ],
+  "route": false
+}

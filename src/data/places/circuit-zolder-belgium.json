@@ -1,0 +1,12 @@
+{
+  "id": "circuit-zolder-belgium",
+  "name": "Circuit Zolder, Belgium",
+  "position": {
+    "lat": 50.99,
+    "lon": 5.256
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Circuit_Zolder",
+  "description": "An undulating motorsport race track at Heusden-Zolder in Belgium, also known as Circuit Terlamen."
+}

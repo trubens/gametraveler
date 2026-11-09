@@ -1,0 +1,13 @@
+{
+  "id": "qatar",
+  "name": "Qatar",
+  "position": {
+    "lat": 25.3548,
+    "lon": 51.1839
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.geodatos.net/en/coordinates/qatar",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Qatar",
+  "description": "A small peninsular country in West Asia, jutting into the Persian Gulf, with Doha as its capital."
+}

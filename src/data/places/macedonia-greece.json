@@ -1,0 +1,13 @@
+{
+  "id": "macedonia-greece",
+  "name": "Macedonia, Greece",
+  "position": {
+    "lat": 40.6401,
+    "lon": 22.9444
+  },
+  "scale": "area",
+  "parentId": "greece",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Macedonia_(Greece)",
+  "description": "A broad region of Greece in the southern Balkans, once an administrative region in its own right."
+}

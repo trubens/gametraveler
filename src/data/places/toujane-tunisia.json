@@ -1,0 +1,15 @@
+{
+  "id": "toujane-tunisia",
+  "name": "Toujane, Tunisia",
+  "position": {
+    "lat": 33.4667,
+    "lon": 10.1333
+  },
+  "scale": "area",
+  "parentId": "tunisia",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Toujane",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toujane",
+  "description": "A Berber mountain village in southern Tunisia near Medenine, split in two by a valley and remembered for its part in the Second World War.",
+  "descriptionSource": "wikipedia"
+}

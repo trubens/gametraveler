@@ -1,0 +1,15 @@
+{
+  "id": "susukino-sapporo-japan",
+  "name": "Susukino, Sapporo, Japan",
+  "position": {
+    "lat": 43.0553,
+    "lon": 141.3538
+  },
+  "scale": "area",
+  "parentId": "sapporo-japan",
+  "placeType": "neighborhood",
+  "source": "https://en.wikipedia.org/wiki/Susukino",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Susukino",
+  "description": "Sapporo's entertainment district in Chūō-ku, full of restaurants, bars and hotels, and home of the Sapporo Snow Festival's ice sculptures.",
+  "descriptionSource": "wikipedia"
+}

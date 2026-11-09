@@ -1,0 +1,18 @@
+{
+  "id": "little-hope-massachusetts-usa-fictional-town",
+  "name": "Little Hope, Massachusetts, USA",
+  "position": {
+    "lat": 42.6584,
+    "lon": -71.137
+  },
+  "scale": "area",
+  "placeType": "city",
+  "fictional": true,
+  "aliases": [
+    "Little Hope, Massachusetts, USA (fictional town)"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andover,_Massachusetts",
+  "description": "An invented New England ghost town built on the 1692 Andover witch trials and named after a \"Little Hope Meadow\" on a map of the time; set in Andover, Essex County, where it is pinned.",
+  "source": "https://thedarkpictures.fandom.com/wiki/Little_Hope_(Town)",
+  "parentId": "massachusetts-usa"
+}

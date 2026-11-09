@@ -1,0 +1,64 @@
+{
+  "id": 125,
+  "name": "Assassin's Creed Rogue",
+  "aliases": [
+    "AC",
+    "AC Rogue"
+  ],
+  "year": 2014,
+  "publisher": "Ubisoft",
+  "series": "Assassin's Creed",
+  "developer": "Ubisoft Sofia",
+  "locations": [
+    {
+      "placeId": "north-atlantic",
+      "note": "Shay Cormac sails the icy North Atlantic and Gulf of Saint Lawrence during the Seven Years' War."
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Colonial New York, where Shay hunts his former Assassin brothers as a Templar."
+    },
+    {
+      "placeId": "lisbon-portugal",
+      "note": "Sent to a Precursor temple in Lisbon in 1755, Shay removes its artifact and sets off the great earthquake, and turns against the Assassins."
+    },
+    {
+      "placeId": "river-valley-fictionalized-hudson-valley-usa",
+      "settingType": "fictionalized",
+      "note": "The open-world River Valley is based on the Hudson Valley and its wooded waterways."
+    },
+    {
+      "placeId": "versailles-france",
+      "note": "1776: with Benjamin Franklin's help Shay slips into the Palace of Versailles and kills the Assassin Charles Dorian for the Precursor box."
+    }
+  ],
+  "storyYears": [
+    1752,
+    1760,
+    2014
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Rogue",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "shay",
+      "name": "Shay Cormac",
+      "characters": [
+        "Shay Cormac"
+      ],
+      "stops": [
+        "north-atlantic",
+        "lisbon-portugal",
+        "new-york-city-usa",
+        "river-valley-fictionalized-hudson-valley-usa",
+        "versailles-france"
+      ],
+      "note": "From Assassin in the North Atlantic to Templar at Versailles.",
+      "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Rogue"
+    }
+  ]
+}

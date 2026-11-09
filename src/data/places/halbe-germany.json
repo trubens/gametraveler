@@ -1,0 +1,15 @@
+{
+  "id": "halbe-germany",
+  "name": "Halbe, Germany",
+  "position": {
+    "lat": 52.1086,
+    "lon": 13.7008
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Halbe,_Brandenburg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Halbe,_Brandenburg",
+  "description": "A municipality in the Dahme-Spreewald district of Brandenburg, Germany, site of the Battle of Halbe in April 1945.",
+  "descriptionSource": "wikipedia"
+}

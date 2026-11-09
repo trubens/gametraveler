@@ -1,0 +1,79 @@
+{
+  "id": 127,
+  "name": "Assassin's Creed Syndicate",
+  "aliases": [
+    "AC",
+    "AC Syndicate"
+  ],
+  "year": 2015,
+  "publisher": "Ubisoft",
+  "series": "Assassin's Creed",
+  "developer": "Ubisoft Quebec",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "Twins Jacob and Evie Frye build a gang to wrest 1868 Victorian London from Templar control."
+    },
+    {
+      "placeId": "buckingham-palace-london-uk",
+      "note": "The finale plays out at a ball in Buckingham Palace, above the vault of the Shroud."
+    },
+    {
+      "placeId": "tower-of-london-london-uk",
+      "note": "Lucy Thorne flees to the Tower with the key to the Shroud's vault; Evie infiltrates it and kills her."
+    },
+    {
+      "placeId": "st-pauls-cathedral-london-uk",
+      "note": "St Paul's Cathedral hides the key to the Shroud's vault."
+    },
+    {
+      "placeId": "bank-of-england-london-uk",
+      "note": "The Bank of England is one of the Templar strongholds the twins take on."
+    },
+    {
+      "placeId": "whitechapel-london-uk",
+      "note": "The Jack the Ripper expansion, twenty years on: Evie Frye hunts the killer through Whitechapel after he captures her brother Jacob."
+    }
+  ],
+  "storyYears": [
+    1868,
+    2015
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Syndicate",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "evie-frye",
+      "name": "Evie Frye",
+      "characters": [
+        "Evie Frye",
+        "Henry Green"
+      ],
+      "stops": [
+        "st-pauls-cathedral-london-uk",
+        "tower-of-london-london-uk",
+        "buckingham-palace-london-uk",
+        "whitechapel-london-uk"
+      ],
+      "note": "Evie hunts the Shroud from the key under St Paul's to Lucy Thorne's death in the Tower and the vault beneath Buckingham Palace, and twenty years later stalks the Ripper through Whitechapel.",
+      "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Syndicate"
+    },
+    {
+      "id": "jacob-frye",
+      "name": "Jacob Frye",
+      "characters": [
+        "Jacob Frye"
+      ],
+      "stops": [
+        "bank-of-england-london-uk",
+        "buckingham-palace-london-uk"
+      ],
+      "note": "Jacob tears down Starrick's empire one lieutenant at a time, from the crooked governor of the Bank of England to the Grand Master himself at the palace ball.",
+      "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Syndicate"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "montserrat-spain",
+  "name": "Montserrat, Spain",
+  "position": {
+    "lat": 41.5933,
+    "lon": 1.8378
+  },
+  "scale": "area",
+  "parentId": "spain",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Montserrat_(mountain)",
+  "description": "A many-peaked mountain range near Barcelona in Catalonia, part of the Catalan Pre-Coastal Range."
+}

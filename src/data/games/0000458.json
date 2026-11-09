@@ -1,0 +1,40 @@
+{
+  "id": 458,
+  "name": "Medal of Honor (1999)",
+  "year": 1999,
+  "series": "Medal of Honor",
+  "developer": "DreamWorks Interactive",
+  "publisher": "Electronic Arts",
+  "locations": [
+    {
+      "placeId": "normandy-france",
+      "note": "Jimmy Patterson's first mission: find a downed plane and a captured G3 officer behind the lines in Normandy."
+    },
+    {
+      "placeId": "germany",
+      "aliases": [
+        "Fort Schmerzen"
+      ],
+      "settingType": "fictionalized",
+      "note": "Patterson storms the fortress and its mustard-gas works in the Siegfried Forest."
+    },
+    {
+      "placeId": "vemork-rjukan-norway",
+      "note": "Sabotage the Rjukan Hydro Plant: through the penstocks and generator halls to the heavy-water cellar."
+    },
+    {
+      "placeId": "merkers-mine-thuringia-germany",
+      "note": "Capture the Secret German Treasure: the looted art and gold hidden in the caverns of the Merkers mine."
+    }
+  ],
+  "storyYears": [
+    1944,
+    1945
+  ],
+  "source": "https://en.wikipedia.org/wiki/Medal_of_Honor_(1999_video_game)",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "route": true
+}

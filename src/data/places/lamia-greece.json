@@ -1,0 +1,13 @@
+{
+  "id": "lamia-greece",
+  "name": "Lamia, Greece",
+  "position": {
+    "lat": 38.9,
+    "lon": 22.43
+  },
+  "scale": "area",
+  "parentId": "greece",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lamia_(city)",
+  "description": "A city in central Greece that dates back to antiquity."
+}

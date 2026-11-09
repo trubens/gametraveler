@@ -1,0 +1,14 @@
+{
+  "id": "tapada-das-necessidades-lisbon-portugal",
+  "name": "Tapada das Necessidades, Lisbon, Portugal",
+  "position": {
+    "lat": 38.7059,
+    "lon": -9.1689
+  },
+  "scale": "site",
+  "parentId": "lisbon-portugal",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Tapada_das_Necessidades",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Necessidades_Palace",
+  "description": "The Necessidades Palace and its grounds on the Largo do Rilvas in Lisbon, today the headquarters of the Portuguese foreign ministry."
+}

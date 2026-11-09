@@ -1,0 +1,13 @@
+{
+  "id": "chamonix-mont-blanc-france",
+  "name": "Chamonix, Mont Blanc, France",
+  "position": {
+    "lat": 45.9237,
+    "lon": 6.8694
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chamonix",
+  "description": "An Alpine town in Haute-Savoie."
+}

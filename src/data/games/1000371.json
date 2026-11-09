@@ -1,0 +1,57 @@
+{
+  "id": 1000371,
+  "name": "Persona 3 Reload",
+  "aliases": [
+    "P3R"
+  ],
+  "year": 2024,
+  "publisher": "Sega",
+  "series": "Persona",
+  "developer": "P-Studio",
+  "genres": [
+    "RPG"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Persona_3_Reload",
+  "reviewed": "2026-11-06",
+  "locations": [
+    {
+      "placeId": "tatsumi-port-island-fictional-japan",
+      "aliases": [
+        "Tatsumi Port Island",
+        "Iwatodai"
+      ],
+      "note": "The remake retells S.E.E.S.'s year on the island, climbing Tartarus during the Dark Hour; the Episode Aigis expansion adds The Answer, in which Aigis and the others are trapped in the dorm on the last day of March."
+    },
+    {
+      "placeId": "yakushima-japan",
+      "note": "On a summer holiday on Yakushima, S.E.E.S. meets and recruits Aigis, a Persona-wielding android with an inexplicable need to stay near the protagonist."
+    },
+    {
+      "placeId": "kyoto-japan",
+      "note": "The November class trip goes to Kyoto, where the class stays at an inn, Yukari and Mitsuru talk things out by the Kamo River, and the transfer student Ryoji turns up at the inn on the second night.",
+      "source": "https://www.siliconera.com/how-to-see-persona-3-reload-ryoji-side-events/"
+    }
+  ],
+  "routes": [
+    {
+      "id": "sees",
+      "name": "S.E.E.S.",
+      "characters": [
+        "Makoto Yuki"
+      ],
+      "stops": [
+        "tatsumi-port-island-fictional-japan",
+        "yakushima-japan",
+        "tatsumi-port-island-fictional-japan",
+        "kyoto-japan",
+        "tatsumi-port-island-fictional-japan"
+      ],
+      "note": "From the Iwatodai dorm to the summer at Yakushima, the November trip to Kyoto, and back to Tartarus for the last climb.",
+      "source": "https://en.wikipedia.org/wiki/Persona_3_Reload"
+    }
+  ],
+  "storyYears": [
+    2009,
+    2010
+  ]
+}

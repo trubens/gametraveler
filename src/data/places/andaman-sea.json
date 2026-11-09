@@ -1,0 +1,12 @@
+{
+  "id": "andaman-sea",
+  "name": "Andaman Sea",
+  "position": {
+    "lat": 13.7367,
+    "lon": 98.585
+  },
+  "scale": "area",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andaman_Sea",
+  "description": "A marginal sea of the north-eastern Indian Ocean, bounded by the coasts of Myanmar and Thailand and the west side of the Malay Peninsula, with the Bay of Bengal beyond."
+}

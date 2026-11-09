@@ -1,0 +1,12 @@
+{
+  "id": "south-africa",
+  "name": "South Africa",
+  "position": {
+    "lat": -30.6,
+    "lon": 22.9
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/South_Africa",
+  "description": "The southernmost country in Africa, where the Atlantic and Indian Oceans meet at its cape."
+}

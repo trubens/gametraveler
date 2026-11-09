@@ -1,0 +1,14 @@
+{
+  "id": "anbar-iraq",
+  "name": "Anbar, Iraq",
+  "position": {
+    "lat": 33.375,
+    "lon": 43.7167
+  },
+  "scale": "area",
+  "parentId": "iraq",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Anbar_(town)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anbar_(town)",
+  "description": "An ancient town on the Euphrates west of Baghdad."
+}

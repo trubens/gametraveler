@@ -1,0 +1,57 @@
+{
+  "id": 144,
+  "name": "Forza Horizon 4",
+  "year": 2018,
+  "publisher": "Microsoft Studios",
+  "series": "Forza Horizon",
+  "developer": "Playground Games",
+  "locations": [
+    {
+      "placeId": "edinburgh-uk",
+      "note": "A condensed Edinburgh, from the castle rock to Princes Street, is the map's city, raced through all four seasons.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "lake-district-uk",
+      "note": "The Lake District's fells and lakeside roads form the map's north-west.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "scottish-highlands-uk",
+      "note": "The Highlands: single-track roads, lochs and bare hills in the north of the map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "cotswolds-england-uk",
+      "note": "The Cotswolds' stone villages and hedged lanes fill the map's south.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "bamburgh-england-uk",
+      "note": "Bamburgh Castle on its rock above the beach, the map's north-east coast.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "derwentwater-england-uk",
+      "note": "Derwentwater, the lake the map's Lake District is drawn around.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "ambleside-england-uk",
+      "note": "Drivers race through Ambleside, the slate town at the head of Windermere.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "broadway-cotswolds-england-uk",
+      "note": "Broadway, with its wide honey-stone street, is the Cotswold village of the map.",
+      "settingType": "fictionalized"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Forza_Horizon_4",
+  "reviewed": "2026-11-01",
+  "route": false,
+  "genres": [
+    "Racing"
+  ]
+}

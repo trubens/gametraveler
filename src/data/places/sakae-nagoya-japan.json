@@ -1,0 +1,15 @@
+{
+  "id": "sakae-nagoya-japan",
+  "name": "Sakae, Nagoya, Japan",
+  "position": {
+    "lat": 35.1671,
+    "lon": 136.8962
+  },
+  "scale": "area",
+  "parentId": "nagoya-japan",
+  "placeType": "neighborhood",
+  "source": "https://en.wikipedia.org/wiki/Sakae,_Nagoya",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sakae,_Nagoya",
+  "description": "Nagoya's downtown shopping and entertainment area around Sakae Station and the Hisaya Ōdori park with the Nagoya TV Tower.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "lime-rock-park-connecticut-usa",
+  "name": "Lime Rock Park, Connecticut, USA",
+  "position": {
+    "lat": 41.928,
+    "lon": -73.382
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lime_Rock_Park",
+  "description": "A natural-terrain road racing venue at Lakeville, a hamlet in Salisbury in the north-west corner of Connecticut."
+}

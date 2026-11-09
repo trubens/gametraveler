@@ -1,0 +1,18 @@
+{
+  "id": "bohemian-paradise-czech-republic",
+  "name": "Bohemian Paradise, Czech Republic",
+  "position": {
+    "lat": 50.5197,
+    "lon": 15.1706
+  },
+  "scale": "area",
+  "parentId": "czech-republic",
+  "placeType": "region",
+  "aliases": [
+    "Český ráj",
+    "Cesky raj"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bohemian_Paradise",
+  "description": "A landscape of sandstone rock towns, castles and woods north-east of Prague, with Trosky's twin towers as its landmark.",
+  "descriptionSource": "wikipedia"
+}

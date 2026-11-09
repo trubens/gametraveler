@@ -1,0 +1,13 @@
+{
+  "id": "tarragona-spain",
+  "name": "Tarragona, Spain",
+  "position": {
+    "lat": 41.1,
+    "lon": 1.2
+  },
+  "scale": "area",
+  "parentId": "spain",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tarragona",
+  "description": "A Catalan city on the Mediterranean."
+}

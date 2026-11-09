@@ -1,0 +1,13 @@
+{
+  "id": "dalian-china",
+  "name": "Dalian, China",
+  "position": {
+    "lat": 38.914,
+    "lon": 121.6147
+  },
+  "scale": "area",
+  "parentId": "china",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dalian",
+  "description": "A major port city in Liaoning province."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "salt-lake-city-usa",
+  "name": "Salt Lake City, USA",
+  "position": {
+    "lat": 40.7608,
+    "lon": -111.891
+  },
+  "scale": "area",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Salt_Lake_City",
+  "description": "Utah's capital and largest city, set between the Wasatch mountains and the Great Salt Lake.",
+  "parentId": "utah-usa"
+}

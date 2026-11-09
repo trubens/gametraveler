@@ -1,0 +1,12 @@
+{
+  "id": "area-51-usa",
+  "name": "Area 51, USA",
+  "position": {
+    "lat": 37.235,
+    "lon": -115.8111
+  },
+  "scale": "site",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Area_51",
+  "description": "A highly classified US Air Force facility inside the Nevada Test and Training Range, far out in southern Nevada north-north-west of Las Vegas."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "orkney-scotland-uk",
+  "name": "Orkney, Scotland, UK",
+  "position": {
+    "lat": 59.0,
+    "lon": -3.0
+  },
+  "scale": "area",
+  "parentId": "scotland-uk",
+  "placeType": "island",
+  "aliases": [
+    "Orkney Islands",
+    "Orkneyjar"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Orkney",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Orkney",
+  "description": "An archipelago off the north coast of mainland Scotland, settled by Norse raiders in the Viking Age and held by Norway until 1472.",
+  "descriptionSource": "wikipedia"
+}

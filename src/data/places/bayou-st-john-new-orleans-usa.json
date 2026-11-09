@@ -1,0 +1,14 @@
+{
+  "id": "bayou-st-john-new-orleans-usa",
+  "name": "Bayou St. John, New Orleans, USA",
+  "position": {
+    "lat": 29.983,
+    "lon": -90.089
+  },
+  "scale": "site",
+  "parentId": "new-orleans-usa",
+  "placeType": "natural_feature",
+  "source": "https://en.wikipedia.org/wiki/Bayou_St._John",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bayou_St._John",
+  "description": "A slow bayou running through the city of New Orleans in Louisiana."
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1000322,
+  "name": "Forza Horizon 6",
+  "year": 2026,
+  "aliases": [
+    "FH6"
+  ],
+  "series": "Forza Horizon",
+  "developer": "Playground Games",
+  "publisher": "Xbox Game Studios",
+  "genres": [
+    "Racing"
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Forza_Horizon_6",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "tokyo-japan",
+      "settingType": "fictionalized",
+      "note": "Horizon Japan's city: a stylised Tokyo of downtown streets, docklands and suburbs, with the festival's neon stage among them."
+    },
+    {
+      "placeId": "shibuya-crossing-tokyo-japan",
+      "settingType": "fictionalized",
+      "note": "The scramble crossing, recreated as the heart of the city's street races."
+    },
+    {
+      "placeId": "tokyo-tower-tokyo-japan",
+      "settingType": "fictionalized",
+      "note": "Tokyo Tower stands over the map's downtown."
+    },
+    {
+      "placeId": "ginkgo-avenue-meiji-jingu-gaien-tokyo-japan",
+      "settingType": "fictionalized",
+      "note": "The 300-metre avenue of ginkgo trees, golden in the map's autumn."
+    },
+    {
+      "placeId": "shuto-expressway-c1-tokyo-japan",
+      "settingType": "fictionalized",
+      "note": "The elevated C1 Loop, the 14.8-kilometre expressway ring, is the map's highway circuit."
+    },
+    {
+      "placeId": "mount-fuji-japan",
+      "settingType": "fictionalized",
+      "note": "Mount Fuji rises over the map's mountain region."
+    },
+    {
+      "placeId": "japanese-alps-japan",
+      "settingType": "fictionalized",
+      "note": "The Japanese Alps give the map its high passes and snow."
+    },
+    {
+      "placeId": "mount-haruna-japan",
+      "settingType": "fictionalized",
+      "note": "The hairpins of Mount Haruna, the touge road of Initial D."
+    },
+    {
+      "placeId": "bandai-azuma-skyline-japan",
+      "settingType": "fictionalized",
+      "note": "The Bandai-Azuma Skyline, 29 kilometres of volcanic mountain road, recreated in the north of the map."
+    }
+  ]
+}

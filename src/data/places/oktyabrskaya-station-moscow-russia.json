@@ -1,0 +1,15 @@
+{
+  "id": "oktyabrskaya-station-moscow-russia",
+  "name": "Oktyabrskaya station, Moscow, Russia",
+  "position": {
+    "lat": 55.7306,
+    "lon": 37.6112
+  },
+  "scale": "site",
+  "parentId": "moscow-russia",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oktyabrskaya_(Kaluzhsko-Rizhskaya_line)",
+  "description": "A Moscow Metro station on the Kaluzhsko-Rizhskaya line in the Yakimanka District.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Oktyabrskaya_(Kaluzhsko-Rizhskaya_line)"
+}

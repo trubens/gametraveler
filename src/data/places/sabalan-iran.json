@@ -1,0 +1,14 @@
+{
+  "id": "sabalan-iran",
+  "name": "Sabalan, Iran",
+  "position": {
+    "lat": 38.2669,
+    "lon": 47.8369
+  },
+  "scale": "area",
+  "parentId": "iran",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sabalan",
+  "description": "A dormant volcano in Ardabil province in north-western Iran, with a crater lake near its summit.",
+  "descriptionSource": "wikipedia"
+}

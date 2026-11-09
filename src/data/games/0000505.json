@@ -1,0 +1,22 @@
+{
+  "id": 505,
+  "name": "Hotel Dusk: Room 215",
+  "year": 2007,
+  "publisher": "Nintendo",
+  "developer": "Cing",
+  "locations": [
+    {
+      "placeId": "nevada-usa",
+      "note": "Kyle Hyde checks into the isolated Hotel Dusk in rural Nevada; the game never names the town."
+    }
+  ],
+  "storyYears": [
+    1980
+  ],
+  "source": "https://en.wikipedia.org/wiki/Hotel_Dusk:_Room_215",
+  "developerUrl": "https://en.wikipedia.org/wiki/Cing",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Nintendo",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "caspian-sea-region",
+  "name": "Caspian Sea region",
+  "position": {
+    "lat": 43.3,
+    "lon": 52.5
+  },
+  "scale": "area",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Caspian_Sea",
+  "description": "The lands around the Caspian, the world's largest inland body of water, so vast it is usually called a sea."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "santa-barbara-usa",
+  "name": "Santa Barbara, USA",
+  "position": {
+    "lat": 34.4208,
+    "lon": -119.6982
+  },
+  "scale": "area",
+  "parentId": "california-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Santa_Barbara,_California",
+  "description": "A coastal city in California."
+}

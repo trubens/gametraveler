@@ -1,0 +1,133 @@
+{
+  "id": 454,
+  "name": "Battlefield 4",
+  "year": 2013,
+  "series": "Battlefield",
+  "developer": "DICE",
+  "publisher": "Electronic Arts",
+  "locations": [
+    {
+      "placeId": "shanghai-china",
+      "note": "Shanghai: the rescue of the VIPs from the towers, and the Siege of Shanghai multiplayer map, where the skyscraper comes down."
+    },
+    {
+      "placeId": "baku-azerbaijan",
+      "note": "Baku: the opening mission, Tombstone squad escaping the city with stolen intelligence."
+    },
+    {
+      "placeId": "singapore",
+      "note": "Singapore: the assault on the Chinese-held airfield in a storm."
+    },
+    {
+      "placeId": "kunlun-mountains-china",
+      "note": "Kunlun Mountains: Recker and Irish imprisoned in the mountains, and the Operation Locker map in the same prison."
+    },
+    {
+      "placeId": "suez-canal-egypt",
+      "note": "Suez: the finale, Tombstone racing to the USS Valkyrie as Chang's fleet closes in."
+    },
+    {
+      "placeId": "paracel-islands",
+      "note": "Paracel Storm: a multiplayer map among the islets, with a destroyer running aground."
+    },
+    {
+      "placeId": "lancang-river-yunnan-china",
+      "note": "Lancang Dam: a multiplayer map at a dam on the upper Mekong, which can be blown."
+    },
+    {
+      "placeId": "fast-telescope-pingtang-china",
+      "note": "Rogue Transmission: a multiplayer map around the great radio dish in Guizhou."
+    },
+    {
+      "placeId": "hainan-china",
+      "note": "Hainan Resort: a beach hotel on the island, a multiplayer map."
+    },
+    {
+      "placeId": "golmud-china",
+      "note": "Golmud Railway: the open plateau around the railway town, a multiplayer map."
+    },
+    {
+      "placeId": "china",
+      "note": "Flood Zone, Dawnbreaker, Silk Road and Dragon Pass: multiplayer maps in Chinese cities and valleys without a named town."
+    },
+    {
+      "placeId": "altai-mountains-china",
+      "note": "Altai Range: a China Rising map in the snow of the mountains."
+    },
+    {
+      "placeId": "guilin-china",
+      "note": "Guilin Peaks: a China Rising map among the karst hills."
+    },
+    {
+      "placeId": "russia",
+      "note": "Zavod 311, Operation Whiteout, Hammerhead and Hangar 21: an abandoned tank factory and the Final Stand maps in the Russian Arctic."
+    },
+    {
+      "placeId": "karelia-russia",
+      "note": "Giants of Karelia: a Final Stand map at a walker factory in the forests."
+    },
+    {
+      "placeId": "caspian-sea-region",
+      "note": "Caspian Border: back from Battlefield 3 in Second Assault."
+    },
+    {
+      "placeId": "gulf-of-oman",
+      "note": "Gulf of Oman: back in Second Assault, with a sandstorm."
+    },
+    {
+      "placeId": "paris-france",
+      "note": "Operation Métro: the Paris map returns in Second Assault."
+    },
+    {
+      "placeId": "iran",
+      "note": "Operation Firestorm: the Iranian oil fields, back in Second Assault."
+    },
+    {
+      "placeId": "south-china-sea",
+      "note": "Tombstone boards the sinking carrier USS Titan for its voyage data recorder, then fights off the Chinese assault on the Valkyrie. Naval Strike's Lost Islands, Nansha Strike, Wave Breaker and Operation Mortar are multiplayer maps among its reefs."
+    },
+    {
+      "placeId": "lumphini-park-bangkok-thailand",
+      "note": "Lumphini Garden: a Dragon's Teeth map in the flooded park."
+    },
+    {
+      "placeId": "hong-kong-china",
+      "note": "Pearl Market and Sunken Dragon: Dragon's Teeth maps in a locked-down Hong Kong."
+    },
+    {
+      "placeId": "north-korea",
+      "note": "Propaganda: a Dragon's Teeth map in a North Korean town."
+    }
+  ],
+  "storyYears": [
+    2020
+  ],
+  "source": "https://en.wikipedia.org/wiki/Battlefield_4",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "tombstone",
+      "name": "Tombstone squad",
+      "characters": [
+        "Daniel Recker",
+        "Kimble \"Irish\" Graves",
+        "Clayton \"Pac\" Pakowski",
+        "Hannah",
+        "William Dunn"
+      ],
+      "stops": [
+        "baku-azerbaijan",
+        "shanghai-china",
+        "south-china-sea",
+        "singapore",
+        "kunlun-mountains-china",
+        "suez-canal-egypt"
+      ],
+      "note": "Fleeing Baku with stolen intelligence, Tombstone rescues VIPs in Shanghai, fights aboard the Valkyrie at sea, storms Singapore's airfield, escapes a Kunlun prison and makes a last stand off Suez.",
+      "source": "https://en.wikipedia.org/wiki/Battlefield_4"
+    }
+  ]
+}

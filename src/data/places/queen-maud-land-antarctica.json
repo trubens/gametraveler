@@ -1,0 +1,17 @@
+{
+  "id": "queen-maud-land-antarctica",
+  "name": "Queen Maud Land, Antarctica",
+  "position": {
+    "lat": -72,
+    "lon": 20
+  },
+  "scale": "area",
+  "parentId": "antarctica",
+  "placeType": "region",
+  "aliases": [
+    "Dronning Maud Land"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Queen_Maud_Land",
+  "description": "The Norwegian-claimed sector of Antarctica, an ice sheet broken by nunataks and the mountains of the coast.",
+  "descriptionSource": "wikipedia"
+}

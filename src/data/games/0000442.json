@@ -1,0 +1,23 @@
+{
+  "id": 442,
+  "name": "Call of Duty: Black Ops Cold War",
+  "year": 2020,
+  "series": "Call of Duty",
+  "developer": "Treyarch / Raven Software",
+  "publisher": "Activision",
+  "locations": [
+    {
+      "placeId": "berlin-germany",
+      "note": "From a safe house in West Berlin the team crosses into East Berlin to take Volkov, who smuggled Perseus's nuclear device through the city."
+    }
+  ],
+  "storyYears": [
+    1981
+  ],
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_Cold_War",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Activision",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

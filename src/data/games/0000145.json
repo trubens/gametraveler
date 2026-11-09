@@ -1,0 +1,41 @@
+{
+  "id": 145,
+  "name": "Forza Horizon 5",
+  "year": 2021,
+  "publisher": "Xbox Game Studios",
+  "series": "Forza Horizon",
+  "developer": "Playground Games",
+  "locations": [
+    {
+      "placeId": "guanajuato-mexico",
+      "note": "Guanajuato's coloured hillside houses and road tunnels are the map's city, with street races through the underground passages.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "ek-balam-mexico",
+      "note": "The Maya ruins of Ek' Balam, with the acropolis to climb by car, in the map's jungle corner.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "mulege-mexico",
+      "note": "Mulegé, the palm oasis town on the Gulf of California, the map's Baja village.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "copper-canyon-mexico",
+      "note": "Copper Canyon's gorges and switchbacks, the map's western highlands.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "baja-california-mexico",
+      "note": "The Baja desert and its dunes, the dry north of the map.",
+      "settingType": "fictionalized"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Forza_Horizon_5",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

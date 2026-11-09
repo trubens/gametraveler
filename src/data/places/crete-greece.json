@@ -1,0 +1,14 @@
+{
+  "id": "crete-greece",
+  "name": "Crete, Greece",
+  "position": {
+    "lat": 35.21,
+    "lon": 24.91
+  },
+  "scale": "area",
+  "parentId": "greece",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Crete",
+  "description": "The largest Greek island, invaded by German paratroops in May 1941 in the Battle of Crete, Operation Mercury.",
+  "descriptionSource": "wikipedia"
+}

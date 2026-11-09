@@ -1,0 +1,34 @@
+{
+  "id": 13,
+  "name": "The Raven: Legacy of a Master Thief",
+  "year": 2013,
+  "publisher": "Nordic Games",
+  "developer": "KING Art Games",
+  "locations": [
+    {
+      "placeId": "swiss-alps-switzerland",
+      "note": "Constable Zellner boards the Orient Express guarding a ruby as it crosses the Swiss Alps."
+    },
+    {
+      "placeId": "london-uk",
+      "note": "The Raven's return is announced by a ruby stolen from the British Museum in 1964."
+    },
+    {
+      "placeId": "cairo-egypt",
+      "note": "The chase ends at the Cairo Museum, where the second Sphinx ruby is displayed."
+    },
+    {
+      "placeId": "egyptian-museum-cairo-egypt",
+      "note": "The chase ends in the Cairo museum where the two eyes of the Sphinx are to be displayed."
+    }
+  ],
+  "storyYears": [
+    1964
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Raven:_Legacy_of_a_Master_Thief",
+  "developerUrl": "https://en.wikipedia.org/wiki/King_Art_Games",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Nordic_Games",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "winchester-uk",
+  "name": "Winchester, UK",
+  "position": {
+    "lat": 51.0632,
+    "lon": -1.308
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Winchester",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Winchester",
+  "description": "A cathedral city on the River Itchen in Hampshire."
+}

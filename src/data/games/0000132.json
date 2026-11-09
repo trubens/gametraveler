@@ -1,0 +1,53 @@
+{
+  "id": 132,
+  "name": "Assassin's Creed Chronicles: Russia",
+  "aliases": [
+    "AC",
+    "AC Chronicles Russia"
+  ],
+  "year": 2016,
+  "publisher": "Ubisoft",
+  "series": "Assassin's Creed",
+  "developer": "Climax Studios",
+  "locations": [
+    {
+      "placeId": "yekaterinburg-russia",
+      "note": "Nikolai Orelov infiltrates the house where the Romanovs are held in 1918, witnesses their execution and finds that Anastasia survived with the Precursor box."
+    },
+    {
+      "placeId": "kazan-russia",
+      "note": "Nikolai and Anastasia arrive by train as the Red Army retakes Kazan; Trotsky betrays Nikolai to the Templars, and Anastasia frees him before they escape by boat."
+    },
+    {
+      "placeId": "moscow-russia",
+      "note": "Nikolai turns on his own Brotherhood to rescue Anastasia from the Kremlin, destroys an Assassin tank and sends her abroad with a new identity."
+    }
+  ],
+  "storyYears": [
+    1918
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Chronicles",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "developerUrl": "https://en.wikipedia.org/wiki/Climax_Studios",
+  "genres": [
+    "Action-Platformer"
+  ],
+  "routes": [
+    {
+      "id": "nikolai-orelov",
+      "name": "Nikolai Orelov",
+      "characters": [
+        "Nikolai Orelov",
+        "Anastasia Romanova"
+      ],
+      "stops": [
+        "yekaterinburg-russia",
+        "kazan-russia",
+        "moscow-russia"
+      ],
+      "note": "By train from Yekaterinburg to Kazan, then out of Kazan on a stolen boat and on to Moscow.",
+      "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Chronicles"
+    }
+  ]
+}

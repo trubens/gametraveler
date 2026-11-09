@@ -1,0 +1,23 @@
+{
+  "id": 300,
+  "name": "F1 Career Challenge",
+  "year": 2003,
+  "series": "F1",
+  "developer": "Visual Science (GC, PS2, Xbox) / Image Space Incorporated (PC)",
+  "publisher": "EA Sports",
+  "locations": [
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "Raced as the Italian Grand Prix in the game's 1999 to 2002 seasons."
+    },
+    {
+      "placeId": "indianapolis-motor-speedway-indiana-usa",
+      "note": "Raced as the United States Grand Prix in the game's 2000 to 2002 seasons."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/F1_Career_Challenge",
+  "genres": [
+    "Racing"
+  ]
+}

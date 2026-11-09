@@ -1,0 +1,13 @@
+{
+  "id": "falaise-france",
+  "name": "Falaise, France",
+  "position": {
+    "lat": 48.8949,
+    "lon": -0.1959
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Falaise,_Calvados",
+  "description": "A town in Calvados in Normandy."
+}

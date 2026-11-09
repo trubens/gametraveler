@@ -1,0 +1,17 @@
+{
+  "id": "saint-sulpice-paris-france",
+  "name": "Saint-Sulpice, Paris, France",
+  "position": {
+    "lat": 48.8511,
+    "lon": 2.3347
+  },
+  "scale": "site",
+  "parentId": "paris-france",
+  "placeType": "landmark",
+  "aliases": [
+    "Church of Saint-Sulpice"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Church_of_Saint-Sulpice,_Paris",
+  "description": "A vast 17th-century church in the 6th arrondissement, known for its gnomon and its organ.",
+  "descriptionSource": "wikipedia"
+}

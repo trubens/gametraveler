@@ -1,0 +1,19 @@
+{
+  "id": 1000275,
+  "name": "Pitfall: The Mayan Adventure",
+  "year": 1994,
+  "developer": "Activision",
+  "publisher": "Activision",
+  "genres": [
+    "Action-Platformer"
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Pitfall:_The_Mayan_Adventure",
+  "locations": [
+    {
+      "placeId": "maya",
+      "settingType": "fictionalized",
+      "note": "Pitfall Harry Jr. runs through the Mayan jungles of Central America, ruins and caves included, chasing the warrior spirit Zakelua and the treasure of Uaxactun."
+    }
+  ]
+}

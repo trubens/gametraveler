@@ -1,0 +1,53 @@
+{
+  "id": 1000179,
+  "name": "Dracula: Origin",
+  "year": 2008,
+  "series": "Dracula",
+  "developer": "Frogwares",
+  "publisher": "Focus Home Interactive",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Dracula:_Origin",
+  "reviewed": "2026-11-02",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "After a letter from Jonathan Harker, Van Helsing tracks Dracula to a London cemetery, finds the vampire's diary and learns Mina has already been bitten."
+    },
+    {
+      "placeId": "cairo-egypt",
+      "note": "Van Helsing searches Cairo's streets and tombs and seeks out the Coptic healer Herodotus of Judah, who knows how to lift Dracula's curse on Mina but is too old to do it himself."
+    },
+    {
+      "placeId": "vienna-austria",
+      "note": "Van Helsing moves through the salons of Vienna's aristocracy to a Rococo library that sets him on the trail of a damned monastery."
+    },
+    {
+      "placeId": "castle-dracula-romania",
+      "settingType": "fictionalized",
+      "note": "Van Helsing reaches Dracula's castle in Transylvania to stop the rite that would put the soul of the Count's dead love into Mina's body.",
+      "source": "https://en.wikipedia.org/wiki/Dracula:_Origin"
+    }
+  ],
+  "storyYears": [
+    1890
+  ],
+  "routes": [
+    {
+      "id": "van-helsing",
+      "name": "Abraham Van Helsing",
+      "characters": [
+        "Abraham Van Helsing"
+      ],
+      "stops": [
+        "london-uk",
+        "cairo-egypt",
+        "vienna-austria",
+        "castle-dracula-romania"
+      ],
+      "note": "Van Helsing's chase after Dracula from London through Cairo and Vienna to the Count's castle in Transylvania.",
+      "source": "https://en.wikipedia.org/wiki/Dracula:_Origin"
+    }
+  ]
+}

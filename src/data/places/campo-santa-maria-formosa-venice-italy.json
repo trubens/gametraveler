@@ -1,0 +1,14 @@
+{
+  "id": "campo-santa-maria-formosa-venice-italy",
+  "name": "Campo Santa Maria Formosa, Venice, Italy",
+  "position": {
+    "lat": 45.4375,
+    "lon": 12.3408
+  },
+  "scale": "site",
+  "parentId": "venice-italy",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Campo_Santa_Maria_Formosa",
+  "description": "A large square in Venice's Castello district around the church of Santa Maria Formosa.",
+  "descriptionSource": "wikipedia"
+}

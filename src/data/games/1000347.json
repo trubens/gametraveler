@@ -1,0 +1,42 @@
+{
+  "id": 1000347,
+  "name": "Death Stranding 2: On the Beach",
+  "year": 2025,
+  "series": "Death Stranding",
+  "developer": "Kojima Productions",
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Death_Stranding_2:_On_the_Beach",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "mexico",
+      "settingType": "fictionalized",
+      "note": "Sam lives in peaceful isolation near the former US–Mexico border until Fragile asks him to connect northern Mexico to the Chiral Network; Deadman's recording leads him to a plate gate in southern Mexico."
+    },
+    {
+      "placeId": "australia",
+      "settingType": "fictionalized",
+      "note": "Through the plate gate aboard the tar ship DHV Magellan, Sam crosses Australia from the south-west through the Northern Territory to the east coast, connecting its survivors while Higgs's ghost mechs besiege the settlements."
+    }
+  ],
+  "routes": [
+    {
+      "id": "sam-2",
+      "name": "Sam Porter Bridges",
+      "characters": [
+        "Sam Porter Bridges",
+        "Fragile"
+      ],
+      "stops": [
+        "mexico",
+        "australia"
+      ],
+      "note": "Mexico first, then through the plate gate to Australia.",
+      "source": "https://en.wikipedia.org/wiki/Death_Stranding_2:_On_the_Beach"
+    }
+  ]
+}

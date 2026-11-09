@@ -1,0 +1,61 @@
+{
+  "id": 116,
+  "name": "Like a Dragon: Infinite Wealth",
+  "year": 2024,
+  "publisher": "Sega",
+  "series": "Yakuza / Like a Dragon",
+  "developer": "Ryu Ga Gotoku Studio",
+  "locations": [
+    {
+      "placeId": "isezakicho-yokohama-japan",
+      "aliases": [
+        "Isezaki Ijincho"
+      ],
+      "settingType": "fictionalized",
+      "note": "In Isezaki Ijincho, the series' Isezakicho in Yokohama, false rumours cost Ichiban his job at Hello Work, and later Kiryu, fighting cancer, recovers there while he digs into the Seiryu Clan's plans."
+    },
+    {
+      "placeId": "honolulu-hawaii-usa",
+      "note": "Ichiban searches for his birth mother Akane with Kiryu, crosses Hawaii's gangs and finally exposes Palekana's nuclear waste dump on Nele Island."
+    },
+    {
+      "placeId": "kabukicho-tokyo-japan",
+      "aliases": [
+        "Kamurocho"
+      ],
+      "settingType": "fictionalized",
+      "note": "In Kamurocho, the series' Kabukicho, Kiryu storms the Millennium Tower to rescue Sawashiro and defeat Ebina, while Ichiban talks Eiji into giving himself up."
+    }
+  ],
+  "storyYears": [
+    2022,
+    2023
+  ],
+  "source": "https://en.wikipedia.org/wiki/Like_a_Dragon:_Infinite_Wealth",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
+  "genres": [
+    "RPG"
+  ],
+  "routes": [
+    {
+      "id": "two-dragons",
+      "name": "Two dragons",
+      "characters": [
+        "Ichiban Kasuga",
+        "Kazuma Kiryu"
+      ],
+      "stops": [
+        "isezakicho-yokohama-japan",
+        "honolulu-hawaii-usa",
+        "isezakicho-yokohama-japan",
+        "honolulu-hawaii-usa",
+        "isezakicho-yokohama-japan",
+        "honolulu-hawaii-usa",
+        "kabukicho-tokyo-japan"
+      ],
+      "note": "From Yokohama to Honolulu in search of Ichiban's mother, with Kiryu shuttling home and back, until the parallel showdowns on Nele Island and in Kamurocho.",
+      "source": "https://en.wikipedia.org/wiki/Like_a_Dragon:_Infinite_Wealth"
+    }
+  ]
+}

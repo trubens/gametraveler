@@ -1,0 +1,12 @@
+{
+  "id": "yas-marina-circuit-abu-dhabi-uae",
+  "name": "Yas Marina Circuit, Abu Dhabi, UAE",
+  "position": {
+    "lat": 24.4672,
+    "lon": 54.6031
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yas_Marina_Circuit",
+  "description": "A motorsport circuit on Yas Island in Abu Dhabi, designed by Hermann Tilke and laid out beside a marina."
+}

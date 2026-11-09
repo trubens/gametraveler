@@ -1,0 +1,14 @@
+{
+  "id": "santa-rosita-fictional-florida-usa",
+  "name": "Santa Rosita, Florida",
+  "position": {
+    "lat": 25.68,
+    "lon": -80.1
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "island",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Battlefield_Hardline",
+  "description": "An invented private island off the coast of Florida, home to Julian Dawes's mansion in Battlefield Hardline. The game gives no exact position, so the pin offshore from Miami, where the story leaves from, is a guess."
+}

@@ -1,0 +1,105 @@
+{
+  "id": 81,
+  "name": "Call of Duty: Modern Warfare 2",
+  "aliases": [
+    "COD",
+    "COD Modern Warfare 2"
+  ],
+  "year": 2009,
+  "publisher": "Activision",
+  "series": "Call of Duty",
+  "developer": "Infinity Ward",
+  "locations": [
+    {
+      "placeId": "rio-de-janeiro-brazil",
+      "note": "Task Force 141 chases arms dealer Rojas through Rio's favelas."
+    },
+    {
+      "placeId": "afghanistan",
+      "note": "Private Allen's opening patrol and the final hunt for Shepherd both take place in Afghanistan."
+    },
+    {
+      "placeId": "washington-d-c-usa",
+      "note": "Army Rangers fight to retake the capital, including the White House, from Russian invaders."
+    },
+    {
+      "placeId": "kamchatka-russia",
+      "note": "Task Force 141 frees hostages on an oil rig off Kamchatka, storms the gulag near Petropavlovsk to free Prisoner 627, Price, and then fights through to a submarine base to launch a nuclear missile."
+    },
+    {
+      "placeId": "georgia",
+      "note": "Loose Ends: Task Force 141 raids Makarov's safehouse on the Georgian–Russian border for his files, and Shepherd shoots Roach and Ghost at the extraction.",
+      "source": "https://callofduty.fandom.com/wiki/Loose_Ends"
+    },
+    {
+      "placeId": "kazakhstan",
+      "note": "Roach and Soap climb an ice cliff in the Tian Shan mountains to steal a module from a Russian airbase."
+    },
+    {
+      "placeId": "moscow-russia",
+      "note": "The Zakhaev Airport massacre in Moscow triggers the war that drives the campaign."
+    },
+    {
+      "placeId": "virginia-usa",
+      "note": "Rangers hold defensive lines in Northern Virginia suburbs against the Russian invasion."
+    }
+  ],
+  "storyYears": [
+    2016
+  ],
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_2",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Activision",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "allen",
+      "name": "PFC Joseph Allen",
+      "characters": [
+        "Joseph Allen"
+      ],
+      "stops": [
+        "afghanistan",
+        "moscow-russia"
+      ],
+      "note": "From a Ranger patrol in Afghanistan to deep cover with Makarov at Zakhaev Airport, where he is left dead to frame America.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_2"
+    },
+    {
+      "id": "task-force-141",
+      "name": "Task Force 141",
+      "characters": [
+        "Gary 'Roach' Sanderson",
+        "John 'Soap' MacTavish",
+        "Ghost",
+        "Captain Price"
+      ],
+      "stops": [
+        "kazakhstan",
+        "rio-de-janeiro-brazil",
+        "kamchatka-russia",
+        "georgia",
+        "afghanistan"
+      ],
+      "note": "From a satellite module stolen in the Tian Shan, through Rio's favelas, the oil rig, gulag and submarine base in Kamchatka and Makarov's Georgian safehouse, to the Afghan boneyard where Shepherd dies.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_2"
+    },
+    {
+      "id": "ramirez",
+      "name": "Pvt. James Ramirez",
+      "characters": [
+        "James Ramirez",
+        "Foley",
+        "Dunn"
+      ],
+      "stops": [
+        "virginia-usa",
+        "washington-d-c-usa"
+      ],
+      "note": "Rangers fall back from the Northern Virginia suburbs to a last stand in a burning Washington.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_2"
+    }
+  ]
+}

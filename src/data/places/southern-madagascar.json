@@ -1,0 +1,12 @@
+{
+  "id": "southern-madagascar",
+  "name": "Southern Madagascar",
+  "position": {
+    "lat": -23.35,
+    "lon": 43.67
+  },
+  "scale": "area",
+  "placeType": "area",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Madagascar",
+  "description": "The southern reaches of Madagascar, the great island country in the Indian Ocean off Africa's east coast."
+}

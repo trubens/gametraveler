@@ -1,0 +1,21 @@
+{
+  "id": 1000152,
+  "name": "Kholat",
+  "year": 2015,
+  "publisher": "IMGN.PRO",
+  "developer": "IMGN.PRO",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Kholat_(video_game)",
+  "locations": [
+    {
+      "placeId": "kholat-syakhl-russia",
+      "settingType": "fictionalized",
+      "note": "Retracing the Dyatlov party's steps, the player hikes into the snowy valley below Kholat Syakhl, collecting notes on a paranormal anomaly while avoiding shadow-like creatures."
+    }
+  ],
+  "storyYears": [
+    1959
+  ]
+}

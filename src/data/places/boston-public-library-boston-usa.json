@@ -1,0 +1,14 @@
+{
+  "id": "boston-public-library-boston-usa",
+  "name": "Boston Public Library, Boston, USA",
+  "position": {
+    "lat": 42.3493,
+    "lon": -71.0783
+  },
+  "scale": "site",
+  "parentId": "boston-usa",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Boston_Public_Library",
+  "description": "The McKim building of 1895 on Copley Square, a palace of a library with murals by Sargent.",
+  "descriptionSource": "wikipedia"
+}

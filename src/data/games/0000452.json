@@ -1,0 +1,68 @@
+{
+  "id": 452,
+  "name": "Battlefield 2",
+  "year": 2005,
+  "series": "Battlefield",
+  "developer": "Digital Illusions CE",
+  "publisher": "Electronic Arts",
+  "locations": [
+    {
+      "placeId": "dalian-china",
+      "settingType": "fictionalized",
+      "note": "Dalian Plant: an invented battle over a coastal nuclear plant near the port of Dalian."
+    },
+    {
+      "placeId": "daqing-china",
+      "note": "Daqing Oilfields: the pumpjacks and pipelines of the oil city, a multiplayer map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "songhua-river-china",
+      "note": "Songhua Stalemate: a swamp fight along the river in Manchuria, a multiplayer map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "china",
+      "note": "Dragon Valley and FuShe Pass: a river valley and a mountain pass somewhere in China, two multiplayer maps.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "great-wall-china",
+      "note": "Great Wall: the Euro Force map fought along the wall itself.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "gulf-of-oman",
+      "note": "Gulf of Oman: a beach landing against the Middle Eastern Coalition on the Omani coast, a multiplayer map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "wake-island-usa",
+      "note": "Wake Island 2007: the 1942 atoll refought with modern armies.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "jalalabad-afghanistan",
+      "note": "Road to Jalalabad: the Armored Fury map in the Afghan city.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "alaska-usa",
+      "note": "Midnight Sun: the Armored Fury map in the Alaskan tundra.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "pennsylvania-usa",
+      "note": "Operation Harvest: the Armored Fury map through Pennsylvania farmland.",
+      "settingType": "fictionalized"
+    }
+  ],
+  "storyYears": [
+    2007
+  ],
+  "source": "https://en.wikipedia.org/wiki/Battlefield_2",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

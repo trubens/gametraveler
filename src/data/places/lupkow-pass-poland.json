@@ -1,0 +1,17 @@
+{
+  "id": "lupkow-pass-poland",
+  "name": "Łupków Pass, Poland",
+  "position": {
+    "lat": 49.25,
+    "lon": 22.0333
+  },
+  "scale": "area",
+  "parentId": "poland",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Lupkow Pass"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Łupków_Pass",
+  "description": "A pass through the Carpathians on the Polish-Slovak border, fought over in the winter of 1914 to 1915.",
+  "descriptionSource": "wikipedia"
+}

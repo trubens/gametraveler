@@ -1,0 +1,13 @@
+{
+  "id": "eindhoven-netherlands",
+  "name": "Eindhoven, Netherlands",
+  "position": {
+    "lat": 51.4416,
+    "lon": 5.4697
+  },
+  "scale": "area",
+  "parentId": "netherlands",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eindhoven",
+  "description": "The largest city of North Brabant in the southern Netherlands."
+}

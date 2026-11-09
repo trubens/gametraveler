@@ -1,0 +1,90 @@
+{
+  "id": 419,
+  "name": "11-11: Memories Retold",
+  "year": 2018,
+  "developer": "DigixArt / Aardman Animations",
+  "publisher": "Bandai Namco Entertainment",
+  "locations": [
+    {
+      "placeId": "toronto-canada",
+      "note": "Harry works in Mr Taylor's photography shop until he signs up to go to the war as a photographer.",
+      "source": "https://www.godisageek.com/reviews/11-11-memories-retold-review/"
+    },
+    {
+      "placeId": "vimy-ridge-france",
+      "note": "Harry photographs the Canadian trenches and crosses the battlefield under fire in the assault on the ridge, while Kurt goes over with the German defenders.",
+      "source": "https://www.trueachievements.com/game/11-11-Memories-Retold/walkthrough/3"
+    },
+    {
+      "placeId": "paris-france",
+      "note": "On leave between battles, Harry plays football and cards and dances in a cabaret.",
+      "source": "https://www.trueachievements.com/game/11-11-Memories-Retold/walkthrough/4"
+    },
+    {
+      "placeId": "somme-valley-france",
+      "note": "Kurt, transferred to the Somme, searches the cemetery for his son Max's grave and checks dog tags in no man's land; Harry's camp before his flight with the documents is here too.",
+      "source": "https://bokmcdok.com/"
+    },
+    {
+      "placeId": "passchendaele-belgium",
+      "note": "Kurt cuts the German radio while Harry shuts off a gas attack and frees the trapped Daniel, before German soldiers storm the church and Harry is taken prisoner.",
+      "source": "https://www.playstationtrophies.org/game/11-11-memories-retold/guide/"
+    },
+    {
+      "placeId": "alpirsbach-germany",
+      "note": "Kurt is home on leave in the Black Forest village near his farm when Harry turns up, and the two look for medicine and build a balloon.",
+      "source": "https://bokmcdok.com/"
+    },
+    {
+      "placeId": "nieuwpoort-belgium",
+      "note": "The last morning of the war, 11 November 1918, plays out near Nieuwpoort, where Barrett is stationed.",
+      "source": "https://bokmcdok.com/"
+    }
+  ],
+  "storyYears": [
+    1916,
+    1917,
+    1918
+  ],
+  "source": "https://en.wikipedia.org/wiki/11-11:_Memories_Retold",
+  "reviewed": "2026-11-08",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "harry",
+      "name": "Harry Lambert",
+      "characters": [
+        "Harry Lambert"
+      ],
+      "stops": [
+        "toronto-canada",
+        "vimy-ridge-france",
+        "paris-france",
+        "somme-valley-france",
+        "passchendaele-belgium",
+        "alpirsbach-germany",
+        "nieuwpoort-belgium"
+      ],
+      "note": "From a Toronto photo shop through Vimy, Paris and Passchendaele to the Black Forest and the last morning of the war.",
+      "source": "https://bokmcdok.com/"
+    },
+    {
+      "id": "kurt",
+      "name": "Kurt Waldner",
+      "characters": [
+        "Kurt Waldner"
+      ],
+      "stops": [
+        "vimy-ridge-france",
+        "somme-valley-france",
+        "passchendaele-belgium",
+        "alpirsbach-germany",
+        "nieuwpoort-belgium"
+      ],
+      "note": "From the German lines at Vimy Ridge in search of his son, home to the Black Forest and back to the front.",
+      "source": "https://bokmcdok.com/"
+    }
+  ]
+}

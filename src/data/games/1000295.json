@@ -1,0 +1,19 @@
+{
+  "id": 1000295,
+  "name": "Sekiro: Shadows Die Twice",
+  "year": 2019,
+  "developer": "FromSoftware",
+  "publisher": "Activision",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice",
+  "locations": [
+    {
+      "placeId": "japan",
+      "settingType": "fictionalized",
+      "note": "The shinobi Wolf fights through the land of Ashina, an invented domain in a Japan of the late Sengoku period; Ashina Castle, Mount Kongo and the Fountainhead Palace are the game’s own, and no real place is shown."
+    }
+  ]
+}

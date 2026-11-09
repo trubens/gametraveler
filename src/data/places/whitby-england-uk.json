@@ -1,0 +1,13 @@
+{
+  "id": "whitby-england-uk",
+  "name": "Whitby, England, UK",
+  "position": {
+    "lat": 54.4861,
+    "lon": -0.6149
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Whitby",
+  "description": "A seaside town."
+}

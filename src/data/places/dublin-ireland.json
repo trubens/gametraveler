@@ -1,0 +1,14 @@
+{
+  "id": "dublin-ireland",
+  "name": "Dublin, Ireland",
+  "position": {
+    "lat": 53.3498,
+    "lon": -6.2603
+  },
+  "scale": "area",
+  "parentId": "ireland",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Dublin",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dublin",
+  "description": "Ireland's capital and largest city."
+}

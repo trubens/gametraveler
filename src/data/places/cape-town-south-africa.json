@@ -1,0 +1,14 @@
+{
+  "id": "cape-town-south-africa",
+  "name": "Cape Town, South Africa",
+  "position": {
+    "lat": -33.9253,
+    "lon": 18.4239
+  },
+  "scale": "area",
+  "parentId": "south-africa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cape_Town",
+  "description": "South Africa's oldest city and legislative capital, laid out under Table Mountain at the foot of Africa.",
+  "descriptionSource": "wikipedia"
+}

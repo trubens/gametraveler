@@ -1,0 +1,14 @@
+{
+  "id": "maui-hawaii-usa",
+  "name": "Maui, Hawaii, USA",
+  "position": {
+    "lat": 20.8,
+    "lon": -156.3
+  },
+  "scale": "area",
+  "parentId": "hawaii-usa",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maui",
+  "description": "The second-largest Hawaiian island, with the Road to Hana along its windward coast and Haleakalā above.",
+  "descriptionSource": "wikipedia"
+}

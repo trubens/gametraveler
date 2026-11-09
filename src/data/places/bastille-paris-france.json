@@ -1,0 +1,14 @@
+{
+  "id": "bastille-paris-france",
+  "name": "Bastille, Paris, France",
+  "position": {
+    "lat": 48.8532,
+    "lon": 2.3692
+  },
+  "scale": "site",
+  "parentId": "paris-france",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Bastille",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bastille",
+  "description": "The medieval fortress of Paris that served the French kings as a state prison for most of its history and stood at the heart of the country's internal conflicts."
+}

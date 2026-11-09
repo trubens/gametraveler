@@ -1,0 +1,19 @@
+{
+  "id": "jupiter-factory-pripyat-ukraine",
+  "name": "Jupiter Factory, Pripyat, Ukraine",
+  "position": {
+    "lat": 51.4028,
+    "lon": 30.0434
+  },
+  "scale": "site",
+  "parentId": "pripyat-ukraine",
+  "placeType": "landmark",
+  "aliases": [
+    "Jupiter plant",
+    "Jupiter"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jupiter_(factory)",
+  "description": "An abandoned Soviet factory on the outskirts of Pripyat in the Chernobyl Exclusion Zone.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Jupiter_(factory)"
+}

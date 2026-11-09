@@ -1,0 +1,13 @@
+{
+  "id": "coral-gables-florida-usa",
+  "name": "Coral Gables, Florida, USA",
+  "position": {
+    "lat": 25.7215,
+    "lon": -80.2684
+  },
+  "scale": "area",
+  "parentId": "florida-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Coral_Gables,_Florida",
+  "description": "A city in the Miami metropolitan area of South Florida."
+}

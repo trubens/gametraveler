@@ -1,0 +1,68 @@
+{
+  "id": 124,
+  "name": "Assassin's Creed IV: Black Flag",
+  "aliases": [
+    "AC",
+    "AC IV Black Flag",
+    "AC 4 Black Flag"
+  ],
+  "year": 2013,
+  "publisher": "Ubisoft",
+  "series": "Assassin's Creed",
+  "developer": "Ubisoft Montreal",
+  "locations": [
+    {
+      "placeId": "caribbean",
+      "note": "Welsh pirate Edward Kenway sails an open-world West Indies during the Golden Age of Piracy."
+    },
+    {
+      "placeId": "havana-cuba",
+      "note": "The Spanish colonial capital where Edward first poses as an Assassin."
+    },
+    {
+      "placeId": "kingston-jamaica",
+      "note": "The British-controlled port, one of the game's three main cities."
+    },
+    {
+      "placeId": "nassau-bahamas",
+      "note": "The pirate republic that Edward and his fellow captains try to build and defend."
+    },
+    {
+      "placeId": "tulum-mexico",
+      "note": "The Assassin Brotherhood's hidden base lies in the Mayan temples of Tulum, where Edward first meets the Assassins and Mary Read later devotes herself to them."
+    },
+    {
+      "placeId": "port-royal-jamaica",
+      "note": "Port Royal is a British port on the Caribbean map."
+    },
+    {
+      "placeId": "great-inagua-bahamas",
+      "note": "Edward makes Great Inagua the Jackdaw's hideout."
+    },
+    {
+      "placeId": "principe-sao-tome-and-principe",
+      "note": "A chase for the Sage leads to Príncipe off the African coast."
+    },
+    {
+      "placeId": "charleston-south-carolina-usa",
+      "note": "Charleston is the northern end of the sailing map."
+    },
+    {
+      "placeId": "port-au-prince-haiti",
+      "note": "Port-au-Prince appears before the Freedom Cry story returns there."
+    }
+  ],
+  "storyYears": [
+    1715,
+    1722,
+    2013
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_IV:_Black_Flag",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Ubisoft_Montreal",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "route": false,
+  "genres": [
+    "Action-Adventure"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "merkers-mine-thuringia-germany",
+  "name": "Merkers mine, Thuringia, Germany",
+  "position": {
+    "lat": 50.8167,
+    "lon": 10.1167
+  },
+  "scale": "site",
+  "parentId": "germany",
+  "placeType": "landmark",
+  "aliases": [
+    "Merkers-Kieselbach"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Merkers-Kieselbach",
+  "description": "The salt mine at Merkers where the Reichsbank's gold and looted art were found in 1945, now a show mine."
+}

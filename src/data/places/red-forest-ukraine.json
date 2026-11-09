@@ -1,0 +1,15 @@
+{
+  "id": "red-forest-ukraine",
+  "name": "Red Forest, Ukraine",
+  "position": {
+    "lat": 51.3801,
+    "lon": 30.0491
+  },
+  "scale": "area",
+  "parentId": "chernobyl-exclusion-zone-ukraine",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Red_Forest",
+  "description": "The ten-square-kilometre stretch of forest around the Chernobyl plant whose pines turned red and died from the 1986 fallout.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Red_Forest"
+}

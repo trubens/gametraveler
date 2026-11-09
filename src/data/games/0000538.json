@@ -1,0 +1,96 @@
+{
+  "id": 538,
+  "name": "Expeditions: Viking",
+  "year": 2017,
+  "publisher": "Logic Artists",
+  "developer": "Logic Artists",
+  "storyYears": [
+    789,
+    790
+  ],
+  "source": "https://en.wikipedia.org/wiki/Expeditions:_Viking",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "skjern-denmark",
+      "note": "The new thegn of Skjern buries their father, fights off a night raid on the village and builds and crews a longship here; back from Britain, the hird holds Skjern against Jelling's army after the Althing."
+    },
+    {
+      "placeId": "ribe-denmark",
+      "note": "In Jarl Ragnhildr's market town, the largest in Denmark, the thegn hires mercenaries to fill out the crew before the voyage to Britain."
+    },
+    {
+      "placeId": "jelling-denmark",
+      "note": "The seat of the rival thegn Skule Skullcleaver, who covets Skjern; in the winter after the Althing the hird storms Jelling's gates for the final battle against him."
+    },
+    {
+      "placeId": "scarborough-england-uk",
+      "note": "The longship lands on the beach below the village, and the hird must win horses and supplies here, helping the villagers or looting their monastery, before it can go inland.",
+      "source": "https://expeditions-viking.fandom.com/wiki/Parsley_Sage_Rosemary_Thyme"
+    },
+    {
+      "placeId": "york-uk",
+      "note": "In Eoforwic the thegn is called before King Osred II and drawn by Wada into the plot to crown Aethelred; the Northumbrian alliance ends with a victory feast in the king's hall, the Pictish one with the storming of the city.",
+      "source": "https://expeditions-viking.fandom.com/wiki/Eoforwic_(York)"
+    },
+    {
+      "placeId": "perth-scotland-uk",
+      "note": "The capital of the Picts, where Grainne's warband escorts the hird to King Caustantin mac Fergusa; for the Northumbrians the thegn later fights across the Tay bridge into his hall to kill him.",
+      "source": "https://expeditions-viking.fandom.com/wiki/Perth"
+    },
+    {
+      "placeId": "orkney-scotland-uk",
+      "note": "The thegn takes an island of Orkneyjar from the Norwegian raider Steinn the Clever as a base, and meets Skallagrim there to plan the raid on Lindisfarne and a great heathen army.",
+      "source": "https://expeditions-viking.fandom.com/wiki/Orkneyjar"
+    },
+    {
+      "placeId": "lindisfarne-england-uk",
+      "note": "With Skallagrim and Hrodgaerda, the hird lands on the beach and raids the monastery church in King Sigurdr's name, to win the jarldom of Orkney.",
+      "source": "https://expeditions-viking.fandom.com/wiki/Ravaging_of_the_Wretched_Heathens"
+    },
+    {
+      "placeId": "chester-england-uk",
+      "note": "Legacaestir: on an errand for the church of Eoforwic, the hird finds a sect living in the ruined Roman fort that thinks the empire never fell.",
+      "source": "https://expeditions-viking.fandom.com/wiki/Legacaestir_(Chester)"
+    },
+    {
+      "placeId": "dumfries-scotland-uk",
+      "note": "Dun Phris has broken away from Northumbria, and the thegn ends the siege of the village for the Northumbrians, the Picts or the villagers themselves.",
+      "source": "https://expeditions-viking.fandom.com/wiki/Fort_of_the_Thicket"
+    },
+    {
+      "placeId": "hadrians-wall-england-uk",
+      "note": "Leofric briefs the hird at the wall before the raid on the Pictish army in the highlands; on the Pictish side the thegn instead fights him for a gate in the wall to let Caustantin's army through.",
+      "source": "https://expeditions-viking.fandom.com/wiki/Punching_Through"
+    }
+  ],
+  "genres": [
+    "Tactical RPG"
+  ],
+  "routes": [
+    {
+      "id": "thegn-of-skjern",
+      "name": "Thegn of Skjern",
+      "characters": [
+        "Thegn of Skjern"
+      ],
+      "stops": [
+        "skjern-denmark",
+        "ribe-denmark",
+        "skjern-denmark",
+        "scarborough-england-uk",
+        "york-uk",
+        "perth-scotland-uk",
+        "orkney-scotland-uk",
+        "dumfries-scotland-uk",
+        "hadrians-wall-england-uk",
+        "perth-scotland-uk",
+        "york-uk",
+        "skjern-denmark",
+        "jelling-denmark"
+      ],
+      "note": "From the raid on Skjern and the crew hired in Ribe, the longship crosses to Northumbria and the Pictish lands, then sails home to the Althing and the assault on Jelling.",
+      "source": "https://expeditions-viking.fandom.com/wiki/Quests_(Viking)"
+    }
+  ]
+}

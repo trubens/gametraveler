@@ -1,0 +1,20 @@
+{
+  "id": 519,
+  "name": "Traitors Gate",
+  "year": 1999,
+  "publisher": "DreamCatcher Interactive",
+  "developer": "Daydream Software",
+  "locations": [
+    {
+      "placeId": "tower-of-london-london-uk",
+      "note": "A first-person adventure through a painstaking recreation of the Tower of London, explored room by room while planning a break-in."
+    }
+  ],
+  "storyYears": [
+    1999
+  ],
+  "source": "https://en.wikipedia.org/wiki/Traitors_Gate_(video_game)",
+  "genres": [
+    "Adventure"
+  ]
+}

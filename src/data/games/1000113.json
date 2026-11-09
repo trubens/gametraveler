@@ -1,0 +1,24 @@
+{
+  "id": 1000113,
+  "name": "Life Is Strange: Double Exposure",
+  "year": 2024,
+  "publisher": "Square Enix",
+  "series": "Life Is Strange",
+  "developer": "Deck Nine",
+  "locations": [
+    {
+      "placeId": "lakeport-fictional-vermont-usa",
+      "settingType": "fictionalized",
+      "note": "Max Caulfield, photographer-in-residence at Caledon University, finds her friend Safi shot dead, then pulses into a parallel timeline where Safi lives and hunts for the killer across the campus and the Snapping Turtle bar until Safi's power unleashes a storm.",
+      "source": "https://en.wikipedia.org/wiki/Life_Is_Strange:_Double_Exposure"
+    }
+  ],
+  "storyYears": [
+    2023
+  ],
+  "source": "https://en.wikipedia.org/wiki/Life_Is_Strange:_Double_Exposure",
+  "reviewed": "2026-11-02",
+  "genres": [
+    "Interactive Drama"
+  ]
+}

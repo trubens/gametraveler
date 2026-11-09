@@ -1,0 +1,14 @@
+{
+  "id": "tahure-france",
+  "name": "Tahure, France",
+  "position": {
+    "lat": 49.2606,
+    "lon": 4.5467
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sommepy-Tahure",
+  "description": "A village in the Champagne chalklands destroyed in the fighting of 1915 and never rebuilt; its land now belongs to Sommepy-Tahure, where the pin stands.",
+  "descriptionSource": "wikipedia"
+}

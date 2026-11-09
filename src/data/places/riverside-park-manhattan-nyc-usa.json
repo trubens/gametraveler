@@ -1,0 +1,14 @@
+{
+  "id": "riverside-park-manhattan-nyc-usa",
+  "name": "Riverside Park, Manhattan, New York City, USA",
+  "position": {
+    "lat": 40.804,
+    "lon": -73.97
+  },
+  "scale": "site",
+  "parentId": "manhattan-new-york-usa",
+  "source": "https://en.wikipedia.org/wiki/Riverside_Park_(Manhattan)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Riverside_Park_(Manhattan)",
+  "placeType": "venue",
+  "description": "A long waterfront park along the Hudson River on Manhattan's West Side."
+}

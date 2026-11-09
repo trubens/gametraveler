@@ -1,0 +1,17 @@
+{
+  "id": "hamburg-city-hall-germany",
+  "name": "Hamburg City Hall, Hamburg, Germany",
+  "position": {
+    "lat": 53.5503,
+    "lon": 9.9922
+  },
+  "scale": "site",
+  "parentId": "hamburg-germany",
+  "placeType": "landmark",
+  "aliases": [
+    "Hamburger Rathaus"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hamburg_City_Hall",
+  "description": "The neo-Renaissance Rathaus of 1897 on the Rathausmarkt, seat of the city's senate and parliament.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 414,
+  "name": "Tex Murphy: Overseer",
+  "year": 1998,
+  "series": "Tex Murphy",
+  "developer": "Access Software",
+  "publisher": "Access Software",
+  "locations": [
+    {
+      "placeId": "san-francisco-usa",
+      "note": "Tex recounts a murder investigation set in a future San Francisco."
+    }
+  ],
+  "storyYears": [
+    2039
+  ],
+  "source": "https://en.wikipedia.org/wiki/Tex_Murphy:_Overseer",
+  "developerUrl": "https://en.wikipedia.org/wiki/Access_Software",
+  "genres": [
+    "Adventure"
+  ]
+}

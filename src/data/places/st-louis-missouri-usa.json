@@ -1,0 +1,13 @@
+{
+  "id": "st-louis-missouri-usa",
+  "name": "St. Louis, Missouri, USA",
+  "position": {
+    "lat": 38.627,
+    "lon": -90.1994
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/St._Louis",
+  "description": "A river city in Missouri."
+}

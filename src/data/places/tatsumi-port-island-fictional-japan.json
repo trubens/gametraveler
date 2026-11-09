@@ -1,0 +1,21 @@
+{
+  "id": "tatsumi-port-island-fictional-japan",
+  "name": "Tatsumi Port Island, Japan",
+  "position": {
+    "lat": 34.6667,
+    "lon": 135.2167
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "city",
+  "fictional": true,
+  "aliases": [
+    "Tatsumi Port Island",
+    "Port Island",
+    "Iwatodai",
+    "Gekkoukan High School"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Port_Island",
+  "description": "The city Persona 3 invents for itself: an artificial island built by the Kirijo Group, joined by the Moonlight Bridge to Iwatodai on the mainland. Its makers drew on Tokyo's Odaiba and Kobe's Port Island; the pin is on Kobe's Port Island, the one it shares a name with, and is a choice between the two.",
+  "source": "https://megatenwiki.com/wiki/Tatsumi_Port_Island"
+}

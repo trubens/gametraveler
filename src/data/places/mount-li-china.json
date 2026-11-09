@@ -1,0 +1,13 @@
+{
+  "id": "mount-li-china",
+  "name": "Mount Li, China",
+  "position": {
+    "lat": 34.3842,
+    "lon": 109.2739
+  },
+  "scale": "area",
+  "parentId": "china",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mount_Li",
+  "description": "A mountain on the north-eastern edge of Xi'an in Shaanxi Province, known in Chinese as Lishan."
+}

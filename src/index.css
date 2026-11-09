@@ -1,21 +1,90 @@
 @import "@fontsource-variable/archivo/wdth.css";
+/* Bare kursiven i ordmerket («Traveler») og undertittelen bruker Newsreader */
+/* Newsreader-kursiven brukes bare i ordmerket og undertittelen: fila er @fontsource-variable/newsreader
+   opsz-italic låst til opsz 20 og vekt 450–500 (fontTools.varLib.instancer) og kuttet til latinsk grunnsett
+   (fontTools.subset); 23 kB i stedet for 144 kB */
+@font-face {
+  font-family: 'Newsreader Variable';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 450 500;
+  src: url(./fonts/newsreader-latin-opsz-italic-subset.woff2) format('woff2-variations');
+}
 @import "tailwindcss";
 
 /* Trykksak-palett: blankt papir, sort trykksverte og CMYK-prosessfarger */
 @theme {
   --font-sans: "Archivo Variable", system-ui, sans-serif;
+  --font-wordmark: "Newsreader Variable", Georgia, serif;
 
-  --color-paper: #f7f7f5;
-  --color-sheet: #ffffff;
-  --color-ink: #121214;
-  --color-ink-soft: #46464d;
-  --color-rule: #d9d9dc;
-  --color-magenta: #d4006f;
-  --color-magenta-deep: #a8005a;
-  --color-cyan: #00a3e0;
-  --color-yellow: #ffe100;
+  --color-paper: #ece5d5;
+  --color-sheet: #fdfaf2;
+  --color-ink: #1b2a41;
+  --color-ink-soft: #4f5a6b;
+  --color-rule: #d2d1c2;
+  /* Kanten på kontroller som ikke er valgt; minst 3:1 mot arket */
+  --color-rule-strong: #868c97;
+  --color-magenta: #c0432a;
+  --color-magenta-deep: #97321e;
+  --color-cyan: #d3e0e6;
+  --color-yellow: #e0c07c;
+  /* Felt, kort og inndata som ligger oppå arket */
+  --color-card: #fff;
+  /* Tekst og ikoner på blekkflater (valgte knapper, navnelapper) og på farget fyll (vermilion, rutefarger) */
+  --color-on-ink: #fff;
+  --color-on-accent: #fff;
+  /* Ringen rundt prikker og romber på kartet */
+  --color-ring: #fff;
+  /* Klyngemerket: lyst kart får blekkfylt stempel; mørkt kart får skifer, ikke elfenben, så klyngene ikke
+     blir store lyse bobler som tar over kartet (samme grunn som byttet bort de hvite boblene 3. november) */
+  --color-stamp: #1b2a41;
+  --color-on-stamp: #fdfaf2;
+  --color-shadow: #1b2a41;
+  --color-land: #f6f0e3;
+  /* Stedets fargekode: oppdiktet versjon av et ekte sted, rent oppdiktet, blandet, nedtonet */
+  --color-fictional: #23787a;
+  --color-imaginary: #6b5b95;
+  --color-mixed: #7a5c43;
+  --color-dimmed: #9aa0aa;
 
   --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Mørk modus, foreløpig skjult: ?theme=dark slår den på og huskes, ?theme=light slår den av (index.html).
+   Samme Fogg-palett om natten: midnattsblått ark, elfenbensblekk, lysere vermilion. Fargede flater får
+   mørk tekst, siden lyse aksentfarger med hvit tekst ikke når 3:1. */
+/* Mørk modus «espresso» (valgt 7. november 2026): varm brunsvart i slekt med elfenbenet i det lyse temaet.
+   Forkastet: midnattsblått (#0e1520/#141d2a), som så billig og standard ut, og nøytral grafitt.
+   Høyde vises som lysere flate, ikke skygge: kartlandet er mørkest, arket og knappene som ligger over det
+   lysere, kortene lysest. Aksenten er dempet litt; full vermilion var grell på mørkt. */
+/* Hårstreker: arkets kant, toppfeltet og skillelinjer i panelet */
+:root { --line: color-mix(in srgb, var(--color-ink) 10%, transparent); }
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  /* Hårstreker (arkets kant, toppfeltet, skillelinjer): lyse streker på mørkt leses sterkere enn mørke på lyst */
+  --line: color-mix(in srgb, #efe6d4 9%, transparent);
+  --color-paper: #12100e;
+  --color-sheet: #221f1b;
+  --color-ink: #efe6d4;
+  --color-ink-soft: #b0a796;
+  --color-rule: #2f2a25;
+  --color-rule-strong: #756d60;
+  --color-magenta: #d8735a;
+  --color-magenta-deep: #eb9a84;
+  --color-cyan: #2a3434;
+  --color-yellow: #3a3226;
+  --color-card: #2b2722;
+  --color-on-ink: #221f1b;
+  --color-on-accent: #1a1815;
+  --color-ring: #221f1b;
+  --color-stamp: #4a4239;
+  --color-on-stamp: #efe6d4;
+  --color-shadow: #000;
+  --color-land: #1d1a17;
+  --color-fictional: #3a9fa1;
+  --color-imaginary: #9686cf;
+  --color-mixed: #b08a68;
+  --color-dimmed: #6b645a;
 }
 
 :root {
@@ -83,7 +152,7 @@ body {
   width: 24px;
   height: 24px;
   border-radius: 50%;
-  background: #fff;
+  background: var(--color-card);
   border: 3px solid var(--color-ink);
   cursor: grab;
 }
@@ -94,7 +163,7 @@ body {
   height: 24px;
   margin-top: -12px;
   border-radius: 50%;
-  background: #fff;
+  background: var(--color-card);
   border: 3px solid var(--color-ink);
   cursor: grab;
 }

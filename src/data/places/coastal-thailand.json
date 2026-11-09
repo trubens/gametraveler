@@ -1,0 +1,12 @@
+{
+  "id": "coastal-thailand",
+  "name": "Coastal Thailand",
+  "position": {
+    "lat": 8.3405,
+    "lon": 98.4108
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Thailand",
+  "description": "The coasts of Thailand, the kingdom once known as Siam, in mainland Southeast Asia."
+}

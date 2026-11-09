@@ -1,0 +1,41 @@
+{
+  "id": 280,
+  "name": "F1 22",
+  "year": 2022,
+  "series": "F1",
+  "developer": "Codemasters",
+  "publisher": "EA Sports",
+  "locations": [
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "Raced as the British Grand Prix, round 10 of 22 in the 2022 season."
+    },
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 16 of 22 in the 2022 season."
+    },
+    {
+      "placeId": "circuit-de-barcelona-catalunya-spain",
+      "note": "Raced as the Spanish Grand Prix, round 6 of 22 in the 2022 season."
+    },
+    {
+      "placeId": "albert-park-circuit-melbourne-australia",
+      "note": "Raced as the Australian Grand Prix, round 3 of 22 in the 2022 season."
+    },
+    {
+      "placeId": "miami-international-autodrome-florida-usa",
+      "note": "Raced as the Miami Grand Prix, round 5 of 22 in the 2022 season."
+    },
+    {
+      "placeId": "yas-marina-circuit-abu-dhabi-uae",
+      "note": "Raced as the Abu Dhabi Grand Prix, the final round of the 2022 season."
+    }
+  ],
+  "storyYears": [
+    2022
+  ],
+  "source": "https://en.wikipedia.org/wiki/F1_22",
+  "genres": [
+    "Racing"
+  ]
+}

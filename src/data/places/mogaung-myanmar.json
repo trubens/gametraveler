@@ -1,0 +1,14 @@
+{
+  "id": "mogaung-myanmar",
+  "name": "Mogaung, Myanmar",
+  "position": {
+    "lat": 25.3014,
+    "lon": 96.9417
+  },
+  "scale": "area",
+  "parentId": "myanmar",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mogaung",
+  "description": "A town in Kachin State in northern Myanmar, on the railway to Myitkyina, in jade and gold country.",
+  "descriptionSource": "wikipedia"
+}

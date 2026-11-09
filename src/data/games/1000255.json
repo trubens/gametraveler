@@ -1,0 +1,61 @@
+{
+  "id": 1000255,
+  "name": "Wolfenstein: The New Order",
+  "year": 2014,
+  "series": "Wolfenstein",
+  "developer": "MachineGames",
+  "publisher": "Bethesda Softworks",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    1946,
+    1960
+  ],
+  "source": "https://en.wikipedia.org/wiki/Wolfenstein:_The_New_Order",
+  "locations": [
+    {
+      "placeId": "poland",
+      "note": "B.J. spends fourteen years in a psychiatric asylum in Poland and later hides at Anya's grandparents' farm; neither is given a town."
+    },
+    {
+      "placeId": "szczecin-poland",
+      "note": "A checkpoint in Stettin, today's Szczecin, on the way to Berlin."
+    },
+    {
+      "placeId": "berlin-germany",
+      "note": "Eisenwald Prison and the Kreisau Circle's hideout in the capital of the victorious Reich."
+    },
+    {
+      "placeId": "london-uk",
+      "note": "The London Nautica research tower holds the Da'at Yichud files B.J. needs."
+    },
+    {
+      "placeId": "croatia",
+      "note": "Camp Belica, an invented forced-labour camp in northern Croatia."
+    },
+    {
+      "placeId": "gibraltar",
+      "note": "The Gibraltar Bridge spans the strait to Africa in the game's 1960; B.J. climbs it to reach the Nazi lunar programme."
+    }
+  ],
+  "routes": [
+    {
+      "id": "bj",
+      "name": "B.J.'s campaign",
+      "characters": [
+        "B.J. Blazkowicz"
+      ],
+      "stops": [
+        "poland",
+        "szczecin-poland",
+        "berlin-germany",
+        "london-uk",
+        "croatia",
+        "gibraltar"
+      ],
+      "note": "After fourteen years in a Polish asylum, B.J. fights through the Stettin checkpoint to Berlin, London, Camp Belica in Croatia and the Gibraltar Bridge.",
+      "source": "https://en.wikipedia.org/wiki/Wolfenstein:_The_New_Order"
+    }
+  ]
+}

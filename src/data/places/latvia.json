@@ -1,0 +1,11 @@
+{
+  "id": "latvia",
+  "name": "Latvia",
+  "position": {
+    "lat": 57.07,
+    "lon": 25.46
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/"
+}

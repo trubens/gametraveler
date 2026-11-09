@@ -1,0 +1,13 @@
+{
+  "id": "shinjuku-tokyo-japan",
+  "name": "Shinjuku, Tokyo, Japan",
+  "position": {
+    "lat": 35.6938,
+    "lon": 139.7034
+  },
+  "scale": "site",
+  "parentId": "tokyo-japan",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shinjuku",
+  "description": "One of Tokyo's twenty-three special wards."
+}

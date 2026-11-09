@@ -1,0 +1,14 @@
+{
+  "id": "bennett-lake-canada",
+  "name": "Bennett Lake, Canada",
+  "position": {
+    "lat": 59.92472,
+    "lon": -134.93861
+  },
+  "scale": "area",
+  "parentId": "canada",
+  "source": "https://apps.gov.bc.ca/pub/bcgnws/names/3397.html",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bennett_Lake",
+  "placeType": "body_of_water",
+  "description": "A lake high in north-western Canada, straddling British Columbia and the Yukon."
+}

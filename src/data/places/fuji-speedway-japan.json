@@ -1,0 +1,13 @@
+{
+  "id": "fuji-speedway-japan",
+  "name": "Fuji Speedway, Japan",
+  "position": {
+    "lat": 35.372,
+    "lon": 138.927
+  },
+  "scale": "site",
+  "parentId": "japan",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fuji_Speedway",
+  "description": "A motorsport race track in the eastern foothills of Mount Fuji, at Oyama in Shizuoka Prefecture."
+}

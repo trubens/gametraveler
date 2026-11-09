@@ -1,0 +1,113 @@
+{
+  "id": 283,
+  "name": "F1 25",
+  "year": 2025,
+  "series": "F1",
+  "developer": "Codemasters",
+  "publisher": "EA Sports",
+  "locations": [
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "Raced as the British Grand Prix, round 12 of 24 in the 2025 season."
+    },
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 16 of 24 in the 2025 season."
+    },
+    {
+      "placeId": "albert-park-circuit-melbourne-australia",
+      "note": "Raced as the Australian Grand Prix, the opening round of the 2025 season."
+    },
+    {
+      "placeId": "shanghai-international-circuit-china",
+      "note": "Raced as the Chinese Grand Prix, round 2 of 24 in the 2025 season."
+    },
+    {
+      "placeId": "suzuka-international-racing-course-japan",
+      "note": "Raced as the Japanese Grand Prix, round 3 of 24 in the 2025 season."
+    },
+    {
+      "placeId": "bahrain-international-circuit",
+      "note": "Raced as the Bahrain Grand Prix, round 4 of 24 in the 2025 season."
+    },
+    {
+      "placeId": "jeddah-corniche-circuit-saudi-arabia",
+      "note": "Raced as the Saudi Arabian Grand Prix, round 5 of 24 in the 2025 season."
+    },
+    {
+      "placeId": "miami-international-autodrome-florida-usa",
+      "note": "Raced as the Miami Grand Prix, round 6 of 24 in the 2025 season."
+    },
+    {
+      "placeId": "autodromo-enzo-e-dino-ferrari-imola-italy",
+      "note": "Raced as the Emilia Romagna Grand Prix, round 7 of 24 in the 2025 season."
+    },
+    {
+      "placeId": "circuit-de-monaco",
+      "note": "Raced as the Monaco Grand Prix, round 8 of 24 in the 2025 season."
+    },
+    {
+      "placeId": "circuit-de-barcelona-catalunya-spain",
+      "note": "Raced as the Spanish Grand Prix, round 9 of 24 in the 2025 season."
+    },
+    {
+      "placeId": "circuit-gilles-villeneuve-montreal-canada",
+      "note": "Raced as the Canadian Grand Prix, round 10 of 24 in the 2025 season."
+    },
+    {
+      "placeId": "red-bull-ring-spielberg-austria",
+      "note": "Raced as the Austrian Grand Prix, round 11 of 24 in the 2025 season."
+    },
+    {
+      "placeId": "circuit-de-spa-francorchamps-belgium",
+      "note": "Raced as the Belgian Grand Prix, round 13 of 24 in the 2025 season."
+    },
+    {
+      "placeId": "hungaroring-hungary",
+      "note": "Raced as the Hungarian Grand Prix, round 14 of 24 in the 2025 season."
+    },
+    {
+      "placeId": "zandvoort-circuit-netherlands",
+      "note": "Raced as the Dutch Grand Prix, round 15 of 24 in the 2025 season."
+    },
+    {
+      "placeId": "baku-city-circuit-azerbaijan",
+      "note": "Raced as the Azerbaijan Grand Prix, round 17 of 24 in the 2025 season."
+    },
+    {
+      "placeId": "marina-bay-street-circuit-singapore",
+      "note": "Raced as the Singapore Grand Prix, round 18 of 24 in the 2025 season."
+    },
+    {
+      "placeId": "circuit-of-the-americas-texas-usa",
+      "note": "Raced as the United States Grand Prix, round 19 of 24 in the 2025 season."
+    },
+    {
+      "placeId": "autodromo-hermanos-rodriguez-mexico-city",
+      "note": "Raced as the Mexico City Grand Prix, round 20 of 24 in the 2025 season."
+    },
+    {
+      "placeId": "interlagos-circuit-sao-paulo-brazil",
+      "note": "Raced as the São Paulo Grand Prix, round 21 of 24 in the 2025 season."
+    },
+    {
+      "placeId": "las-vegas-strip-circuit-nevada-usa",
+      "note": "Raced as the Las Vegas Grand Prix, round 22 of 24 in the 2025 season."
+    },
+    {
+      "placeId": "lusail-international-circuit-qatar",
+      "note": "Raced as the Qatar Grand Prix, round 23 of 24 in the 2025 season."
+    },
+    {
+      "placeId": "yas-marina-circuit-abu-dhabi-uae",
+      "note": "Raced as the Abu Dhabi Grand Prix, the final round of the 2025 season."
+    }
+  ],
+  "storyYears": [
+    2025
+  ],
+  "source": "https://en.wikipedia.org/wiki/F1_25",
+  "genres": [
+    "Racing"
+  ]
+}

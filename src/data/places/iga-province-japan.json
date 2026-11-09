@@ -1,0 +1,13 @@
+{
+  "id": "iga-province-japan",
+  "name": "Iga Province, Japan",
+  "position": {
+    "lat": 34.7686,
+    "lon": 136.1292
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Iga_Province",
+  "description": "A former province of Japan, abbreviated Ishū, that lay in what is now western Mie Prefecture."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "moha-belgium",
+  "name": "Moha, Belgium",
+  "position": {
+    "lat": 50.5508,
+    "lon": 5.1856
+  },
+  "scale": "area",
+  "parentId": "belgium",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Moha,_Belgium",
+  "description": "A village on the Mehaigne in the municipality of Wanze, west of Huy in the province of Liège, below the ruins of a medieval castle.",
+  "descriptionSource": "wikipedia"
+}

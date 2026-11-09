@@ -1,0 +1,29 @@
+{
+  "id": 282,
+  "name": "F1 24",
+  "year": 2024,
+  "series": "F1",
+  "developer": "Codemasters",
+  "publisher": "EA Sports",
+  "locations": [
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "Raced as the British Grand Prix, round 12 of 24 in the 2024 season."
+    },
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 16 of 24 in the 2024 season."
+    },
+    {
+      "placeId": "bahrain-international-circuit",
+      "note": "Raced as the Bahrain Grand Prix, the opening round of the 2024 season."
+    }
+  ],
+  "storyYears": [
+    2024
+  ],
+  "source": "https://en.wikipedia.org/wiki/F1_24",
+  "genres": [
+    "Racing"
+  ]
+}

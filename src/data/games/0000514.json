@@ -1,0 +1,20 @@
+{
+  "id": 514,
+  "name": "Black Circle",
+  "year": 2009,
+  "publisher": "MDNA Games",
+  "developer": "MDNA Games",
+  "locations": [
+    {
+      "placeId": "norrkoping-sweden",
+      "note": "Carol's neighbour Oscar sees a dead body on his morning walk that is gone when the police arrive, and Carol takes the case through photographed Norrköping."
+    }
+  ],
+  "storyYears": [
+    2009
+  ],
+  "source": "https://en.wikipedia.org/wiki/Carol_Reed_Mysteries",
+  "genres": [
+    "Adventure"
+  ]
+}

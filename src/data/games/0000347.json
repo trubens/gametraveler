@@ -1,0 +1,59 @@
+{
+  "id": 347,
+  "name": "Grid Autosport",
+  "year": 2014,
+  "series": "Grid",
+  "developer": "Codemasters / Feral Interactive (macOS, Linux, iOS, Android & Nintendo Switch)",
+  "publisher": "Codemasters / Feral Interactive (macOS, Linux, iOS & Android)",
+  "locations": [
+    {
+      "placeId": "brands-hatch-uk",
+      "note": "The Touring discipline trailer was shot here with BTCC drivers; the GP, Indy and Drift layouts can each be raced in reverse and at night."
+    },
+    {
+      "placeId": "circuit-de-spa-francorchamps-belgium",
+      "note": "Open Wheel IndyCar-style races run here on the GP and Sportscar layouts, both reversible and both available for night racing."
+    },
+    {
+      "placeId": "mount-panorama-circuit-bathurst-australia",
+      "note": "V8 Supercars such as the Holden VF Commodore and Ford FG Falcon race the mountain in the Touring discipline, forwards or reversed, in daylight only."
+    },
+    {
+      "placeId": "indianapolis-motor-speedway-indiana-usa",
+      "note": "Open Wheel IndyCar-style races use the venue, which has five layouts: the oval plus the Sport, GP, Infield and North road circuits."
+    },
+    {
+      "placeId": "circuit-of-the-americas-texas-usa",
+      "note": "The GP, National and Club layouts can each be driven in reverse, and the circuit is one of the tracks offered for night racing."
+    },
+    {
+      "placeId": "sepang-international-circuit-malaysia",
+      "note": "An Endurance venue, where career races run into the night; the GP, North and South layouts can each be driven in reverse."
+    },
+    {
+      "placeId": "red-bull-ring-spielberg-austria",
+      "note": "The GP, South and North layouts can each be driven in reverse; unlike most of the permanent circuits, it is raced in daylight only."
+    },
+    {
+      "placeId": "yas-marina-circuit-abu-dhabi-uae",
+      "note": "An Endurance venue raced at night, with seven layouts from the full GP circuit to the short Paddock loop and two drift courses."
+    },
+    {
+      "placeId": "san-francisco-usa",
+      "note": "A Street discipline city track on mostly real streets, with Grand Prix, Sprint and Short layouts and a B variant of each."
+    },
+    {
+      "placeId": "paris-france",
+      "note": "A Street discipline city track whose six routes are named for the Arc de Triomphe, Champs-Élysées, Trocadéro, Pont de l'Alma, Avenue de New-York and the Seine."
+    },
+    {
+      "placeId": "dubai-uae",
+      "note": "A Street discipline city track with six routes, among them Jumeirah Beach, Al Sufouh Strip, Nakheel Vista and Gulf Approach."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Grid_Autosport",
+  "genres": [
+    "Racing"
+  ]
+}

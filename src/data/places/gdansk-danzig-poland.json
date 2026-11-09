@@ -1,0 +1,13 @@
+{
+  "id": "gdansk-danzig-poland",
+  "name": "Gdańsk (Danzig), Poland",
+  "position": {
+    "lat": 54.352,
+    "lon": 18.6466
+  },
+  "scale": "area",
+  "parentId": "poland",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gda%C5%84sk",
+  "description": "Poland's major seaport on the Baltic coast."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pioneer-square-seattle-usa",
+  "name": "Pioneer Square, Seattle, USA",
+  "position": {
+    "lat": 47.6017,
+    "lon": -122.3319
+  },
+  "scale": "site",
+  "parentId": "seattle-usa",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pioneer_Square,_Seattle",
+  "description": "Seattle's original downtown, brick blocks of the 1890s with the Underground beneath them.",
+  "descriptionSource": "wikipedia"
+}

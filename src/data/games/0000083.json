@@ -1,0 +1,52 @@
+{
+  "id": 83,
+  "name": "Assassin's Creed Chronicles: India",
+  "aliases": [
+    "AC",
+    "AC Chronicles India"
+  ],
+  "year": 2016,
+  "publisher": "Ubisoft",
+  "series": "Assassin's Creed",
+  "developer": "Climax Studios / Ubisoft",
+  "locations": [
+    {
+      "placeId": "amritsar-india",
+      "note": "Templars raid the Assassins' headquarters in Amritsar, taking the Koh-i-Noor and the Mentor Hamid; Arbaaz Mir later returns to free Princess Pyara Kaur from the Maharaja's Summer Palace."
+    },
+    {
+      "placeId": "herat-afghanistan",
+      "note": "Arbaaz follows a Templar expedition to the besieged citadel of Herat and its Precursor site."
+    },
+    {
+      "placeId": "katas-raj-temples-pakistan",
+      "note": "Captured Arbaaz escapes the Templars at the Katasraj Temple in Punjab."
+    }
+  ],
+  "storyYears": [
+    1841
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Chronicles",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action-Platformer"
+  ],
+  "routes": [
+    {
+      "id": "arbaaz-mir",
+      "name": "Arbaaz Mir",
+      "characters": [
+        "Arbaaz Mir"
+      ],
+      "stops": [
+        "amritsar-india",
+        "herat-afghanistan",
+        "katas-raj-temples-pakistan",
+        "amritsar-india"
+      ],
+      "note": "From Amritsar to the siege of Herat, captive to the Katasraj Temple, and back to Amritsar for the finale.",
+      "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Chronicles"
+    }
+  ]
+}

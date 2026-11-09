@@ -1,0 +1,74 @@
+{
+  "id": 1000248,
+  "name": "The Yukon Trail",
+  "year": 1994,
+  "developer": "MECC",
+  "publisher": "MECC",
+  "genres": [
+    "Adventure",
+    "Strategy"
+  ],
+  "storyYears": [
+    1897
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Yukon_Trail",
+  "locations": [
+    {
+      "placeId": "seattle-usa",
+      "note": "The journey starts in Seattle before players choose a route north.",
+      "source": "https://gamefaqs.gamespot.com/pc/582080-the-yukon-trail/faqs/12185"
+    },
+    {
+      "placeId": "skagway-alaska-usa",
+      "note": "One playable approach to the Klondike starts from Skagway; Dyea is an alternative trailhead.",
+      "source": "https://en.wikipedia.org/wiki/The_Yukon_Trail"
+    },
+    {
+      "placeId": "dyea-alaska-usa",
+      "note": "Players can choose the shorter, harder Chilkoot Trail from Dyea instead of the Skagway route.",
+      "source": "https://gamefaqs.gamespot.com/pc/582080-the-yukon-trail/faqs/12185"
+    },
+    {
+      "placeId": "bennett-lake-canada",
+      "note": "After crossing the mountain trail, players build a boat at Lake Bennett.",
+      "source": "https://gamefaqs.gamespot.com/pc/582080-the-yukon-trail/faqs/12185"
+    },
+    {
+      "placeId": "dawson-city-yukon-canada",
+      "note": "The river journey ends at Dawson City, where players stake a mining claim.",
+      "source": "https://en.wikipedia.org/wiki/The_Yukon_Trail"
+    }
+  ],
+  "routes": [
+    {
+      "id": "skagway-to-dawson",
+      "name": "Skagway trail to Dawson City",
+      "stops": [
+        "seattle-usa",
+        "skagway-alaska-usa",
+        "bennett-lake-canada",
+        "dawson-city-yukon-canada"
+      ],
+      "storyYears": [
+        1897
+      ],
+      "note": "This shows the Skagway branch. Players can instead start the mountain crossing from Dyea.",
+      "source": "https://gamefaqs.gamespot.com/pc/582080-the-yukon-trail/faqs/12185"
+    },
+    {
+      "id": "dyea-to-dawson",
+      "name": "Dyea trail to Dawson City",
+      "stops": [
+        "seattle-usa",
+        "dyea-alaska-usa",
+        "bennett-lake-canada",
+        "dawson-city-yukon-canada"
+      ],
+      "storyYears": [
+        1897
+      ],
+      "note": "The shorter, more difficult branch crosses the Chilkoot Trail from Dyea before joining the route at Bennett Lake.",
+      "source": "https://gamefaqs.gamespot.com/pc/582080-the-yukon-trail/faqs/12185"
+    }
+  ]
+}

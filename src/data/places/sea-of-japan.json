@@ -1,0 +1,13 @@
+{
+  "id": "sea-of-japan",
+  "name": "Sea of Japan",
+  "position": {
+    "lat": 40,
+    "lon": 135
+  },
+  "scale": "area",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+  "description": "The marginal sea between the Japanese archipelago, Sakhalin, the Korean peninsula and the Russian Far East.",
+  "descriptionSource": "wikipedia"
+}

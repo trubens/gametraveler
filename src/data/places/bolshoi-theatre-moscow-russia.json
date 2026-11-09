@@ -1,0 +1,19 @@
+{
+  "id": "bolshoi-theatre-moscow-russia",
+  "name": "Bolshoi Theatre, Moscow, Russia",
+  "position": {
+    "lat": 55.7603,
+    "lon": 37.6186
+  },
+  "scale": "site",
+  "parentId": "moscow-russia",
+  "placeType": "landmark",
+  "aliases": [
+    "Bolshoi",
+    "Teatralnaya"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bolshoi_Theatre",
+  "description": "Moscow's historic opera and ballet house on Teatralnaya Square.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Bolshoi_Theatre"
+}

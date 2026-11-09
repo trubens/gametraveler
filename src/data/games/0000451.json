@@ -1,0 +1,67 @@
+{
+  "id": 451,
+  "name": "Battlefield Vietnam",
+  "year": 2004,
+  "series": "Battlefield",
+  "developer": "Digital Illusions Canada",
+  "publisher": "Electronic Arts",
+  "locations": [
+    {
+      "placeId": "hue-vietnam",
+      "note": "Battle of Hue and Reclaiming Hue: street fighting through the old city during the Tet Offensive of 1968."
+    },
+    {
+      "placeId": "ia-drang-valley-vietnam",
+      "note": "Ia Drang Valley and Landing Zone Albany: the air-cavalry battle of 1965."
+    },
+    {
+      "placeId": "khe-sanh-combat-base-vietnam",
+      "note": "The Siege of Khe Sanh: the Marine base under bombardment in 1968."
+    },
+    {
+      "placeId": "lang-vei-vietnam",
+      "note": "Lang Vei: the Special Forces camp overrun by tanks."
+    },
+    {
+      "placeId": "ho-chi-minh-city-vietnam",
+      "note": "Fall of Saigon and Saigon 1968: the embassy rooftop evacuation of 1975 and the Tet fighting in the city."
+    },
+    {
+      "placeId": "quang-tri-vietnam",
+      "note": "Quang Tri 1968 and 1972, and Operation Hastings: the fighting just below the demilitarized zone."
+    },
+    {
+      "placeId": "dak-to-vietnam",
+      "note": "Hill 875: the Dak To battle of November 1967."
+    },
+    {
+      "placeId": "mekong-delta-vietnam",
+      "note": "Operation Game Warden: river patrol boats among the delta's channels."
+    },
+    {
+      "placeId": "laos",
+      "note": "The Ho Chi Minh Trail: the supply road through the Laotian jungle, bombed and fought over."
+    },
+    {
+      "placeId": "cambodia",
+      "note": "Cambodian Incursion: the 1970 drive into the sanctuaries over the border."
+    },
+    {
+      "placeId": "vietnam",
+      "note": "Operation Flaming Dart and Operation Irving: air strikes on the North and a sweep of the Binh Dinh coast."
+    }
+  ],
+  "storyYears": [
+    1965,
+    1967,
+    1968,
+    1970,
+    1972,
+    1975
+  ],
+  "source": "https://en.wikipedia.org/wiki/Battlefield_Vietnam",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

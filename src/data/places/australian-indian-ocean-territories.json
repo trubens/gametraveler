@@ -1,0 +1,17 @@
+{
+  "id": "australian-indian-ocean-territories",
+  "name": "Australian Indian Ocean Territories",
+  "aliases": [
+    "Indian Ocean Ter.",
+    "Indian Ocean Territories"
+  ],
+  "position": {
+    "lat": -10.49,
+    "lon": 105.67
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Australian_Indian_Ocean_Territories",
+  "description": "Two Australian island territories far out in the Indian Ocean, run together as a single unit."
+}

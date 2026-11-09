@@ -1,0 +1,12 @@
+{
+  "id": "australia",
+  "name": "Australia",
+  "position": {
+    "lat": -25.2744,
+    "lon": 133.7751
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Australia",
+  "description": "A country spanning the mainland of the Australian continent, the island of Tasmania and many smaller islands."
+}

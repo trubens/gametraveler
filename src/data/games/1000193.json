@@ -1,0 +1,45 @@
+{
+  "id": 1000193,
+  "name": "Call of Cthulhu: Dark Corners of the Earth",
+  "year": 2005,
+  "series": "Call of Cthulhu",
+  "developer": "Headfirst Productions",
+  "publisher": "Bethesda Softworks",
+  "locations": [
+    {
+      "placeId": "boston-usa",
+      "note": "The story includes Jack Walters's earlier Boston history and investigation.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Cthulhu:_Dark_Corners_of_the_Earth"
+    },
+    {
+      "placeId": "innsmouth-fictional-massachusetts",
+      "settingType": "fictionalized",
+      "note": "In 1922 Jack Walters comes to the decaying fishing town of Innsmouth to find a missing grocery clerk, and has to sneak past its cultists and corrupt police to get out.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Cthulhu:_Dark_Corners_of_the_Earth"
+    }
+  ],
+  "routes": [
+    {
+      "id": "walters-investigation",
+      "name": "Walters's investigation",
+      "characters": [
+        "Jack Walters"
+      ],
+      "stops": [
+        "boston-usa",
+        "innsmouth-fictional-massachusetts"
+      ],
+      "note": "The game moves between Walters's Boston history and his later investigation in Innsmouth; these episodes span different years.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Cthulhu:_Dark_Corners_of_the_Earth"
+    }
+  ],
+  "storyYears": [
+    1915,
+    1922
+  ],
+  "source": "https://ir.take2games.com/static-files/3aa06579-8d59-42f0-99fd-b4b94fee1d30",
+  "genres": [
+    "Adventure",
+    "Survival Horror"
+  ]
+}

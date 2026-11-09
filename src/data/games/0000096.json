@@ -1,0 +1,43 @@
+{
+  "id": 96,
+  "name": "Timelapse",
+  "year": 1996,
+  "publisher": "GTE Entertainment",
+  "developer": "GTE Entertainment",
+  "locations": [
+    {
+      "placeId": "easter-island-rapa-nui-chile",
+      "note": "The game begins at an archaeologist's camp on Easter Island, where a moai hides the first time portal."
+    },
+    {
+      "placeId": "egypt",
+      "note": "A portal leads into an Ancient Egyptian temple complex with tomb puzzles."
+    },
+    {
+      "placeId": "maya",
+      "note": "A Maya jungle city with ball-court and pyramid puzzles is one of the lost civilizations visited."
+    },
+    {
+      "placeId": "puebloan-usa",
+      "note": "The Anasazi cliff dwellings of the American Southwest form another time-portal world."
+    },
+    {
+      "placeId": "atlantis-fictional-atlantic",
+      "settingType": "imaginary",
+      "note": "After collecting the three civilization gene pods, the player explores the fifth area, the lost city of Atlantis, placed where Plato put it: beyond the Pillars of Heracles, out in the Atlantic."
+    }
+  ],
+  "storyYears": [
+    1996,
+    -3100,
+    -250,
+    1150
+  ],
+  "source": "https://en.wikipedia.org/wiki/Timelapse_(video_game)",
+  "publisherUrl": "https://en.wikipedia.org/wiki/GTE_Interactive_Media",
+  "developerUrl": "https://en.wikipedia.org/wiki/GTE_Interactive_Media",
+  "route": false,
+  "genres": [
+    "Adventure"
+  ]
+}

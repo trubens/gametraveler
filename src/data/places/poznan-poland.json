@@ -1,0 +1,19 @@
+{
+  "id": "poznan-poland",
+  "name": "Poznań, Poland",
+  "position": {
+    "lat": 52.4083,
+    "lon": 16.9336
+  },
+  "scale": "area",
+  "parentId": "poland",
+  "placeType": "city",
+  "aliases": [
+    "Poznan",
+    "Posen"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Pozna%C5%84",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pozna%C5%84",
+  "description": "A city on the River Warta in west Poland, within the Greater Poland region.",
+  "descriptionSource": "wikipedia"
+}

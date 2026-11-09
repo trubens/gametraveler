@@ -1,0 +1,62 @@
+{
+  "id": 1000363,
+  "name": "Velvet Assassin",
+  "aliases": [
+    "Sabotage 1943"
+  ],
+  "year": 2009,
+  "publisher": "SouthPeak Games",
+  "developer": "Replay Studios",
+  "genres": [
+    "Stealth"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Velvet_Assassin",
+  "reviewed": "2026-11-06",
+  "locations": [
+    {
+      "placeId": "france",
+      "aliases": [
+        "Maginot Line"
+      ],
+      "note": "Violette blows up a German fuel depot on the Maginot Line, and at the end wakes from her coma in a French village hospital as an SS unit burns the villagers inside their church."
+    },
+    {
+      "placeId": "paris-france",
+      "note": "Violette slips into a Paris cathedral and assassinates a Nazi colonel."
+    },
+    {
+      "placeId": "hamburg-germany",
+      "note": "During the Operation Gomorrah raids, Violette steals documents and marks a U-boat pen for the Allied bombers."
+    },
+    {
+      "placeId": "warsaw-ghetto-warsaw-poland",
+      "note": "Hunting for three Allied agents, Violette crawls through Warsaw's sewers, finds one wounded and one dead of cyanide, and crosses the emptied ghetto."
+    },
+    {
+      "placeId": "pawiak-prison-warsaw-poland",
+      "note": "Violette breaks into the Gestapo's Pawiak prison to slip cyanide to the third agent before he can be made to talk."
+    }
+  ],
+  "routes": [
+    {
+      "id": "violette",
+      "name": "Violette Summer",
+      "characters": [
+        "Violette Summer"
+      ],
+      "stops": [
+        "france",
+        "paris-france",
+        "hamburg-germany",
+        "warsaw-ghetto-warsaw-poland",
+        "pawiak-prison-warsaw-poland",
+        "france"
+      ],
+      "note": "From her hospital bed in France, Violette relives her missions on the Maginot Line, in Paris, Hamburg and the Warsaw Ghetto, and wakes as the SS reach her village.",
+      "source": "https://en.wikipedia.org/wiki/Velvet_Assassin"
+    }
+  ],
+  "storyYears": [
+    1943
+  ]
+}

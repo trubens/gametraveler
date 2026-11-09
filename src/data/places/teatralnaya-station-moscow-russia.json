@@ -1,0 +1,15 @@
+{
+  "id": "teatralnaya-station-moscow-russia",
+  "name": "Teatralnaya station, Moscow, Russia",
+  "position": {
+    "lat": 55.7578,
+    "lon": 37.619
+  },
+  "scale": "site",
+  "parentId": "moscow-russia",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Teatralnaya_(Moscow_Metro)",
+  "description": "An underground station on the Zamoskvoretskaya line of the Moscow Metro, beneath Teatralnaya Square by the Bolshoi Theatre.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Teatralnaya_(Moscow_Metro)"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "mausoleum-of-qin-shi-huang-xian-china",
+  "name": "Mausoleum of Qin Shi Huang, Xi'an, China",
+  "position": {
+    "lat": 34.3841,
+    "lon": 109.2785
+  },
+  "scale": "site",
+  "parentId": "china",
+  "placeType": "landmark",
+  "aliases": [
+    "Emperor's Tomb",
+    "Terracotta Army"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Mausoleum_of_Qin_Shi_Huang",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mausoleum_of_Qin_Shi_Huang",
+  "description": "The tomb complex of Qin Shi Huang, first emperor of China's Qin dynasty, at Lintong on the outskirts of Xi'an in Shaanxi."
+}

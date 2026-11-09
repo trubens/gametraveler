@@ -1,0 +1,21 @@
+{
+  "id": 1000250,
+  "name": "Lausanne 1830: Histoires de registres",
+  "year": 2022,
+  "developer": "GameLab UNIL-EPFL / Digital Kingdom",
+  "publisher": "UNIL-EPFL",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    1830
+  ],
+  "source": "https://lausanne1830.ch/presse/",
+  "locations": [
+    {
+      "placeId": "lausanne-switzerland",
+      "note": "The game explores Lausanne and its historical records in 1830.",
+      "source": "https://lausanne1830.ch/making-of/"
+    }
+  ]
+}

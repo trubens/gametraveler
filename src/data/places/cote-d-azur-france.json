@@ -1,0 +1,17 @@
+{
+  "id": "cote-d-azur-france",
+  "name": "Côte d'Azur, France",
+  "position": {
+    "lat": 43.55,
+    "lon": 7.0
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "region",
+  "aliases": [
+    "French Riviera"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/French_Riviera",
+  "description": "The blue coast of the Mediterranean at the south-eastern corner of France, from Cassis to the Italian border, with Nice, Cannes and Monaco along it.",
+  "descriptionSource": "wikipedia"
+}

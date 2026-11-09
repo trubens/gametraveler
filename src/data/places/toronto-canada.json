@@ -1,0 +1,13 @@
+{
+  "id": "toronto-canada",
+  "name": "Toronto, Canada",
+  "scale": "area",
+  "parentId": "canada",
+  "position": {
+    "lat": 43.6532,
+    "lon": -79.3832
+  },
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toronto",
+  "description": "Canada's largest city and the capital of Ontario."
+}

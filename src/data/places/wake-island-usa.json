@@ -1,0 +1,13 @@
+{
+  "id": "wake-island-usa",
+  "name": "Wake Island, USA",
+  "position": {
+    "lat": 19.2953,
+    "lon": 166.6311
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wake_Island",
+  "description": "A coral atoll in the central Pacific, a United States territory and wartime airfield."
+}

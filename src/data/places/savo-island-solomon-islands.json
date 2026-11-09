@@ -1,0 +1,12 @@
+{
+  "id": "savo-island-solomon-islands",
+  "name": "Savo Island, Solomon Islands",
+  "position": {
+    "lat": -9.13,
+    "lon": 159.82
+  },
+  "scale": "area",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Savo_Island",
+  "description": "A small volcanic island in the Central Province of the Solomon Islands, in the South Pacific."
+}

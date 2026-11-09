@@ -1,0 +1,20 @@
+{
+  "id": 1000198,
+  "name": "Conarium",
+  "year": 2017,
+  "developer": "Zoetrope Interactive",
+  "publisher": "Iceberg Interactive",
+  "locations": [
+    {
+      "placeId": "antarctica",
+      "note": "The Lovecraft-inspired story follows an expedition at the Upuaut research base in Antarctica.",
+      "source": "https://steamcommunity.com/app/313780/discussions/0/350544098385697517/"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://zoetrope-interactive.com/",
+  "genres": [
+    "Adventure",
+    "Survival Horror"
+  ]
+}

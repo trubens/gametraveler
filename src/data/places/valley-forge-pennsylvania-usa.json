@@ -1,0 +1,14 @@
+{
+  "id": "valley-forge-pennsylvania-usa",
+  "name": "Valley Forge, Pennsylvania, USA",
+  "position": {
+    "lat": 40.0969,
+    "lon": -75.4389
+  },
+  "scale": "area",
+  "parentId": "pennsylvania-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Valley_Forge",
+  "description": "The Continental Army's winter camp of 1777 to 1778 on the hills above the Schuylkill, north-west of Philadelphia.",
+  "descriptionSource": "wikipedia"
+}

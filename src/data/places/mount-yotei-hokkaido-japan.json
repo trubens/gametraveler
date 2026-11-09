@@ -1,0 +1,13 @@
+{
+  "id": "mount-yotei-hokkaido-japan",
+  "name": "Mount Yōtei, Hokkaido, Japan",
+  "position": {
+    "lat": 42.8268,
+    "lon": 140.8114
+  },
+  "scale": "area",
+  "parentId": "hokkaido-japan",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mount_Y%C5%8Dtei",
+  "description": "An active stratovolcano in Shikotsu-Tōya National Park on Hokkaidō, nicknamed Ezo Fuji for its likeness to Mount Fuji."
+}

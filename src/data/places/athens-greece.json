@@ -1,0 +1,13 @@
+{
+  "id": "athens-greece",
+  "name": "Athens, Greece",
+  "position": {
+    "lat": 37.9838,
+    "lon": 23.7275
+  },
+  "scale": "area",
+  "parentId": "greece",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Athens",
+  "description": "Greece's capital and largest city."
+}

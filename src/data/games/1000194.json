@@ -1,0 +1,25 @@
+{
+  "id": 1000194,
+  "name": "Shadow of the Comet",
+  "year": 1993,
+  "developer": "Infogrames",
+  "publisher": "Infogrames",
+  "locations": [
+    {
+      "placeId": "massachusetts-usa",
+      "aliases": [
+        "Illsmouth"
+      ],
+      "settingType": "fictionalized",
+      "note": "In 1910 the photographer John T. Parker comes to Illsmouth to photograph Halley's Comet and finds the town preparing a ritual for its return.",
+      "source": "https://www.mocagh.org/ea/aitd-shadowcomet-shadowcomet-manual.pdf"
+    }
+  ],
+  "storyYears": [
+    1910
+  ],
+  "source": "https://www.mocagh.org/ea/aitd-shadowcomet-shadowcomet-manual.pdf",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "el-agheila-libya",
+  "name": "El Agheila, Libya",
+  "position": {
+    "lat": 30.2558,
+    "lon": 19.1994
+  },
+  "scale": "area",
+  "parentId": "libya",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/El_Agheila",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/El_Agheila",
+  "description": "A coastal town at the southern end of the Gulf of Sidra in far western Cyrenaica, Libya.",
+  "descriptionSource": "wikipedia"
+}

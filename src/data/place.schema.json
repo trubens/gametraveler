@@ -1,0 +1,114 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Game Traveler place record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "scale",
+    "placeType",
+    "position"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "scale": {
+      "type": "string",
+      "enum": [
+        "area",
+        "site"
+      ]
+    },
+    "placeType": {
+      "type": "string",
+      "enum": [
+        "country",
+        "city",
+        "region",
+        "neighborhood",
+        "island",
+        "natural_feature",
+        "body_of_water",
+        "landmark",
+        "venue",
+        "area"
+      ]
+    },
+    "fictional": {
+      "type": "boolean",
+      "description": "The game invented this place; its pin is our placement. The app adds \"(fictional)\" to the name, so the name never carries it."
+    },
+    "legendary": {
+      "type": "boolean",
+      "description": "A place from legend (Zerzura). The app adds \"(legendary)\" to the name."
+    },
+    "parentId": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "position": {
+      "$ref": "#/$defs/coordinates"
+    },
+    "source": {
+      "type": "string",
+      "format": "uri"
+    },
+    "wikipediaUrl": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https?://([a-z-]+\\.)?wikipedia\\.org/wiki/"
+    },
+    "wikidataId": {
+      "type": "string",
+      "pattern": "^Q[1-9][0-9]*$"
+    },
+    "description": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 400
+    },
+    "descriptionSource": {
+      "type": "string",
+      "enum": [
+        "wikipedia"
+      ]
+    }
+  },
+  "$defs": {
+    "coordinates": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "lat",
+        "lon"
+      ],
+      "properties": {
+        "lat": {
+          "type": "number",
+          "minimum": -90,
+          "maximum": 90
+        },
+        "lon": {
+          "type": "number",
+          "minimum": -180,
+          "maximum": 180
+        }
+      }
+    }
+  }
+}

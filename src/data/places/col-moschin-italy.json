@@ -1,0 +1,14 @@
+{
+  "id": "col-moschin-italy",
+  "name": "Col Moschin, Italy",
+  "position": {
+    "lat": 45.86,
+    "lon": 11.694
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://it.wikipedia.org/wiki/Col_Moschin_(monte)",
+  "description": "A height on the southern edge of the Monte Grappa massif, retaken by Italian assault troops in June 1918.",
+  "descriptionSource": "wikipedia"
+}

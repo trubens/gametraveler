@@ -1,0 +1,15 @@
+{
+  "id": "edo-castle-tokyo-japan",
+  "name": "Edo Castle, Tokyo, Japan",
+  "position": {
+    "lat": 35.6883,
+    "lon": 139.7544
+  },
+  "scale": "site",
+  "parentId": "tokyo-japan",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Like_a_Dragon:_Ishin!",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edo_Castle",
+  "description": "A flatland castle built in 1457 by Ōta Dōkan, seat of the Tokugawa shogunate; today part of the Tokyo Imperial Palace grounds.",
+  "descriptionSource": "wikipedia"
+}

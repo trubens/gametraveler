@@ -1,0 +1,19 @@
+{
+  "id": 338,
+  "name": "MotoGP 09/10",
+  "year": 2010,
+  "series": "MotoGP",
+  "developer": "Monumental Games",
+  "publisher": "Capcom",
+  "locations": [
+    {
+      "placeId": "mugello-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 4 of 18 in the 2010 MotoGP season."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/MotoGP_09/10",
+  "genres": [
+    "Racing"
+  ]
+}

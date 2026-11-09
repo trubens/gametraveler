@@ -1,0 +1,16 @@
+{
+  "id": "west-elizabeth-fictionalized-great-plains-and-west",
+  "name": "West Elizabeth, USA",
+  "position": {
+    "lat": 39,
+    "lon": -102
+  },
+  "scale": "area",
+  "placeType": "area",
+  "fictional": true,
+  "aliases": [
+    "West Elizabeth (fictionalized Great Plains and West)"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_Plains",
+  "description": "An invented state of plains, forest and the city of Blackwater, drawn from the Great Plains and the Rockies' edge. Pinned on the western plains."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dawson-city-yukon-canada",
+  "name": "Dawson City, Yukon, Canada",
+  "position": {
+    "lat": 64.06013,
+    "lon": -139.43328
+  },
+  "scale": "area",
+  "parentId": "canada",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dawson_City",
+  "placeType": "city",
+  "description": "A small town in the Canadian territory of Yukon."
+}

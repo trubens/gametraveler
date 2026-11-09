@@ -1,0 +1,14 @@
+{
+  "id": "central-park-zoo-new-york-city-usa",
+  "name": "Central Park Zoo, New York City, USA",
+  "position": {
+    "lat": 40.7678,
+    "lon": -73.9717
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Central_Park_Zoo",
+  "description": "A small zoo at the south-east corner of Central Park, run by the Wildlife Conservation Society.",
+  "descriptionSource": "wikipedia"
+}

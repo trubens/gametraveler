@@ -1,0 +1,23 @@
+{
+  "id": 1000160,
+  "name": "The Pink Panther: Passport to Peril",
+  "year": 1996,
+  "publisher": "BMG Interactive / Simon & Schuster Interactive",
+  "developer": "Wanderlust Interactive",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Pink_Panther:_Passport_to_Peril",
+  "route": true,
+  "locations": [
+    {
+      "placeId": "mumbai-india",
+      "note": "Pink explores Bombay’s streets, markets and palace while following the case."
+    },
+    {
+      "placeId": "varanasi-india",
+      "note": "Pink travels by train to Varanasi and visits the Ganges during the investigation."
+    }
+  ],
+  "storyYears": []
+}

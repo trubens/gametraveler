@@ -1,0 +1,17 @@
+{
+  "id": "logan-airport-boston-usa",
+  "name": "Logan Airport, Boston, USA",
+  "position": {
+    "lat": 42.3631,
+    "lon": -71.0064
+  },
+  "scale": "site",
+  "parentId": "boston-usa",
+  "placeType": "venue",
+  "aliases": [
+    "Boston Logan International Airport"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Logan_International_Airport",
+  "description": "Boston's airport on the harbour's East Boston shore.",
+  "descriptionSource": "wikipedia"
+}

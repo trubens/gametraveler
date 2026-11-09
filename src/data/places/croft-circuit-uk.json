@@ -1,0 +1,12 @@
+{
+  "id": "croft-circuit-uk",
+  "name": "Croft Circuit, UK",
+  "position": {
+    "lat": 54.448,
+    "lon": -1.561
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Croft_Circuit",
+  "description": "A motor racing circuit near Dalton-on-Tees in North Yorkshire, in the north of England."
+}

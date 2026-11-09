@@ -1,0 +1,13 @@
+{
+  "id": "paris-france",
+  "name": "Paris, France",
+  "position": {
+    "lat": 48.8566,
+    "lon": 2.3522
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Paris",
+  "description": "France's capital on the Seine."
+}

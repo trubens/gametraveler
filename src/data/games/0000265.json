@@ -1,0 +1,84 @@
+{
+  "id": 265,
+  "name": "Company of Heroes 2",
+  "year": 2013,
+  "publisher": "Sega",
+  "series": "Company of Heroes",
+  "developer": "Relic Entertainment",
+  "locations": [
+    {
+      "placeId": "stalingrad-volgograd-russia",
+      "note": "The Soviet campaign recreates combat in Stalingrad and makes Order 227 part of the battle."
+    },
+    {
+      "placeId": "mtsensk-russia",
+      "note": "Churkin and Isakovich fall back to the fortified village of Mtsensk on the road to Moscow and hold it against German armour.",
+      "source": "https://www.gamepressure.com/companyofheroes2/the-campaign-mode/z75189"
+    },
+    {
+      "placeId": "orsha-belarus",
+      "note": "Embedded as a war correspondent, Isakovich follows the Red Army's assault to liberate Orsha.",
+      "source": "https://en.wikipedia.org/wiki/Company_of_Heroes_2"
+    },
+    {
+      "placeId": "lublin-poland",
+      "note": "The Red Army storms Lublin and uncovers the Majdanek concentration camp outside the city.",
+      "source": "https://en.wikipedia.org/wiki/Company_of_Heroes_2"
+    },
+    {
+      "placeId": "poznan-poland",
+      "note": "Sent to a penal battalion, Isakovich witnesses the storming of the Poznań citadel.",
+      "source": "https://en.wikipedia.org/wiki/Company_of_Heroes_2"
+    },
+    {
+      "placeId": "halbe-germany",
+      "note": "The penal battalion fights in the destruction of the encircled German Ninth Army at Halbe.",
+      "source": "https://en.wikipedia.org/wiki/Company_of_Heroes_2"
+    },
+    {
+      "placeId": "berlin-germany",
+      "note": "The final campaign battle takes the Soviet forces into Berlin in 1945."
+    },
+    {
+      "placeId": "siberia-russia",
+      "note": "In a Siberian gulag in 1952, Colonel Churkin interrogates Isakovich about his war journal and finally lets him escape with it.",
+      "source": "https://en.wikipedia.org/wiki/Company_of_Heroes_2"
+    }
+  ],
+  "storyYears": [
+    1941,
+    1942,
+    1943,
+    1944,
+    1945,
+    1952
+  ],
+  "source": "https://en.wikipedia.org/wiki/Company_of_Heroes_2",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
+  "genres": [
+    "Real-Time Strategy"
+  ],
+  "routes": [
+    {
+      "id": "isakovich",
+      "name": "Lt. Lev Isakovich",
+      "characters": [
+        "Lev Abramovich Isakovich",
+        "Colonel Churkin"
+      ],
+      "stops": [
+        "stalingrad-volgograd-russia",
+        "mtsensk-russia",
+        "stalingrad-volgograd-russia",
+        "orsha-belarus",
+        "lublin-poland",
+        "poznan-poland",
+        "halbe-germany",
+        "berlin-germany"
+      ],
+      "note": "Isakovich's journal opens at Stalingrad, goes back to the 1941 defence of Mtsensk, returns to Stalingrad and then follows the Red Army through Orsha, Lublin, Poznań and Halbe to Berlin.",
+      "source": "https://en.wikipedia.org/wiki/Company_of_Heroes_2"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1000178,
+  "name": "Dracula 3: The Path of the Dragon",
+  "year": 2008,
+  "series": "Dracula",
+  "developer": "Kheops Studio",
+  "publisher": "Microïds",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Dracula_3:_The_Path_of_the_Dragon",
+  "reviewed": "2026-11-02",
+  "locations": [
+    {
+      "placeId": "transylvania-romania",
+      "aliases": [
+        "Vladoviste"
+      ],
+      "settingType": "fictionalized",
+      "note": "Father Arno Moriani comes to the village to judge Martha Calugarul's case for sainthood, uncovers the Thule Society's plan to walk the Path of the Dragon, and blows up the catacombs under the Castle of Twilight as Dracula approaches.",
+      "source": "https://en.wikipedia.org/wiki/Dracula_3:_The_Path_of_the_Dragon"
+    },
+    {
+      "placeId": "budapest-hungary",
+      "note": "Moriani learns the history of vampires and of the Path of the Dragon from Professor Irina Boczow, and on a second visit finds her murdered."
+    },
+    {
+      "placeId": "turkey",
+      "note": "Following the Path of the Dragon, Moriani reaches the mountain jail where Vlad Tepes was held prisoner and learns its inmates were left as food for a creature in the forest."
+    },
+    {
+      "placeId": "london-uk",
+      "note": "In a 1942 bunker, Captain Cunningham interrogates Pekmester about the Nazi 'Operation D' until the lights go out.",
+      "source": "https://en.wikipedia.org/wiki/Dracula_3:_The_Path_of_the_Dragon"
+    }
+  ],
+  "storyYears": [
+    1920,
+    1942
+  ],
+  "routes": [
+    {
+      "id": "moriani",
+      "name": "Father Arno Moriani",
+      "characters": [
+        "Arno Moriani"
+      ],
+      "stops": [
+        "transylvania-romania",
+        "budapest-hungary",
+        "transylvania-romania",
+        "turkey",
+        "transylvania-romania",
+        "budapest-hungary",
+        "transylvania-romania",
+        "london-uk"
+      ],
+      "note": "Father Moriani's investigation shuttles between Vladoviste, Budapest and a Turkish mountain jail before ending under the Castle of Twilight, with an epilogue in 1942 London.",
+      "source": "https://en.wikipedia.org/wiki/Dracula_3:_The_Path_of_the_Dragon"
+    }
+  ]
+}

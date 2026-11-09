@@ -1,0 +1,13 @@
+{
+  "id": "ruhr-germany",
+  "name": "Ruhr, Germany",
+  "position": {
+    "lat": 51.5,
+    "lon": 7.5
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruhr",
+  "description": "A dense cluster of cities in North Rhine-Westphalia, Germany's old industrial heartland of coal and steel."
+}

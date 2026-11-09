@@ -1,0 +1,22 @@
+{
+  "id": 245,
+  "name": "The Getaway: Black Monday",
+  "year": 2004,
+  "publisher": "Sony Computer Entertainment",
+  "series": "The Getaway",
+  "developer": "London Studio",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "A police officer, a boxer and a thief become entangled in a gangland conflict across recreated London streets and Underground locations."
+    }
+  ],
+  "storyYears": [
+    2004
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Getaway:_Black_Monday",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

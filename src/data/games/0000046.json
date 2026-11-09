@@ -1,0 +1,69 @@
+{
+  "id": 46,
+  "name": "Tomb Raider: Underworld",
+  "year": 2008,
+  "publisher": "Eidos Interactive",
+  "series": "Tomb Raider",
+  "developer": "Crystal Dynamics",
+  "locations": [
+    {
+      "placeId": "mediterranean-sea",
+      "note": "Lara dives to a sunken island in the Mediterranean hiding the Norse ruins of Niflheim."
+    },
+    {
+      "placeId": "coastal-thailand",
+      "note": "At the ruins of Bhogavati on Thailand's coast Lara follows her father's trail to Thor's gauntlet."
+    },
+    {
+      "placeId": "mexico",
+      "note": "In southern Mexico Lara explores the Mayan underworld Xibalba to retrieve Thor's belt."
+    },
+    {
+      "placeId": "jan-mayen-island-norway",
+      "note": "The ruins of Valhalla on Jan Mayen island hold Thor's hammer, Mjolnir."
+    },
+    {
+      "placeId": "andaman-sea",
+      "note": "In a storm on the Andaman Sea Lara boards Amanda's freighter Tisiphone with Mjolnir in hand, confronts Natla in the hold and lets her go in exchange for Odin's ritual and the coordinates of Helheim."
+    },
+    {
+      "placeId": "arctic-sea",
+      "note": "The climax takes Lara to the submerged ruins of Helheim beneath the Arctic Sea."
+    },
+    {
+      "placeId": "croft-manor-fictional-surrey-england-uk",
+      "note": "The story opens in medias res at Croft Manor after an explosion, and returns there when Lara's Doppelgänger destroys it.",
+      "settingType": "fictionalized"
+    }
+  ],
+  "storyYears": [
+    2008
+  ],
+  "source": "https://en.wikipedia.org/wiki/Tomb_Raider:_Underworld",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Crystal_Dynamics",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Eidos_Interactive",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "mjolnir",
+      "name": "The search for Mjolnir",
+      "characters": [
+        "Lara Croft"
+      ],
+      "stops": [
+        "mediterranean-sea",
+        "coastal-thailand",
+        "croft-manor-fictional-surrey-england-uk",
+        "mexico",
+        "jan-mayen-island-norway",
+        "andaman-sea",
+        "arctic-sea"
+      ],
+      "note": "Lara hunts Thor's weapons from the Mediterranean to Thailand, back to Croft Manor, then through Mexico, Jan Mayen and the Andaman Sea to Helheim under the Arctic Sea.",
+      "source": "https://en.wikipedia.org/wiki/Tomb_Raider:_Underworld"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tibet-china",
+  "name": "Tibet, China",
+  "position": {
+    "lat": 29.6469,
+    "lon": 91.1172
+  },
+  "scale": "area",
+  "parentId": "china",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tibet_Autonomous_Region",
+  "description": "A high plateau region in the west of China, known as Tibet or Xizang, lying north of the Himalaya."
+}

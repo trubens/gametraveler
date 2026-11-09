@@ -1,0 +1,12 @@
+{
+  "id": "jeddah-corniche-circuit-saudi-arabia",
+  "name": "Jeddah Corniche Circuit, Saudi Arabia",
+  "position": {
+    "lat": 21.6319,
+    "lon": 39.1044
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeddah_Corniche_Circuit",
+  "description": "A street circuit on the Jeddah corniche in Saudi Arabia, home of the Formula One Saudi Arabian Grand Prix and a Formula E ePrix."
+}

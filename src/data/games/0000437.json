@@ -1,0 +1,129 @@
+{
+  "id": 437,
+  "name": "Call of Duty: Black Ops",
+  "year": 2010,
+  "series": "Call of Duty",
+  "developer": "Treyarch",
+  "publisher": "Activision",
+  "locations": [
+    {
+      "placeId": "kowloon-walled-city-hong-kong",
+      "note": "Hudson and Weaver interrogate Daniel Clarke, the British scientist who helped the Soviets recreate Nova 6, and learn of Dragovich's facility on Mount Yamantau before Clarke is killed.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops"
+    },
+    {
+      "placeId": "baffin-island-canada",
+      "note": "In Reznov's flashback to October 1945, he and Petrenko seize a Nazi base on Baffin Island for the Nova 6 gas, and Dragovich betrays them and tests it on Petrenko.",
+      "source": "https://callofduty.fandom.com/wiki/Project_Nova"
+    },
+    {
+      "placeId": "cuba",
+      "note": "The campaign opens with the Bay of Pigs: Mason is sent to assassinate Fidel Castro, kills a body double and is captured.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops"
+    },
+    {
+      "placeId": "vorkuta-russia",
+      "note": "Imprisoned in the Vorkuta gulag after the Bay of Pigs, Mason befriends Viktor Reznov, and in October 1963 they spark an uprising that lets Mason escape.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops"
+    },
+    {
+      "placeId": "the-pentagon-washington-usa",
+      "note": "At the Pentagon Mason meets President Kennedy, who sends him to kill Dragovich at Baikonur."
+    },
+    {
+      "placeId": "baikonur-cosmodrome-kazakhstan",
+      "note": "Sent to kill Dragovich, Mason's team rescues Grigori Weaver at the cosmodrome and destroys the Soyuz spacecraft and its scientists.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops"
+    },
+    {
+      "placeId": "khe-sanh-combat-base-vietnam",
+      "note": "Mason and Woods hold the Khe Sanh combat base against a North Vietnamese assault in January 1968."
+    },
+    {
+      "placeId": "hue-vietnam",
+      "note": "The team fights into Huế during the Tet Offensive to extract a Soviet defector."
+    },
+    {
+      "placeId": "quang-tri-vietnam",
+      "note": "Victor Charlie: Mason's SOG team searches villages and Viet Cong tunnels south of the DMZ for proof of Kravchenko's Soviet advisers.",
+      "source": "https://callofduty.fandom.com/wiki/Victor_Charlie"
+    },
+    {
+      "placeId": "laos",
+      "note": "Mason's team finds the crashed Soviet plane that carried Nova 6 in Laos; captured, he and Woods are forced into Russian roulette, then escape in a stolen Hind."
+    },
+    {
+      "placeId": "mount-yamantau-russia",
+      "note": "Hudson and Weaver infiltrate and destroy Dragovich's Nova 6 facility on the mountain.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops"
+    },
+    {
+      "placeId": "vozrozhdeniya-island-aral-sea",
+      "aliases": [
+        "Rebirth Island"
+      ],
+      "note": "Mason kills Friedrich Steiner on Rebirth Island just as Hudson and Weaver arrive to extract him; Hudson sees Mason pull the trigger alone, the first sign that Reznov exists only in his head.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops"
+    },
+    {
+      "placeId": "gulf-of-mexico",
+      "note": "Mason and Hudson storm the Soviet ship Rusalka and dive to the undersea numbers station beneath it, where Mason kills Dragovich.",
+      "source": "https://callofduty.fandom.com/wiki/Redemption"
+    }
+  ],
+  "storyYears": [
+    1945,
+    1961,
+    1963,
+    1968
+  ],
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops",
+  "reviewed": "2026-11-03",
+  "developerUrl": "https://en.wikipedia.org/wiki/Treyarch",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Activision",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "mason",
+      "name": "Alex Mason",
+      "characters": [
+        "Alex Mason",
+        "Frank Woods",
+        "Joseph Bowman",
+        "Viktor Reznov"
+      ],
+      "stops": [
+        "cuba",
+        "vorkuta-russia",
+        "the-pentagon-washington-usa",
+        "baikonur-cosmodrome-kazakhstan",
+        "khe-sanh-combat-base-vietnam",
+        "hue-vietnam",
+        "quang-tri-vietnam",
+        "laos",
+        "vozrozhdeniya-island-aral-sea",
+        "gulf-of-mexico"
+      ],
+      "note": "Captured at the Bay of Pigs and broken out of Vorkuta, Mason goes from Kennedy's Pentagon to Baikonur, then Khe Sanh, Huế, the villages south of the DMZ and Laos, Rebirth Island in the Aral Sea, and finally the Rusalka in the Gulf of Mexico.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops"
+    },
+    {
+      "id": "hudson",
+      "name": "Jason Hudson",
+      "characters": [
+        "Jason Hudson",
+        "Grigori Weaver"
+      ],
+      "stops": [
+        "kowloon-walled-city-hong-kong",
+        "mount-yamantau-russia",
+        "vozrozhdeniya-island-aral-sea",
+        "gulf-of-mexico"
+      ],
+      "note": "Hudson chases the Nova 6 trail from Clarke in Kowloon Walled City to Dragovich's facility on Mount Yamantau and Rebirth Island, then joins Mason on the Rusalka.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "sangenjaya-tokyo-japan",
+  "name": "Sangenjaya, Tokyo, Japan",
+  "position": {
+    "lat": 35.643,
+    "lon": 139.67
+  },
+  "scale": "site",
+  "parentId": "tokyo-japan",
+  "placeType": "neighborhood",
+  "aliases": [
+    "Sancha"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sangenjaya",
+  "description": "A district of Setagaya west of Shibuya, known for its bars, cafés and restaurants.",
+  "descriptionSource": "wikipedia"
+}

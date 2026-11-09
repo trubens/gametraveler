@@ -1,0 +1,14 @@
+{
+  "id": "sainte-menehould-france",
+  "name": "Sainte-Menehould, France",
+  "position": {
+    "lat": 49.0833,
+    "lon": 4.9
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sainte-Menehould",
+  "description": "A small town in the Marne department of north-eastern France, on the Aisne at the western edge of the Argonne.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "croft-manor-fictional-surrey-england-uk",
+  "name": "Croft Manor, Surrey, England",
+  "position": {
+    "lat": 51.27,
+    "lon": -0.4
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "landmark",
+  "fictional": true,
+  "aliases": [
+    "Croft Manor"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Lara_Croft",
+  "description": "Lara Croft's ancestral home, the training ground of the early games and her base in the later ones. The games put it in England without naming a town; the Core Design-era backstory places it in Surrey, so the pin stands in Surrey. That placement is a guess from the series' lore, not from a game."
+}

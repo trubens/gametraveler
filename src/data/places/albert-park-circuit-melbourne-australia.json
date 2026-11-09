@@ -1,0 +1,13 @@
+{
+  "id": "albert-park-circuit-melbourne-australia",
+  "name": "Albert Park Circuit, Melbourne, Australia",
+  "position": {
+    "lat": -37.8497,
+    "lon": 144.968
+  },
+  "scale": "site",
+  "parentId": "melbourne-australia",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Park_Circuit",
+  "description": "A street circuit that loops around Albert Park Lake in the Melbourne suburb of the same name."
+}

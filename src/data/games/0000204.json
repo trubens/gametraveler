@@ -1,0 +1,22 @@
+{
+  "id": 204,
+  "name": "Shenmue III",
+  "year": 2019,
+  "publisher": "Deep Silver",
+  "series": "Shenmue",
+  "developer": "Ys Net",
+  "locations": [
+    {
+      "placeId": "guilin-china",
+      "note": "Ryo Hazuki follows his father's killer to Bailu Village in the Guilin mountains in 1987."
+    }
+  ],
+  "storyYears": [
+    1987
+  ],
+  "source": "https://en.wikipedia.org/wiki/Shenmue_III",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Deep_Silver",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

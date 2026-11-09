@@ -1,0 +1,13 @@
+{
+  "id": "new-york-city-usa",
+  "name": "New York City, USA",
+  "position": {
+    "lat": 40.7128,
+    "lon": -74.006
+  },
+  "scale": "area",
+  "parentId": "new-york-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/New_York_City",
+  "description": "The most populous city in the United States."
+}

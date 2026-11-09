@@ -1,0 +1,13 @@
+{
+  "id": "long-beach-street-circuit-california-usa",
+  "name": "Long Beach Street Circuit, California, USA",
+  "position": {
+    "lat": 33.765,
+    "lon": -118.189
+  },
+  "scale": "site",
+  "parentId": "long-beach-california-usa",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Long_Beach_Street_Circuit",
+  "description": "A street circuit run through the streets of Long Beach, on the California coast."
+}

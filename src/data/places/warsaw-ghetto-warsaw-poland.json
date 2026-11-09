@@ -1,0 +1,15 @@
+{
+  "id": "warsaw-ghetto-warsaw-poland",
+  "name": "Warsaw Ghetto, Warsaw, Poland",
+  "position": {
+    "lat": 52.25,
+    "lon": 21.0
+  },
+  "scale": "site",
+  "parentId": "warsaw-poland",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Warsaw_Ghetto",
+  "description": "The largest of the Nazi ghettos, set up in November 1940 in the Jewish quarter of Warsaw and destroyed after the uprising of 1943.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Warsaw_Ghetto"
+}

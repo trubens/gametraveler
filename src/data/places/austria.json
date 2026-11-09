@@ -1,0 +1,12 @@
+{
+  "id": "austria",
+  "name": "Austria",
+  "scale": "area",
+  "position": {
+    "lat": 47.5,
+    "lon": 14.2
+  },
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Austria",
+  "description": "A landlocked country in the Eastern Alps of Central Europe, a federation of nine states with Vienna as its capital and largest city."
+}

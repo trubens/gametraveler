@@ -1,0 +1,40 @@
+{
+  "id": 235,
+  "name": "The Crew",
+  "year": 2014,
+  "publisher": "Ubisoft",
+  "series": "The Crew",
+  "developer": "Ivory Tower, Ubisoft Reflections",
+  "locations": [
+    {
+      "placeId": "detroit-usa",
+      "note": "Alex Taylor's story and early driving missions begin in the Detroit area."
+    },
+    {
+      "placeId": "chicago-usa",
+      "note": "Chicago is a major Midwest city for missions and driving in the condensed United States."
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "note": "New York anchors the East Coast region with urban races and missions."
+    },
+    {
+      "placeId": "miami-usa",
+      "note": "Miami is the main southern city for street races and driving missions."
+    },
+    {
+      "placeId": "las-vegas-usa",
+      "note": "Las Vegas anchors the Mountain States region and its racing missions."
+    },
+    {
+      "placeId": "los-angeles-usa",
+      "note": "Los Angeles forms the main West Coast city in the cross-country driving campaign."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/The_Crew_(video_game)",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Racing"
+  ]
+}

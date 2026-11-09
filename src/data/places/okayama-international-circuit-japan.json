@@ -1,0 +1,13 @@
+{
+  "id": "okayama-international-circuit-japan",
+  "name": "Okayama International Circuit, Japan",
+  "position": {
+    "lat": 34.916,
+    "lon": 134.221
+  },
+  "scale": "site",
+  "parentId": "japan",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Okayama_International_Circuit",
+  "description": "A private motorsport race track at Mimasaka in Okayama Prefecture, Japan, formerly known as TI Circuit Aida."
+}

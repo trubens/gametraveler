@@ -1,0 +1,13 @@
+{
+  "id": "umea-sweden",
+  "name": "Umeå, Sweden",
+  "position": {
+    "lat": 63.8258,
+    "lon": 20.263
+  },
+  "scale": "area",
+  "parentId": "sweden",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ume%C3%A5",
+  "description": "A city on the Ume River in north-east Sweden."
+}

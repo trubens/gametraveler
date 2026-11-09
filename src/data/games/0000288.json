@@ -1,0 +1,23 @@
+{
+  "id": 288,
+  "name": "Formula One 2000",
+  "year": 2000,
+  "series": "Formula One",
+  "developer": "Studio 33 / Tarantula Studios",
+  "publisher": "Sony Computer Entertainment / Midway Games",
+  "locations": [
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "Raced as the British Grand Prix, round 4 of 17 in the 2000 season."
+    },
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 14 of 17 in the 2000 season."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Formula_One_2000_(video_game)",
+  "genres": [
+    "Racing"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 221,
+  "name": "Gerda: A Flame in Winter",
+  "year": 2022,
+  "publisher": "Don't Nod",
+  "developer": "PortaPlay",
+  "locations": [
+    {
+      "placeId": "tinglev-denmark",
+      "note": "Gerda tries to save her arrested husband while navigating occupied Tinglev and its Danish and German communities."
+    }
+  ],
+  "storyYears": [
+    1945
+  ],
+  "source": "https://en.wikipedia.org/wiki/Gerda:_A_Flame_in_Winter",
+  "genres": [
+    "Adventure"
+  ]
+}

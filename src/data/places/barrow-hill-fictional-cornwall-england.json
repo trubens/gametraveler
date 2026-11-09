@@ -1,0 +1,19 @@
+{
+  "id": "barrow-hill-fictional-cornwall-england",
+  "name": "Barrow Hill, Cornwall, England",
+  "position": {
+    "lat": 50.3981,
+    "lon": -4.4836
+  },
+  "scale": "area",
+  "parentId": "cornwall-england",
+  "placeType": "landmark",
+  "fictional": true,
+  "aliases": [
+    "Barrow Hill stone circle",
+    "Duloe stone circle"
+  ],
+  "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Duloe_stone_circle",
+  "description": "An invented Cornish site: a stone circle, a holy well, a barrow, a swamp and a lonely petrol station, all drawn from south-east Cornwall. The circle is Duloe stone circle, the well St Cuby's Well beside it, the swamp the Looe estuary at Sandplace; the petrol station is a composite of the area's old forecourts. Pinned on Duloe stone circle."
+}

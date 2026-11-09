@@ -1,0 +1,19 @@
+{
+  "id": 387,
+  "name": "Colin McRae Rally 3",
+  "year": 2002,
+  "series": "Colin McRae Rally",
+  "developer": "Codemasters",
+  "publisher": "Codemasters",
+  "locations": [
+    {
+      "placeId": "finland",
+      "note": "Players race rally stages through Finnish forest and gravel-road scenery."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Colin_McRae_Rally_3",
+  "genres": [
+    "Racing"
+  ]
+}

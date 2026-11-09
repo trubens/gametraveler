@@ -1,0 +1,25 @@
+{
+  "id": 1000189,
+  "name": "Trüberbrook",
+  "year": 2019,
+  "developer": "bildundtonfabrik",
+  "publisher": "Headup Games",
+  "locations": [
+    {
+      "placeId": "germany",
+      "aliases": [
+        "Trüberbrook"
+      ],
+      "settingType": "fictionalized",
+      "note": "In 1967 the American physics student Hans Tannhauser wins a holiday in the spa village of Trüberbrook and is drawn into a strange plot around its lake and mountains.",
+      "source": "https://adventuregamers.com/article/florian-kohne-truberbrook"
+    }
+  ],
+  "storyYears": [
+    1967
+  ],
+  "source": "https://btf.de/en/truberbrook/",
+  "genres": [
+    "Adventure"
+  ]
+}

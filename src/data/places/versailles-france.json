@@ -1,0 +1,13 @@
+{
+  "id": "versailles-france",
+  "name": "Versailles, France",
+  "position": {
+    "lat": 48.8048,
+    "lon": 2.1204
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Versailles,_Yvelines",
+  "description": "A town west of Paris."
+}

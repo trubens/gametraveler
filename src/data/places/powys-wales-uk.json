@@ -1,0 +1,13 @@
+{
+  "id": "powys-wales-uk",
+  "name": "Powys, Wales, UK",
+  "position": {
+    "lat": 52.3,
+    "lon": -3.4
+  },
+  "scale": "area",
+  "parentId": "wales-uk",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Powys",
+  "description": "A sprawling county of hills and farmland that covers much of mid Wales."
+}

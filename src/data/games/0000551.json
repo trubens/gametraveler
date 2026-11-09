@@ -1,0 +1,80 @@
+{
+  "id": 551,
+  "name": "Last Train Home",
+  "year": 2023,
+  "publisher": "THQ Nordic",
+  "developer": "Ashborne Games",
+  "locations": [
+    {
+      "placeId": "penza-russia",
+      "note": "The train stops at Penza for a mission, and the Legion recruits more men.",
+      "source": "https://gamefaqs.gamespot.com/pc/410029-last-train-home/faqs/81202/itinerary"
+    },
+    {
+      "placeId": "samara-russia",
+      "note": "Samara is a named stop on the Legion's eastbound route through the Russian Civil War.",
+      "source": "https://gamefaqs.gamespot.com/pc/410029-last-train-home/faqs/81202/itinerary"
+    },
+    {
+      "placeId": "chelyabinsk-russia",
+      "note": "A main mission takes place at Chelyabinsk as the train continues toward Siberia.",
+      "source": "https://gamefaqs.gamespot.com/pc/410029-last-train-home/faqs/81202/itinerary"
+    },
+    {
+      "placeId": "omsk-russia",
+      "note": "The story and rail journey reach Omsk, a main-mission stop in the campaign.",
+      "source": "https://gamefaqs.gamespot.com/pc/410029-last-train-home/faqs/81202/itinerary"
+    },
+    {
+      "placeId": "novosibirsk-russia",
+      "aliases": [
+        "Novo-Nikolaevsk"
+      ],
+      "note": "The 1918–19 campaign calls this stop Novo-Nikolaevsk, the historical name of modern Novosibirsk.",
+      "source": "https://gamefaqs.gamespot.com/pc/410029-last-train-home/faqs/81202/itinerary"
+    },
+    {
+      "placeId": "krasnoyarsk-russia",
+      "note": "The train and its crew reach Krasnoyarsk on the way east across Siberia.",
+      "source": "https://gamefaqs.gamespot.com/pc/410029-last-train-home/faqs/81202/itinerary"
+    },
+    {
+      "placeId": "irkutsk-russia",
+      "note": "Irkutsk is a named main-mission stop on the Siberian journey.",
+      "source": "https://gamefaqs.gamespot.com/pc/410029-last-train-home/faqs/81202/itinerary"
+    },
+    {
+      "placeId": "chita-russia",
+      "note": "The route reaches Chita before continuing through the Russian Far East and Manchuria.",
+      "source": "https://gamefaqs.gamespot.com/pc/410029-last-train-home/faqs/81202/itinerary"
+    },
+    {
+      "placeId": "harbin-china",
+      "note": "The route swings through Harbin on the Chinese Eastern Railway, as the Legion's trains did, before the last stretch to Vladivostok.",
+      "source": "https://gamefaqs.gamespot.com/pc/410029-last-train-home/faqs/81202/itinerary"
+    },
+    {
+      "placeId": "ussuriysk-russia",
+      "aliases": [
+        "Nikolsk-Ussuriysky"
+      ],
+      "note": "The historical station name Nikolsk-Ussuriysky refers to modern Ussuriysk, a stop shortly before Vladivostok.",
+      "source": "https://gamefaqs.gamespot.com/pc/410029-last-train-home/faqs/81202/itinerary"
+    },
+    {
+      "placeId": "vladivostok-russia",
+      "note": "Vladivostok is the destination of the Legion's eastbound journey and the campaign's final major stop.",
+      "source": "https://gamefaqs.gamespot.com/pc/410029-last-train-home/faqs/81202/itinerary"
+    }
+  ],
+  "storyYears": [
+    1918,
+    1919
+  ],
+  "source": "https://en.wikipedia.org/wiki/Last_Train_Home_(video_game)",
+  "route": true,
+  "genres": [
+    "Real-Time Strategy",
+    "Strategy"
+  ]
+}

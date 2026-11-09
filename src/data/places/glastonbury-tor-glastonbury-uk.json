@@ -1,0 +1,14 @@
+{
+  "id": "glastonbury-tor-glastonbury-uk",
+  "name": "Glastonbury Tor, Glastonbury, UK",
+  "position": {
+    "lat": 51.1443,
+    "lon": -2.6986
+  },
+  "scale": "site",
+  "parentId": "glastonbury-uk",
+  "placeType": "natural_feature",
+  "source": "https://en.wikipedia.org/wiki/Glastonbury_Tor",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Glastonbury_Tor",
+  "description": "A hill near Glastonbury in Somerset, crowned by the roofless tower of St Michael's Church."
+}

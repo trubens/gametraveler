@@ -1,0 +1,17 @@
+{
+  "id": "canary-islands-spain",
+  "name": "Canary Islands, Spain",
+  "position": {
+    "lat": 28.1,
+    "lon": -15.4
+  },
+  "scale": "area",
+  "parentId": "spain",
+  "placeType": "island",
+  "aliases": [
+    "Canaries"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Canary_Islands",
+  "description": "Spain's volcanic archipelago in the Atlantic off the coast of Morocco.",
+  "descriptionSource": "wikipedia"
+}

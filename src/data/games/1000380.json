@@ -1,0 +1,57 @@
+{
+  "id": 1000380,
+  "name": "Persona 4",
+  "aliases": [
+    "Persona 4 Golden",
+    "P4G",
+    "Shin Megami Tensei: Persona 4"
+  ],
+  "year": 2008,
+  "series": "Persona",
+  "publisher": "Atlus",
+  "developer": "Atlus",
+  "genres": [
+    "RPG"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Persona_4",
+  "reviewed": "2026-11-06",
+  "locations": [
+    {
+      "placeId": "inaba-fictional-yamanashi-japan",
+      "aliases": [
+        "Inaba"
+      ],
+      "settingType": "fictionalized",
+      "note": "The protagonist spends a year with his uncle, Detective Dojima, in Inaba, where a string of murders tied to the Midnight Channel leads him and his friends into the TV world to rescue each next victim and find the killer. Golden adds outings from Inaba to the nearby Okina City, Shichiri Beach and a winter ski resort."
+    },
+    {
+      "placeId": "tatsumi-port-island-fictional-japan",
+      "aliases": [
+        "Tatsumi Port Island"
+      ],
+      "settingType": "fictionalized",
+      "note": "In September the Yasogami students go on a school trip to Gekkoukan High on Tatsumi Port Island, a lecture-heavy outing to Yosuke's disappointment, and spend the night in a hotel that used to be a love hotel.",
+      "source": "https://megatenwiki.com/wiki/Yasogami_High"
+    }
+  ],
+  "storyYears": [
+    2011,
+    2012
+  ],
+  "routes": [
+    {
+      "id": "investigation-team",
+      "name": "The Investigation Team",
+      "characters": [
+        "Yu Narukami"
+      ],
+      "stops": [
+        "inaba-fictional-yamanashi-japan",
+        "tatsumi-port-island-fictional-japan",
+        "inaba-fictional-yamanashi-japan"
+      ],
+      "note": "A year in Inaba, broken by the September school trip to Tatsumi Port Island.",
+      "source": "https://megatenwiki.com/wiki/Yasogami_High"
+    }
+  ]
+}

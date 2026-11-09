@@ -1,0 +1,16 @@
+{
+  "id": "guanajuato-mexico",
+  "name": "Guanajuato, Mexico",
+  "position": {
+    "lat": 21.019,
+    "lon": -101.2574
+  },
+  "scale": "area",
+  "parentId": "mexico",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Guanajuato",
+  "description": "The capital of the Mexican state that shares its name.",
+  "aliases": [
+    "Mexico (Guanajuato)"
+  ]
+}

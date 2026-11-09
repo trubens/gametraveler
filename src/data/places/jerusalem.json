@@ -1,0 +1,12 @@
+{
+  "id": "jerusalem",
+  "name": "Jerusalem",
+  "position": {
+    "lat": 31.7767,
+    "lon": 35.2345
+  },
+  "scale": "area",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jerusalem",
+  "description": "A city on a plateau in the Judaean Mountains, between the Mediterranean and the Dead Sea."
+}

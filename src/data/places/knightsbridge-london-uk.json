@@ -1,0 +1,14 @@
+{
+  "id": "knightsbridge-london-uk",
+  "name": "Knightsbridge, London, UK",
+  "position": {
+    "lat": 51.5017,
+    "lon": -0.1621
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Knightsbridge",
+  "description": "A wealthy district south of Hyde Park, of embassies, Harrods and tall stucco houses.",
+  "descriptionSource": "wikipedia"
+}

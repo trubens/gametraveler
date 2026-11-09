@@ -1,0 +1,14 @@
+{
+  "id": "soissons-france",
+  "name": "Soissons, France",
+  "position": {
+    "lat": 49.3817,
+    "lon": 3.3236
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Soissons",
+  "description": "A cathedral town on the Aisne north-east of Paris, fought over in 1918 during the Second Battle of the Marne.",
+  "descriptionSource": "wikipedia"
+}

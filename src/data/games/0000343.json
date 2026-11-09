@@ -1,0 +1,23 @@
+{
+  "id": 343,
+  "name": "TOCA Race Driver 2",
+  "year": 2004,
+  "series": "TOCA Race Driver",
+  "developer": "Codemasters / Sumo Digital (PSP)",
+  "publisher": "Codemasters",
+  "locations": [
+    {
+      "placeId": "brands-hatch-uk",
+      "note": "Both the Indy and Grand Prix layouts are in the game."
+    },
+    {
+      "placeId": "circuit-de-barcelona-catalunya-spain",
+      "note": "An extra track found only in the PlayStation 2 version."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/TOCA_Race_Driver_2",
+  "genres": [
+    "Racing"
+  ]
+}

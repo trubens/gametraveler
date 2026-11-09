@@ -1,0 +1,25 @@
+{
+  "id": 1000205,
+  "name": "The Séance of Blake Manor",
+  "year": 2025,
+  "developer": "Spooky Doorway",
+  "publisher": "Raw Fury",
+  "locations": [
+    {
+      "placeId": "connemara-ireland",
+      "aliases": [
+        "Blake Manor"
+      ],
+      "settingType": "fictionalized",
+      "note": "In 1897 detective Declan Ward comes to Blake Manor, a remote hotel, to find a missing woman before the séance held there on Samhain.",
+      "source": "https://en.wikipedia.org/wiki/The_S%C3%A9ance_of_Blake_Manor"
+    }
+  ],
+  "storyYears": [
+    1897
+  ],
+  "source": "https://store.steampowered.com/app/1395520/The_Seance_of_Blake_Manor/",
+  "genres": [
+    "Adventure"
+  ]
+}

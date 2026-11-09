@@ -1,0 +1,13 @@
+{
+  "id": "churston-devon-england-uk",
+  "name": "Churston, Devon, England",
+  "position": {
+    "lat": 50.405,
+    "lon": -3.552
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Churston_Ferrers",
+  "placeType": "city",
+  "description": "An area of Torbay on the south Devon coast, lying between the seaside towns of Paignton and Brixham."
+}

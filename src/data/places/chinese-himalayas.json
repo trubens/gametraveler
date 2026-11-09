@@ -1,0 +1,12 @@
+{
+  "id": "chinese-himalayas",
+  "name": "Chinese Himalayas",
+  "position": {
+    "lat": 29.65,
+    "lon": 91.12
+  },
+  "scale": "area",
+  "placeType": "area",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Himalayas",
+  "description": "The Chinese side of the Himalaya, the great range dividing the Indian plains from the Tibetan Plateau, with the highest peaks on Earth, Everest among them."
+}

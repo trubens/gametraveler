@@ -1,0 +1,12 @@
+{
+  "id": "sequoia-national-park-usa",
+  "name": "Sequoia National Park, USA",
+  "position": {
+    "lat": 36.4864,
+    "lon": -118.5658
+  },
+  "scale": "area",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sequoia_National_Park",
+  "description": "A national park in the southern Sierra Nevada east of Visalia, California, protecting forested mountain country and its giant sequoia trees."
+}

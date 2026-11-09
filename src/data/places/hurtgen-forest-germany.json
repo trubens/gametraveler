@@ -1,0 +1,13 @@
+{
+  "id": "hurtgen-forest-germany",
+  "name": "Hürtgen Forest, Germany",
+  "position": {
+    "lat": 50.7086,
+    "lon": 6.3628
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/H%C3%BCrtgen_Forest",
+  "description": "A forest along the Belgian-German border, in the south-west corner of North Rhine-Westphalia."
+}

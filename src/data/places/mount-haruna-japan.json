@@ -1,0 +1,14 @@
+{
+  "id": "mount-haruna-japan",
+  "name": "Mount Haruna, Japan",
+  "position": {
+    "lat": 36.4769,
+    "lon": 138.8781
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mount_Haruna",
+  "description": "A dormant volcano in Gunma north-west of Tokyo, its hairpin road famous from Initial D as Akina.",
+  "descriptionSource": "wikipedia"
+}

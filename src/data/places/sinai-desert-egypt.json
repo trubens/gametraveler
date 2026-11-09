@@ -1,0 +1,13 @@
+{
+  "id": "sinai-desert-egypt",
+  "name": "Sinai Desert, Egypt",
+  "position": {
+    "lat": 29.5,
+    "lon": 33.8
+  },
+  "scale": "area",
+  "parentId": "egypt",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sinai_Peninsula",
+  "description": "The desert peninsula of Egypt's north-east, the only part of the country lying in Asia, between the Mediterranean and the Red Sea."
+}

@@ -1,0 +1,19 @@
+{
+  "id": 332,
+  "name": "MotoGP: Ultimate Racing Technology",
+  "year": 2002,
+  "series": "MotoGP",
+  "developer": "Visual Impact (GBA) / Climax Brighton (Windows, Xbox) / Cybiko (Mobile) / THQ (N-Gage)",
+  "publisher": "THQ",
+  "locations": [
+    {
+      "placeId": "mugello-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 5 of 16 in the 2001 MotoGP season."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/MotoGP:_Ultimate_Racing_Technology",
+  "genres": [
+    "Racing"
+  ]
+}

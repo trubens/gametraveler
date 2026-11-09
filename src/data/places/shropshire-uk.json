@@ -1,0 +1,12 @@
+{
+  "id": "shropshire-uk",
+  "name": "Shropshire, UK",
+  "position": {
+    "lat": 52.7064,
+    "lon": -2.7418
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shropshire",
+  "description": "A rural English county in the West Midlands on the Welsh border, with hills and the River Severn."
+}

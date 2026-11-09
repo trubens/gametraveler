@@ -1,0 +1,13 @@
+{
+  "id": "pegasus-bridge-benouville-france",
+  "name": "Pegasus Bridge, Bénouville, France",
+  "position": {
+    "lat": 49.242,
+    "lon": -0.2744
+  },
+  "scale": "site",
+  "parentId": "france",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pegasus_Bridge",
+  "description": "A road bridge over the Caen Canal between Caen and Ouistreham in Normandy, originally named after the village of Bénouville."
+}

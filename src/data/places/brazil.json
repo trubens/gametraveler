@@ -1,0 +1,12 @@
+{
+  "id": "brazil",
+  "name": "Brazil",
+  "position": {
+    "lat": -14.2,
+    "lon": -51.9
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brazil",
+  "description": "The largest country in South America and the fifth-largest in the world by area."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dordogne-france",
+  "name": "Dordogne, France",
+  "position": {
+    "lat": 44.8378,
+    "lon": 0.5792
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dordogne",
+  "description": "A large rural department in south-west France, with its capital at Périgueux."
+}

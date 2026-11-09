@@ -1,0 +1,13 @@
+{
+  "id": "wippra-germany",
+  "name": "Wippra, Germany",
+  "scale": "area",
+  "position": {
+    "lat": 51.57,
+    "lon": 11.27
+  },
+  "parentId": "germany",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wippra",
+  "description": "A small village in the southern Harz."
+}

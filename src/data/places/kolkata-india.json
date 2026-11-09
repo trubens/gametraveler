@@ -1,0 +1,13 @@
+{
+  "id": "kolkata-india",
+  "name": "Kolkata, India",
+  "position": {
+    "lat": 22.5726,
+    "lon": 88.3639
+  },
+  "scale": "area",
+  "parentId": "india",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kolkata",
+  "description": "Capital of West Bengal on the east bank of the Hooghly River."
+}

@@ -1,0 +1,33 @@
+{
+  "id": 249,
+  "name": "Grand Theft Auto: Chinatown Wars",
+  "aliases": [
+    "GTA",
+    "GTA Chinatown Wars",
+    "GTA CTW"
+  ],
+  "year": 2009,
+  "publisher": "Rockstar Games",
+  "series": "Grand Theft Auto",
+  "developer": "Rockstar Leeds / Rockstar North",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "aliases": [
+        "Liberty City"
+      ],
+      "settingType": "fictionalized",
+      "note": "Huang Lee arrives in Liberty City, the series' New York, to hand over his murdered father's sword, is robbed and left for dead, and works for three rival Triad heirs to unmask the informant.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Chinatown_Wars"
+    }
+  ],
+  "storyYears": [
+    2009
+  ],
+  "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Chinatown_Wars",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Rockstar_Games",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": 88,
+  "name": "Hitman: Contracts",
+  "year": 2004,
+  "publisher": "Eidos Interactive",
+  "series": "Hitman",
+  "developer": "IO Interactive",
+  "locations": [
+    {
+      "placeId": "paris-france",
+      "note": "A wounded 47 relives past contracts from a Paris hotel room before a final hit on a GIGN officer."
+    },
+    {
+      "placeId": "romania",
+      "note": "Flashbacks to Romania revisit the asylum from Codename 47 and a hit on two predators."
+    },
+    {
+      "placeId": "kamchatka-russia",
+      "note": "A black-market arms dealer supplying terrorists is eliminated in Kamchatka."
+    },
+    {
+      "placeId": "england-uk",
+      "note": "A corrupt nobleman and his son are hunted at Beldingford Manor in the English countryside."
+    },
+    {
+      "placeId": "rotterdam-netherlands",
+      "note": "A biker gang's crime lord is taken out in Rotterdam."
+    },
+    {
+      "placeId": "budapest-hungary",
+      "note": "Remake of the Codename 47 hit on Frantz Fuchs in a Budapest hotel."
+    },
+    {
+      "placeId": "hong-kong-china",
+      "note": "Remake of the Hong Kong missions against Triad boss Lee Hong."
+    }
+  ],
+  "storyYears": [
+    2004
+  ],
+  "source": "https://en.wikipedia.org/wiki/Hitman:_Contracts",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Eidos_Interactive",
+  "genres": [
+    "Stealth"
+  ],
+  "routes": [
+    {
+      "id": "agent-47",
+      "name": "Agent 47",
+      "characters": [
+        "Agent 47",
+        "Diana Burnwood",
+        "Albert Fournier"
+      ],
+      "stops": [
+        "paris-france",
+        "romania",
+        "kamchatka-russia",
+        "england-uk",
+        "rotterdam-netherlands",
+        "budapest-hungary",
+        "hong-kong-china",
+        "paris-france"
+      ],
+      "note": "Bleeding in a Paris hotel room, 47 relives his escape from the Romanian asylum and old contracts in Bucharest, Kamchatka, an English manor, Rotterdam, Budapest and Hong Kong before breaking out to finish the job in Paris.",
+      "source": "https://hitman.neoseeker.com/wiki/List_of_missions_in_Hitman:_Contracts"
+    }
+  ]
+}

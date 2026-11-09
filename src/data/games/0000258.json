@@ -1,0 +1,88 @@
+{
+  "id": 258,
+  "name": "Commandos 2: Men of Courage",
+  "year": 2001,
+  "publisher": "Eidos Interactive",
+  "series": "Commandos",
+  "developer": "Pyro Studios",
+  "locations": [
+    {
+      "placeId": "la-rochelle-france",
+      "note": "The opening operations infiltrate the La Pallice submarine base to steal an Enigma machine and rescue a submarine crew."
+    },
+    {
+      "placeId": "cherbourg-france",
+      "note": "The squad rescues Private Smith and defends the town against a German counterattack."
+    },
+    {
+      "placeId": "colditz-castle-germany",
+      "note": "The commandos free Toledo and other prisoners from the castle's prisoner-of-war camp."
+    },
+    {
+      "placeId": "paris-france",
+      "note": "The final operation prevents the destruction of Paris and ends with an escape from the Eiffel Tower."
+    },
+    {
+      "placeId": "eiffel-tower-paris-france",
+      "note": "The last mission ends with the commandos' escape from the Eiffel Tower."
+    },
+    {
+      "placeId": "myanmar",
+      "note": "A Pacific-theater mission sends the commandos to Burma."
+    },
+    {
+      "placeId": "river-kwai-thailand",
+      "note": "A mission has the commandos destroy the bridge over the River Kwai."
+    },
+    {
+      "placeId": "savo-island-solomon-islands",
+      "note": "A playable island mission targets coastal artillery before Operation Watchtower."
+    },
+    {
+      "placeId": "haiphong-vietnam",
+      "note": "A 1944 mission takes place around Haiphong harbor and the carrier Shinano."
+    },
+    {
+      "placeId": "north-sea",
+      "note": "A playable submarine mission takes place in the North Sea."
+    }
+  ],
+  "storyYears": [
+    1941,
+    1942,
+    1944
+  ],
+  "source": "https://en.wikipedia.org/wiki/Commandos_2:_Men_of_Courage",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Eidos_Interactive",
+  "genres": [
+    "Real-Time Tactics"
+  ],
+  "routes": [
+    {
+      "id": "commandos",
+      "name": "The Commandos",
+      "characters": [
+        "Jack O'Hara",
+        "Paul Toledo",
+        "Natasha Nikochevski",
+        "Thomas Hancock",
+        "James Blackwood",
+        "René Duchamp"
+      ],
+      "stops": [
+        "la-rochelle-france",
+        "north-sea",
+        "myanmar",
+        "river-kwai-thailand",
+        "savo-island-solomon-islands",
+        "haiphong-vietnam",
+        "cherbourg-france",
+        "colditz-castle-germany",
+        "paris-france"
+      ],
+      "note": "From stealing an Enigma machine at La Pallice and the North Sea the commandos ship out to Burma, the River Kwai, Savo Island and Haiphong, then return to Europe for Cherbourg, a breakout from Colditz and the rescue of Paris, escaping from the Eiffel Tower.",
+      "source": "https://en.wikipedia.org/wiki/Commandos_2:_Men_of_Courage"
+    }
+  ]
+}

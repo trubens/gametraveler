@@ -1,0 +1,13 @@
+{
+  "id": "metro-manila-philippines",
+  "name": "Metro Manila, Philippines",
+  "position": {
+    "lat": 14.5995,
+    "lon": 120.9842
+  },
+  "scale": "area",
+  "parentId": "philippines",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Metro_Manila",
+  "description": "The capital region of the Philippines and its largest metropolitan area."
+}

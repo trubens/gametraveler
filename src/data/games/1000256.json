@@ -1,0 +1,64 @@
+{
+  "id": 1000256,
+  "name": "Wolfenstein II: The New Colossus",
+  "year": 2017,
+  "series": "Wolfenstein",
+  "developer": "MachineGames",
+  "publisher": "Bethesda Softworks",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    1961
+  ],
+  "source": "https://en.wikipedia.org/wiki/Wolfenstein_II:_The_New_Colossus",
+  "locations": [
+    {
+      "placeId": "roswell-new-mexico-usa",
+      "note": "B.J. walks through occupied Roswell to plant a bomb in the Oberkommando base beneath the town."
+    },
+    {
+      "placeId": "mesquite-texas-usa",
+      "note": "B.J. returns to the family farm outside Mesquite to confront his father."
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Manhattan lies in ruins after the atomic bomb; the resistance hides in the Empire State Building."
+    },
+    {
+      "placeId": "new-orleans-usa",
+      "note": "New Orleans has been walled off as a ghetto; B.J. breaks in to recruit Horton Boone."
+    },
+    {
+      "placeId": "hollywood-california-usa",
+      "note": "The final fight takes place on a propaganda film set in occupied Hollywood."
+    },
+    {
+      "placeId": "washington-d-c-usa",
+      "note": "B.J. is put on trial and taken to the Lincoln Memorial for a televised execution."
+    },
+    {
+      "placeId": "empire-state-building-new-york-city-usa",
+      "note": "A resistance cell hides in the Empire State Building amid the atomic ruins of Manhattan."
+    }
+  ],
+  "routes": [
+    {
+      "id": "bj",
+      "name": "B.J.'s liberation tour",
+      "characters": [
+        "B.J. Blazkowicz"
+      ],
+      "stops": [
+        "roswell-new-mexico-usa",
+        "mesquite-texas-usa",
+        "new-york-city-usa",
+        "new-orleans-usa",
+        "washington-d-c-usa",
+        "hollywood-california-usa"
+      ],
+      "note": "B.J. goes from Roswell to his family farm in Mesquite, the ruins of Manhattan and walled-off New Orleans, is put on trial in Washington and fights the last battle in Hollywood.",
+      "source": "https://en.wikipedia.org/wiki/Wolfenstein_II:_The_New_Colossus"
+    }
+  ]
+}

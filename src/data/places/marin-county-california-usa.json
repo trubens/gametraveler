@@ -1,0 +1,13 @@
+{
+  "id": "marin-county-california-usa",
+  "name": "Marin County, California, USA",
+  "position": {
+    "lat": 38.0834,
+    "lon": -122.7633
+  },
+  "scale": "area",
+  "parentId": "california-usa",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marin_County,_California",
+  "description": "A county in the North Bay of the San Francisco Bay Area, much of it open, unincorporated land."
+}

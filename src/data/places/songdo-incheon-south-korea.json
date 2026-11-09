@@ -1,0 +1,14 @@
+{
+  "id": "songdo-incheon-south-korea",
+  "name": "Songdo, Incheon, South Korea",
+  "position": {
+    "lat": 37.385,
+    "lon": 126.645
+  },
+  "scale": "site",
+  "parentId": "incheon-south-korea",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Songdo_International_Business_District",
+  "description": "A planned city of glass towers and canals built on reclaimed land off Incheon, west of Seoul.",
+  "descriptionSource": "wikipedia"
+}

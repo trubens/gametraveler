@@ -1,0 +1,13 @@
+{
+  "id": "copenhagen-denmark",
+  "name": "Copenhagen, Denmark",
+  "position": {
+    "lat": 55.6761,
+    "lon": 12.5683
+  },
+  "scale": "area",
+  "parentId": "denmark",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Copenhagen",
+  "description": "Denmark's capital."
+}

@@ -1,0 +1,125 @@
+{
+  "id": 194,
+  "name": "Battlefield 1",
+  "year": 2016,
+  "publisher": "Electronic Arts",
+  "series": "Battlefield",
+  "developer": "DICE",
+  "locations": [
+    {
+      "placeId": "cape-helles-gallipoli-turkey",
+      "note": "The Runner: an ANZAC messenger in the Gallipoli landings. The Turning Tides maps Cape Helles and Achi Baba cover the same peninsula."
+    },
+    {
+      "placeId": "monte-grappa-italy",
+      "note": "Avanti Savoia: Italian Arditi storm the Austro-Hungarian forts on the cliffs of Monte Grappa. Also a multiplayer map."
+    },
+    {
+      "placeId": "cambrai-france",
+      "note": "Through Mud and Blood: the Mark V tank Black Bess fights up the road to Cambrai in the autumn of 1918. The Giant's Shadow multiplayer map lies on the same ground."
+    },
+    {
+      "placeId": "amiens-france",
+      "note": "Amiens: street fighting through the city in 1918, a multiplayer map."
+    },
+    {
+      "placeId": "marne-valley-france",
+      "note": "Storm of Steel: the prologue, the Harlem Hellfighters holding a shattered village against the German offensive of the Second Battle of the Marne in 1918."
+    },
+    {
+      "placeId": "sinai-desert-egypt",
+      "note": "Sinai Desert: the dunes and railway of the Sinai campaign, a multiplayer map."
+    },
+    {
+      "placeId": "fao-fortress-iraq",
+      "note": "Fao Fortress: the British landing at the Ottoman fort at the mouth of the Shatt al-Arab, a multiplayer map."
+    },
+    {
+      "placeId": "saint-quentin-scar-france",
+      "note": "St Quentin Scar: a shell-torn village near Saint-Quentin, a multiplayer map."
+    },
+    {
+      "placeId": "london-uk",
+      "note": "Friends in High Places ends with Blackburn over London, fighting a zeppelin raid on the city."
+    },
+    {
+      "placeId": "hejaz-saudi-arabia",
+      "note": "Nothing Is Written: Bedouin rebel Zara Ghufran hunts the Ottoman armoured train across the Arabian desert with Lawrence of Arabia, raiding the Hejaz railway."
+    },
+    {
+      "placeId": "suez-canal-egypt",
+      "note": "Suez: a multiplayer map on the banks of the canal, the Ottoman attack of 1915."
+    },
+    {
+      "placeId": "argonne-forest-france",
+      "note": "Argonne Forest: trench lines through the shattered woods, a multiplayer map."
+    },
+    {
+      "placeId": "verdun-france",
+      "note": "They Shall Not Pass: the Verdun Heights map, the burning hillsides of the 1916 battle."
+    },
+    {
+      "placeId": "fort-vaux-verdun-france",
+      "note": "Fort de Vaux: fighting through the tunnels of the fort, a They Shall Not Pass map."
+    },
+    {
+      "placeId": "soissons-france",
+      "note": "Soissons and Rupture: the French counter-attack of 1918 across the Aisne country, two They Shall Not Pass maps."
+    },
+    {
+      "placeId": "chemin-des-dames-france",
+      "note": "Nivelle Nights: a night battle at the fort of La Malmaison on the Chemin des Dames."
+    },
+    {
+      "placeId": "tahure-france",
+      "note": "Prise de Tahure: night fighting in the ruined village after the Nivelle Offensive."
+    },
+    {
+      "placeId": "lupkow-pass-poland",
+      "note": "Łupków Pass: a winter battle in the Carpathians, an In the Name of the Tsar map."
+    },
+    {
+      "placeId": "galicia-ukraine",
+      "note": "Galicia and Brusilov Keep: the Russian Brusilov offensive of 1916 across the Galician plain and a Carpathian fortress, two In the Name of the Tsar maps."
+    },
+    {
+      "placeId": "saaremaa-estonia",
+      "note": "Albion: the German landing on the island in October 1917, an In the Name of the Tsar map."
+    },
+    {
+      "placeId": "stalingrad-volgograd-russia",
+      "note": "Tsaritsyn and Volga River: the Russian Civil War maps, Red Army against White Guard in the city and on the frozen river."
+    },
+    {
+      "placeId": "zeebrugge-belgium",
+      "note": "Zeebrugge: the British raid on the mole and the canal, a Turning Tides map."
+    },
+    {
+      "placeId": "heligoland-germany",
+      "note": "Heligoland Bight: a naval battle around the red cliffs, a Turning Tides map."
+    },
+    {
+      "placeId": "kobarid-slovenia",
+      "note": "Caporetto: the Austro-German breakthrough in the Soča valley, an Apocalypse map."
+    },
+    {
+      "placeId": "passchendaele-belgium",
+      "note": "Passchendaele: the mud of the Third Battle of Ypres, an Apocalypse map."
+    },
+    {
+      "placeId": "somme-valley-france",
+      "note": "River Somme: the 1916 battlefield, an Apocalypse map."
+    }
+  ],
+  "storyYears": [
+    1915,
+    1917,
+    1918
+  ],
+  "source": "https://en.wikipedia.org/wiki/Battlefield_1",
+  "reviewed": "2026-11-01",
+  "route": false,
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "vandenberg-base-california-usa",
+  "name": "Vandenberg Base, California, USA",
+  "position": {
+    "lat": 34.7513,
+    "lon": -120.5202
+  },
+  "scale": "area",
+  "parentId": "california-usa",
+  "placeType": "venue",
+  "aliases": [
+    "Vandenberg Air Force Base",
+    "Vandenberg Space Force Base"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vandenberg_Space_Force_Base",
+  "description": "The missile and rocket base on the California coast north of Santa Barbara, an air force base until 2021.",
+  "descriptionSource": "wikipedia"
+}

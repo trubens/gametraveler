@@ -1,0 +1,13 @@
+{
+  "id": "halebidu-india",
+  "name": "Halebidu, India",
+  "position": {
+    "lat": 13.2239,
+    "lon": 75.994
+  },
+  "scale": "area",
+  "parentId": "india",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Halebidu",
+  "description": "A town in Karnataka, once the Hoysala capital Dwarasamudra."
+}

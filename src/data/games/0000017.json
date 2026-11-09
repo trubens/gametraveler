@@ -1,0 +1,52 @@
+{
+  "id": 17,
+  "name": "Uncharted: Drake's Fortune",
+  "year": 2007,
+  "publisher": "Sony Computer Entertainment",
+  "series": "Uncharted",
+  "developer": "Naughty Dog",
+  "locations": [
+    {
+      "placeId": "panama",
+      "note": "Drake raises Sir Francis Drake's coffin off the coast of Panama and finds his diary inside."
+    },
+    {
+      "placeId": "amazon-rainforest-brazil",
+      "note": "A jungle river expedition uncovers a Nazi U-boat holding a clue to El Dorado."
+    },
+    {
+      "placeId": "el-dorado-island-fictional-south-pacific",
+      "settingType": "imaginary",
+      "note": "Nate and Elena bail out over the island where Sir Francis hid El Dorado, fight Roman's mercenaries and Eddy Raja's pirates through its fort, customs house, monastery and Nazi bunker, and sink the cursed idol in the bay.",
+      "source": "https://en.wikipedia.org/wiki/Uncharted:_Drake%27s_Fortune"
+    }
+  ],
+  "storyYears": [
+    2007
+  ],
+  "source": "https://en.wikipedia.org/wiki/Uncharted:_Drake%27s_Fortune",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Naughty_Dog",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "nathan-drake",
+      "name": "Nathan Drake",
+      "characters": [
+        "Nathan Drake",
+        "Elena Fisher",
+        "Victor Sullivan"
+      ],
+      "stops": [
+        "panama",
+        "amazon-rainforest-brazil",
+        "el-dorado-island-fictional-south-pacific"
+      ],
+      "note": "Sir Francis Drake's coffin off Panama sends Nate up a jungle river to a stranded U-boat and on to the island in the South Pacific where El Dorado lies hidden.",
+      "source": "https://en.wikipedia.org/wiki/Uncharted:_Drake%27s_Fortune"
+    }
+  ]
+}

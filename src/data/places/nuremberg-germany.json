@@ -1,0 +1,13 @@
+{
+  "id": "nuremberg-germany",
+  "name": "Nuremberg, Germany",
+  "position": {
+    "lat": 49.4521,
+    "lon": 11.0767
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nuremberg",
+  "description": "The second city of Bavaria."
+}

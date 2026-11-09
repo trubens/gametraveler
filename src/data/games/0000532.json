@@ -1,0 +1,22 @@
+{
+  "id": 532,
+  "name": "Vampire: The Masquerade – Coteries of New York",
+  "year": 2019,
+  "publisher": "Draw Distance",
+  "series": "Vampire: The Masquerade",
+  "developer": "Draw Distance",
+  "storyYears": [
+    2019
+  ],
+  "source": "https://en.wikipedia.org/wiki/Vampire:_The_Masquerade_–_Coteries_of_New_York",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "A newly Embraced vampire gathers a coterie in a branching story set across New York's neighbourhoods."
+    }
+  ],
+  "genres": [
+    "Visual Novel"
+  ]
+}

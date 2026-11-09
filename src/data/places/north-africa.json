@@ -1,0 +1,12 @@
+{
+  "id": "north-africa",
+  "name": "North Africa",
+  "position": {
+    "lat": 26,
+    "lon": 15
+  },
+  "scale": "area",
+  "placeType": "area",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/North_Africa",
+  "description": "The northern portion of the African continent, a region whose exact edges no one quite agrees on."
+}

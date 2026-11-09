@@ -1,0 +1,23 @@
+{
+  "id": 1000264,
+  "name": "Alone in the Dark 3",
+  "year": 1994,
+  "series": "Alone in the Dark",
+  "developer": "Infogrames",
+  "publisher": "Infogrames",
+  "genres": [
+    "Survival Horror"
+  ],
+  "storyYears": [
+    1925
+  ],
+  "source": "https://en.wikipedia.org/wiki/Alone_in_the_Dark_3",
+  "reviewed": "2026-11-02",
+  "locations": [
+    {
+      "placeId": "slaughter-gulch-fictional-mojave-desert-california-usa",
+      "settingType": "fictionalized",
+      "note": "In July 1925 Carnby goes to the cursed ghost town of Slaughter Gulch, where Emily Hartwood's film crew has vanished, and fights the undead outlaw Jed Stone and his gang."
+    }
+  ]
+}

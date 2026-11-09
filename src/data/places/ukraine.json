@@ -1,0 +1,13 @@
+{
+  "id": "ukraine",
+  "name": "Ukraine",
+  "position": {
+    "lat": 49.72,
+    "lon": 32.14
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ukraine",
+  "description": "The second-largest country in Europe, lying in the east of the continent with Russia along its eastern and north-eastern borders."
+}

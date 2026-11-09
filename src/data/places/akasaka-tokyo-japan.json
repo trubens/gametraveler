@@ -1,0 +1,18 @@
+{
+  "id": "akasaka-tokyo-japan",
+  "name": "Akasaka, Tokyo, Japan",
+  "position": {
+    "lat": 35.6747,
+    "lon": 139.7317
+  },
+  "scale": "site",
+  "parentId": "tokyo-japan",
+  "placeType": "neighborhood",
+  "aliases": [
+    "Akasaka-mitsuke"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Akasaka,_Tokyo",
+  "description": "A residential and commercial district of Minato, west of the government centre in Nagatachō and north of Roppongi.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Akasaka,_Tokyo"
+}

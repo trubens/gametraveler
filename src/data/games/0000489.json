@@ -1,0 +1,86 @@
+{
+  "id": 489,
+  "name": "Persona 5 Strikers",
+  "year": 2020,
+  "series": "Persona",
+  "developer": "Omega Force / P-Studio",
+  "publisher": "Atlus / Sega",
+  "locations": [
+    {
+      "placeId": "shibuya-tokyo-japan",
+      "settingType": "fictionalized",
+      "note": "The idol Alice Hiiragi's Jail turns Shibuya into a Wonderland; thrown into a dumpster beneath it, Joker, Ryuji and Morgana meet the AI Sophia.",
+      "source": "https://en.wikipedia.org/wiki/Persona_5_Strikers"
+    },
+    {
+      "placeId": "sendai-japan",
+      "settingType": "fictionalized",
+      "note": "On the road with Inspector Zenkichi Hasegawa, the Thieves meet the AI expert Kuon Ichinose over beef tongue and change the heart of Ango Natsume, Monarch of the Sendai Jail.",
+      "source": "https://www.gfinityesports.com/article/persona-5-strikers-how-many-jails-monarchs-levels-boss"
+    },
+    {
+      "placeId": "sapporo-japan",
+      "settingType": "fictionalized",
+      "note": "In Sapporo the Thieves enter the Jail of Mariko Hyodo and change her heart.",
+      "source": "https://en.wikipedia.org/wiki/Persona_5_Strikers"
+    },
+    {
+      "placeId": "okinawa-japan",
+      "settingType": "fictionalized",
+      "note": "An abandoned Jail in Okinawa shows the Thieves where EMMA's power to make Jails came from, and they come home branded as terrorists.",
+      "source": "https://en.wikipedia.org/wiki/Persona_5_Strikers"
+    },
+    {
+      "placeId": "kyoto-japan",
+      "settingType": "fictionalized",
+      "note": "Zenkichi's estranged daughter Akane rules the Kyoto Jail; the Thieves are caught inside until Futaba brings Zenkichi in to reach her.",
+      "source": "https://en.wikipedia.org/wiki/Persona_5_Strikers"
+    },
+    {
+      "placeId": "osaka-japan",
+      "settingType": "fictionalized",
+      "note": "In Osaka the Thieves change the heart of Akira Konoe, the head of Madicce, and shut the EMMA app down.",
+      "source": "https://en.wikipedia.org/wiki/Persona_5_Strikers"
+    },
+    {
+      "placeId": "yokohama-japan",
+      "note": "When EMMA restarts and blacks out Tokyo, a giant Jail rises in Yokohama, where the Thieves find Ichinose waiting and learn how people's dependence on EMMA made the AI self-aware.",
+      "source": "https://en.wikipedia.org/wiki/Persona_5_Strikers"
+    },
+    {
+      "placeId": "tokyo-tower-tokyo-japan",
+      "settingType": "fictionalized",
+      "note": "EMMA grows a last Jail, the Tree of Knowledge, at Tokyo Tower, where the Thieves fight the AI that calls itself the Demiurge.",
+      "source": "https://en.wikipedia.org/wiki/Persona_5_Strikers"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Persona_5_Strikers",
+  "reviewed": "2026-11-06",
+  "genres": [
+    "Action RPG"
+  ],
+  "routes": [
+    {
+      "id": "road-trip",
+      "name": "The Phantom Thieves' summer road trip",
+      "characters": [
+        "Joker",
+        "Sophia",
+        "Zenkichi Hasegawa"
+      ],
+      "stops": [
+        "shibuya-tokyo-japan",
+        "sendai-japan",
+        "sapporo-japan",
+        "okinawa-japan",
+        "kyoto-japan",
+        "osaka-japan",
+        "yokohama-japan",
+        "tokyo-tower-tokyo-japan"
+      ],
+      "note": "A summer camping trip that turns into a Jail hunt from Shibuya to Sendai, Sapporo, Okinawa, Kyoto and Osaka, then Yokohama and back to Tokyo Tower.",
+      "source": "https://game8.co/games/persona-5-strikers"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mexico",
+  "name": "Mexico",
+  "position": {
+    "lat": 23.6345,
+    "lon": -102.5528
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mexico",
+  "description": "The southern neighbour of the United States, a country in North America."
+}

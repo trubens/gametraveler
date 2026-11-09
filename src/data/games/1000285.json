@@ -1,0 +1,68 @@
+{
+  "id": 1000285,
+  "name": "Indiana Jones and the Emperor's Tomb",
+  "year": 2003,
+  "series": "Indiana Jones",
+  "developer": "The Collective",
+  "publisher": "LucasArts",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "storyYears": [
+    1935
+  ],
+  "source": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Emperor%27s_Tomb",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "sri-lanka",
+      "note": "1935: in the jungles of British Ceylon Indy takes the idol of Kouru Watu from under the nose of the Nazi agent Von Beck."
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Back at school in New York, Marshall Kai and Mei-Ying tell Indy of the Heart of the Dragon, the black pearl buried with China's first emperor."
+    },
+    {
+      "placeId": "prague-castle-prague-czech-republic",
+      "note": "Indy breaks into Prague Castle for the second piece of the Mirror of Dreams, past Gestapo agents and a superhuman test subject."
+    },
+    {
+      "placeId": "istanbul-turkey",
+      "note": "Captured and shipped to Istanbul, Indy escapes his cell and finds the Nazis digging into Belisarius's sunken city beneath it."
+    },
+    {
+      "placeId": "hong-kong-china",
+      "note": "In British Hong Kong Indy and Mei-Ying start at the Golden Lotus Opera House and fight their way into Kai's fortress."
+    },
+    {
+      "placeId": "penglai-fictional-shandong-china",
+      "settingType": "imaginary",
+      "note": "Disguised as a Nazi, Indy climbs Penglai Mountain to Kai's Black Dragon Fortress, where Mei-Ying is held."
+    },
+    {
+      "placeId": "mausoleum-of-qin-shi-huang-xian-china",
+      "note": "The finale descends into the tomb of Qin Shi Huang, China's first emperor, for the Heart of the Dragon."
+    }
+  ],
+  "routes": [
+    {
+      "id": "heart-of-the-dragon",
+      "name": "The hunt for the Heart of the Dragon",
+      "characters": [
+        "Indiana Jones",
+        "Mei-Ying"
+      ],
+      "stops": [
+        "sri-lanka",
+        "new-york-city-usa",
+        "prague-castle-prague-czech-republic",
+        "istanbul-turkey",
+        "hong-kong-china",
+        "penglai-fictional-shandong-china",
+        "mausoleum-of-qin-shi-huang-xian-china"
+      ],
+      "note": "From the jungles of Ceylon and New York to Prague Castle, Istanbul and Hong Kong, then up Penglai Mountain and down into the first emperor's tomb.",
+      "source": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Emperor%27s_Tomb"
+    }
+  ]
+}

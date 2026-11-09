@@ -1,0 +1,19 @@
+{
+  "id": 346,
+  "name": "Grid 2",
+  "year": 2013,
+  "series": "Grid",
+  "developer": "Codemasters Southam",
+  "publisher": "Codemasters / Feral Interactive (OS X)",
+  "locations": [
+    {
+      "placeId": "paris-france",
+      "note": "Street races pass recognizable Paris landmarks."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Grid_2",
+  "genres": [
+    "Racing"
+  ]
+}

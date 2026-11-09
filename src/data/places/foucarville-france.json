@@ -1,0 +1,15 @@
+{
+  "id": "foucarville-france",
+  "name": "Foucarville, France",
+  "position": {
+    "lat": 49.4425,
+    "lon": -1.2556
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Foucarville",
+  "description": "A former commune in the Manche department of Normandy, merged into Sainte-Mère-Église in 2016.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Foucarville"
+}

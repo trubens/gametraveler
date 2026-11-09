@@ -1,0 +1,14 @@
+{
+  "id": "ambleside-england-uk",
+  "name": "Ambleside, England, UK",
+  "position": {
+    "lat": 54.43,
+    "lon": -2.963
+  },
+  "scale": "area",
+  "parentId": "lake-district-uk",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ambleside",
+  "description": "A slate-built town at the head of Windermere in the Lake District.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "micronesia",
+  "name": "Micronesia",
+  "position": {
+    "lat": 12.0,
+    "lon": 152.0
+  },
+  "scale": "area",
+  "placeType": "area",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Micronesia",
+  "description": "A subregion of Oceania of about 2,000 small islands in the northwestern Pacific, including the Caroline, Marshall and Mariana Islands.",
+  "descriptionSource": "wikipedia"
+}

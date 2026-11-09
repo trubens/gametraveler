@@ -1,0 +1,47 @@
+{
+  "id": 1000214,
+  "name": "Art of Murder: Hunt for the Puppeteer",
+  "year": 2008,
+  "series": "Art of Murder",
+  "developer": "City Interactive",
+  "publisher": "City Interactive",
+  "locations": [
+    {
+      "placeId": "new-orleans-usa",
+      "note": "The investigation opens with a crime scene in New Orleans.",
+      "source": "https://en.wikipedia.org/wiki/Art_of_Murder:_Hunt_for_the_Puppeteer"
+    },
+    {
+      "placeId": "paris-france",
+      "note": "Nicole Bonnet travels to Paris as the investigation continues.",
+      "source": "https://en.wikipedia.org/wiki/Art_of_Murder:_Hunt_for_the_Puppeteer"
+    },
+    {
+      "placeId": "havana-cuba",
+      "note": "Nick sends Bonnet to Havana, where Marc Taine's family came from, to meet an archivist.",
+      "source": "https://en.wikipedia.org/wiki/Art_of_Murder:_Hunt_for_the_Puppeteer"
+    }
+  ],
+  "routes": [
+    {
+      "id": "bonnet-pursuit",
+      "name": "Bonnet's pursuit",
+      "characters": [
+        "Nicole Bonnet"
+      ],
+      "stops": [
+        "new-orleans-usa",
+        "paris-france",
+        "havana-cuba"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Art_of_Murder:_Hunt_for_the_Puppeteer"
+    }
+  ],
+  "storyYears": [
+    2007
+  ],
+  "source": "https://en.wikipedia.org/wiki/Art_of_Murder:_Hunt_for_the_Puppeteer",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "monteriggioni-italy",
+  "name": "Monteriggioni, Italy",
+  "position": {
+    "lat": 43.3906,
+    "lon": 11.2236
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Monteriggioni",
+  "description": "A Tuscan town in the province of Siena."
+}

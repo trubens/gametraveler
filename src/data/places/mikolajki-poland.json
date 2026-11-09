@@ -1,0 +1,17 @@
+{
+  "id": "mikolajki-poland",
+  "name": "Mikołajki, Poland",
+  "position": {
+    "lat": 53.8,
+    "lon": 21.5833
+  },
+  "scale": "area",
+  "parentId": "poland",
+  "placeType": "city",
+  "aliases": [
+    "Mikolajki"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikołajki",
+  "description": "A lakeside resort in Masuria, the home of Rally Poland.",
+  "descriptionSource": "wikipedia"
+}

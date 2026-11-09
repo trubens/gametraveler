@@ -1,0 +1,22 @@
+{
+  "id": 185,
+  "name": "Everybody's Gone to the Rapture",
+  "year": 2015,
+  "publisher": "Sony Computer Entertainment",
+  "developer": "The Chinese Room",
+  "locations": [
+    {
+      "placeId": "shropshire-uk",
+      "settingType": "fictionalized",
+      "note": "In 1984 the player wanders Yaughton, an invented Shropshire village, after every resident has vanished."
+    }
+  ],
+  "storyYears": [
+    1984
+  ],
+  "source": "https://en.wikipedia.org/wiki/Everybody%27s_Gone_to_the_Rapture",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+  "genres": [
+    "Adventure"
+  ]
+}

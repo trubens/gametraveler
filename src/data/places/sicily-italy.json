@@ -1,0 +1,13 @@
+{
+  "id": "sicily-italy",
+  "name": "Sicily, Italy",
+  "position": {
+    "lat": 37.6,
+    "lon": 14.0154
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sicily",
+  "description": "The largest island in the Mediterranean, just off the toe of the Italian peninsula, one of Italy's twenty regions and home to Mount Etna."
+}

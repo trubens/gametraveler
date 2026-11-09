@@ -1,0 +1,17 @@
+{
+  "id": "ginkgo-avenue-meiji-jingu-gaien-tokyo-japan",
+  "name": "Ginkgo Avenue, Meiji Jingu Gaien, Tokyo, Japan",
+  "position": {
+    "lat": 35.6745,
+    "lon": 139.7175
+  },
+  "scale": "site",
+  "parentId": "tokyo-japan",
+  "placeType": "landmark",
+  "aliases": [
+    "Icho Namiki"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Meiji_Jingu_Gaien",
+  "description": "The 300-metre avenue of ginkgo trees in the Meiji Shrine Outer Garden, golden every November.",
+  "descriptionSource": "wikipedia"
+}

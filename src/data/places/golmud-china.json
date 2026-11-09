@@ -1,0 +1,14 @@
+{
+  "id": "golmud-china",
+  "name": "Golmud, China",
+  "position": {
+    "lat": 36.4072,
+    "lon": 94.9283
+  },
+  "scale": "area",
+  "parentId": "china",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Golmud",
+  "description": "A railway town on the Qinghai plateau, where the line to Tibet climbs out of the salt flats.",
+  "descriptionSource": "wikipedia"
+}

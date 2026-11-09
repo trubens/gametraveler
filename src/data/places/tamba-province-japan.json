@@ -1,0 +1,13 @@
+{
+  "id": "tamba-province-japan",
+  "name": "Tamba Province, Japan",
+  "position": {
+    "lat": 35.2,
+    "lon": 135.2
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tanba_Province",
+  "description": "A former province of Japan covering what is now central Kyoto and east-central Hyōgo, with Harima, Ōmi, Settsu and Tajima as its neighbours."
+}

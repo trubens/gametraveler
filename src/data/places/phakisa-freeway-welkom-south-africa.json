@@ -1,0 +1,13 @@
+{
+  "id": "phakisa-freeway-welkom-south-africa",
+  "name": "Phakisa Freeway, Welkom, South Africa",
+  "position": {
+    "lat": -27.905,
+    "lon": 26.712
+  },
+  "scale": "area",
+  "parentId": "south-africa",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Phakisa_Freeway",
+  "description": "A motor racing circuit between Welkom and Odendaalsrus in South Africa, the only oval speedway in Africa."
+}

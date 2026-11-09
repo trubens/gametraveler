@@ -1,0 +1,21 @@
+{
+  "id": 256,
+  "name": "Crysis 3",
+  "year": 2013,
+  "publisher": "Electronic Arts",
+  "series": "Crysis",
+  "developer": "Crytek",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Prophet fights through an overgrown New York enclosed by CELL's Liberty Dome, including the ruined city streets and landmarks."
+    }
+  ],
+  "storyYears": [
+    2047
+  ],
+  "source": "https://en.wikipedia.org/wiki/Crysis_3",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

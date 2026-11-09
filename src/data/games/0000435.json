@@ -1,0 +1,24 @@
+{
+  "id": 435,
+  "name": "Call of Duty 4: Modern Warfare",
+  "year": 2007,
+  "series": "Call of Duty",
+  "developer": "Infinity Ward",
+  "publisher": "Activision",
+  "locations": [
+    {
+      "placeId": "pripyat-ukraine",
+      "note": "A flashback mission takes the player through abandoned Pripyat and the Chernobyl exclusion zone."
+    }
+  ],
+  "storyYears": [
+    1996,
+    2011
+  ],
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty_4:_Modern_Warfare",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Activision",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

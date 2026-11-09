@@ -1,0 +1,16 @@
+{
+  "id": "south-pacific-fictionalized-islands",
+  "name": "South Pacific Islands",
+  "position": {
+    "lat": -15,
+    "lon": -150
+  },
+  "scale": "area",
+  "placeType": "island",
+  "fictional": true,
+  "aliases": [
+    "South Pacific (fictionalized islands)"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pacific_Islands",
+  "description": "Invented island villages and a crash site that stand for the South Pacific. Pinned in Polynesia."
+}

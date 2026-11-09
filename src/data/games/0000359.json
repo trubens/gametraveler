@@ -1,0 +1,19 @@
+{
+  "id": 359,
+  "name": "Race 07",
+  "year": 2007,
+  "series": "Race",
+  "developer": "SimBin Studios",
+  "publisher": "SimBin Studios",
+  "locations": [
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "The touring-car championship includes racing on the real Monza circuit."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Race_07",
+  "genres": [
+    "Racing"
+  ]
+}

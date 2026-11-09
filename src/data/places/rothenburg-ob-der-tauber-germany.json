@@ -1,0 +1,14 @@
+{
+  "id": "rothenburg-ob-der-tauber-germany",
+  "name": "Rothenburg ob der Tauber, Germany",
+  "position": {
+    "lat": 49.3779,
+    "lon": 10.1795
+  },
+  "scale": "area",
+  "parentId": "bavaria-germany",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Rothenburg_ob_der_Tauber",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rothenburg_ob_der_Tauber",
+  "description": "A Franconian town in Bavaria."
+}

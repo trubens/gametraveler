@@ -1,0 +1,17 @@
+{
+  "id": "western-bohemia-czech-republic",
+  "name": "Western Bohemia, Czech Republic",
+  "aliases": [
+    "West Bohemia",
+    "Západní Čechy"
+  ],
+  "position": {
+    "lat": 49.9,
+    "lon": 13
+  },
+  "scale": "area",
+  "placeType": "region",
+  "source": "https://www.muzeuminternetu.cz/offwebs/czech/51.htm",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bohemia",
+  "description": "The western reaches of Bohemia, the Czech Republic's largest historical region, a country of spa towns and forested borderlands."
+}

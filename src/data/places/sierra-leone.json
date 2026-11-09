@@ -1,0 +1,14 @@
+{
+  "id": "sierra-leone",
+  "name": "Sierra Leone",
+  "position": {
+    "lat": 8.46,
+    "lon": -11.78
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sierra_Leone",
+  "description": "A country on the Atlantic coast of West Africa, with Freetown as its capital and a long history of diamond mining.",
+  "descriptionSource": "wikipedia"
+}

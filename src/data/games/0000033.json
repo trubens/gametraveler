@@ -1,0 +1,22 @@
+{
+  "id": 33,
+  "name": "Gray Matter",
+  "year": 2010,
+  "publisher": "dtp entertainment",
+  "developer": "Wizarbox",
+  "locations": [
+    {
+      "placeId": "oxford-uk",
+      "note": "Street magician Sam Everett becomes assistant to a reclusive Oxford neurobiologist probing the paranormal."
+    }
+  ],
+  "storyYears": [
+    2005
+  ],
+  "source": "https://en.wikipedia.org/wiki/Gray_Matter_(video_game)",
+  "developerUrl": "https://en.wikipedia.org/wiki/Wizarbox",
+  "publisherUrl": "https://en.wikipedia.org/wiki/DTP_Entertainment",
+  "genres": [
+    "Adventure"
+  ]
+}

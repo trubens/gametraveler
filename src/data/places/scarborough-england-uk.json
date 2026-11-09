@@ -1,0 +1,15 @@
+{
+  "id": "scarborough-england-uk",
+  "name": "Scarborough, England, UK",
+  "position": {
+    "lat": 54.2825,
+    "lon": -0.4
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Scarborough,_North_Yorkshire",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Scarborough,_North_Yorkshire",
+  "description": "A seaside town on the North Sea coast of North Yorkshire, England, below a headland crowned by a ruined castle.",
+  "descriptionSource": "wikipedia"
+}

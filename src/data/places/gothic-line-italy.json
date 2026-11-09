@@ -1,0 +1,14 @@
+{
+  "id": "gothic-line-italy",
+  "name": "Gothic Line, Italy",
+  "position": {
+    "lat": 44.0,
+    "lon": 11.3
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gothic_Line",
+  "description": "The German defensive line across the northern Apennines from the Ligurian coast to the Adriatic, assaulted by the Allies in the autumn of 1944.",
+  "descriptionSource": "wikipedia"
+}

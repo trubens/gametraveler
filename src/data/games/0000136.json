@@ -1,0 +1,63 @@
+{
+  "id": 136,
+  "name": "Marvel's Spider-Man",
+  "year": 2018,
+  "publisher": "Sony Interactive Entertainment",
+  "series": "Marvel's Spider-Man",
+  "developer": "Insomniac Games",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Spider-Man hunts Mister Negative's Inner Demons through Manhattan and, after the Sinister Six break out of the Raft, wins the city back from Doctor Octopus's team.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_(2018_video_game)"
+    },
+    {
+      "placeId": "columbus-circle-new-york-city-usa",
+      "aliases": [
+        "Fisk Tower"
+      ],
+      "settingType": "fictionalized",
+      "note": "The game opens with Spider-Man storming Fisk Tower, the game's skyscraper on Columbus Circle, to bring in Wilson Fisk.",
+      "source": "https://www.thepopverse.com/gaming-spider-man-marvel-marvels-kingpin-fisk-trump-tower-location-2018"
+    },
+    {
+      "placeId": "new-york-city-hall-new-york-city-usa",
+      "note": "Mister Negative's Inner Demons attack the award ceremony at City Hall, and Miles's father, Officer Jefferson Davis, is killed in the blast.",
+      "source": "https://www.gamepressure.com/marvels-spider-man/and-the-award-goes-to/zab42b"
+    },
+    {
+      "placeId": "grand-central-terminal-new-york-city-usa",
+      "note": "Spider-Man corners Martin Li in Grand Central and fights him for the first time as Mister Negative.",
+      "source": "https://game8.co/games/Marvels-Spider-Man/archives/385215"
+    },
+    {
+      "placeId": "times-square-new-york-city-usa",
+      "note": "Doctor Octopus releases the Devil's Breath virus in Times Square, infecting the crowds and Aunt May."
+    }
+  ],
+  "storyYears": [
+    2018
+  ],
+  "source": "https://en.wikipedia.org/wiki/Spider-Man_(2018_video_game)",
+  "reviewed": "2026-11-06",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "peter",
+      "name": "Peter Parker",
+      "characters": [
+        "Peter Parker"
+      ],
+      "stops": [
+        "columbus-circle-new-york-city-usa",
+        "new-york-city-hall-new-york-city-usa",
+        "grand-central-terminal-new-york-city-usa",
+        "times-square-new-york-city-usa"
+      ],
+      "note": "From the fight with Wilson Fisk at his tower through the attack on City Hall and the battle with Mister Negative in Grand Central to the Devil's Breath outbreak in Times Square.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_(2018_video_game)"
+    }
+  ]
+}

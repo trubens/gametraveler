@@ -1,0 +1,13 @@
+{
+  "id": "mihonoseki-shimane-japan",
+  "name": "Mihonoseki, Shimane, Japan",
+  "position": {
+    "lat": 35.56,
+    "lon": 133.3
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mihonoseki,_Shimane",
+  "description": "A former town of Yatsuka District in Shimane Prefecture."
+}

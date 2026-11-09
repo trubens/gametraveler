@@ -1,0 +1,14 @@
+{
+  "id": "patagonia-argentina",
+  "name": "Patagonia, Argentina",
+  "scale": "area",
+  "parentId": "argentina",
+  "position": {
+    "lat": -45,
+    "lon": -70
+  },
+  "source": "https://en.wikipedia.org/wiki/Patagonia",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Patagonia",
+  "description": "The southern end of South America, a region of wide open country shared between Argentina and Chile."
+}

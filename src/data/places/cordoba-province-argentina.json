@@ -1,0 +1,13 @@
+{
+  "id": "cordoba-province-argentina",
+  "name": "Córdoba Province, Argentina",
+  "position": {
+    "lat": -31.4167,
+    "lon": -64.1833
+  },
+  "scale": "area",
+  "parentId": "argentina",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/C%C3%B3rdoba_Province,_Argentina",
+  "description": "A province at the centre of Argentina, bordered by Santiago del Estero, Santa Fe, Buenos Aires, La Pampa, San Luis, La Rioja and Catamarca."
+}

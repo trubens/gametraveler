@@ -1,0 +1,13 @@
+{
+  "id": "circuit-de-nevers-magny-cours-france",
+  "name": "Circuit de Nevers Magny-Cours, France",
+  "position": {
+    "lat": 46.8642,
+    "lon": 3.1631
+  },
+  "scale": "site",
+  "parentId": "france",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours",
+  "description": "A motor racing circuit in central France, between the towns of Magny-Cours and Nevers, roughly halfway between Paris and Lyon."
+}

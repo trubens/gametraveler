@@ -1,0 +1,12 @@
+{
+  "id": "texas-world-speedway-texas-usa",
+  "name": "Texas World Speedway, Texas, USA",
+  "position": {
+    "lat": 30.543,
+    "lon": -96.218
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Texas_World_Speedway",
+  "description": "A former superspeedway at College Station in Texas, a fast oval that has long since fallen silent."
+}

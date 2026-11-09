@@ -1,0 +1,21 @@
+{
+  "id": 97,
+  "name": "A Quiet Weekend in Capri",
+  "year": 2003,
+  "publisher": "Got Game Entertainment",
+  "developer": "Silvio & Gey Savarese",
+  "locations": [
+    {
+      "placeId": "capri-italy",
+      "note": "A tourist's relaxing weekend on Capri turns strange, explored through 4,500 photos of the real island."
+    }
+  ],
+  "storyYears": [
+    2003
+  ],
+  "source": "https://en.wikipedia.org/wiki/Capri_(series)",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Got_Game_Entertainment",
+  "genres": [
+    "Adventure"
+  ]
+}

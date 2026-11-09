@@ -1,0 +1,13 @@
+{
+  "id": "wheatbelt-western-australia-australia",
+  "name": "Wheatbelt, Western Australia, Australia",
+  "position": {
+    "lat": -31.5,
+    "lon": 117
+  },
+  "scale": "area",
+  "parentId": "australia",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wheatbelt_(Western_Australia)",
+  "description": "A broad farming region of Western Australia inland from Perth, named for the land turned over to agriculture during colonisation."
+}

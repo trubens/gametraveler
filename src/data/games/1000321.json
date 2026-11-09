@@ -1,0 +1,43 @@
+{
+  "id": 1000321,
+  "name": "True Crime: New York City",
+  "year": 2005,
+  "series": "True Crime",
+  "developer": "Luxoflux",
+  "publisher": "Activision",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "storyYears": [
+    2000,
+    2005
+  ],
+  "source": "https://en.wikipedia.org/wiki/True_Crime:_New_York_City",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Former gang member Marcus Reed, now a detective, hunts a mole in the Organized Crime Unit through four syndicates across a street-by-street Manhattan in 2005."
+    },
+    {
+      "placeId": "manhattan-new-york-usa",
+      "note": "The whole island is open, from Battery Park to Washington Heights."
+    },
+    {
+      "placeId": "harlem-new-york-city-usa",
+      "note": "Harlem, where Reed grew up and the Presidents Club holds its ground."
+    },
+    {
+      "placeId": "washington-heights-new-york-city-usa",
+      "note": "Washington Heights, the northern end of the map and the Magdalena Cartel's turf."
+    },
+    {
+      "placeId": "the-battery-new-york-city-usa",
+      "note": "Battery Park at the southern tip, where the story's final confrontation plays out."
+    },
+    {
+      "placeId": "grand-central-terminal-new-york-city-usa",
+      "note": "Grand Central, one of the landmarks recreated inside the open Manhattan."
+    }
+  ]
+}

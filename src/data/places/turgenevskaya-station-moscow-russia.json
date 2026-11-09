@@ -1,0 +1,15 @@
+{
+  "id": "turgenevskaya-station-moscow-russia",
+  "name": "Turgenevskaya station, Moscow, Russia",
+  "position": {
+    "lat": 55.7661,
+    "lon": 37.6374
+  },
+  "scale": "site",
+  "parentId": "moscow-russia",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Turgenevskaya_(Moscow_Metro)",
+  "description": "A station on the Kaluzhsko-Rizhskaya line of the Moscow Metro, beneath Turgenevskaya Square.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Turgenevskaya_(Moscow_Metro)"
+}

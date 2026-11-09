@@ -1,0 +1,15 @@
+{
+  "id": "watery-fictional-washington",
+  "name": "Watery, Washington, USA",
+  "position": {
+    "lat": 46.1883,
+    "lon": -123.81
+  },
+  "scale": "area",
+  "parentId": "washington-state-usa",
+  "placeType": "city",
+  "fictional": true,
+  "source": "https://revertnews.com/alan-wake-2-returns/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Astoria,_Oregon",
+  "description": "A run-down coastal town of Finnish-American roots near Bright Falls, home of the Coffee World theme park and the Kalevala Knights. Remedy based it on Astoria, Oregon, at the mouth of the Columbia River, so the pin stands there although the game puts Watery in Washington."
+}

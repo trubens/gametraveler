@@ -1,0 +1,79 @@
+{
+  "id": 92,
+  "name": "Hitman 2",
+  "year": 2018,
+  "publisher": "Warner Bros. Interactive Entertainment",
+  "series": "Hitman",
+  "developer": "IO Interactive",
+  "locations": [
+    {
+      "placeId": "hawke-s-bay-new-zealand",
+      "note": "The opening mission: a storm-lashed beach house in New Zealand where 47 tracks the Shadow Client's lieutenant."
+    },
+    {
+      "placeId": "miami-usa",
+      "note": "A race weekend at a Miami speedway, with a billionaire tech CEO and his racing-driver daughter as targets."
+    },
+    {
+      "placeId": "colombia",
+      "settingType": "fictionalized",
+      "note": "In Santa Fortuna, a cartel village deep in the Colombian rainforest, 47 kills the drug cartel's three leaders, Rico Delgado, Jorge Franco and Andrea Martínez."
+    },
+    {
+      "placeId": "mumbai-india",
+      "note": "47 hunts a crime queen, a Bollywood tycoon and an elusive assassin through Mumbai's slums and film sets."
+    },
+    {
+      "placeId": "vermont-usa",
+      "note": "Whittleton Creek, a quiet Vermont suburb hiding a retired Soviet sleeper agent among the garden parties."
+    },
+    {
+      "placeId": "scotland-uk",
+      "aliases": [
+        "Isle of Sgàil",
+        "Sgail"
+      ],
+      "settingType": "fictionalized",
+      "note": "On the Isle of Sgàil, an invented island in Scotland's Northern Isles, 47 slips into the Ark Society's masked gala to capture the Constant and kill the Washington sisters, Zoe and Sophia."
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "note": "47 infiltrates a New York City bank branch to retrieve the Partners' data files and kill its director, the Providence operative Athena Savalas, before the breach is discovered."
+    },
+    {
+      "placeId": "maldives",
+      "note": "Haven Island, a DLC resort in the Maldives selling new identities to wealthy criminals."
+    }
+  ],
+  "storyYears": [
+    2018
+  ],
+  "source": "https://en.wikipedia.org/wiki/Hitman_2_(2018_video_game)",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Stealth"
+  ],
+  "routes": [
+    {
+      "id": "agent-47",
+      "name": "Agent 47",
+      "characters": [
+        "Agent 47",
+        "Diana Burnwood",
+        "Lucas Grey"
+      ],
+      "stops": [
+        "hawke-s-bay-new-zealand",
+        "miami-usa",
+        "colombia",
+        "mumbai-india",
+        "vermont-usa",
+        "scotland-uk",
+        "new-york-city-usa",
+        "maldives"
+      ],
+      "note": "Hunting the Shadow Client's militia and then Providence, 47 goes from a New Zealand beach house to the Miami race track, the Colombian jungle, Mumbai, a Vermont suburb and a secret society's gala on a Scottish island, then on to a New York bank and a Maldives resort.",
+      "source": "https://en.wikipedia.org/wiki/Hitman_2_(2018_video_game)"
+    }
+  ]
+}

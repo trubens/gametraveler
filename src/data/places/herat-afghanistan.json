@@ -1,0 +1,13 @@
+{
+  "id": "herat-afghanistan",
+  "name": "Herat, Afghanistan",
+  "position": {
+    "lat": 34.3482,
+    "lon": 62.1997
+  },
+  "scale": "area",
+  "parentId": "afghanistan",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Herat",
+  "description": "A major city of western Afghanistan."
+}

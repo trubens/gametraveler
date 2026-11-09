@@ -1,0 +1,13 @@
+{
+  "id": "shibuya-tokyo-japan",
+  "name": "Shibuya, Tokyo, Japan",
+  "position": {
+    "lat": 35.658,
+    "lon": 139.7016
+  },
+  "scale": "site",
+  "parentId": "tokyo-japan",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shibuya",
+  "description": "A busy commercial ward of Tokyo, home to two of the world's busiest railway stations and the famous scramble crossing."
+}

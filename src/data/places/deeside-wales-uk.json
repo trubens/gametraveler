@@ -1,0 +1,14 @@
+{
+  "id": "deeside-wales-uk",
+  "name": "Deeside, Wales, UK",
+  "position": {
+    "lat": 53.2,
+    "lon": -3.0333
+  },
+  "scale": "area",
+  "parentId": "wales-uk",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Deeside",
+  "description": "The industrial towns along the Dee estuary in Flintshire, the service park of Wales Rally GB from 2013 to 2018.",
+  "descriptionSource": "wikipedia"
+}

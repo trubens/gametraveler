@@ -1,0 +1,62 @@
+{
+  "id": 483,
+  "name": "Ryū ga Gotoku Ishin! / Like a Dragon: Ishin!",
+  "year": 2014,
+  "series": "Yakuza / Like a Dragon",
+  "developer": "Ryu Ga Gotoku Studio",
+  "publisher": "Sega",
+  "locations": [
+    {
+      "placeId": "kochi-japan",
+      "note": "Ryōma comes home to Tosa from sword training in Edo, and returns at the end with the Shinsengumi to storm Takechi's stronghold.",
+      "source": "https://en.wikipedia.org/wiki/Like_a_Dragon:_Ishin!"
+    },
+    {
+      "placeId": "kochi-castle-kochi-japan",
+      "note": "Ryōma's adoptive father Yoshida Tōyō is cut down at the castle by a masked assassin; Ryōma later duels Takechi in the same room.",
+      "source": "https://en.wikipedia.org/wiki/Like_a_Dragon:_Ishin!"
+    },
+    {
+      "placeId": "kyoto-japan",
+      "note": "As Saitō Hajime, Ryōma joins the Shinsengumi at Mibu and hunts his father's killer through Kyo, from the Teradaya inn in Fushimi to the Ikedaya raid."
+    },
+    {
+      "placeId": "gion-kyoto-japan",
+      "note": "Gion is the red-light district of the game's 1860s Kyo, where Ryoma drinks and gambles between Shinsengumi duties.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "edo-castle-tokyo-japan",
+      "note": "Ryōma and Okita storm the castle to hand Shogun Tokugawa Yoshinobu the terms of the Great Restoration.",
+      "source": "https://en.wikipedia.org/wiki/Like_a_Dragon:_Ishin!"
+    }
+  ],
+  "storyYears": [
+    1866,
+    1867
+  ],
+  "source": "https://en.wikipedia.org/wiki/Like_a_Dragon:_Ishin!",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "ryoma",
+      "name": "Ryōma's road",
+      "characters": [
+        "Sakamoto Ryōma"
+      ],
+      "stops": [
+        "kochi-castle-kochi-japan",
+        "kyoto-japan",
+        "edo-castle-tokyo-japan",
+        "kyoto-japan",
+        "kochi-castle-kochi-japan"
+      ],
+      "note": "From Tōyō's murder at Kōchi Castle to the Shinsengumi in Kyo, a ride to Edo Castle and back to Tosa for the reckoning with Takechi.",
+      "source": "https://en.wikipedia.org/wiki/Like_a_Dragon:_Ishin!"
+    }
+  ]
+}

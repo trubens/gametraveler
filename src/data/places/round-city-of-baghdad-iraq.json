@@ -1,0 +1,14 @@
+{
+  "id": "round-city-of-baghdad-iraq",
+  "name": "Round City of Baghdad, Baghdad, Iraq",
+  "position": {
+    "lat": 33.35,
+    "lon": 44.34
+  },
+  "scale": "site",
+  "parentId": "baghdad-iraq",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Round_city_of_Baghdad",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Round_city_of_Baghdad",
+  "description": "The original core of Baghdad, a round city that the Abbasid caliph al-Mansur built in the 760s as the seat of his court and named the City of Peace."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "rio-de-janeiro-brazil",
+  "name": "Rio de Janeiro, Brazil",
+  "position": {
+    "lat": -22.9068,
+    "lon": -43.1729
+  },
+  "scale": "area",
+  "parentId": "brazil",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rio_de_Janeiro",
+  "description": "Capital of the state of Rio de Janeiro."
+}

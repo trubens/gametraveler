@@ -1,0 +1,14 @@
+{
+  "id": "shibuya-station-tokyo-japan",
+  "name": "Shibuya Station, Tokyo, Japan",
+  "position": {
+    "lat": 35.6585,
+    "lon": 139.7013
+  },
+  "scale": "site",
+  "parentId": "shibuya-tokyo-japan",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shibuya_Station",
+  "description": "One of Japan's busiest railway stations, served by JR East, Keio, Tokyu and Tokyo Metro lines beside the scramble crossing.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,63 @@
+{
+  "id": 72,
+  "name": "Grand Theft Auto IV",
+  "aliases": [
+    "GTA",
+    "GTA IV",
+    "GTA 4"
+  ],
+  "year": 2008,
+  "publisher": "Rockstar Games",
+  "series": "Grand Theft Auto",
+  "developer": "Rockstar North",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "aliases": [
+        "Liberty City"
+      ],
+      "settingType": "fictionalized",
+      "note": "Niko Bellic steps off a cargo ship in Liberty City, the series' New York, to find the man who betrayed his unit and is drawn into the city's Russian, Irish and Mafia feuds.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV"
+    },
+    {
+      "placeId": "brooklyn-new-york-usa",
+      "settingType": "fictionalized",
+      "note": "Recreated as Broker, where Niko moves in with Roman above his failing taxi firm in Hove Beach until Dimitri's men burn it down.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV"
+    },
+    {
+      "placeId": "bronx-new-york-usa",
+      "settingType": "fictionalized",
+      "note": "Recreated as Bohan, where Niko and Roman hide after the fire and Niko works for the local drug lords.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV"
+    },
+    {
+      "placeId": "manhattan-new-york-usa",
+      "settingType": "fictionalized",
+      "note": "Recreated as Algonquin, where Roman buys a new apartment and Niko robs a bank with the McReary brothers.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV"
+    },
+    {
+      "placeId": "new-jersey-usa",
+      "settingType": "fictionalized",
+      "note": "Recreated as the state of Alderney, home ground of Jimmy Pegorino's crime family.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV"
+    },
+    {
+      "placeId": "liberty-island-new-york-city-usa",
+      "settingType": "fictionalized",
+      "note": "Recreated as Happiness Island under the Statue of Happiness, where Niko's last chase ends with Dimitri or Pegorino dead.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto#Setting"
+    }
+  ],
+  "storyYears": [
+    2008
+  ],
+  "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Rockstar_Games",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

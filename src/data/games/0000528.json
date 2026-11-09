@@ -1,0 +1,19 @@
+{
+  "id": 528,
+  "name": "Stray",
+  "year": 2022,
+  "publisher": "Annapurna Interactive",
+  "developer": "BlueTwelve Studio",
+  "locations": [
+    {
+      "placeId": "kowloon-walled-city-hong-kong",
+      "note": "The walled city of the cat's journey is a far-future echo of Kowloon Walled City, the stacked, ungoverned block demolished in 1994.",
+      "settingType": "fictionalized"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Stray_(video_game)",
+  "genres": [
+    "Adventure"
+  ]
+}

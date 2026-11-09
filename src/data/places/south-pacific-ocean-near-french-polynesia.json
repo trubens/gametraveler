@@ -1,0 +1,12 @@
+{
+  "id": "south-pacific-ocean-near-french-polynesia",
+  "name": "South Pacific Ocean",
+  "position": {
+    "lat": -15,
+    "lon": -140
+  },
+  "scale": "area",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/French_Polynesia",
+  "description": "The open waters of the South Pacific around French Polynesia, an overseas collectivity of France made up of scattered islands and atolls."
+}

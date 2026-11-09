@@ -1,0 +1,30 @@
+{
+  "id": 1000107,
+  "name": "The Lost Files of Sherlock Holmes: The Case of the Rose Tattoo",
+  "year": 1996,
+  "publisher": "Electronic Arts",
+  "series": "Sherlock Holmes",
+  "developer": "Mythos Software",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "Holmes and Watson investigate a conspiracy across Victorian London, including the East End and Mycroft's Diogenes Club."
+    },
+    {
+      "placeId": "221b-baker-street-london-uk",
+      "note": "Holmes and Watson start from Baker Street after the bomb at the Diogenes Club injures Mycroft."
+    },
+    {
+      "placeId": "scotland-yard-london-uk",
+      "note": "Lestrade and the desk sergeant at Scotland Yard are stops on the trail of the stolen explosive formula."
+    }
+  ],
+  "storyYears": [
+    1889
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Lost_Files_of_Sherlock_Holmes:_The_Case_of_the_Rose_Tattoo",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Adventure"
+  ]
+}

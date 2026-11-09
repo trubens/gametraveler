@@ -1,0 +1,23 @@
+{
+  "id": 1000343,
+  "name": "Far Cry 6",
+  "year": 2021,
+  "series": "Far Cry",
+  "developer": "Ubisoft Toronto",
+  "publisher": "Ubisoft",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    2021
+  ],
+  "source": "https://en.wikipedia.org/wiki/Far_Cry_6",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "yara-fictional-cuba",
+      "note": "Dani Rojas abandons an escape to Miami and joins the guerrilla Libertad against El Presidente Antón Castillo, from the capital Esperanza to the tobacco fields.",
+      "settingType": "fictionalized"
+    }
+  ]
+}

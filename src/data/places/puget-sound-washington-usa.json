@@ -1,0 +1,14 @@
+{
+  "id": "puget-sound-washington-usa",
+  "name": "Puget Sound, Washington, USA",
+  "position": {
+    "lat": 47.6,
+    "lon": -122.4
+  },
+  "scale": "area",
+  "parentId": "washington-state-usa",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Puget_Sound",
+  "description": "The network of marine inlets and basins on the north-west coast of Washington state, with Seattle on its eastern shore.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "queens-new-york-usa",
+  "name": "Queens, New York, USA",
+  "position": {
+    "lat": 40.7136,
+    "lon": -73.8281
+  },
+  "scale": "area",
+  "parentId": "new-york-city-usa",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Queens",
+  "description": "The largest by area of New York City's five boroughs, east of Manhattan across the East River.",
+  "descriptionSource": "wikipedia"
+}

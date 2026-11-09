@@ -1,0 +1,15 @@
+{
+  "id": "orsha-belarus",
+  "name": "Orsha, Belarus",
+  "position": {
+    "lat": 54.5092,
+    "lon": 30.4258
+  },
+  "scale": "area",
+  "parentId": "belarus",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Orsha",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Orsha",
+  "description": "A city in Vitebsk Region, Belarus, at the fork of the Dnieper and Arshytsa rivers.",
+  "descriptionSource": "wikipedia"
+}

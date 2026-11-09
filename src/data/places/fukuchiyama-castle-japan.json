@@ -1,0 +1,14 @@
+{
+  "id": "fukuchiyama-castle-japan",
+  "name": "Fukuchiyama Castle, Japan",
+  "position": {
+    "lat": 35.2966,
+    "lon": 135.1296
+  },
+  "scale": "site",
+  "parentId": "japan",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Fukuchiyama_Castle",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fukuchiyama_Castle",
+  "description": "A castle in the town of Fukuchiyama, in the countryside of Kyoto Prefecture, Japan."
+}

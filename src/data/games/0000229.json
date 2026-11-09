@@ -1,0 +1,39 @@
+{
+  "id": 229,
+  "name": "Project Gotham Racing 3",
+  "aliases": [
+    "PGR",
+    "PGR 3"
+  ],
+  "year": 2005,
+  "publisher": "Microsoft Game Studios",
+  "series": "Project Gotham Racing",
+  "developer": "Bizarre Creations",
+  "locations": [
+    {
+      "placeId": "las-vegas-usa",
+      "note": "Recreated streets in Las Vegas host races and driving challenges."
+    },
+    {
+      "placeId": "london-uk",
+      "note": "Recreated streets in London host races and driving challenges."
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Recreated streets in New York City host races and driving challenges."
+    },
+    {
+      "placeId": "tokyo-japan",
+      "note": "Recreated streets in Tokyo host races and driving challenges."
+    },
+    {
+      "placeId": "nurburgring-germany",
+      "note": "Players race supercars on the real Nürburgring alongside the game's urban circuits."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Project_Gotham_Racing_3",
+  "genres": [
+    "Racing"
+  ]
+}

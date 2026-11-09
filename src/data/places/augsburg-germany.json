@@ -1,0 +1,13 @@
+{
+  "id": "augsburg-germany",
+  "name": "Augsburg, Germany",
+  "position": {
+    "lat": 48.3705,
+    "lon": 10.8978
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Augsburg",
+  "description": "A university city in the Swabian part of Bavaria."
+}

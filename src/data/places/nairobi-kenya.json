@@ -1,0 +1,13 @@
+{
+  "id": "nairobi-kenya",
+  "name": "Nairobi, Kenya",
+  "position": {
+    "lat": -1.29,
+    "lon": 36.82
+  },
+  "scale": "area",
+  "parentId": "kenya",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nairobi",
+  "description": "The capital and largest city of Kenya."
+}

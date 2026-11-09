@@ -1,0 +1,44 @@
+{
+  "id": 1000328,
+  "name": "Test Drive 6",
+  "year": 1999,
+  "series": "Test Drive",
+  "developer": "Pitbull Syndicate",
+  "publisher": "Infogrames",
+  "genres": [
+    "Racing"
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Test_Drive_6",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "London's streets, one of the five cities of the Stop the Bomber chases."
+    },
+    {
+      "placeId": "paris-france",
+      "note": "Paris."
+    },
+    {
+      "placeId": "rome-italy",
+      "note": "Rome."
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "note": "New York."
+    },
+    {
+      "placeId": "hong-kong-china",
+      "note": "Hong Kong."
+    },
+    {
+      "placeId": "maui-hawaii-usa",
+      "note": "A run across Maui."
+    },
+    {
+      "placeId": "lake-tahoe-usa",
+      "note": "The shore road round Lake Tahoe."
+    }
+  ]
+}

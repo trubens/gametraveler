@@ -1,0 +1,14 @@
+{
+  "id": "sakai-japan",
+  "name": "Sakai, Japan",
+  "position": {
+    "lat": 34.5733,
+    "lon": 135.483
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Sakai",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sakai",
+  "description": "A city in Osaka Prefecture."
+}

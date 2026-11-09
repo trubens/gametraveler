@@ -1,0 +1,21 @@
+{
+  "id": 1000140,
+  "name": "Shanghai Summer",
+  "year": 2024,
+  "publisher": "Astrolabe Games",
+  "developer": "FUTU Studio",
+  "genres": [
+    "Adventure",
+    "Visual Novel"
+  ],
+  "source": "https://store.steampowered.com/app/1323830/Shanghai_Summer/",
+  "locations": [
+    {
+      "placeId": "shanghai-china",
+      "note": "The protagonist revisits memories and alternative outcomes during a twelve-day story in early-2000s Shanghai."
+    }
+  ],
+  "storyYears": [
+    2003
+  ]
+}

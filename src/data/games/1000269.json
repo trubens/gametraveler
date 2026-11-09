@@ -1,0 +1,67 @@
+{
+  "id": 1000269,
+  "name": "Illusion of Gaia",
+  "aliases": [
+    "Illusion of Time"
+  ],
+  "year": 1993,
+  "developer": "Quintet",
+  "publisher": "Enix",
+  "genres": [
+    "Action RPG"
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Illusion_of_Gaia",
+  "locations": [
+    {
+      "placeId": "inca-ruins-peru",
+      "settingType": "fictionalized",
+      "note": "Will's journey leaves South Cape for Incan ruins and a golden ship, in a world that mirrors ours without naming its countries."
+    },
+    {
+      "placeId": "nazca-lines-peru",
+      "settingType": "fictionalized",
+      "note": "The Nazca Lines are the launch point for the Sky Garden floating above them."
+    },
+    {
+      "placeId": "angkor-wat-cambodia",
+      "settingType": "fictionalized",
+      "note": "Angkor Wat appears as a flooded temple of the vampires."
+    },
+    {
+      "placeId": "great-wall-china",
+      "settingType": "fictionalized",
+      "note": "The Great Wall is a long dungeon crossed on foot."
+    },
+    {
+      "placeId": "giza-egypt",
+      "settingType": "fictionalized",
+      "note": "The Egyptian pyramids hold the last Mystic Statue."
+    },
+    {
+      "placeId": "tower-of-babel-fictional-babylon-iraq",
+      "settingType": "imaginary",
+      "note": "The finale climbs the Tower of Babel, the legendary tower, to face the comet."
+    }
+  ],
+  "routes": [
+    {
+      "id": "will",
+      "name": "Will's journey",
+      "characters": [
+        "Will",
+        "Kara"
+      ],
+      "stops": [
+        "inca-ruins-peru",
+        "nazca-lines-peru",
+        "angkor-wat-cambodia",
+        "great-wall-china",
+        "giza-egypt",
+        "tower-of-babel-fictional-babylon-iraq"
+      ],
+      "note": "Will's journey from the Incan ruins and the Nazca Lines to Angkor Wat, the Great Wall and the pyramids, ending at the Tower of Babel.",
+      "source": "https://en.wikipedia.org/wiki/Illusion_of_Gaia"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 44,
+  "name": "Tomb Raider: Legend",
+  "year": 2006,
+  "publisher": "Eidos Interactive",
+  "series": "Tomb Raider",
+  "developer": "Crystal Dynamics",
+  "locations": [
+    {
+      "placeId": "tiwanaku-bolivia",
+      "note": "On a tip from Anaya Lara finds a stone dais in the ruined city of Tiwanaku, tied to her mother's disappearance; the game ends here too."
+    },
+    {
+      "placeId": "peru",
+      "note": "Peruvian tombs reveal that Lara's presumed-dead friend Amanda Evert survived."
+    },
+    {
+      "placeId": "tokyo-japan",
+      "note": "Lara confronts yakuza boss Shogo Takamoto in Tokyo over a stolen sword fragment."
+    },
+    {
+      "placeId": "kazakhstan",
+      "note": "A Soviet-era research base in Kazakhstan once tried to weaponise a fragment of the sword."
+    },
+    {
+      "placeId": "cornwall-england",
+      "note": "The decoded shield map leads to an Arthurian tourist attraction in Cornwall, built over the tombs of Arthur and his knights."
+    },
+    {
+      "placeId": "ghana",
+      "note": "Lara explores a hidden temple in Ghana that her father Richard once investigated."
+    },
+    {
+      "placeId": "nepal",
+      "note": "Lara returns to the Nepalese monastery where her mother vanished years earlier."
+    },
+    {
+      "placeId": "croft-manor-fictional-surrey-england-uk",
+      "note": "Lara's manor, with Zip and Alister supporting her missions; a full level to explore.",
+      "settingType": "fictionalized"
+    }
+  ],
+  "storyYears": [
+    2006
+  ],
+  "source": "https://en.wikipedia.org/wiki/Tomb_Raider:_Legend",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Crystal_Dynamics",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Eidos_Interactive",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "the-sword",
+      "name": "The sword and Lara's mother",
+      "characters": [
+        "Lara Croft"
+      ],
+      "stops": [
+        "tiwanaku-bolivia",
+        "peru",
+        "tokyo-japan",
+        "ghana",
+        "kazakhstan",
+        "cornwall-england",
+        "nepal",
+        "tiwanaku-bolivia"
+      ],
+      "note": "Lara chases the pieces of Excalibur from Tiwanaku through Peru, Tokyo, Ghana, Kazakhstan, Cornwall and Nepal, and ends at the dais in Tiwanaku where it began.",
+      "source": "https://en.wikipedia.org/wiki/Tomb_Raider:_Legend"
+    }
+  ]
+}

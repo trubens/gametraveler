@@ -1,0 +1,17 @@
+{
+  "id": "york-uk",
+  "name": "York, UK",
+  "position": {
+    "lat": 53.96,
+    "lon": -1.0873
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "city",
+  "aliases": [
+    "Jorvik"
+  ],
+  "source": "https://en.wikipedia.org/wiki/York",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/York",
+  "description": "A cathedral city of Roman origin in North Yorkshire."
+}

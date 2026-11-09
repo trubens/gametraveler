@@ -1,0 +1,23 @@
+{
+  "id": 438,
+  "name": "Call of Duty: Advanced Warfare",
+  "year": 2014,
+  "series": "Call of Duty",
+  "developer": "Sledgehammer Games",
+  "publisher": "Activision",
+  "locations": [
+    {
+      "placeId": "seoul-south-korea",
+      "note": "The opening mission follows a military deployment during an attack on Seoul."
+    }
+  ],
+  "storyYears": [
+    2054
+  ],
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Advanced_Warfare",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Activision",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

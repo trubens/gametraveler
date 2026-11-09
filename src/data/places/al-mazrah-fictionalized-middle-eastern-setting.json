@@ -1,0 +1,15 @@
+{
+  "id": "al-mazrah-fictionalized-middle-eastern-setting",
+  "name": "Al Mazrah, Middle East",
+  "position": {
+    "lat": 25,
+    "lon": 45
+  },
+  "scale": "area",
+  "placeType": "area",
+  "fictional": true,
+  "aliases": [
+    "Al Mazrah (fictionalized Middle Eastern setting)"
+  ],
+  "description": "An invented Middle Eastern republic of deserts, oil fields and a capital drawn from the Gulf and Iraq. Pinned in the middle of the region, since no real country is named."
+}

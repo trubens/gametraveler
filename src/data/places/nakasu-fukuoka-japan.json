@@ -1,0 +1,15 @@
+{
+  "id": "nakasu-fukuoka-japan",
+  "name": "Nakasu, Fukuoka, Japan",
+  "position": {
+    "lat": 33.5936,
+    "lon": 130.4053
+  },
+  "scale": "area",
+  "parentId": "fukuoka-japan",
+  "placeType": "neighborhood",
+  "source": "https://en.wikipedia.org/wiki/Nakasu",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nakasu",
+  "description": "Fukuoka's nightlife district on an island between the Naka and Hakata rivers, known for its bars and riverside yatai food stalls.",
+  "descriptionSource": "wikipedia"
+}

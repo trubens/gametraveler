@@ -1,0 +1,22 @@
+{
+  "id": 465,
+  "name": "Medal of Honor: Heroes 2",
+  "year": 2007,
+  "series": "Medal of Honor",
+  "developer": "EA Los Angeles (PSP) / EA Canada (Wii)",
+  "publisher": "Electronic Arts",
+  "locations": [
+    {
+      "placeId": "cherbourg-france",
+      "note": "OSS missions take place around Cherbourg during the Normandy campaign."
+    }
+  ],
+  "storyYears": [
+    1944
+  ],
+  "source": "https://en.wikipedia.org/wiki/Medal_of_Honor:_Heroes_2",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

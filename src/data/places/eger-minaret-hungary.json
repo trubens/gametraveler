@@ -1,0 +1,14 @@
+{
+  "id": "eger-minaret-hungary",
+  "name": "Eger Minaret, Eger, Hungary",
+  "position": {
+    "lat": 47.9036,
+    "lon": 20.3768
+  },
+  "scale": "site",
+  "parentId": "eger-hungary",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Eger_minaret",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eger_minaret",
+  "description": "An Ottoman-era minaret in Eger, northern Hungary, one of the northernmost minarets left from Ottoman rule in Europe."
+}

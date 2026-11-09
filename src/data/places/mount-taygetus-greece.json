@@ -1,0 +1,17 @@
+{
+  "id": "mount-taygetus-greece",
+  "name": "Mount Taygetus, Greece",
+  "position": {
+    "lat": 36.95,
+    "lon": 22.35
+  },
+  "scale": "area",
+  "parentId": "greece",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Taygetos"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Taygetus",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Taygetus",
+  "description": "A mountain range on the Peloponnese in southern Greece, whose highest peak is also called Profitis Ilias, after the prophet Elijah."
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1000182,
+  "name": "Dracula 5: The Blood Legacy",
+  "year": 2013,
+  "series": "Dracula",
+  "developer": "Koalabs Studio",
+  "publisher": "Anuman Interactive",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Dracula_5:_The_Blood_Legacy",
+  "reviewed": "2026-11-02",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Adam Stoker spends the night at Ellen's apartment and leaves only a note, and her colleague Gerry is killed after finding Radu's poem."
+    },
+    {
+      "placeId": "basilica-cistern-istanbul-turkey",
+      "note": "Following Radu's poem 'The Shadow of the Dragon', Ellen finds the secret society's headquarters at the Basilica Cistern and learns that Adam Stoker, Radu's descendant, leads it.",
+      "source": "https://en.wikipedia.org/wiki/Dracula_5:_The_Blood_Legacy"
+    },
+    {
+      "placeId": "istanbul-turkey",
+      "note": "Ellen returns to the painter Yanek, who reveals himself as the vampire Kaneyek, explains that only a vampire not born of Dracula can destroy him, and sends her to meet the Count."
+    },
+    {
+      "placeId": "draculas-underground-castle-ukraine",
+      "settingType": "fictionalized",
+      "note": "In his underground castle in the Chernobyl Exclusion Zone, Dracula foils Adam's attack with the dagger and offers Ellen his dead wife's blood.",
+      "source": "https://en.wikipedia.org/wiki/Dracula_5:_The_Blood_Legacy"
+    },
+    {
+      "placeId": "metropolitan-museum-of-art-new-york-city-usa",
+      "note": "Back at the Met, Ellen strips the tar from the sixteenth Vambery painting to reveal Dracula's portrait, which Adam Stoker later steals from storage."
+    }
+  ],
+  "storyYears": [
+    2013
+  ],
+  "routes": [
+    {
+      "id": "ellen-cross-legacy",
+      "name": "Ellen Cross",
+      "characters": [
+        "Ellen Cross"
+      ],
+      "stops": [
+        "metropolitan-museum-of-art-new-york-city-usa",
+        "new-york-city-usa",
+        "metropolitan-museum-of-art-new-york-city-usa",
+        "basilica-cistern-istanbul-turkey",
+        "istanbul-turkey",
+        "draculas-underground-castle-ukraine"
+      ],
+      "note": "From the Met in New York to the secret society beneath Istanbul and on to Dracula's lair in the Chernobyl Exclusion Zone.",
+      "source": "https://en.wikipedia.org/wiki/Dracula_5:_The_Blood_Legacy"
+    }
+  ]
+}

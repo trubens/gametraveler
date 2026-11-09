@@ -1,0 +1,26 @@
+{
+  "id": 1000290,
+  "name": "Black Mirror (2017)",
+  "year": 2017,
+  "series": "Black Mirror",
+  "developer": "KING Art Games",
+  "publisher": "THQ Nordic",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    1926
+  ],
+  "source": "https://en.wikipedia.org/wiki/Black_Mirror_(2017_video_game)",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "scotland-uk",
+      "aliases": [
+        "Sgathan Dubh"
+      ],
+      "settingType": "fictionalized",
+      "note": "David Gordon arrives at Sgathan Dubh, his family's Highland estate, with an abandoned village on an island across its lake."
+    }
+  ]
+}

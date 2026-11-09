@@ -1,0 +1,14 @@
+{
+  "id": "deception-island-fictionalized-washington",
+  "name": "Deception Island, Washington",
+  "position": {
+    "lat": 48.55,
+    "lon": -123.1
+  },
+  "scale": "area",
+  "placeType": "island",
+  "fictional": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/San_Juan_Islands",
+  "description": "An invented island with the town of Snake Horse Harbor, which the game places among the real San Juan Islands off Washington. Pinned among the San Juans.",
+  "source": "https://nancydrew.fandom.com/wiki/Snake_Horse_Harbor"
+}

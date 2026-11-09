@@ -1,0 +1,13 @@
+{
+  "id": "amsterdam-netherlands",
+  "name": "Amsterdam, Netherlands",
+  "position": {
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  "scale": "area",
+  "parentId": "netherlands",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amsterdam",
+  "description": "The capital and largest city of the Netherlands."
+}

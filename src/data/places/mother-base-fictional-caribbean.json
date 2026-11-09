@@ -1,0 +1,15 @@
+{
+  "id": "mother-base-fictional-caribbean",
+  "name": "Mother Base, Caribbean",
+  "position": {
+    "lat": 10.6,
+    "lon": -82.4
+  },
+  "scale": "area",
+  "parentId": "caribbean",
+  "placeType": "venue",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Metal_Gear_Solid:_Peace_Walker",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ocean_thermal_energy_conversion",
+  "description": "The abandoned ocean thermal energy research platform in the Caribbean that MSF turns into its headquarters in Peace Walker. The game places it off Costa Rica without a spot; the pin off the Caribbean coast is a guess."
+}

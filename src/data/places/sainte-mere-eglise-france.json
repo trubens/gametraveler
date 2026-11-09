@@ -1,0 +1,13 @@
+{
+  "id": "sainte-mere-eglise-france",
+  "name": "Sainte-Mère-Église, France",
+  "position": {
+    "lat": 49.4084,
+    "lon": -1.3166
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sainte-M%C3%A8re-%C3%89glise",
+  "description": "A Normandy village in the Manche."
+}

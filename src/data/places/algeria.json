@@ -1,0 +1,12 @@
+{
+  "id": "algeria",
+  "name": "Algeria",
+  "scale": "area",
+  "position": {
+    "lat": 28,
+    "lon": 1.66
+  },
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Algeria",
+  "description": "A North African country, with its capital Algiers on the Mediterranean coast and the Sahara stretching across its south."
+}

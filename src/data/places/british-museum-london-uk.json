@@ -1,0 +1,14 @@
+{
+  "id": "british-museum-london-uk",
+  "name": "British Museum, London, UK",
+  "position": {
+    "lat": 51.5194,
+    "lon": -0.127
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/British_Museum",
+  "description": "The national museum of human history and culture in Bloomsbury, founded in 1753.",
+  "descriptionSource": "wikipedia"
+}

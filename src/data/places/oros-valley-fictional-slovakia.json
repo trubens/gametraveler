@@ -1,0 +1,17 @@
+{
+  "id": "oros-valley-fictional-slovakia",
+  "name": "Oros valley, Slovakia",
+  "position": {
+    "lat": 49.15,
+    "lon": 20.1
+  },
+  "scale": "area",
+  "placeType": "natural_feature",
+  "fictional": true,
+  "aliases": [
+    "Oros"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Far_Cry_Primal",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carpathian_Mountains",
+  "description": "The invented valley of Far Cry Primal in 10,000 BC, set in the Carpathian Mountains of today's Slovakia, though some peaks are the Tre Cime di Lavaredo of the Dolomites. The pin stands in the Slovak Tatras."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "chateau-de-villette-france",
+  "name": "Château de Villette, France",
+  "position": {
+    "lat": 49.0319,
+    "lon": 1.9394
+  },
+  "scale": "site",
+  "parentId": "france",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Villette",
+  "description": "A 17th-century château at Condécourt, 40 km north-west of Paris, with gardens laid out by Le Nôtre.",
+  "descriptionSource": "wikipedia"
+}

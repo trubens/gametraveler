@@ -1,0 +1,14 @@
+{
+  "id": "monaro-new-south-wales-australia",
+  "name": "Monaro, New South Wales, Australia",
+  "position": {
+    "lat": -36.2333,
+    "lon": 149.1333
+  },
+  "scale": "area",
+  "parentId": "australia",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Monaro_(New_South_Wales)",
+  "description": "A high plateau region in the south of New South Wales, pinned at Cooma, its main town.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ichigaya-tokyo-japan",
+  "name": "Ichigaya, Tokyo, Japan",
+  "position": {
+    "lat": 35.6871,
+    "lon": 139.7377
+  },
+  "scale": "site",
+  "parentId": "tokyo-japan",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ichigaya",
+  "description": "An area in the eastern part of Shinjuku ward, along the outer moat of the old Edo Castle.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Ichigaya"
+}

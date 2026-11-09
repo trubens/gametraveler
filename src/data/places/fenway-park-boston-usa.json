@@ -1,0 +1,14 @@
+{
+  "id": "fenway-park-boston-usa",
+  "name": "Fenway Park, Boston, USA",
+  "position": {
+    "lat": 42.3464,
+    "lon": -71.0978
+  },
+  "scale": "site",
+  "parentId": "boston-usa",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fenway_Park",
+  "description": "The Red Sox ballpark by Kenmore Square, the oldest in the major leagues, playing since 1912 behind the Green Monster.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "cologne-germany",
+  "name": "Cologne, Germany",
+  "position": {
+    "lat": 50.9364,
+    "lon": 6.9528
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "city",
+  "aliases": [
+    "Köln"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cologne",
+  "description": "The Rhine city of the cathedral, Germany's fourth largest, rebuilt after the bombing of 1945.",
+  "descriptionSource": "wikipedia"
+}

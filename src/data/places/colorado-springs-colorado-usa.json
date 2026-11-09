@@ -1,0 +1,13 @@
+{
+  "id": "colorado-springs-colorado-usa",
+  "name": "Colorado Springs, Colorado, USA",
+  "position": {
+    "lat": 38.8339,
+    "lon": -104.8214
+  },
+  "scale": "area",
+  "parentId": "colorado-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Colorado_Springs,_Colorado",
+  "description": "A fast-growing city in Colorado."
+}

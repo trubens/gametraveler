@@ -1,0 +1,17 @@
+{
+  "id": "zurich-switzerland",
+  "name": "Zürich, Switzerland",
+  "aliases": [
+    "Zurich"
+  ],
+  "position": {
+    "lat": 47.3769,
+    "lon": 8.5417
+  },
+  "scale": "area",
+  "placeType": "city",
+  "parentId": "switzerland",
+  "source": "https://en.wikipedia.org/wiki/Zurich",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Zurich",
+  "description": "Switzerland's largest city."
+}

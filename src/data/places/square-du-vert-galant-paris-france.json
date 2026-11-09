@@ -1,0 +1,14 @@
+{
+  "id": "square-du-vert-galant-paris-france",
+  "name": "Square du Vert-Galant, Paris, France",
+  "position": {
+    "lat": 48.8572,
+    "lon": 2.34
+  },
+  "scale": "site",
+  "parentId": "paris-france",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Square_du_Vert-Galant",
+  "description": "The small triangular park at the western tip of the Île de la Cité, below the Pont Neuf.",
+  "descriptionSource": "wikipedia"
+}

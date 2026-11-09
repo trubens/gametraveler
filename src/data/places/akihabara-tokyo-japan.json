@@ -1,0 +1,13 @@
+{
+  "id": "akihabara-tokyo-japan",
+  "name": "Akihabara, Tokyo, Japan",
+  "position": {
+    "lat": 35.6984,
+    "lon": 139.7731
+  },
+  "scale": "site",
+  "parentId": "tokyo-japan",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Akihabara",
+  "description": "A Tokyo neighbourhood in Chiyoda ward, generally taken to mean the streets around Akihabara Station."
+}

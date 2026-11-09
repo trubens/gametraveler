@@ -1,0 +1,15 @@
+{
+  "id": "red-square-moscow-russia",
+  "name": "Red Square, Moscow, Russia",
+  "position": {
+    "lat": 55.7542,
+    "lon": 37.62
+  },
+  "scale": "site",
+  "parentId": "moscow-russia",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Red_Square",
+  "description": "One of the oldest and largest squares in Moscow, in the historic centre beside the Kremlin.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Red_Square"
+}

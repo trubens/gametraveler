@@ -1,0 +1,15 @@
+{
+  "id": "san-francisco-oakland-bay-bridge-california-usa",
+  "name": "San Francisco–Oakland Bay Bridge, San Francisco, USA",
+  "position": {
+    "lat": 37.8181,
+    "lon": -122.3467
+  },
+  "scale": "site",
+  "parentId": "san-francisco-usa",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/San_Francisco%E2%80%93Oakland_Bay_Bridge",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/San_Francisco%E2%80%93Oakland_Bay_Bridge",
+  "description": "The Bay Bridge, a complex of bridges spanning San Francisco Bay between San Francisco and Oakland by way of Yerba Buena Island.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,61 @@
+{
+  "id": 86,
+  "name": "Hitman: Codename 47",
+  "year": 2000,
+  "publisher": "Eidos Interactive",
+  "series": "Hitman",
+  "developer": "IO Interactive",
+  "locations": [
+    {
+      "placeId": "hong-kong-china",
+      "note": "47 sparks a Triad gang war to reach crime boss Lee Hong."
+    },
+    {
+      "placeId": "colombia",
+      "note": "A staged drug raid in the Colombian jungle targets trafficker Pablo Ochoa."
+    },
+    {
+      "placeId": "rotterdam-netherlands",
+      "note": "Gunrunner Arkadij Jegorov has a nuclear warhead in Rotterdam's docks."
+    },
+    {
+      "placeId": "budapest-hungary",
+      "note": "47 stops mercenary Frantz Fuchs from bombing a conference in Budapest."
+    },
+    {
+      "placeId": "romania",
+      "note": "A Romanian sanatorium, 47's birthplace, holds Professor Ort-Meyer's secrets."
+    }
+  ],
+  "storyYears": [
+    1999,
+    2000
+  ],
+  "source": "https://en.wikipedia.org/wiki/Hitman:_Codename_47",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Eidos_Interactive",
+  "genres": [
+    "Stealth"
+  ],
+  "routes": [
+    {
+      "id": "agent-47",
+      "name": "Agent 47",
+      "characters": [
+        "Agent 47",
+        "Diana Burnwood",
+        "Professor Ort-Meyer"
+      ],
+      "stops": [
+        "romania",
+        "hong-kong-china",
+        "colombia",
+        "budapest-hungary",
+        "rotterdam-netherlands",
+        "romania"
+      ],
+      "note": "47 escapes the Romanian asylum where he was made, kills his four genetic fathers in Hong Kong, the Colombian jungle, Budapest and Rotterdam, then returns to the asylum to kill his creator.",
+      "source": "https://en.wikipedia.org/wiki/Hitman:_Codename_47"
+    }
+  ]
+}

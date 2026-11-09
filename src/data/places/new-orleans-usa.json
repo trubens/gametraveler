@@ -1,0 +1,13 @@
+{
+  "id": "new-orleans-usa",
+  "name": "New Orleans, USA",
+  "position": {
+    "lat": 29.9511,
+    "lon": -90.0715
+  },
+  "scale": "area",
+  "parentId": "louisiana-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Orleans",
+  "description": "A city on the Mississippi River in the southern state of Louisiana."
+}

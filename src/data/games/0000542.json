@@ -1,0 +1,25 @@
+{
+  "id": 542,
+  "name": "The Godfather",
+  "aliases": [
+    "The Godfather: The Game"
+  ],
+  "year": 2006,
+  "publisher": "Electronic Arts",
+  "series": "The Godfather",
+  "developer": "EA Redwood Shores",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "The open-world crime story follows a player-created character through 1940s–50s New York and the Corleone family's neighborhoods."
+    }
+  ],
+  "storyYears": [
+    1945,
+    1955
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Godfather_(2006_video_game)",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

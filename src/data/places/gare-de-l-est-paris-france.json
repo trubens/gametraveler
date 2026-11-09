@@ -1,0 +1,14 @@
+{
+  "id": "gare-de-l-est-paris-france",
+  "name": "Gare de l'Est, Paris, France",
+  "position": {
+    "lat": 48.8769,
+    "lon": 2.3592
+  },
+  "scale": "site",
+  "parentId": "paris-france",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gare_de_l%27Est",
+  "description": "One of the seven great Paris termini, the station the Orient Express left from.",
+  "descriptionSource": "wikipedia"
+}

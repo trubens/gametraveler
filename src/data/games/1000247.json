@@ -1,0 +1,65 @@
+{
+  "id": 1000247,
+  "name": "The Oregon Trail (1985)",
+  "year": 1985,
+  "developer": "MECC",
+  "publisher": "MECC",
+  "genres": [
+    "Strategy"
+  ],
+  "storyYears": [
+    1848
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Oregon_Trail_(1985_video_game)",
+  "locations": [
+    {
+      "placeId": "independence-missouri-usa",
+      "note": "The wagon party sets out from Independence, Missouri, on its westward journey.",
+      "source": "https://en.wikipedia.org/wiki/The_Oregon_Trail_(1985_video_game)"
+    },
+    {
+      "placeId": "fort-kearny-nebraska-usa",
+      "note": "Fort Kearny is one of the trail's resupply landmarks.",
+      "source": "https://gamefaqs.gamespot.com/pc/577345-the-oregon-trail-1985/faqs/9660"
+    },
+    {
+      "placeId": "chimney-rock-nebraska-usa",
+      "note": "Chimney Rock is a landmark on the route west.",
+      "source": "https://gamefaqs.gamespot.com/pc/577345-the-oregon-trail-1985/faqs/9660"
+    },
+    {
+      "placeId": "fort-laramie-wyoming-usa",
+      "note": "Fort Laramie is a trail landmark and supply stop.",
+      "source": "https://gamefaqs.gamespot.com/pc/577345-the-oregon-trail-1985/faqs/9660"
+    },
+    {
+      "placeId": "the-dalles-oregon-usa",
+      "note": "At The Dalles, players choose how to complete the final leg.",
+      "source": "https://gamefaqs.gamespot.com/pc/577345-the-oregon-trail-1985/faqs/30964"
+    },
+    {
+      "placeId": "willamette-valley-oregon-usa",
+      "note": "The journey's destination is the Willamette Valley in Oregon.",
+      "source": "https://en.wikipedia.org/wiki/The_Oregon_Trail_(1985_video_game)"
+    }
+  ],
+  "routes": [
+    {
+      "id": "independence-to-willamette-valley",
+      "name": "Independence to the Willamette Valley",
+      "stops": [
+        "independence-missouri-usa",
+        "fort-kearny-nebraska-usa",
+        "chimney-rock-nebraska-usa",
+        "fort-laramie-wyoming-usa",
+        "the-dalles-oregon-usa",
+        "willamette-valley-oregon-usa"
+      ],
+      "storyYears": [
+        1848
+      ],
+      "note": "The wagon party travels from Independence, Missouri, past Fort Kearny, Chimney Rock and Fort Laramie to The Dalles and the Willamette Valley.",
+      "source": "https://gamefaqs.gamespot.com/pc/577345-the-oregon-trail-1985/faqs/9660"
+    }
+  ]
+}

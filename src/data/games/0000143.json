@@ -1,0 +1,51 @@
+{
+  "id": 143,
+  "name": "Forza Horizon 3",
+  "year": 2016,
+  "publisher": "Microsoft Studios",
+  "series": "Forza Horizon",
+  "developer": "Playground Games",
+  "locations": [
+    {
+      "placeId": "surfers-paradise-australia",
+      "note": "Surfers Paradise: the high-rise beach city of the Gold Coast is the festival's urban hub and night-race circuit.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "byron-bay-australia",
+      "note": "Byron Bay's surf town and the rainforest coast behind it, the opening drive's lush end of the map.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "coober-pedy-australia",
+      "note": "The opal town of Coober Pedy stands in for the Outback, with its dugout houses and red dust tracks.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "great-ocean-road-australia",
+      "note": "The Great Ocean Road's cliffs and the Twelve Apostles become the map's southern coast.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "ormiston-gorge-australia",
+      "note": "Ormiston Gorge in the West MacDonnell Ranges, the red rock of the map's desert interior.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "yarra-valley-australia",
+      "note": "The Yarra Valley's vineyards and farmland, the map's rolling green middle.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "australian-outback",
+      "note": "The Outback: sand, dry riverbeds and roadhouses between the coast and the gorge.",
+      "settingType": "fictionalized"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Forza_Horizon_3",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "shinsekai-osaka-japan",
+  "name": "Shinsekai, Osaka, Japan",
+  "position": {
+    "lat": 34.6522,
+    "lon": 135.5061
+  },
+  "scale": "area",
+  "parentId": "osaka-japan",
+  "placeType": "neighborhood",
+  "source": "https://en.wikipedia.org/wiki/Shinsekai",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shinsekai",
+  "description": "An old Osaka neighbourhood laid out in 1912 on New York and Paris, crowned by the Tsūtenkaku tower and known for kushikatsu.",
+  "descriptionSource": "wikipedia"
+}

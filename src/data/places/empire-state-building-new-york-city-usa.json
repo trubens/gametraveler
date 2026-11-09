@@ -1,0 +1,14 @@
+{
+  "id": "empire-state-building-new-york-city-usa",
+  "name": "Empire State Building, New York City, USA",
+  "position": {
+    "lat": 40.7484,
+    "lon": -73.9857
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Empire_State_Building",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Empire_State_Building",
+  "description": "The 102-storey skyscraper rising from Midtown South in Manhattan, one of the tallest in New York City."
+}

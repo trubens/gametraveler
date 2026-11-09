@@ -1,0 +1,13 @@
+{
+  "id": "sikkim-india",
+  "name": "Sikkim, India",
+  "position": {
+    "lat": 27.3389,
+    "lon": 88.6065
+  },
+  "scale": "area",
+  "parentId": "india",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sikkim",
+  "description": "A small Himalayan state in north-east India, wedged between Nepal, Tibet and Bhutan, with West Bengal to the south."
+}

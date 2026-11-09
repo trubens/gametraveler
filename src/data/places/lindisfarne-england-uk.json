@@ -1,0 +1,18 @@
+{
+  "id": "lindisfarne-england-uk",
+  "name": "Lindisfarne, England, UK",
+  "position": {
+    "lat": 55.68,
+    "lon": -1.8025
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "island",
+  "aliases": [
+    "Holy Island"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Lindisfarne",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lindisfarne",
+  "description": "A tidal island off the Northumberland coast, also called Holy Island, whose monastery was sacked by Vikings in 793.",
+  "descriptionSource": "wikipedia"
+}

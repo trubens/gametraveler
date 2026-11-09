@@ -1,0 +1,12 @@
+{
+  "id": "nord-quebec-canada",
+  "name": "Nord-Quebec, Canada",
+  "position": {
+    "lat": 50,
+    "lon": -77
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nord-du-Qu%C3%A9bec",
+  "description": "The largest and emptiest of Quebec's administrative regions, covering the vast north of the province."
+}

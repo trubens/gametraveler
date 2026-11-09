@@ -1,0 +1,14 @@
+{
+  "id": "visby-sweden",
+  "name": "Visby, Sweden",
+  "position": {
+    "lat": 57.6347,
+    "lon": 18.2992
+  },
+  "scale": "area",
+  "parentId": "gotland-sweden",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Visby",
+  "description": "The main town of Gotland, a Hanseatic trading port whose medieval ring wall still encloses the old town, a UNESCO World Heritage Site.",
+  "descriptionSource": "wikipedia"
+}

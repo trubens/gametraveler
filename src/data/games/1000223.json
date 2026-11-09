@@ -1,0 +1,24 @@
+{
+  "id": 1000223,
+  "name": "Nancy Drew: The Final Scene",
+  "year": 2001,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "st-louis-missouri-usa",
+      "aliases": [
+        "Royal Palladium"
+      ],
+      "settingType": "fictionalized",
+      "note": "When her friend Maya is kidnapped at a movie premiere, Nancy has three days before the Royal Palladium, a theater where Houdini once performed, is demolished to find her among its trapdoors and magic props."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_The_Final_Scene",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

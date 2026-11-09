@@ -1,0 +1,21 @@
+{
+  "id": 325,
+  "name": "MotoGP 17",
+  "year": 2017,
+  "series": "MotoGP",
+  "developer": "Milestone srl",
+  "publisher": "Milestone srl",
+  "locations": [
+    {
+      "placeId": "mugello-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 6 of 18 in the 2017 MotoGP season."
+    }
+  ],
+  "storyYears": [
+    2017
+  ],
+  "source": "https://en.wikipedia.org/wiki/MotoGP_17",
+  "genres": [
+    "Racing"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1000304,
+  "name": "Fallout: London",
+  "year": 2024,
+  "aliases": [
+    "FOLON"
+  ],
+  "series": "Fallout",
+  "developer": "Team FOLON",
+  "publisher": "Team FOLON",
+  "genres": [
+    "Action RPG"
+  ],
+  "storyYears": [
+    2237
+  ],
+  "source": "https://en.wikipedia.org/wiki/Fallout:_London",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "A total-conversion mod of Fallout 4 that rebuilds a post-nuclear London of 2237, fifteen boroughs from Camden to Croydon, with the Thames, the Underground and the landmarks standing in the ruins.",
+      "source": "https://en.wikipedia.org/wiki/Fallout:_London"
+    },
+    {
+      "placeId": "big-ben-london-uk",
+      "note": "The Palace of Westminster and its clock tower stand over the wasteland of Westminster.",
+      "source": "https://en.wikipedia.org/wiki/Fallout:_London"
+    },
+    {
+      "placeId": "westminster-abbey-london-uk",
+      "note": "The abbey is among the Westminster landmarks the mod rebuilds.",
+      "source": "https://en.wikipedia.org/wiki/Fallout:_London"
+    },
+    {
+      "placeId": "buckingham-palace-london-uk",
+      "note": "Buckingham Palace survives into 2237 as one of the great set pieces.",
+      "source": "https://en.wikipedia.org/wiki/Fallout:_London"
+    },
+    {
+      "placeId": "10-downing-street-london-uk",
+      "note": "Downing Street is one of the named places of the Westminster region.",
+      "source": "https://en.wikipedia.org/wiki/Fallout:_London"
+    },
+    {
+      "placeId": "london-eye-london-uk",
+      "note": "The London Eye still turns over the Thames, and a settlement sits just south of it.",
+      "source": "https://en.wikipedia.org/wiki/Fallout:_London"
+    },
+    {
+      "placeId": "st-pauls-cathedral-london-uk",
+      "note": "St Paul's anchors the City of London region.",
+      "source": "https://fallout.wiki/wiki/Mod:Fallout_London/City_of_London"
+    },
+    {
+      "placeId": "tower-bridge-london-uk",
+      "note": "Tower Bridge is one of the landmarks that make the capital recognisable.",
+      "source": "https://www.londonworld.com/whats-on/fallout-4-london-landmarks-4723815"
+    },
+    {
+      "placeId": "bank-of-england-london-uk",
+      "note": "The Bank of England is a region of its own, with keys to hunt down inside.",
+      "source": "https://fallout.wiki/wiki/Mod:Fallout_London/Locations"
+    },
+    {
+      "placeId": "camden-town-london-uk",
+      "note": "Camden and its Underground station are one of the fifteen boroughs.",
+      "source": "https://falloutlondonmod.com/regions/"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "hanbury-street-london-uk",
+  "name": "Hanbury Street, London, UK",
+  "position": {
+    "lat": 51.52,
+    "lon": -0.0692
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hanbury_Street",
+  "description": "A Spitalfields street where Annie Chapman was found in the yard of number 29 in September 1888.",
+  "descriptionSource": "wikipedia"
+}

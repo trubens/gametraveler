@@ -1,0 +1,13 @@
+{
+  "id": "ecuador",
+  "name": "Ecuador",
+  "position": {
+    "lat": -1.26,
+    "lon": -78.19
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ecuador",
+  "description": "A country in north-western South America, with Colombia to the north, Peru to the east and south, and the Pacific to the west."
+}

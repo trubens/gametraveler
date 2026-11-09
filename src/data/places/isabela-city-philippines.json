@@ -1,0 +1,15 @@
+{
+  "id": "isabela-city-philippines",
+  "name": "Isabela City, Philippines",
+  "position": {
+    "lat": 6.7,
+    "lon": 121.97
+  },
+  "scale": "area",
+  "parentId": "philippines",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Isabela,_Basilan",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isabela,_Basilan",
+  "description": "A port city and de facto capital of Basilan province in the southern Philippines.",
+  "descriptionSource": "wikipedia"
+}

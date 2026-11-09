@@ -1,0 +1,23 @@
+{
+  "id": 1000265,
+  "name": "Alone in the Dark: The New Nightmare",
+  "year": 2001,
+  "series": "Alone in the Dark",
+  "developer": "Darkworks",
+  "publisher": "Infogrames",
+  "genres": [
+    "Survival Horror"
+  ],
+  "storyYears": [
+    2001
+  ],
+  "source": "https://en.wikipedia.org/wiki/Alone_in_the_Dark:_The_New_Nightmare",
+  "reviewed": "2026-11-02",
+  "locations": [
+    {
+      "placeId": "shadow-island-fictional-massachusetts-usa",
+      "settingType": "fictionalized",
+      "note": "On Halloween 2001 Carnby and Aline Cedrac parachute onto Shadow Island after a creature attacks their plane, and search Obed Morton's manor for the tablets Charles Fiske died hunting."
+    }
+  ]
+}

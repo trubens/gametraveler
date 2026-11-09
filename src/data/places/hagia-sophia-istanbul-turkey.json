@@ -1,0 +1,14 @@
+{
+  "id": "hagia-sophia-istanbul-turkey",
+  "name": "Hagia Sophia, Istanbul, Turkey",
+  "position": {
+    "lat": 41.0086,
+    "lon": 28.9802
+  },
+  "scale": "site",
+  "parentId": "istanbul-turkey",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+  "description": "Istanbul's grandest monument, a church for over a thousand years, then a mosque, a museum, and since 2020 a mosque once more."
+}

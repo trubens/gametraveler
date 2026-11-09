@@ -1,0 +1,34 @@
+{
+  "id": 238,
+  "name": "Mafia II",
+  "year": 2010,
+  "publisher": "2K Games",
+  "series": "Mafia",
+  "developer": "2K Czech",
+  "locations": [
+    {
+      "placeId": "sicily-italy",
+      "settingType": "fictionalized",
+      "note": "In the 1943 Allied invasion of Sicily, Vito Scaletta fights through San Celeste, an invented Sicilian town."
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "aliases": [
+        "Empire Bay"
+      ],
+      "settingType": "fictionalized",
+      "note": "Home on leave from the army, Vito turns to crime with his friend Joe Barbaro in Empire Bay, the game's New York."
+    }
+  ],
+  "storyYears": [
+    1943,
+    1945,
+    1951
+  ],
+  "source": "https://en.wikipedia.org/wiki/Mafia_II",
+  "route": true,
+  "publisherUrl": "https://en.wikipedia.org/wiki/2K_(company)",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 1000338,
+  "name": "Far Cry 3",
+  "year": 2012,
+  "series": "Far Cry",
+  "developer": "Ubisoft Montreal",
+  "publisher": "Ubisoft",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    2012
+  ],
+  "source": "https://en.wikipedia.org/wiki/Far_Cry_3",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "bangkok-thailand",
+      "note": "Jason Brody's holiday with his friends in Bangkok, ending in the skydiving trip that drops them onto the Rook Islands."
+    },
+    {
+      "placeId": "rook-islands-fictional",
+      "note": "Captured by the pirate lord Vaas, Jason escapes, joins the Rakyat and fights to free his friends and the islands.",
+      "settingType": "fictionalized"
+    }
+  ],
+  "routes": [
+    {
+      "id": "jason",
+      "name": "Jason Brody",
+      "characters": [
+        "Jason Brody"
+      ],
+      "stops": [
+        "bangkok-thailand",
+        "rook-islands-fictional"
+      ],
+      "note": "From the Bangkok holiday to the islands.",
+      "source": "https://en.wikipedia.org/wiki/Far_Cry_3"
+    }
+  ]
+}

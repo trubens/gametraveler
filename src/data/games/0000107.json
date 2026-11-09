@@ -1,0 +1,22 @@
+{
+  "id": 107,
+  "name": "Shenmue",
+  "year": 1999,
+  "publisher": "Sega",
+  "series": "Shenmue",
+  "developer": "Sega AM2",
+  "locations": [
+    {
+      "placeId": "yokosuka-japan",
+      "note": "In 1986 Yokosuka, Ryo Hazuki hunts the man who killed his father in the family dojo."
+    }
+  ],
+  "storyYears": [
+    1986
+  ],
+  "source": "https://en.wikipedia.org/wiki/Shenmue_(video_game)",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "san-leo-italy",
+  "name": "San Leo, Italy",
+  "position": {
+    "lat": 43.8964,
+    "lon": 12.3436
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/San_Leo",
+  "description": "A town in Emilia-Romagna south-east of Bologna and south-west of Rimini."
+}

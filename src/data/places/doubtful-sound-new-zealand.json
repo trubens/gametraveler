@@ -1,0 +1,14 @@
+{
+  "id": "doubtful-sound-new-zealand",
+  "name": "Doubtful Sound, New Zealand",
+  "position": {
+    "lat": -45.3167,
+    "lon": 166.9833
+  },
+  "scale": "area",
+  "parentId": "new-zealand",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Doubtful_Sound",
+  "description": "A deep fiord in Fiordland in the far south-west of New Zealand's South Island.",
+  "descriptionSource": "wikipedia"
+}

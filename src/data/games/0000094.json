@@ -1,0 +1,20 @@
+{
+  "id": 94,
+  "name": "Broken Roads",
+  "year": 2024,
+  "publisher": "Versus Evil",
+  "developer": "Drop Bear Bytes",
+  "locations": [
+    {
+      "placeId": "wheatbelt-western-australia-australia",
+      "note": "A post-apocalyptic RPG set in Western Australia's Wheatbelt, built from the developers' trips to the region."
+    }
+  ],
+  "storyYears": [
+    2199
+  ],
+  "source": "https://en.wikipedia.org/wiki/Broken_Roads_(video_game)",
+  "genres": [
+    "RPG"
+  ]
+}

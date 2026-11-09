@@ -1,0 +1,21 @@
+{
+  "id": 327,
+  "name": "MotoGP 20",
+  "year": 2020,
+  "series": "MotoGP",
+  "developer": "Milestone srl",
+  "publisher": "Milestone srl",
+  "locations": [
+    {
+      "placeId": "mugello-circuit-italy",
+      "note": "The 2020 Italian motorcycle Grand Prix at Mugello was cancelled in the pandemic, but in the game as originally planned."
+    }
+  ],
+  "storyYears": [
+    2020
+  ],
+  "source": "https://en.wikipedia.org/wiki/MotoGP_20",
+  "genres": [
+    "Racing"
+  ]
+}

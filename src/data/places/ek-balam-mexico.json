@@ -1,0 +1,17 @@
+{
+  "id": "ek-balam-mexico",
+  "name": "Ek' Balam, Mexico",
+  "position": {
+    "lat": 20.8911,
+    "lon": -88.1364
+  },
+  "scale": "area",
+  "parentId": "mexico",
+  "placeType": "landmark",
+  "aliases": [
+    "Ek Balam"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ek%27_Balam",
+  "description": "A Maya city in the Yucatán lowlands north of Valladolid, with a great acropolis and stucco jaguar-mouth doorway.",
+  "descriptionSource": "wikipedia"
+}

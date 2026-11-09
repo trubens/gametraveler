@@ -1,0 +1,95 @@
+{
+  "id": 467,
+  "name": "Medal of Honor: Warfighter",
+  "year": 2012,
+  "series": "Medal of Honor",
+  "developer": "Danger Close Games",
+  "publisher": "Electronic Arts",
+  "locations": [
+    {
+      "placeId": "karachi-pakistan",
+      "note": "Mako's charge at the Karachi docks sets off hidden PETN in the shipping containers; later Mako storms a PETN freighter bound for Karachi and frees Preacher."
+    },
+    {
+      "placeId": "isabela-city-philippines",
+      "note": "Following the PETN to Isabela City, Mother and Preacher help Philippine forces free hostages from Abu Sayyaf, and Khalifa escapes."
+    },
+    {
+      "placeId": "somalia",
+      "note": "A Task Force Mako raid on the Somali coast, one of the campaign's four theatres."
+    },
+    {
+      "placeId": "madrid-spain",
+      "note": "Waiting at a Madrid station for his wife's train, Preacher spots Khalifa but cannot stop him blowing himself up.",
+      "source": "https://en.wikipedia.org/wiki/Medal_of_Honor:_Warfighter"
+    },
+    {
+      "placeId": "pakistan",
+      "note": "Task Force Blackbird hunts the gun-runner Faraz past ISI agents, and in the finale Mako and Preacher raid the Cleric's compound and kill Hassan.",
+      "source": "https://en.wikipedia.org/wiki/Medal_of_Honor:_Warfighter"
+    },
+    {
+      "placeId": "yemen",
+      "note": "Mako raids a terrorist PETN store in Yemen and finds a training camp with mock-ups of airports and train stations, but only half the explosives.",
+      "source": "https://en.wikipedia.org/wiki/Medal_of_Honor:_Warfighter"
+    },
+    {
+      "placeId": "dubai-uae",
+      "note": "Blackbird snatches the banker Hassan in Dubai and uploads his laptop's data, but Mother and Preacher are captured.",
+      "source": "https://en.wikipedia.org/wiki/Medal_of_Honor:_Warfighter"
+    },
+    {
+      "placeId": "sarajevo-olympic-bobsleigh-and-luge-track-sarajevo-bosnia-and-herzegovina",
+      "note": "Mako and Polish GROM operators track the arms dealer Stovan Bosic to the abandoned 1984 Olympic bobsled track and capture him.",
+      "source": "https://en.wikipedia.org/wiki/Medal_of_Honor:_Warfighter"
+    }
+  ],
+  "storyYears": [
+    2012
+  ],
+  "source": "https://en.wikipedia.org/wiki/Medal_of_Honor:_Warfighter",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "task-force-mako",
+      "name": "Task Force Mako",
+      "characters": [
+        "Voodoo",
+        "Stump",
+        "Dingo",
+        "Tick"
+      ],
+      "stops": [
+        "karachi-pakistan",
+        "isabela-city-philippines",
+        "somalia",
+        "yemen",
+        "sarajevo-olympic-bobsleigh-and-luge-track-sarajevo-bosnia-and-herzegovina",
+        "pakistan"
+      ],
+      "note": "Mako's charge at the Karachi docks sets off a PETN trail through Isabela City, the Somali coast, a Yemeni training camp and Sarajevo's old Olympic bobsled track, ending in the raid on the Cleric's compound in Pakistan.",
+      "source": "https://en.wikipedia.org/wiki/Medal_of_Honor:_Warfighter"
+    },
+    {
+      "id": "preacher",
+      "name": "Preacher",
+      "characters": [
+        "Preacher",
+        "Mother"
+      ],
+      "stops": [
+        "karachi-pakistan",
+        "isabela-city-philippines",
+        "madrid-spain",
+        "pakistan",
+        "dubai-uae",
+        "pakistan"
+      ],
+      "note": "Forced out after Isabela City, Preacher survives the Madrid station bombing, joins Mother in Task Force Blackbird to hunt Faraz in Pakistan and Hassan in Dubai, and is captured there before the final raid in Pakistan.",
+      "source": "https://en.wikipedia.org/wiki/Medal_of_Honor:_Warfighter"
+    }
+  ]
+}

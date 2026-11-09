@@ -1,0 +1,14 @@
+{
+  "id": "pennsylvania-usa",
+  "name": "Pennsylvania, USA",
+  "position": {
+    "lat": 40.9,
+    "lon": -77.8
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pennsylvania",
+  "description": "A state of the north-eastern United States, from Philadelphia on the Delaware to the Appalachian farmland and coal country of its west.",
+  "descriptionSource": "wikipedia"
+}

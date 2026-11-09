@@ -1,0 +1,17 @@
+{
+  "id": "221b-baker-street-london-uk",
+  "name": "221B Baker Street, London, UK",
+  "position": {
+    "lat": 51.5233,
+    "lon": -0.1583
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "aliases": [
+    "Baker Street"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/221B_Baker_Street",
+  "description": "Sherlock Holmes's address in Marylebone, a number that did not exist when Conan Doyle chose it and is now the Sherlock Holmes Museum.",
+  "descriptionSource": "wikipedia"
+}

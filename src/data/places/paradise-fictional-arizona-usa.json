@@ -1,0 +1,15 @@
+{
+  "id": "paradise-fictional-arizona-usa",
+  "name": "Paradise, Arizona, USA",
+  "position": {
+    "lat": 31.4481,
+    "lon": -109.9283
+  },
+  "scale": "area",
+  "parentId": "arizona-usa",
+  "placeType": "city",
+  "fictional": true,
+  "source": "https://postal.fandom.com/wiki/Paradise",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bisbee,_Arizona",
+  "description": "An invented Arizona town based on the mining town of Bisbee, with street signs placing it near Willcox in Cochise County. Pinned on Bisbee."
+}

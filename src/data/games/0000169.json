@@ -1,0 +1,28 @@
+{
+  "id": 169,
+  "name": "Grand Theft Auto: London 1969",
+  "aliases": [
+    "GTA",
+    "GTA London 1969"
+  ],
+  "year": 1999,
+  "publisher": "Rockstar Games",
+  "series": "Grand Theft Auto",
+  "developer": "Rockstar Canada",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "The player works up through London's 1969 underworld, taking jobs from ringing phone boxes for a string of gangland bosses.",
+      "settingType": "fictionalized"
+    }
+  ],
+  "storyYears": [
+    1969
+  ],
+  "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_London_1969",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Rockstar_Games",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

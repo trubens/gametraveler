@@ -1,0 +1,64 @@
+{
+  "id": 31,
+  "name": "The Testament of Sherlock Holmes",
+  "year": 2012,
+  "publisher": "Focus Home Interactive",
+  "series": "Sherlock Holmes",
+  "developer": "Frogwares",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "In 1898 Holmes is accused of stealing the Samoan necklace and, as the evidence turns against him, of worse; he and Watson chase the case from Baker Street to the East End, a prison, the docks, the sewers and an abandoned fun-fair."
+    },
+    {
+      "placeId": "221b-baker-street-london-uk",
+      "note": "Home base: Holmes's rooms, where the case opens and Watson pieces the testament together.",
+      "source": "https://mysterymanor.net/walkthroughs/Sherlock_Holmes_Testament/holmes_testament_index.htm"
+    },
+    {
+      "placeId": "knightsbridge-london-uk",
+      "note": "The Bishop of Knightsbridge is found tied up, burnt and mutilated in his house.",
+      "source": "https://mysterymanor.net/walkthroughs/Sherlock_Holmes_Testament/holmes_testament_index.htm"
+    },
+    {
+      "placeId": "whitechapel-london-uk",
+      "note": "The dispensary and the opium den where the poison was bought, and Holmes's hideout at 6 Buck's Row.",
+      "source": "https://mysterymanor.net/walkthroughs/Sherlock_Holmes_Testament/holmes_testament_index.htm"
+    },
+    {
+      "placeId": "kensington-gardens-london-uk",
+      "note": "A chapter in the gardens, on the trail of the necklace.",
+      "source": "https://mysterymanor.net/walkthroughs/Sherlock_Holmes_Testament/holmes_testament_index.htm"
+    }
+  ],
+  "storyYears": [
+    1898
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Testament_of_Sherlock_Holmes",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Frogwares",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Focus_Entertainment",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "holmes-and-watson",
+      "name": "Sherlock Holmes and Dr. Watson",
+      "characters": [
+        "Sherlock Holmes",
+        "Dr. Watson",
+        "Toby"
+      ],
+      "stops": [
+        "221b-baker-street-london-uk",
+        "knightsbridge-london-uk",
+        "whitechapel-london-uk",
+        "kensington-gardens-london-uk",
+        "whitechapel-london-uk"
+      ],
+      "note": "From a stolen necklace to a mutilated bishop in Knightsbridge, the trail runs through Whitechapel's opium dens and Kensington Gardens until Watson finds a hunted Holmes hiding in a Whitechapel room.",
+      "source": "https://mysterymanor.net/walkthroughs/Sherlock_Holmes_Testament/holmes_testament_index.htm"
+    }
+  ]
+}

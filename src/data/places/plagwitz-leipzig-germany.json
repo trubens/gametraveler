@@ -1,0 +1,14 @@
+{
+  "id": "plagwitz-leipzig-germany",
+  "name": "Plagwitz, Leipzig, Germany",
+  "position": {
+    "lat": 51.3264,
+    "lon": 12.3333
+  },
+  "scale": "site",
+  "parentId": "leipzig-germany",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Plagwitz",
+  "description": "The industrial quarter west of the centre, built up in the 19th century with factories along the Karl-Heine canal and villas for their owners.",
+  "descriptionSource": "wikipedia"
+}

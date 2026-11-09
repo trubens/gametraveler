@@ -1,0 +1,18 @@
+{
+  "id": "basilica-of-saint-denis-france",
+  "name": "Basilica of Saint-Denis, France",
+  "position": {
+    "lat": 48.9356,
+    "lon": 2.3597
+  },
+  "scale": "site",
+  "parentId": "france",
+  "placeType": "landmark",
+  "aliases": [
+    "Franciade",
+    "Saint-Denis"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Basilica_of_Saint-Denis",
+  "description": "The Gothic abbey church north of Paris where the kings of France were buried; its tombs were opened in 1793.",
+  "descriptionSource": "wikipedia"
+}

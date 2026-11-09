@@ -1,0 +1,16 @@
+{
+  "id": "kyalami-grand-prix-circuit-south-africa",
+  "name": "Kyalami Grand Prix Circuit, South Africa",
+  "position": {
+    "lat": -25.9981,
+    "lon": 28.0689
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "aliases": [
+    "Kyalami"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kyalami",
+  "description": "The circuit at Midrand between Johannesburg and Pretoria, home of the South African Grand Prix for most of its history.",
+  "descriptionSource": "wikipedia"
+}

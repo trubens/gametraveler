@@ -1,0 +1,12 @@
+{
+  "id": "rub-al-khali-saudi-arabia",
+  "name": "Rub' al Khali, Saudi Arabia",
+  "position": {
+    "lat": 20,
+    "lon": 50
+  },
+  "scale": "area",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rub%27_al_Khali",
+  "description": "The vast sand desert covering most of the southern third of the Arabian Peninsula, spread across Saudi Arabia, Oman, the Emirates and Yemen."
+}

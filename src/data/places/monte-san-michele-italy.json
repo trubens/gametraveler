@@ -1,0 +1,14 @@
+{
+  "id": "monte-san-michele-italy",
+  "name": "Monte San Michele, Italy",
+  "position": {
+    "lat": 45.8858,
+    "lon": 13.5469
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Monte_San_Michele",
+  "description": "A hill on the Karst Plateau in the province of Gorizia, one of the most fought-over heights of the Isonzo front.",
+  "descriptionSource": "wikipedia"
+}

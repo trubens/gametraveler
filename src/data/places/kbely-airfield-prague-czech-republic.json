@@ -1,0 +1,14 @@
+{
+  "id": "kbely-airfield-prague-czech-republic",
+  "name": "Kbely Airfield, Prague, Czech Republic",
+  "position": {
+    "lat": 50.1214,
+    "lon": 14.5336
+  },
+  "scale": "site",
+  "parentId": "prague-czech-republic",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kbely",
+  "description": "Prague's oldest airfield, on the north-eastern edge of the city, a Luftwaffe base in the war and now an aviation museum.",
+  "descriptionSource": "wikipedia"
+}

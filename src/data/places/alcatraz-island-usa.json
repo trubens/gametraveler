@@ -1,0 +1,12 @@
+{
+  "id": "alcatraz-island-usa",
+  "name": "Alcatraz Island, USA",
+  "position": {
+    "lat": 37.8267,
+    "lon": -122.423
+  },
+  "scale": "area",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alcatraz_Island",
+  "description": "A small island in San Francisco Bay, a little over a mile offshore from the city and close to the Golden Gate strait."
+}

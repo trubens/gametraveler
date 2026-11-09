@@ -1,0 +1,64 @@
+{
+  "id": 27,
+  "name": "Assassin’s Creed Chronicles: China",
+  "aliases": [
+    "AC",
+    "AC Chronicles China"
+  ],
+  "year": 2015,
+  "publisher": "Ubisoft",
+  "developer": "Climax Studios",
+  "locations": [
+    {
+      "placeId": "maijishan-grottoes-china",
+      "note": "Shao Jun's escape from a prison in the Maijishan Grottoes opens the game."
+    },
+    {
+      "placeId": "macao-china",
+      "note": "Shao Jun travels to the port of Macau with Wang Yangming to assassinate the Tiger Yu Dayong."
+    },
+    {
+      "placeId": "nan-an-fujian-china",
+      "note": "Shao Jun tracks the Tiger Wei Bin to Nan'an in Fujian province."
+    },
+    {
+      "placeId": "beijing-forbidden-city-china",
+      "note": "In 1530 Shao Jun infiltrates the Forbidden City to ask Empress Zhang for help."
+    },
+    {
+      "placeId": "great-wall-china",
+      "note": "Shao Jun stops the Mongol invasion at the Great Wall and faces Zhang Yong."
+    }
+  ],
+  "storyYears": [
+    1526,
+    1530,
+    1532
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Chronicles",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "developerUrl": "https://en.wikipedia.org/wiki/Climax_Studios",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "series": "Assassin's Creed",
+  "routes": [
+    {
+      "id": "shao-jun",
+      "name": "Shao Jun",
+      "characters": [
+        "Shao Jun"
+      ],
+      "stops": [
+        "maijishan-grottoes-china",
+        "macao-china",
+        "nan-an-fujian-china",
+        "beijing-forbidden-city-china",
+        "great-wall-china"
+      ],
+      "note": "From the prison escape at Maijishan to the last stand on the Great Wall.",
+      "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Chronicles"
+    }
+  ]
+}

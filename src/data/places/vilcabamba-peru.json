@@ -1,0 +1,13 @@
+{
+  "id": "vilcabamba-peru",
+  "name": "Vilcabamba, Peru",
+  "position": {
+    "lat": -12.904,
+    "lon": -73.203
+  },
+  "scale": "area",
+  "parentId": "peru",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vilcabamba,_Peru",
+  "description": "The lost city of the Incas in the Cuzco region."
+}

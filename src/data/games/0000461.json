@@ -1,0 +1,67 @@
+{
+  "id": 461,
+  "name": "Medal of Honor: Rising Sun",
+  "year": 2003,
+  "series": "Medal of Honor",
+  "developer": "EA Los Angeles",
+  "publisher": "EA Games",
+  "locations": [
+    {
+      "placeId": "pearl-harbor-hawaii-usa",
+      "note": "7 December 1941: Joe wakes aboard the USS California to the Japanese attack and fights from a PT boat to defend Battleship Row."
+    },
+    {
+      "placeId": "calumpit-philippines",
+      "note": "January 1942: Joe and Gunny win back a captured demolition truck so the Calumpit Bridge can be blown, but Joe's brother Donnie is lost when his tank is overrun."
+    },
+    {
+      "placeId": "guadalcanal-solomon-islands",
+      "note": "August 1942: Gunny and Joe raid Guadalcanal at midnight to take the airfield, and in October face the artillery of 'Pistol Pete'."
+    },
+    {
+      "placeId": "singapore",
+      "note": "March 1943: Joe infiltrates an Axis summit in occupied Singapore in a stolen German uniform."
+    },
+    {
+      "placeId": "myanmar",
+      "note": "April 1944: Joe, Tanaka and Bromley hunt Shima's gold-smelting temples in Burma and rescue their downed Flying Tigers pilot."
+    },
+    {
+      "placeId": "thailand",
+      "note": "July 1944: Joe falls from the plane over Thailand and blows up a train loaded with Shima's gold."
+    }
+  ],
+  "storyYears": [
+    1941,
+    1942,
+    1943,
+    1944
+  ],
+  "source": "https://en.wikipedia.org/wiki/Medal_of_Honor:_Rising_Sun",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "joe-griffin",
+      "name": "Cpl. Joe Griffin",
+      "characters": [
+        "Joseph 'Joe' Griffin",
+        "Jack 'Gunny' Lauton",
+        "Harry Tanaka",
+        "Philip Bromley"
+      ],
+      "stops": [
+        "pearl-harbor-hawaii-usa",
+        "calumpit-philippines",
+        "guadalcanal-solomon-islands",
+        "singapore",
+        "myanmar",
+        "thailand"
+      ],
+      "note": "Joe wakes to the Pearl Harbor attack, loses his brother at Calumpit Bridge and raids Guadalcanal, then turns OSS agent chasing Shima's gold through Singapore, Burma and Thailand.",
+      "source": "https://en.wikipedia.org/wiki/Medal_of_Honor:_Rising_Sun"
+    }
+  ]
+}

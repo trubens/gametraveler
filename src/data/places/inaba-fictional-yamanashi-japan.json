@@ -1,0 +1,19 @@
+{
+  "id": "inaba-fictional-yamanashi-japan",
+  "name": "Inaba, Yamanashi, Japan",
+  "position": {
+    "lat": 35.6576,
+    "lon": 138.6353
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "city",
+  "fictional": true,
+  "aliases": [
+    "Inaba",
+    "Yasoinaba"
+  ],
+  "source": "https://kotaku.com/persona-4s-train-station-is-real-and-its-closing-1513048570",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fuefuki,_Yamanashi",
+  "description": "The invented country town of Persona 4, which Atlus based on a town on the outskirts of Mount Fuji. Its Yasoinaba Station was modelled on Isawa-Onsen Station in Fuefuki, Yamanashi, so the pin stands on that station; the town itself has no single real counterpart."
+}

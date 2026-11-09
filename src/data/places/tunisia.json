@@ -1,0 +1,13 @@
+{
+  "id": "tunisia",
+  "name": "Tunisia",
+  "position": {
+    "lat": 33.69,
+    "lon": 9.01
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tunisia",
+  "description": "A country of the Maghreb in North Africa, with Algeria to the west, Libya to the south-east and the Mediterranean to the north and east."
+}

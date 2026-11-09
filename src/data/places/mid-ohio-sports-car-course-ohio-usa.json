@@ -1,0 +1,16 @@
+{
+  "id": "mid-ohio-sports-car-course-ohio-usa",
+  "name": "Mid-Ohio Sports Car Course, Ohio, USA",
+  "position": {
+    "lat": 40.69,
+    "lon": -82.636
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "aliases": [
+    "Mid-Ohio"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mid-Ohio_Sports_Car_Course",
+  "description": "A 2.4-mile road course in the farmland of Morrow County, Ohio, a fixture of American sports-car and IndyCar racing.",
+  "descriptionSource": "wikipedia"
+}

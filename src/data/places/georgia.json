@@ -1,0 +1,13 @@
+{
+  "id": "georgia",
+  "name": "Georgia",
+  "position": {
+    "lat": 41.87,
+    "lon": 43.74
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Georgia_(country)",
+  "description": "A country in the Caucasus on the east coast of the Black Sea, where Eastern Europe meets West Asia."
+}

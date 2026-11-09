@@ -1,0 +1,12 @@
+{
+  "id": "south-dakota-usa",
+  "name": "South Dakota, USA",
+  "position": {
+    "lat": 43.9695,
+    "lon": -99.9018
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/South_Dakota",
+  "description": "A landlocked state of the Great Plains in the north-central United States, home to the Black Hills and Mount Rushmore."
+}

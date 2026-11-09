@@ -1,0 +1,14 @@
+{
+  "id": "kasumigaseki-tokyo-japan",
+  "name": "Kasumigaseki, Tokyo, Japan",
+  "position": {
+    "lat": 35.6752,
+    "lon": 139.753
+  },
+  "scale": "site",
+  "parentId": "tokyo-japan",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kasumigaseki",
+  "description": "The Chiyoda district that holds most of Japan's government ministries and the Tokyo courts, so that its name stands for the bureaucracy itself.",
+  "descriptionSource": "wikipedia"
+}

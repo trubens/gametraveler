@@ -1,0 +1,71 @@
+{
+  "id": 153,
+  "name": "Deus Ex",
+  "year": 2000,
+  "publisher": "Eidos Interactive",
+  "series": "Deus Ex",
+  "developer": "Ion Storm",
+  "locations": [
+    {
+      "placeId": "liberty-island-new-york-city-usa",
+      "note": "JC Denton's first mission: UNATCO's headquarters under the Statue of Liberty, with the NSF holding the island above it."
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "note": "JC's New York missions in a decaying 2052 city: Battery Park, Hell's Kitchen and the airfield at LaGuardia, until he turns against UNATCO."
+    },
+    {
+      "placeId": "hong-kong-china",
+      "note": "JC flees to Hong Kong, where the Triads and the hacker Tracer Tong help him dig into the conspiracy."
+    },
+    {
+      "placeId": "wan-chai-hong-kong",
+      "note": "JC's Hong Kong is the Wan Chai market, the Luminous Path compound and the Versalife tower above it."
+    },
+    {
+      "placeId": "paris-france",
+      "note": "In Paris JC finds the Silhouette resistance and meets Morgan Everett, the Illuminati's leader."
+    },
+    {
+      "placeId": "catacombs-of-paris-france",
+      "note": "JC crosses the Paris catacombs to reach the Silhouette resistance."
+    },
+    {
+      "placeId": "vandenberg-base-california-usa",
+      "note": "JC defends Vandenberg against Walton Simons's assault, where Majestic 12 defectors hide with a second universal constructor."
+    },
+    {
+      "placeId": "area-51-usa",
+      "note": "The finale at Area 51, where Bob Page is merging with the AI Helios and JC chooses how the world ends."
+    }
+  ],
+  "storyYears": [
+    2052
+  ],
+  "source": "https://en.wikipedia.org/wiki/Deus_Ex_(video_game)",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Eidos_Interactive",
+  "genres": [
+    "Action RPG"
+  ],
+  "routes": [
+    {
+      "id": "jc",
+      "name": "JC Denton",
+      "characters": [
+        "JC Denton"
+      ],
+      "stops": [
+        "liberty-island-new-york-city-usa",
+        "new-york-city-usa",
+        "hong-kong-china",
+        "new-york-city-usa",
+        "paris-france",
+        "vandenberg-base-california-usa",
+        "area-51-usa"
+      ],
+      "note": "From UNATCO on Liberty Island to the end at Area 51.",
+      "source": "https://en.wikipedia.org/wiki/Deus_Ex_(video_game)"
+    }
+  ]
+}

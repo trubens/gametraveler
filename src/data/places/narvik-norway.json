@@ -1,0 +1,13 @@
+{
+  "id": "narvik-norway",
+  "name": "Narvik, Norway",
+  "position": {
+    "lat": 68.4385,
+    "lon": 17.4273
+  },
+  "scale": "area",
+  "parentId": "norway",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Narvik_(town)",
+  "description": "A town on the Ofotfjorden in Nordland county."
+}

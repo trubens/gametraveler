@@ -1,0 +1,89 @@
+{
+  "id": 135,
+  "name": "Watch Dogs: Legion",
+  "year": 2020,
+  "publisher": "Ubisoft",
+  "series": "Watch Dogs",
+  "developer": "Ubisoft Toronto",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "settingType": "fictionalized",
+      "note": "In a near-future London policed by the private military company Albion, DedSec recruits ordinary Londoners to liberate the boroughs and unmask Zero Day, the hackers who framed them for a wave of bombings.",
+      "source": "https://en.wikipedia.org/wiki/Watch_Dogs:_Legion"
+    },
+    {
+      "placeId": "palace-of-westminster-london-uk",
+      "aliases": [
+        "Houses of Parliament"
+      ],
+      "note": "DedSec operative Dalton Wolfe defuses Zero Day's bombs inside the Houses of Parliament but is gunned down by drones, and London blames DedSec for the attacks.",
+      "source": "https://en.wikipedia.org/wiki/Watch_Dogs:_Legion"
+    },
+    {
+      "placeId": "tower-of-london-london-uk",
+      "settingType": "fictionalized",
+      "note": "The game makes the Tower Albion's headquarters; once Nigel Cass's crimes are exposed he hides there, and DedSec storms the Tower and kills him.",
+      "source": "https://en.wikipedia.org/wiki/Watch_Dogs:_Legion"
+    },
+    {
+      "placeId": "buckingham-palace-london-uk",
+      "settingType": "fictionalized",
+      "note": "In the Assassin's Creed expansion, DedSec helps the Assassin Darcy Clarkson into a hidden Assassin tomb on the palace grounds, where she fights off Graham Westerly's Albion soldiers.",
+      "source": "https://en.wikipedia.org/wiki/Watch_Dogs:_Legion"
+    },
+    {
+      "placeId": "westminster-abbey-london-uk",
+      "note": "In Hunting Zero-Day, DedSec meets the MI6 agent Richard Malik at Westminster Abbey to start tracking down Zero Day.",
+      "source": "https://www.guides4gamers.com/watch-dogs-legion/quests/hunting-zero-day/"
+    },
+    {
+      "placeId": "tower-bridge-london-uk",
+      "note": "In Defanging the Flock, DedSec holds a terminal on Tower Bridge against Albion's drones while it uploads a virus into Nigel Cass's THEMIS drone network.",
+      "source": "https://www.guides4gamers.com/watch-dogs-legion/quests/defanging-the-flock/"
+    },
+    {
+      "placeId": "bank-of-england-london-uk",
+      "note": "In Take it to the Bank, DedSec breaks into the Bank of England and empties Clan Kelley's laundered accounts.",
+      "source": "https://www.guides4gamers.com/watch-dogs-legion/quests/take-it-to-the-bank/"
+    },
+    {
+      "placeId": "battersea-power-station-london-uk",
+      "settingType": "fictionalized",
+      "aliases": [
+        "The Battersea"
+      ],
+      "note": "In The Black Hole of Battersea, DedSec hijacks a news drone to reach a secret Albion prison beneath the power station and frees the people held there.",
+      "source": "https://www.guides4gamers.com/watch-dogs-legion/quests/the-black-hole-of-battersea/"
+    },
+    {
+      "placeId": "10-downing-street-london-uk",
+      "note": "In Honey Trap, DedSec hacks a Home Office liaison's assistant on Downing Street to find the liaison and steal their biometric credentials.",
+      "source": "https://www.guides4gamers.com/watch-dogs-legion/quests/honey-trap/"
+    },
+    {
+      "placeId": "trafalgar-square-london-uk",
+      "note": "In Kill Box, DedSec waits for Richard Malik at Trafalgar Square; he never shows, and an explosion and Albion soldiers force them to run.",
+      "source": "https://www.guides4gamers.com/watch-dogs-legion/quests/kill-box/"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Watch_Dogs:_Legion",
+  "reviewed": "2026-11-06",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "dedsec-london",
+      "name": "DedSec London",
+      "stops": [
+        "palace-of-westminster-london-uk",
+        "tower-of-london-london-uk"
+      ],
+      "note": "From Zero Day's bombing of Parliament to the storming of Albion's headquarters in the Tower of London.",
+      "source": "https://en.wikipedia.org/wiki/Watch_Dogs:_Legion"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "polyanka-station-moscow-russia",
+  "name": "Polyanka station, Moscow, Russia",
+  "position": {
+    "lat": 55.7379,
+    "lon": 37.618
+  },
+  "scale": "site",
+  "parentId": "moscow-russia",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Polyanka_(Moscow_Metro)",
+  "description": "A Moscow Metro station on the Serpukhovsko-Timiryazevskaya line in the Yakimanka District.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Polyanka_(Moscow_Metro)"
+}

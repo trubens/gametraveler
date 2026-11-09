@@ -1,0 +1,29 @@
+{
+  "id": 1000157,
+  "name": "Aviary Attorney",
+  "year": 2015,
+  "publisher": "Sketchy Logic",
+  "developer": "Sketchy Logic",
+  "genres": [
+    "Adventure",
+    "Visual Novel"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Aviary_Attorney",
+  "locations": [
+    {
+      "placeId": "paris-france",
+      "note": "Investigate cases across a stylized 1848 Paris, visiting real landmarks including Notre-Dame and the Louvre."
+    },
+    {
+      "placeId": "notre-dame-de-paris-france",
+      "note": "Notre-Dame, one of the lithographed Paris landmarks where Falcon and Sparrowson look for witnesses."
+    },
+    {
+      "placeId": "louvre-paris-france",
+      "note": "The Louvre, drawn from Grandville's lithographs, where a case's clues are gathered."
+    }
+  ],
+  "storyYears": [
+    1848
+  ]
+}

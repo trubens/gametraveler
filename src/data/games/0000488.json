@@ -1,0 +1,21 @@
+{
+  "id": 488,
+  "name": "Neo: The World Ends with You",
+  "year": 2021,
+  "developer": "Square Enix Creative Business Unit I / h.a.n.d.",
+  "publisher": "Square Enix",
+  "locations": [
+    {
+      "placeId": "shibuya-tokyo-japan",
+      "note": "The Reapers' Game unfolds through recognizable Shibuya streets and landmarks."
+    }
+  ],
+  "storyYears": [
+    2021
+  ],
+  "source": "https://en.wikipedia.org/wiki/Neo:_The_World_Ends_with_You",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Square_Enix",
+  "genres": [
+    "Action RPG"
+  ]
+}

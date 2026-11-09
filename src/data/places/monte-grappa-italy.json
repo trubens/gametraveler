@@ -1,0 +1,13 @@
+{
+  "id": "monte-grappa-italy",
+  "name": "Monte Grappa, Italy",
+  "position": {
+    "lat": 45.8706,
+    "lon": 11.8019
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Monte_Grappa",
+  "description": "A mountain of the Venetian Prealps in the Veneto."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dubai-uae",
+  "name": "Dubai, UAE",
+  "position": {
+    "lat": 25.2048,
+    "lon": 55.2708
+  },
+  "scale": "area",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dubai",
+  "description": "The largest city in the United Arab Emirates and capital of its emirate, set on a creek on the south-eastern shore of the Persian Gulf."
+}

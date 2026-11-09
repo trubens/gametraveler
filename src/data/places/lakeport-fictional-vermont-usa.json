@@ -1,0 +1,17 @@
+{
+  "id": "lakeport-fictional-vermont-usa",
+  "name": "Lakeport, Vermont, USA",
+  "position": {
+    "lat": 44.4761,
+    "lon": -73.2131
+  },
+  "scale": "area",
+  "parentId": "vermont-usa",
+  "placeType": "city",
+  "fictional": true,
+  "aliases": [
+    "Caledon University"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Life_Is_Strange:_Double_Exposure",
+  "description": "The invented lakeside college town in Vermont that is home to Caledon University in the later Life Is Strange games. No real model has been named; a line about Lake Champlain points to that lake, so the pin on its shore at Burlington is a guess."
+}

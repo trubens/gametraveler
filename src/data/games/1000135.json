@@ -1,0 +1,20 @@
+{
+  "id": 1000135,
+  "name": "The Cat and the Coup",
+  "year": 2011,
+  "publisher": "Independent",
+  "developer": "Peter Brinson and Kurosh ValaNejad",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://store.steampowered.com/app/95700/The_Cat_and_the_Coup/",
+  "locations": [
+    {
+      "placeId": "tehran-iran",
+      "note": "The player retraces Prime Minister Mohammad Mosaddegh’s political downfall during the 1953 coup in Iran."
+    }
+  ],
+  "storyYears": [
+    1953
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gardonyi-house-eger-hungary",
+  "name": "Gárdonyi Géza Memorial House, Eger, Hungary",
+  "position": {
+    "lat": 47.9045,
+    "lon": 20.3785
+  },
+  "scale": "site",
+  "parentId": "eger-hungary",
+  "placeType": "landmark",
+  "aliases": [
+    "Gárdonyi house"
+  ],
+  "source": "https://en.wikipedia.org/wiki/G%C3%A9za_G%C3%A1rdonyi",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/G%C3%A9za_G%C3%A1rdonyi",
+  "description": "The house below Eger Castle where the novelist Géza Gárdonyi lived from 1897 until his death in 1922 and wrote Eclipse of the Crescent Moon, his novel of the 1552 siege. It is kept as a memorial museum with his study and belongings."
+}

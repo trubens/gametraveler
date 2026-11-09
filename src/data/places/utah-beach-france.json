@@ -1,0 +1,13 @@
+{
+  "id": "utah-beach-france",
+  "name": "Utah Beach, France",
+  "position": {
+    "lat": 49.4147,
+    "lon": -1.1753
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Utah_Beach",
+  "description": "The westernmost of the five D-Day landing beaches on the Normandy coast, where American troops came ashore on 6 June 1944."
+}

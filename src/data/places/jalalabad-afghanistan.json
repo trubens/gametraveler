@@ -1,0 +1,14 @@
+{
+  "id": "jalalabad-afghanistan",
+  "name": "Jalalabad, Afghanistan",
+  "position": {
+    "lat": 34.4342,
+    "lon": 70.4478
+  },
+  "scale": "area",
+  "parentId": "afghanistan",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jalalabad",
+  "description": "A city in eastern Afghanistan on the road from Kabul to the Khyber Pass.",
+  "descriptionSource": "wikipedia"
+}

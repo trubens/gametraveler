@@ -1,0 +1,24 @@
+{
+  "id": 1000119,
+  "name": "The Dark Pictures Anthology: Little Hope",
+  "year": 2020,
+  "publisher": "Bandai Namco Entertainment",
+  "series": "The Dark Pictures Anthology",
+  "developer": "Supermassive Games",
+  "locations": [
+    {
+      "placeId": "little-hope-massachusetts-usa-fictional-town",
+      "settingType": "fictionalized",
+      "note": "After their bus crashes, four college students and their professor are trapped by fog in Little Hope and pulled into visions of its colonial witch trials."
+    }
+  ],
+  "storyYears": [
+    1692,
+    1972,
+    2020
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Dark_Pictures_Anthology:_Little_Hope",
+  "genres": [
+    "Interactive Drama"
+  ]
+}

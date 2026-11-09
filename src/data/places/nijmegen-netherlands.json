@@ -1,0 +1,13 @@
+{
+  "id": "nijmegen-netherlands",
+  "name": "Nijmegen, Netherlands",
+  "position": {
+    "lat": 51.84,
+    "lon": 5.85
+  },
+  "scale": "area",
+  "parentId": "netherlands",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nijmegen",
+  "description": "The largest city in the Dutch province of Gelderland."
+}

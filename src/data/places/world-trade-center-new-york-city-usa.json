@@ -1,0 +1,15 @@
+{
+  "id": "world-trade-center-new-york-city-usa",
+  "name": "World Trade Center, New York City, USA",
+  "position": {
+    "lat": 40.7117,
+    "lon": -74.0125
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/World_Trade_Center_(1973%E2%80%932001)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/World_Trade_Center_(1973%E2%80%932001)",
+  "description": "The original seven-building complex in Lower Manhattan's Financial District, with the Twin Towers, built from the late 1960s and destroyed in the attacks of 11 September 2001.",
+  "descriptionSource": "wikipedia"
+}

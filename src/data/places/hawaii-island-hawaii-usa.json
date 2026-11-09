@@ -1,0 +1,13 @@
+{
+  "id": "hawaii-island-hawaii-usa",
+  "name": "Hawaii Island, Hawaii, USA",
+  "position": {
+    "lat": 19.6,
+    "lon": -155.5
+  },
+  "scale": "area",
+  "parentId": "hawaii-usa",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hawaii_(island)",
+  "description": "One of the islands of the US state of Hawaii, far out in the Pacific Ocean south-west of the American mainland."
+}

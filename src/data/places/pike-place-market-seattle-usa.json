@@ -1,0 +1,17 @@
+{
+  "id": "pike-place-market-seattle-usa",
+  "name": "Pike Place Market, Seattle, USA",
+  "position": {
+    "lat": 47.6094,
+    "lon": -122.3417
+  },
+  "scale": "site",
+  "parentId": "seattle-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "Pike Place"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pike_Place_Market",
+  "description": "A public market above Elliott Bay that opened in 1907, one of the oldest continuously operating farmers' markets in the United States.",
+  "descriptionSource": "wikipedia"
+}

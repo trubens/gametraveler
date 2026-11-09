@@ -1,0 +1,17 @@
+{
+  "id": "cairo-citadel-egypt",
+  "name": "Cairo Citadel, Cairo, Egypt",
+  "position": {
+    "lat": 30.0294,
+    "lon": 31.2614
+  },
+  "scale": "site",
+  "parentId": "cairo-egypt",
+  "placeType": "landmark",
+  "aliases": [
+    "Citadel of Saladin"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cairo_Citadel",
+  "description": "Saladin's medieval fortress on the Mokattam spur above the city, crowned by the Muhammad Ali Mosque.",
+  "descriptionSource": "wikipedia"
+}

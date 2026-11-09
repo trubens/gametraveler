@@ -1,0 +1,12 @@
+{
+  "id": "yosemite-valley-usa",
+  "name": "Yosemite Valley, USA",
+  "position": {
+    "lat": 37.7456,
+    "lon": -119.5936
+  },
+  "scale": "area",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yosemite_Valley,_California",
+  "description": "The glacial heart of Yosemite National Park in California, a valley of granite cliffs and waterfalls around Yosemite Village."
+}

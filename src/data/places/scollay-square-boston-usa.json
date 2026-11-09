@@ -1,0 +1,14 @@
+{
+  "id": "scollay-square-boston-usa",
+  "name": "Scollay Square, Boston, USA",
+  "position": {
+    "lat": 42.3594,
+    "lon": -71.0594
+  },
+  "scale": "site",
+  "parentId": "boston-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Scollay_Square",
+  "description": "The old theatre-and-bar square of downtown Boston, demolished in 1962 for Government Center.",
+  "descriptionSource": "wikipedia"
+}

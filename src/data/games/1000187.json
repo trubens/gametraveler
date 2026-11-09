@@ -1,0 +1,22 @@
+{
+  "id": 1000187,
+  "name": "Reversion: The Return (Last Chapter)",
+  "year": 2020,
+  "series": "Reversion",
+  "developer": "3f Interactive",
+  "publisher": "3f Interactive",
+  "locations": [
+    {
+      "placeId": "buenos-aires-argentina",
+      "note": "The final chapter returns to the ruined Buenos Aires, where Christian and the resistance fight to save the city.",
+      "source": "https://store.steampowered.com/app/281080/Reversion__The_Return_Last_Chapter/"
+    }
+  ],
+  "storyYears": [
+    2035
+  ],
+  "source": "https://store.steampowered.com/app/281080/Reversion__The_Return_Last_Chapter/",
+  "genres": [
+    "Adventure"
+  ]
+}

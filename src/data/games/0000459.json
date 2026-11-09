@@ -1,0 +1,22 @@
+{
+  "id": 459,
+  "name": "Medal of Honor: Underground",
+  "year": 2000,
+  "series": "Medal of Honor",
+  "developer": "DreamWorks Interactive (PlayStation) / Rebellion Developments (GBA)",
+  "publisher": "Electronic Arts",
+  "locations": [
+    {
+      "placeId": "paris-france",
+      "note": "Manon works with the French Resistance in occupied Paris."
+    }
+  ],
+  "storyYears": [
+    1940
+  ],
+  "source": "https://en.wikipedia.org/wiki/Medal_of_Honor:_Underground",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

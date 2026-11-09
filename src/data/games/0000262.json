@@ -1,0 +1,74 @@
+{
+  "id": 262,
+  "name": "Sniper Elite III",
+  "aliases": [
+    "Sniper Elite 3"
+  ],
+  "year": 2014,
+  "publisher": "Rebellion Developments / 505 Games",
+  "series": "Sniper Elite",
+  "developer": "Rebellion Developments",
+  "locations": [
+    {
+      "placeId": "tobruk-libya",
+      "note": "The campaign opens with Fairburne supporting the defence of the port against the Afrika Korps."
+    },
+    {
+      "placeId": "gaberoun-libya",
+      "note": "Fairburne infiltrates the oasis to recover intelligence from German officers."
+    },
+    {
+      "placeId": "halfaya-pass-egypt",
+      "note": "Fairburne works through the desert pass to eliminate artillery blocking the Allied advance."
+    },
+    {
+      "placeId": "siwa-oasis-egypt",
+      "note": "A mission at the oasis tasks Fairburne with identifying an officer carrying information about the enemy project."
+    },
+    {
+      "placeId": "kasserine-pass-tunisia",
+      "note": "Fairburne fights through the pass during the investigation of the secret weapons programme."
+    },
+    {
+      "placeId": "el-fahs-tunisia",
+      "note": "Fairburne joins the Long Range Desert Group in storming the German-held Pont du Fahs airfield, cutting Vahlen's last supply line and finding a map to his factory.",
+      "source": "https://en.wikipedia.org/wiki/Sniper_Elite_III"
+    },
+    {
+      "placeId": "mides-tunisia",
+      "settingType": "fictionalized",
+      "note": "Fairburne sabotages Vahlen's hidden factory inside the Midès canyon, blows up the Ratte supertank prototype and kills the general.",
+      "source": "https://en.wikipedia.org/wiki/Sniper_Elite_III"
+    }
+  ],
+  "storyYears": [
+    1942
+  ],
+  "source": "https://en.wikipedia.org/wiki/Sniper_Elite_III",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Tactical Shooter"
+  ],
+  "routes": [
+    {
+      "id": "fairburne",
+      "name": "Karl Fairburne",
+      "characters": [
+        "Karl Fairburne",
+        "Brauer",
+        "General Franz Vahlen"
+      ],
+      "stops": [
+        "tobruk-libya",
+        "gaberoun-libya",
+        "halfaya-pass-egypt",
+        "siwa-oasis-egypt",
+        "kasserine-pass-tunisia",
+        "el-fahs-tunisia",
+        "mides-tunisia"
+      ],
+      "note": "Fairburne escapes the fall of Tobruk and hunts General Vahlen's secret weapon through the Gaberoun oasis, Halfaya Pass and the Siwa Oasis to the Kasserine Pass, the Pont du Fahs airfield and the Ratte factory in the Midès canyon.",
+      "source": "https://en.wikipedia.org/wiki/Sniper_Elite_III"
+    }
+  ]
+}

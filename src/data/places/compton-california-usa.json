@@ -1,0 +1,15 @@
+{
+  "id": "compton-california-usa",
+  "name": "Compton, California, USA",
+  "position": {
+    "lat": 33.8967,
+    "lon": -118.225
+  },
+  "scale": "area",
+  "parentId": "california-usa",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Compton,_California",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Compton,_California",
+  "description": "A city in the Gateway Cities region of southern Los Angeles County, California, south of downtown Los Angeles.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "chester-england-uk",
+  "name": "Chester, England, UK",
+  "position": {
+    "lat": 53.1914,
+    "lon": -2.8903
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "city",
+  "aliases": [
+    "Legacaestir",
+    "Deva Victrix"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Chester",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chester",
+  "description": "A cathedral city on the River Dee in Cheshire, near the Welsh border, founded as the Roman legionary fortress of Deva Victrix.",
+  "descriptionSource": "wikipedia"
+}

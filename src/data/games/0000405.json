@@ -1,0 +1,25 @@
+{
+  "id": 405,
+  "name": "Nancy Drew: Secret of the Scarlet Hand",
+  "year": 2002,
+  "series": "Nancy Drew",
+  "developer": "Her Interactive",
+  "publisher": "DreamCatcher",
+  "locations": [
+    {
+      "placeId": "washington-d-c-usa",
+      "aliases": [
+        "Beech Hill Museum"
+      ],
+      "settingType": "fictionalized",
+      "note": "Interning at the Beech Hill Museum, Nancy hunts the thief who stole a jade carving of King Pacal and left only a red handprint, as the museum prepares to unveil a newly found Maya monolith."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Secret_of_the_Scarlet_Hand",
+  "reviewed": "2026-11-03",
+  "developerUrl": "https://en.wikipedia.org/wiki/HeR_Interactive",
+  "genres": [
+    "Adventure"
+  ]
+}

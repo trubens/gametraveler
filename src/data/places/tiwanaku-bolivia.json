@@ -1,0 +1,14 @@
+{
+  "id": "tiwanaku-bolivia",
+  "name": "Tiwanaku, Bolivia",
+  "position": {
+    "lat": -16.5546,
+    "lon": -68.6735
+  },
+  "scale": "area",
+  "parentId": "bolivia",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tiwanaku",
+  "description": "The ruined pre-Inca capital on the altiplano south of Lake Titicaca, with the Gateway of the Sun and the Akapana pyramid.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 324,
+  "name": "Valentino Rossi: The Game",
+  "year": 2016,
+  "developer": "Milestone S.r.l.",
+  "publisher": "Milestone S.r.l.",
+  "locations": [
+    {
+      "placeId": "mugello-circuit-italy",
+      "note": "Hosts the Italian Grand Prix of the 2016 MotoGP season; Rossi's home race, where he won every premier-class race from 2002 to 2008."
+    }
+  ],
+  "storyYears": [
+    2016
+  ],
+  "source": "https://en.wikipedia.org/wiki/Valentino_Rossi:_The_Game",
+  "aliases": [
+    "MotoGP 16"
+  ],
+  "genres": [
+    "Racing"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": 453,
+  "name": "Battlefield: Bad Company 2",
+  "year": 2010,
+  "series": "Battlefield",
+  "developer": "DICE",
+  "publisher": "Electronic Arts",
+  "locations": [
+    {
+      "placeId": "atacama-desert-chile",
+      "note": "Sangre del Toro: Marlowe crosses the desert to a freighter lost in 1949 and finds the Operation Aurora papers and a scalar component inside."
+    },
+    {
+      "placeId": "sea-of-japan",
+      "note": "Operation Aurora: the 1944 prologue, US commandos landing on an unnamed Japanese island in the Sea of Japan to seize a scientist and a scalar weapon.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "chukotka-russia",
+      "note": "Cold War: Bad Company backs up a US intelligence operation in Russian territory, watches Kirilenko execute the agents, and seizes what turns out to be a dummy scalar weapon.",
+      "source": "http://web.archive.org/web/2025/https://battlefield.fandom.com/wiki/Operation_Aurora/Transcript"
+    },
+    {
+      "placeId": "bolivia",
+      "note": "Heart of Darkness and Upriver: Bad Company follows the CIA's Aguire up a jungle river and rescues him from the militia, then flies up into the snowbound Andes to bring down the satellite holding his intel."
+    },
+    {
+      "placeId": "talinay-wind-farm-chile",
+      "note": "Heavy Metal and High Value Target: riding south toward Chile with a US armoured column, the squad hunts Kirilenko in a settlement near the Talinay wind farms, but he slips away and leaves the Sangre del Toro's manifest behind.",
+      "source": "http://web.archive.org/web/2025/https://battlefield.fandom.com/wiki/Heavy_Metal/Transcript"
+    },
+    {
+      "placeId": "texas-usa",
+      "note": "Airborne: the finale aboard the weapon's aircraft, which Marlowe brings down over Texas."
+    },
+    {
+      "placeId": "valparaiso-chile",
+      "note": "Valparaíso: a multiplayer map down the port's steep streets."
+    },
+    {
+      "placeId": "arica-chile",
+      "note": "Arica Harbor: a multiplayer map through the border town's harbour."
+    },
+    {
+      "placeId": "panama-canal-panama",
+      "note": "Panama Canal: a multiplayer map around the locks."
+    },
+    {
+      "placeId": "valdez-alaska-usa",
+      "note": "Port Valdez: the oil terminal at the end of the pipeline, a multiplayer map."
+    },
+    {
+      "placeId": "alaska-usa",
+      "note": "White Pass and Nelson Bay: snowbound Alaskan multiplayer maps near the Russian border."
+    },
+    {
+      "placeId": "vietnam",
+      "note": "The Vietnam expansion: Phu Bai Valley, Hill 137, Cao Son Temple, Vantage Point and Operation Hastings, 1960s battles in the jungle."
+    }
+  ],
+  "storyYears": [
+    1944,
+    2010
+  ],
+  "source": "https://en.wikipedia.org/wiki/Battlefield:_Bad_Company_2",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "bad-company",
+      "name": "Bad Company",
+      "characters": [
+        "Preston Marlowe",
+        "Samuel Redford",
+        "Terrence Sweetwater",
+        "George Haggard",
+        "Flynn"
+      ],
+      "stops": [
+        "chukotka-russia",
+        "bolivia",
+        "talinay-wind-farm-chile",
+        "atacama-desert-chile",
+        "texas-usa"
+      ],
+      "note": "From the dummy weapon in Russia to the Bolivian jungle and the Andes, south to the Talinay wind farms and a ship wrecked in the desert, then a free fall over Texas from the Scalar's cargo plane.",
+      "source": "https://en.wikipedia.org/wiki/Battlefield:_Bad_Company_2"
+    }
+  ]
+}

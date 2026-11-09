@@ -1,0 +1,17 @@
+{
+  "id": "shibuya-crossing-tokyo-japan",
+  "name": "Shibuya Crossing, Tokyo, Japan",
+  "position": {
+    "lat": 35.6595,
+    "lon": 139.7006
+  },
+  "scale": "site",
+  "parentId": "shibuya-tokyo-japan",
+  "placeType": "landmark",
+  "aliases": [
+    "Shibuya Scramble Crossing"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shibuya_Crossing",
+  "description": "The scramble crossing outside Shibuya Station, where thousands cross at once under the screens.",
+  "descriptionSource": "wikipedia"
+}

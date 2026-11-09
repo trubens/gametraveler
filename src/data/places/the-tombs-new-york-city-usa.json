@@ -1,0 +1,18 @@
+{
+  "id": "the-tombs-new-york-city-usa",
+  "name": "The Tombs, New York City, USA",
+  "position": {
+    "lat": 40.7166,
+    "lon": -74.0014
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "Manhattan Detention Complex"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Tombs",
+  "description": "The colloquial name for the Manhattan Detention Complex, the city jail in Lower Manhattan's civic centre.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/The_Tombs"
+}

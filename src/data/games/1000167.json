@@ -1,0 +1,20 @@
+{
+  "id": 1000167,
+  "name": "David Wolf: Secret Agent",
+  "year": 1989,
+  "publisher": "Dynamix",
+  "developer": "Dynamix",
+  "genres": [
+    "Interactive Drama"
+  ],
+  "source": "https://en.wikipedia.org/wiki/David_Wolf:_Secret_Agent",
+  "locations": [
+    {
+      "placeId": "monte-carlo-monaco",
+      "note": "David Wolf follows his first lead to a Monte Carlo casino, where an enemy pilot was spotted with the kidnapped scientist."
+    }
+  ],
+  "storyYears": [
+    1989
+  ]
+}

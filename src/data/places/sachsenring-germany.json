@@ -1,0 +1,13 @@
+{
+  "id": "sachsenring-germany",
+  "name": "Sachsenring, Germany",
+  "position": {
+    "lat": 50.792,
+    "lon": 12.689
+  },
+  "scale": "site",
+  "parentId": "germany",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sachsenring",
+  "description": "A motorsport circuit at Hohenstein-Ernstthal near Chemnitz in Saxony, best known for its motorcycle grand prix."
+}

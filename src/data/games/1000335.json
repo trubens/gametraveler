@@ -1,0 +1,21 @@
+{
+  "id": 1000335,
+  "name": "Lake",
+  "year": 2021,
+  "developer": "Gamious",
+  "publisher": "Whitethorn Games",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    1986
+  ],
+  "source": "https://en.wikipedia.org/wiki/Lake_(video_game)",
+  "locations": [
+    {
+      "placeId": "providence-oaks-fictional-oregon-usa",
+      "settingType": "fictionalized",
+      "note": "In 1986 software developer Meredith Weiss comes home to Providence Oaks for two weeks and stands in as the town's mail carrier, delivering letters and parcels around the lake and getting to know the people she left behind."
+    }
+  ]
+}

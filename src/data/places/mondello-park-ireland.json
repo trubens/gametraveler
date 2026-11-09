@@ -1,0 +1,13 @@
+{
+  "id": "mondello-park-ireland",
+  "name": "Mondello Park, Ireland",
+  "position": {
+    "lat": 53.286,
+    "lon": -6.747
+  },
+  "scale": "site",
+  "parentId": "ireland",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mondello_Park",
+  "description": "Ireland's only international motorsport venue, set at Caragh in County Kildare within reach of Dublin."
+}

@@ -1,0 +1,54 @@
+{
+  "id": 251,
+  "name": "S.T.A.L.K.E.R.: Clear Sky",
+  "aliases": [
+    "STALKER Clear Sky"
+  ],
+  "year": 2008,
+  "publisher": "Deep Silver",
+  "series": "S.T.A.L.K.E.R.",
+  "developer": "GSC Game World",
+  "locations": [
+    {
+      "placeId": "chernobyl-exclusion-zone-ukraine",
+      "settingType": "fictionalized",
+      "note": "The mercenary Scar works with the Clear Sky faction to stop Strelok reaching the centre of the Zone, passing through the abandoned town of Limansk.",
+      "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Clear_Sky"
+    },
+    {
+      "placeId": "red-forest-ukraine",
+      "note": "Scar nearly catches Strelok in the Red Forest, but he escapes into a tunnel towards the power plant that is blown shut behind him.",
+      "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Clear_Sky"
+    },
+    {
+      "placeId": "chernobyl-nuclear-power-plant-ukraine",
+      "note": "Scar catches up with Strelok at the plant for the final confrontation.",
+      "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Clear_Sky"
+    }
+  ],
+  "storyYears": [
+    2011
+  ],
+  "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Clear_Sky",
+  "reviewed": "2026-11-06",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Deep_Silver",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "scar",
+      "name": "Scar",
+      "characters": [
+        "Scar"
+      ],
+      "stops": [
+        "chernobyl-exclusion-zone-ukraine",
+        "red-forest-ukraine",
+        "chernobyl-nuclear-power-plant-ukraine"
+      ],
+      "note": "Scar's chase after Strelok across the Zone and through the Red Forest to the power plant.",
+      "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Clear_Sky"
+    }
+  ]
+}

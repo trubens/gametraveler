@@ -1,0 +1,17 @@
+{
+  "id": "saaremaa-estonia",
+  "name": "Saaremaa, Estonia",
+  "position": {
+    "lat": 58.4167,
+    "lon": 22.5
+  },
+  "scale": "area",
+  "parentId": "estonia",
+  "placeType": "island",
+  "aliases": [
+    "Ösel"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Saaremaa",
+  "description": "The largest island of Estonia, taken by German landings in Operation Albion in October 1917.",
+  "descriptionSource": "wikipedia"
+}

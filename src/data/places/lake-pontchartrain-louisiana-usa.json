@@ -1,0 +1,15 @@
+{
+  "id": "lake-pontchartrain-louisiana-usa",
+  "name": "Lake Pontchartrain, Louisiana, USA",
+  "position": {
+    "lat": 30.1889,
+    "lon": -90.1014
+  },
+  "scale": "area",
+  "parentId": "louisiana-usa",
+  "placeType": "body_of_water",
+  "source": "https://en.wikipedia.org/wiki/Lake_Pontchartrain",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lake_Pontchartrain",
+  "description": "An estuary in southeastern Louisiana, about 40 miles long and 24 wide, whose southern shore is the New Orleans lakefront.",
+  "descriptionSource": "wikipedia"
+}

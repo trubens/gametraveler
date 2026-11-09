@@ -1,0 +1,14 @@
+{
+  "id": "lindenau-leipzig-germany",
+  "name": "Lindenau, Leipzig, Germany",
+  "position": {
+    "lat": 51.337,
+    "lon": 12.323
+  },
+  "scale": "site",
+  "parentId": "leipzig-germany",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lindenau_(Leipzig)",
+  "description": "A working-class quarter of tenements west of Plagwitz, absorbed into the city in 1891.",
+  "descriptionSource": "wikipedia"
+}

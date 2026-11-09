@@ -1,0 +1,66 @@
+{
+  "id": 34,
+  "name": "Secret Files 2: Puritas Cordis",
+  "year": 2008,
+  "publisher": "Deep Silver",
+  "series": "Secret Files",
+  "developer": "Fusionsphere Systems, Animation Arts",
+  "locations": [
+    {
+      "placeId": "christs-college-cambridge-england-uk",
+      "note": "In the prologue Bishop Parrey hides the coded parchment in the college library, moments before the sect's commandos reach him.",
+      "source": "https://www.gameboomers.com/wtcheats/pcSs/Secretfiles2/secretfiles2.htm"
+    },
+    {
+      "placeId": "hamburg-germany",
+      "note": "At the Hamburg docks a stranger bumps into Nina and dies moments later, just before she boards the cruise ship Calypso."
+    },
+    {
+      "placeId": "north-sea",
+      "note": "Strange accidents pile up aboard the Calypso until a giant wave capsizes the ship.",
+      "source": "https://www.gameboomers.com/wtcheats/pcSs/Secretfiles2/secretfiles2.htm"
+    },
+    {
+      "placeId": "indonesia",
+      "note": "Max photographs an ancient temple on a small Indonesian island, saves the kidnapped Sam Peters and is captured after the sect's bomb sets off an eruption."
+    },
+    {
+      "placeId": "gatineau-fictional-france",
+      "settingType": "fictionalized",
+      "note": "Washed ashore, Nina and vicar David Korell search the ruins of Gatineau for the key named in a dying nun's letter of 1681.",
+      "source": "https://www.gameboomers.com/wtcheats/pcSs/Secretfiles2/secretfiles2.htm"
+    },
+    {
+      "placeId": "paris-france",
+      "note": "Nina and vicar David search a cardinal's secret archives in Paris for the sect's prophecies."
+    }
+  ],
+  "storyYears": [
+    2008
+  ],
+  "source": "https://en.wikipedia.org/wiki/Secret_Files_2:_Puritas_Cordis",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Fusionsphere_Systems,_Animation_Arts",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Deep_Silver",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "nina",
+      "name": "Nina Kalenkov",
+      "characters": [
+        "Nina Kalenkov",
+        "David Korell"
+      ],
+      "stops": [
+        "hamburg-germany",
+        "north-sea",
+        "gatineau-fictional-france",
+        "paris-france"
+      ],
+      "note": "From Hamburg aboard the Calypso until it sinks in the North Sea, ashore to the ruins of Gatineau and on to Paris.",
+      "source": "https://www.gameboomers.com/wtcheats/pcSs/Secretfiles2/secretfiles2.htm"
+    }
+  ]
+}

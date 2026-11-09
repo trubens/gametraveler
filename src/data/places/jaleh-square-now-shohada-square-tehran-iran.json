@@ -1,0 +1,13 @@
+{
+  "id": "jaleh-square-now-shohada-square-tehran-iran",
+  "name": "Jaleh Square (now Shohada Square), Tehran, Iran",
+  "position": {
+    "lat": 35.6738,
+    "lon": 51.435
+  },
+  "scale": "area",
+  "parentId": "tehran-iran",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Black_Friday_(1978)",
+  "description": "A square in eastern Tehran, renamed Shohada (Martyrs') Square after the Black Friday shooting of 8 September 1978, when the army fired on protesters there in the run-up to the revolution."
+}

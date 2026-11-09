@@ -1,0 +1,13 @@
+{
+  "id": "vilnius-lithuania",
+  "name": "Vilnius, Lithuania",
+  "position": {
+    "lat": 54.6872,
+    "lon": 25.2797
+  },
+  "scale": "area",
+  "parentId": "lithuania",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vilnius",
+  "description": "Lithuania's capital and the largest city in the Baltic states."
+}

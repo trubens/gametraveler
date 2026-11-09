@@ -1,0 +1,22 @@
+{
+  "id": 1000278,
+  "name": "Postal",
+  "year": 1997,
+  "series": "Postal",
+  "developer": "Running with Scissors",
+  "publisher": "Ripcord Games",
+  "genres": [
+    "Shooter"
+  ],
+  "storyYears": [
+    1997
+  ],
+  "source": "https://en.wikipedia.org/wiki/Postal_(video_game)",
+  "locations": [
+    {
+      "placeId": "paradise-fictional-arizona-usa",
+      "settingType": "fictionalized",
+      "note": "The Postal Dude goes on a rampage through Paradise, an invented Arizona town."
+    }
+  ]
+}

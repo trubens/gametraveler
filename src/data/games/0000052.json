@@ -1,0 +1,21 @@
+{
+  "id": 52,
+  "name": "The Shivah",
+  "year": 2006,
+  "publisher": "Wadjet Eye Games",
+  "developer": "Wadjet Eye Games",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Manhattan rabbi Russell Stone investigates a former congregant's murder and a mob-linked scheme."
+    }
+  ],
+  "storyYears": [
+    2006
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Shivah",
+  "developerUrl": "https://en.wikipedia.org/wiki/Wadjet_Eye_Games",
+  "genres": [
+    "Adventure"
+  ]
+}

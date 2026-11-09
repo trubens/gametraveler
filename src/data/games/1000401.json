@@ -1,0 +1,24 @@
+{
+  "id": 1000401,
+  "name": "Persona 5: The Phantom X",
+  "aliases": [
+    "P5X"
+  ],
+  "year": 2024,
+  "publisher": "Perfect World, Sega",
+  "series": "Persona",
+  "developer": "Black Wings Game Studio",
+  "genres": [
+    "RPG"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Persona_5:_The_Phantom_X",
+  "reviewed": "2026-11-06",
+  "locations": [
+    {
+      "placeId": "tokyo-japan",
+      "note": "Wonder, a high-school student from Zoshigaya in modern-day Tokyo, rides the subway between districts such as Yongen-Jaya, Shibuya, Aoyama-Itchome, Shinjuku, Akihabara and Kichijōji, and enters the Metaverse to take back humanity's stolen hopes and desires.",
+      "source": "https://megatenwiki.com/wiki/Tokyo_(Persona_5)"
+    }
+  ],
+  "storyYears": []
+}

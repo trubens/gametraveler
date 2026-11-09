@@ -1,0 +1,55 @@
+{
+  "id": 230,
+  "name": "Project Gotham Racing 4",
+  "aliases": [
+    "PGR",
+    "PGR 4"
+  ],
+  "year": 2007,
+  "publisher": "Microsoft Game Studios",
+  "series": "Project Gotham Racing",
+  "developer": "Bizarre Creations",
+  "locations": [
+    {
+      "placeId": "tokyo-japan",
+      "note": "Recreated streets in Tokyo host races and driving challenges."
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Recreated streets in New York City host races and driving challenges."
+    },
+    {
+      "placeId": "london-uk",
+      "note": "Recreated streets in London host races and driving challenges."
+    },
+    {
+      "placeId": "las-vegas-usa",
+      "note": "Recreated streets in Las Vegas host races and driving challenges."
+    },
+    {
+      "placeId": "shanghai-china",
+      "note": "Recreated streets in Shanghai host races and driving challenges."
+    },
+    {
+      "placeId": "st-petersburg-russia",
+      "note": "Recreated streets in St. Petersburg host races and driving challenges."
+    },
+    {
+      "placeId": "quebec-city-canada",
+      "note": "Recreated streets in Quebec City host races and driving challenges."
+    },
+    {
+      "placeId": "macao-china",
+      "note": "Recreated streets in Macao host races and driving challenges."
+    },
+    {
+      "placeId": "nurburgring-germany",
+      "note": "Cars and motorcycles compete on the real Nürburgring with the game's changing weather."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Project_Gotham_Racing_4",
+  "genres": [
+    "Racing"
+  ]
+}

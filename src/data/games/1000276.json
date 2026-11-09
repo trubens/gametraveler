@@ -1,0 +1,75 @@
+{
+  "id": 1000276,
+  "name": "Soldier of Fortune",
+  "year": 2000,
+  "series": "Soldier of Fortune",
+  "developer": "Raven Software",
+  "publisher": "Activision",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    2000
+  ],
+  "source": "https://en.wikipedia.org/wiki/Soldier_of_Fortune_(video_game)",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "John Mullins starts in the New York subway, chasing stolen nuclear weapons."
+    },
+    {
+      "placeId": "kordofan-sudan",
+      "note": "Mullins fights through a trainyard and a working slaughterhouse in Kordofan to destroy the missile factory hidden beneath it, where the Order bought the New York gang's guns.",
+      "source": "https://lparchive.org/Soldier-of-Fortune/"
+    },
+    {
+      "placeId": "siberia-russia",
+      "note": "The hunt for the stolen warheads takes Mullins into the snow of Siberia."
+    },
+    {
+      "placeId": "tokyo-japan",
+      "note": "A mission in Tokyo on the trail of the buyers."
+    },
+    {
+      "placeId": "kosovo",
+      "note": "Kosovo during the conflict of the late 1990s."
+    },
+    {
+      "placeId": "iraq",
+      "note": "Mullins fights his way through Iraq on the trail of the warheads, and returns later in the chase."
+    },
+    {
+      "placeId": "uganda",
+      "note": "Early in the hunt for the stolen nuclear material, Mullins fights his way along a train through the African bush."
+    },
+    {
+      "placeId": "germany",
+      "note": "The finale in Germany, the base of Dekker's Afrikaner neo-fascists."
+    }
+  ],
+  "routes": [
+    {
+      "id": "mullins",
+      "name": "John Mullins",
+      "characters": [
+        "John Mullins",
+        "Aaron \"Hawk\" Parsons"
+      ],
+      "stops": [
+        "new-york-city-usa",
+        "uganda",
+        "kosovo",
+        "siberia-russia",
+        "iraq",
+        "new-york-city-usa",
+        "kordofan-sudan",
+        "tokyo-japan",
+        "iraq",
+        "germany"
+      ],
+      "note": "From a hostage siege in the New York subway Mullins chases four stolen warheads across a train in Uganda, Kosovo, an island off Siberia and Iraq, then follows the Order's guns back to New York, a missile factory in Kordofan, Tokyo and Iraq to Dekker's castle in Germany.",
+      "source": "https://lparchive.org/Soldier-of-Fortune/"
+    }
+  ]
+}

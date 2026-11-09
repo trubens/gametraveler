@@ -1,0 +1,13 @@
+{
+  "id": "baja-california-mexico",
+  "name": "Baja California, Mexico",
+  "position": {
+    "lat": 30,
+    "lon": -115
+  },
+  "scale": "area",
+  "parentId": "mexico",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Baja_California_peninsula",
+  "description": "The long peninsula of north-western Mexico that separates the Gulf of California from the Pacific Ocean."
+}

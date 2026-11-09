@@ -1,0 +1,105 @@
+{
+  "id": 278,
+  "name": "F1 2020",
+  "year": 2020,
+  "series": "F1",
+  "developer": "Codemasters Birmingham",
+  "publisher": "Codemasters",
+  "locations": [
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "Raced twice in the 2020 season, as the British Grand Prix and the 70th Anniversary Grand Prix."
+    },
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 8 of 17 in the 2020 season."
+    },
+    {
+      "placeId": "zandvoort-circuit-netherlands",
+      "note": "The Dutch Grand Prix's return, new to the 2020 calendar, was cancelled in the pandemic and first held in 2021."
+    },
+    {
+      "placeId": "hanoi-circuit-vietnam",
+      "note": "The Vietnamese Grand Prix, new to the 2020 calendar, was cancelled in the pandemic, and Formula One never raced on the Hanoi circuit."
+    },
+    {
+      "placeId": "albert-park-circuit-melbourne-australia",
+      "note": "The Australian Grand Prix, planned as the 2020 season opener, was cancelled in the pandemic, but in the game as originally planned."
+    },
+    {
+      "placeId": "bahrain-international-circuit",
+      "note": "Raced twice in the 2020 season, as the Bahrain Grand Prix and the Sakhir Grand Prix."
+    },
+    {
+      "placeId": "shanghai-international-circuit-china",
+      "note": "The 2020 Chinese Grand Prix was cancelled in the pandemic, but in the game as originally planned."
+    },
+    {
+      "placeId": "circuit-de-barcelona-catalunya-spain",
+      "note": "Raced as the Spanish Grand Prix, round 6 of 17 in the 2020 season."
+    },
+    {
+      "placeId": "circuit-de-monaco",
+      "note": "The 2020 Monaco Grand Prix was cancelled in the pandemic, but in the game as originally planned."
+    },
+    {
+      "placeId": "baku-city-circuit-azerbaijan",
+      "note": "The 2020 Azerbaijan Grand Prix was cancelled in the pandemic, but in the game as originally planned."
+    },
+    {
+      "placeId": "circuit-gilles-villeneuve-montreal-canada",
+      "note": "The 2020 Canadian Grand Prix was cancelled in the pandemic, but in the game as originally planned."
+    },
+    {
+      "placeId": "circuit-paul-ricard-france",
+      "note": "The 2020 French Grand Prix was cancelled in the pandemic, but in the game as originally planned."
+    },
+    {
+      "placeId": "red-bull-ring-spielberg-austria",
+      "note": "Raced twice in the 2020 season, as the Austrian Grand Prix and the Styrian Grand Prix."
+    },
+    {
+      "placeId": "hungaroring-hungary",
+      "note": "Raced as the Hungarian Grand Prix, round 3 of 17 in the 2020 season."
+    },
+    {
+      "placeId": "circuit-de-spa-francorchamps-belgium",
+      "note": "Raced as the Belgian Grand Prix, round 7 of 17 in the 2020 season."
+    },
+    {
+      "placeId": "marina-bay-street-circuit-singapore",
+      "note": "The 2020 Singapore Grand Prix was cancelled in the pandemic, but in the game as originally planned."
+    },
+    {
+      "placeId": "sochi-autodrom-russia",
+      "note": "Raced as the Russian Grand Prix, round 10 of 17 in the 2020 season."
+    },
+    {
+      "placeId": "suzuka-international-racing-course-japan",
+      "note": "The 2020 Japanese Grand Prix was cancelled in the pandemic, but in the game as originally planned."
+    },
+    {
+      "placeId": "circuit-of-the-americas-texas-usa",
+      "note": "The 2020 United States Grand Prix was cancelled in the pandemic, but in the game as originally planned."
+    },
+    {
+      "placeId": "autodromo-hermanos-rodriguez-mexico-city",
+      "note": "The 2020 race in Mexico City was cancelled in the pandemic, but in the game as originally planned."
+    },
+    {
+      "placeId": "interlagos-circuit-sao-paulo-brazil",
+      "note": "The 2020 Brazilian Grand Prix was cancelled in the pandemic, but in the game as originally planned."
+    },
+    {
+      "placeId": "yas-marina-circuit-abu-dhabi-uae",
+      "note": "Raced as the Abu Dhabi Grand Prix, the final round of the 2020 season."
+    }
+  ],
+  "storyYears": [
+    2020
+  ],
+  "source": "https://en.wikipedia.org/wiki/F1_2020_(video_game)",
+  "genres": [
+    "Racing"
+  ]
+}

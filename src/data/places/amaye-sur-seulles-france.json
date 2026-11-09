@@ -1,0 +1,15 @@
+{
+  "id": "amaye-sur-seulles-france",
+  "name": "Amayé-sur-Seulles, France",
+  "position": {
+    "lat": 49.0808,
+    "lon": -0.7131
+  },
+  "scale": "area",
+  "parentId": "normandy-france",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Amayé-sur-Seulles",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amayé-sur-Seulles",
+  "description": "A commune in the Calvados department in Normandy, just west of Villers-Bocage.",
+  "descriptionSource": "wikipedia"
+}

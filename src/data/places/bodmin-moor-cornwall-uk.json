@@ -1,0 +1,14 @@
+{
+  "id": "bodmin-moor-cornwall-uk",
+  "name": "Bodmin Moor, Cornwall, UK",
+  "position": {
+    "lat": 50.5625,
+    "lon": -4.6132
+  },
+  "scale": "site",
+  "parentId": "cornwall-england",
+  "placeType": "natural_feature",
+  "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bodmin_Moor",
+  "description": "A granite moorland in north-east Cornwall, scattered with tors, stone circles and the ruins of copper and tin mines."
+}

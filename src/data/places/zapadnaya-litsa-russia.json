@@ -1,0 +1,18 @@
+{
+  "id": "zapadnaya-litsa-russia",
+  "name": "Zapadnaya Litsa, Russia",
+  "position": {
+    "lat": 69.3978,
+    "lon": 32.4492
+  },
+  "scale": "site",
+  "parentId": "russia",
+  "placeType": "landmark",
+  "aliases": [
+    "Zaozyorsk"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Zapadnaya_Litsa_(naval_base)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Zapadnaya_Litsa_(naval_base)",
+  "description": "A naval base of the Russian Navy's Northern Fleet in Murmansk Oblast, beside the closed town of Zaozyorsk.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sukharevskaya-station-moscow-russia",
+  "name": "Sukharevskaya station, Moscow, Russia",
+  "position": {
+    "lat": 55.7733,
+    "lon": 37.6319
+  },
+  "scale": "site",
+  "parentId": "moscow-russia",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sukharevskaya_(Moscow_Metro)",
+  "description": "A station on the Kaluzhsko-Rizhskaya line of the Moscow Metro, under Sukharevskaya Square.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Sukharevskaya_(Moscow_Metro)"
+}

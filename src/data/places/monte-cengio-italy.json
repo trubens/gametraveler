@@ -1,0 +1,14 @@
+{
+  "id": "monte-cengio-italy",
+  "name": "Monte Cengio, Italy",
+  "position": {
+    "lat": 45.8108,
+    "lon": 11.3956
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Monte_Cengio",
+  "description": "A 1,354-metre mountain on the Asiago plateau in the Vicentine Alps of Veneto.",
+  "descriptionSource": "wikipedia"
+}

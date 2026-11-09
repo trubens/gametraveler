@@ -1,0 +1,14 @@
+{
+  "id": "st-pauls-cathedral-london-uk",
+  "name": "St Paul's Cathedral, London, UK",
+  "position": {
+    "lat": 51.5138,
+    "lon": -0.0984
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/St_Paul's_Cathedral",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/St_Paul's_Cathedral",
+  "description": "London's Anglican cathedral, the seat of the bishop of London and one of the city's defining landmarks."
+}

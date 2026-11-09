@@ -1,0 +1,18 @@
+{
+  "id": "neues-theater-augustusplatz-leipzig-germany",
+  "name": "Neues Theater, Augustusplatz, Leipzig, Germany",
+  "position": {
+    "lat": 51.3403,
+    "lon": 12.3814
+  },
+  "scale": "site",
+  "parentId": "leipzig-germany",
+  "placeType": "venue",
+  "aliases": [
+    "New Theatre",
+    "Augustusplatz"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Neues_Theater_(Leipzig)",
+  "description": "The grand theatre of 1868 on the Augustusplatz, the city's opera and drama house until it burned in the bombing of 1943; today's Leipzig Opera stands in its place.",
+  "descriptionSource": "wikipedia"
+}

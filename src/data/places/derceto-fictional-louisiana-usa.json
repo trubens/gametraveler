@@ -1,0 +1,19 @@
+{
+  "id": "derceto-fictional-louisiana-usa",
+  "name": "Derceto, Louisiana, USA",
+  "position": {
+    "lat": 30.45,
+    "lon": -91.1
+  },
+  "scale": "site",
+  "parentId": "louisiana-usa",
+  "placeType": "landmark",
+  "fictional": true,
+  "aliases": [
+    "Derceto Manor",
+    "Derceto mansion"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Alone_in_the_Dark_(1992_video_game)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Louisiana",
+  "description": "An invented mansion in rural Louisiana, a haunted house in the 1992 game and a remote sanatorium in the 2024 remake. The games name no town; the pin in the plantation country north of Baton Rouge is a guess."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "new-york-public-library-new-york-city-usa",
+  "name": "New York Public Library, New York City, USA",
+  "position": {
+    "lat": 40.7531,
+    "lon": -73.9819
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "Stephen A. Schwarzman Building"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/New_York_Public_Library_Main_Branch",
+  "description": "The marble main branch on Fifth Avenue, guarded by its two stone lions.",
+  "descriptionSource": "wikipedia"
+}

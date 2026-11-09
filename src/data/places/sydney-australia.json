@@ -1,0 +1,13 @@
+{
+  "id": "sydney-australia",
+  "name": "Sydney, Australia",
+  "position": {
+    "lat": -33.8688,
+    "lon": 151.2093
+  },
+  "scale": "area",
+  "parentId": "australia",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sydney",
+  "description": "The capital of New South Wales and Australia's largest city."
+}

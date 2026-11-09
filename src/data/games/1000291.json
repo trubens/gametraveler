@@ -1,0 +1,64 @@
+{
+  "id": 1000291,
+  "name": "Messenger of the Gods",
+  "aliases": [
+    "Posel bohů",
+    "NI.BI.RU: Posel bohů"
+  ],
+  "year": 1998,
+  "developer": "Future Games",
+  "publisher": "Future Games",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    1998
+  ],
+  "source": "https://en.wikipedia.org/wiki/Messenger_of_the_Gods",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "charles-bridge-prague-czech-republic",
+      "note": "The 1998 Czech original of NiBiRu tells the same story: Martin Holan starts on Charles Bridge in Prague.",
+      "source": "https://www.justadventure.com/walkthrough/ni-bi-ru/"
+    },
+    {
+      "placeId": "prague-czech-republic",
+      "note": "The investigation continues through an apartment, archives and government offices in Prague.",
+      "source": "https://www.justadventure.com/walkthrough/ni-bi-ru/"
+    },
+    {
+      "placeId": "western-bohemia-czech-republic",
+      "note": "Martin explores a wartime mine and the hidden laboratory beneath it in western Bohemia.",
+      "source": "https://www.justadventure.com/walkthrough/ni-bi-ru/"
+    },
+    {
+      "placeId": "france",
+      "note": "The French chapter: a hotel, the docks and his uncle's mansion.",
+      "source": "https://www.justadventure.com/walkthrough/ni-bi-ru/"
+    },
+    {
+      "placeId": "mexico",
+      "note": "Martin visits the invented town of Tecolut and explores Maya temples that are not tied to real sites.",
+      "source": "https://www.justadventure.com/walkthrough/ni-bi-ru/"
+    }
+  ],
+  "routes": [
+    {
+      "id": "martin-holan",
+      "name": "Martin Holan",
+      "characters": [
+        "Martin Holan"
+      ],
+      "stops": [
+        "charles-bridge-prague-czech-republic",
+        "prague-czech-republic",
+        "western-bohemia-czech-republic",
+        "france",
+        "mexico"
+      ],
+      "note": "From Charles Bridge through Prague's archives to a Nazi mine in western Bohemia, his uncle's French mansion and the lost Maya temple of the gods.",
+      "source": "https://www.justadventure.com/walkthrough/ni-bi-ru/"
+    }
+  ]
+}

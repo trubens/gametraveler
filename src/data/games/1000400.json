@@ -1,0 +1,25 @@
+{
+  "id": 1000400,
+  "name": "Persona 5 Tactica",
+  "year": 2023,
+  "publisher": "Sega",
+  "series": "Persona",
+  "developer": "Atlus",
+  "genres": [
+    "Tactical RPG"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Persona_5_Tactica",
+  "reviewed": "2026-11-06",
+  "locations": [
+    {
+      "placeId": "sangenjaya-tokyo-japan",
+      "aliases": [
+        "Yongen-Jaya",
+        "Café Leblanc"
+      ],
+      "settingType": "fictionalized",
+      "note": "The Thieves are meeting at Café Leblanc to plan for graduation when the news reports the politician Toshiro Kasukabe missing, and they are pulled into Marie's Kingdom."
+    }
+  ],
+  "storyYears": []
+}

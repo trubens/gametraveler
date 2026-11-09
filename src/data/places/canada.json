@@ -1,0 +1,12 @@
+{
+  "id": "canada",
+  "name": "Canada",
+  "scale": "area",
+  "position": {
+    "lat": 56.13,
+    "lon": -106.35
+  },
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Canada",
+  "description": "The vast northern country of North America, stretching from the Atlantic to the Pacific and the Arctic."
+}

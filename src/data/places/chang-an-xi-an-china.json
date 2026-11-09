@@ -1,0 +1,13 @@
+{
+  "id": "chang-an-xi-an-china",
+  "name": "Chang'an (Xi'an), China",
+  "position": {
+    "lat": 34.3416,
+    "lon": 108.9398
+  },
+  "scale": "area",
+  "parentId": "china",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chang%27an,_Xi%27an",
+  "description": "A district of Xi'an."
+}

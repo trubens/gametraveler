@@ -1,0 +1,25 @@
+{
+  "id": 1000232,
+  "name": "Nancy Drew: The Haunting of Castle Malloy",
+  "year": 2008,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "ireland",
+      "aliases": [
+        "Castle Malloy",
+        "Bailor"
+      ],
+      "settingType": "fictionalized",
+      "note": "Arriving as maid of honour for Kyler Mallory, Nancy finds the groom Matt missing and a banshee said to roam Castle Malloy, half of which blew up during Brendan Malloy's wartime experiments."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_The_Haunting_of_Castle_Malloy",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

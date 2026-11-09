@@ -1,0 +1,67 @@
+{
+  "id": 190,
+  "name": "Brothers in Arms: Road to Hill 30",
+  "year": 2005,
+  "publisher": "Ubisoft",
+  "series": "Brothers in Arms",
+  "developer": "Gearbox Software",
+  "locations": [
+    {
+      "placeId": "utah-beach-france",
+      "note": "Dropped off course on D-Day, Baker's squad clears the road to Exit 4 of Utah Beach and holds it against a counterattack so the 4th Infantry Division can get off the beach.",
+      "source": "https://www.gamerstemple.com/guides/playstation-2/1390/1/brothers-in-arms-road-to-hill-30-walkthrough"
+    },
+    {
+      "placeId": "foucarville-france",
+      "note": "Still on D-Day, Baker's squad secures Foucarville, takes its church and holds the town against an infantry and mortar assault.",
+      "source": "https://www.giantbomb.com/brothers-in-arms-road-to-hill-30/3030-9137/"
+    },
+    {
+      "placeId": "hiesville-france",
+      "note": "On D-Day, Baker's squad clears the Germans from the glider landing field at Hiesville, studded with the poles the troops call Rommel's asparagus.",
+      "source": "https://www.giantbomb.com/brothers-in-arms-road-to-hill-30/3030-9137/"
+    },
+    {
+      "placeId": "vierville-france",
+      "note": "On the day after D-Day, Baker's squad and Sergeant Risner's tank clear Vierville and beat off an armoured counterattack.",
+      "source": "https://en.wikipedia.org/wiki/Brothers_in_Arms:_Road_to_Hill_30"
+    },
+    {
+      "placeId": "saint-come-du-mont-france",
+      "note": "At Dead Man's Corner, the crossroads outside Saint-Côme-du-Mont, Risner dies covering the squad after his tank is knocked out; the 502nd then takes the town from German paratroopers, and Baker finds Allen and Garnett dead at a farmhouse west of it.",
+      "source": "https://www.giantbomb.com/brothers-in-arms-road-to-hill-30/3030-9137/"
+    },
+    {
+      "placeId": "carentan-france",
+      "note": "Baker's squad fights along Purple Heart Lane, the causeway into Carentan, joins Cole's charge on the Ingouf farm, pushes into Carentan and defends its church, and then, with tanks of the 2nd Armored Division, beats off the German counterattack at Hill 30, south-west of the town."
+    }
+  ],
+  "storyYears": [
+    1944
+  ],
+  "source": "https://en.wikipedia.org/wiki/Brothers_in_Arms:_Road_to_Hill_30",
+  "reviewed": "2026-11-06",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "baker",
+      "name": "Sergeant Matt Baker",
+      "characters": [
+        "Matt Baker"
+      ],
+      "stops": [
+        "utah-beach-france",
+        "foucarville-france",
+        "hiesville-france",
+        "vierville-france",
+        "saint-come-du-mont-france",
+        "carentan-france"
+      ],
+      "note": "From the D-Day drop behind Utah Beach through Foucarville and the Hiesville glider field, south through Vierville and Saint-Côme-du-Mont to Carentan and Hill 30.",
+      "source": "https://www.gamerstemple.com/guides/playstation-2/1390/1/brothers-in-arms-road-to-hill-30-walkthrough"
+    }
+  ]
+}

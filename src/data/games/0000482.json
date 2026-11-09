@@ -1,0 +1,83 @@
+{
+  "id": 482,
+  "name": "Red Dead Redemption 2",
+  "series": "Red Dead",
+  "year": 2018,
+  "developer": "Rockstar Games",
+  "publisher": "Rockstar Games",
+  "locations": [
+    {
+      "placeId": "rhodes-fictional-lemoyne",
+      "settingType": "fictionalized",
+      "note": "Camped near Rhodes, the gang plays the feuding Grays and Braithwaites against each other until the Grays kill Sean in an ambush in town and the Braithwaites sell Jack to Bronte.",
+      "source": "https://en.wikipedia.org/wiki/Red_Dead_Redemption_2"
+    },
+    {
+      "placeId": "new-orleans-usa",
+      "aliases": [
+        "Saint Denis",
+        "St. Denis"
+      ],
+      "settingType": "fictionalized",
+      "note": "The gang's bank robbery in Saint Denis, the game's New Orleans, goes wrong: the Pinkertons kill Hosea and arrest John, and Dutch's group escapes on a ship."
+    },
+    {
+      "placeId": "guarma-fictional-caribbean",
+      "settingType": "imaginary",
+      "note": "Shipwrecked on the way to Cuba, Dutch, Arthur and the others are caught in a war between the sugar planter Fussar and the enslaved islanders, and help the rebels kill him.",
+      "source": "https://en.wikipedia.org/wiki/Red_Dead_Redemption_2"
+    },
+    {
+      "placeId": "new-hanover-fictionalized-eastern-united-states",
+      "settingType": "fictionalized",
+      "note": "The gang works out of the hills near Valentine until a shootout with Cornwall's men drives them into Lemoyne, and later breaks apart at its last camp when Micah's betrayal comes out."
+    },
+    {
+      "placeId": "ambarino-fictionalized-mountain-west",
+      "settingType": "fictionalized",
+      "note": "After the failed Blackwater ferry heist the gang shelters in the snowbound mountains; eight years later John, Sadie and Charles storm Micah's camp on Mount Hagen."
+    },
+    {
+      "placeId": "west-elizabeth-fictionalized-great-plains-and-west",
+      "settingType": "fictionalized",
+      "note": "John takes a bank loan to build a ranch for his family and marries Abigail there."
+    },
+    {
+      "placeId": "new-austin-fictionalized-arid-southwest",
+      "settingType": "fictionalized",
+      "note": "Closed to Arthur, the desert state opens to John for free roaming in the epilogue."
+    }
+  ],
+  "storyYears": [
+    1899
+  ],
+  "source": "https://en.wikipedia.org/wiki/Red_Dead_Redemption_2",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Rockstar_Games",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "van-der-linde-gang",
+      "name": "Arthur Morgan and the Van der Linde gang",
+      "characters": [
+        "Arthur Morgan",
+        "John Marston",
+        "Dutch van der Linde"
+      ],
+      "stops": [
+        "ambarino-fictionalized-mountain-west",
+        "new-hanover-fictionalized-eastern-united-states",
+        "rhodes-fictional-lemoyne",
+        "new-orleans-usa",
+        "guarma-fictional-caribbean",
+        "new-hanover-fictionalized-eastern-united-states",
+        "west-elizabeth-fictionalized-great-plains-and-west",
+        "ambarino-fictionalized-mountain-west"
+      ],
+      "note": "On the run from the snows of Colter down to Valentine, the Rhodes feud and Saint Denis, a shipwreck on Guarma, a last stand at Beaver Hollow, then John's new life on a West Elizabeth ranch and a final reckoning on Mount Hagen.",
+      "source": "https://gamerant.com/red-dead-redemption-2-all-van-der-linde-camp-locations/"
+    }
+  ]
+}

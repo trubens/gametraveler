@@ -1,0 +1,21 @@
+{
+  "id": 1000164,
+  "name": "Mir-Mahna",
+  "year": 2011,
+  "publisher": "ESPRIS",
+  "developer": "ESPRIS",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Mir-Mahna",
+  "locations": [
+    {
+      "placeId": "kharg-island-iran",
+      "note": "Fight to free Kharg Island from European colonial forces in this historical first-person shooter."
+    }
+  ],
+  "storyYears": [
+    1740,
+    1749
+  ]
+}

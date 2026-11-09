@@ -1,0 +1,14 @@
+{
+  "id": "church-of-st-catherine-vilnius-lithuania",
+  "name": "Church of St. Catherine, Vilnius, Lithuania",
+  "position": {
+    "lat": 54.6835,
+    "lon": 25.2807
+  },
+  "scale": "site",
+  "parentId": "vilnius-lithuania",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Church_of_St._Catherine,_Vilnius",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Church_of_St._Catherine,_Vilnius",
+  "description": "A Roman Catholic church in Vilnius' Old Town, founded in 1618 by the hetman Jan Karol Chodkiewicz."
+}

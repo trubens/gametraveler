@@ -1,0 +1,13 @@
+{
+  "id": "baku-city-circuit-azerbaijan",
+  "name": "Baku City Circuit, Azerbaijan",
+  "position": {
+    "lat": 40.3725,
+    "lon": 49.8533
+  },
+  "scale": "site",
+  "parentId": "baku-azerbaijan",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Baku_City_Circuit",
+  "description": "A street circuit through Baku laid out near Baku Boulevard, one of the longest laps on the Formula One calendar."
+}

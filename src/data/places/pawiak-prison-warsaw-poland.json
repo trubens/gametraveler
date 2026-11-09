@@ -1,0 +1,18 @@
+{
+  "id": "pawiak-prison-warsaw-poland",
+  "name": "Pawiak Prison, Warsaw, Poland",
+  "position": {
+    "lat": 52.2464,
+    "lon": 20.9906
+  },
+  "scale": "site",
+  "parentId": "warsaw-poland",
+  "placeType": "landmark",
+  "aliases": [
+    "Pawiak"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pawiak",
+  "description": "A prison built in 1835 in Warsaw that became the Gestapo's prison after the German invasion of 1939; a surviving basement now houses a museum.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Pawiak"
+}

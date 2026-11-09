@@ -1,0 +1,13 @@
+{
+  "id": "omi-province-japan",
+  "name": "Ōmi Province, Japan",
+  "position": {
+    "lat": 35,
+    "lon": 136.2
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/%C5%8Cmi_Province",
+  "description": "A historic province of Japan that covered the same ground as modern Shiga Prefecture, one of the lands of the Tōsandō circuit."
+}

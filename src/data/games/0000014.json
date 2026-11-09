@@ -1,0 +1,20 @@
+{
+  "id": 14,
+  "name": "The Samaritan Paradox",
+  "year": 2014,
+  "publisher": "Screen 7",
+  "developer": "Faravid Interactive",
+  "locations": [
+    {
+      "placeId": "sweden",
+      "note": "A 1980s Swedish mystery: a dead author, a hidden manuscript and a town that keeps its secrets."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://store.steampowered.com/app/283180/The_Samaritan_Paradox/",
+  "developerUrl": "https://en.wikipedia.org/wiki/Faravid_Interactive",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Martech",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "highgate-cemetery-london-uk",
+  "name": "Highgate Cemetery, London, UK",
+  "position": {
+    "lat": 51.567,
+    "lon": -0.147
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Highgate_Cemetery",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Highgate_Cemetery",
+  "description": "A cemetery in North London designed by Stephen Geary, with about 170,000 people buried in around 53,000 graves across its West and East sides.",
+  "descriptionSource": "wikipedia"
+}

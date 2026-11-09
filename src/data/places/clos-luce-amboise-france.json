@@ -1,0 +1,13 @@
+{
+  "id": "clos-luce-amboise-france",
+  "name": "Clos Lucé, Amboise, France",
+  "position": {
+    "lat": 47.4106,
+    "lon": 0.9862
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Clos_Luc%C3%A9",
+  "description": "A château in the centre of Amboise in the Loire valley, once called the Manoir du Cloux."
+}

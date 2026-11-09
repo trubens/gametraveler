@@ -1,0 +1,13 @@
+{
+  "id": "remagen-germany",
+  "name": "Remagen, Germany",
+  "position": {
+    "lat": 50.5768,
+    "lon": 7.2306
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Remagen",
+  "description": "A town on the Rhine in Rhineland-Palatinate."
+}

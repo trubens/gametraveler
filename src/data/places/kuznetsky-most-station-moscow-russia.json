@@ -1,0 +1,15 @@
+{
+  "id": "kuznetsky-most-station-moscow-russia",
+  "name": "Kuznetsky Most station, Moscow, Russia",
+  "position": {
+    "lat": 55.7606,
+    "lon": 37.6259
+  },
+  "scale": "site",
+  "parentId": "moscow-russia",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kuznetsky_Most_(Moscow_Metro)",
+  "description": "A Moscow Metro station on the Tagansko-Krasnopresnenskaya line in the Meshchansky District.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Kuznetsky_Most_(Moscow_Metro)"
+}

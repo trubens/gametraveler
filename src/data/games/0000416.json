@@ -1,0 +1,23 @@
+{
+  "id": 416,
+  "name": "Runaway: A Twist of Fate",
+  "year": 2009,
+  "series": "Runaway",
+  "developer": "Pendulo Studios",
+  "publisher": "Focus Home Interactive",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Gina investigates Brian's apparent death and a conspiracy centered on New York."
+    }
+  ],
+  "storyYears": [
+    2009
+  ],
+  "source": "https://en.wikipedia.org/wiki/Runaway:_A_Twist_of_Fate",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Focus_Entertainment",
+  "developerUrl": "https://en.wikipedia.org/wiki/Pendulo_Studios",
+  "genres": [
+    "Adventure"
+  ]
+}

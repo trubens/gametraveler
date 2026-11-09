@@ -1,0 +1,13 @@
+{
+  "id": "long-beach-california-usa",
+  "name": "Long Beach, California, USA",
+  "position": {
+    "lat": 33.7701,
+    "lon": -118.1937
+  },
+  "scale": "area",
+  "parentId": "california-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Long_Beach,_California",
+  "description": "A coastal city in the south-east of Los Angeles County."
+}

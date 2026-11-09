@@ -1,0 +1,14 @@
+{
+  "id": "prison-de-la-sante-paris-france",
+  "name": "Prison de la Santé, Paris, France",
+  "position": {
+    "lat": 48.8336,
+    "lon": 2.3364
+  },
+  "scale": "site",
+  "parentId": "paris-france",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/La_Sant%C3%A9_Prison",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/La_Sant%C3%A9_Prison",
+  "description": "A working prison on Rue de la Santé, on the eastern side of the Montparnasse district in southern Paris."
+}

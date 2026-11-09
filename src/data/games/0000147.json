@@ -1,0 +1,24 @@
+{
+  "id": 147,
+  "name": "Midnight Club: Los Angeles",
+  "aliases": [
+    "MC",
+    "MC Los Angeles"
+  ],
+  "year": 2008,
+  "publisher": "Rockstar Games",
+  "series": "Midnight Club",
+  "developer": "Rockstar San Diego",
+  "locations": [
+    {
+      "placeId": "los-angeles-usa",
+      "note": "A free-roam LA larger than all three Midnight Club II cities combined."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Midnight_Club:_Los_Angeles",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Rockstar_Games",
+  "genres": [
+    "Racing"
+  ]
+}

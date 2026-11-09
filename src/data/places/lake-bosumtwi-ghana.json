@@ -1,0 +1,13 @@
+{
+  "id": "lake-bosumtwi-ghana",
+  "name": "Lake Bosumtwi, Ghana",
+  "position": {
+    "lat": 6.5,
+    "lon": -1.4167
+  },
+  "scale": "area",
+  "parentId": "ghana",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lake_Bosumtwi",
+  "description": "Ghana's only natural lake, filling the bowl of an ancient meteorite impact crater."
+}

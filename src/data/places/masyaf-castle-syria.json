@@ -1,0 +1,14 @@
+{
+  "id": "masyaf-castle-syria",
+  "name": "Masyaf Castle, Masyaf, Syria",
+  "position": {
+    "lat": 35.0625,
+    "lon": 36.333
+  },
+  "scale": "site",
+  "parentId": "masyaf-syria",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Masyaf_Castle",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Masyaf_Castle",
+  "description": "A medieval castle above the town of Masyaf in the Orontes Valley of western Syria, some way west of Hama."
+}

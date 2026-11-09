@@ -1,0 +1,14 @@
+{
+  "id": "clava-cairns-scotland-uk",
+  "name": "Clava Cairns, Scotland, UK",
+  "position": {
+    "lat": 57.4736,
+    "lon": -4.0731
+  },
+  "scale": "site",
+  "parentId": "scotland-uk",
+  "placeType": "landmark",
+  "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Clava_cairn",
+  "description": "Three Bronze Age cairns ringed by standing stones in a grove near Inverness, the best-known of the Clava cairns."
+}

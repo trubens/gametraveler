@@ -1,0 +1,18 @@
+{
+  "id": "penglai-fictional-shandong-china",
+  "name": "Penglai, Shandong, China",
+  "position": {
+    "lat": 37.8,
+    "lon": 120.75
+  },
+  "scale": "area",
+  "parentId": "china",
+  "placeType": "island",
+  "fictional": true,
+  "aliases": [
+    "Peng Lai"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Mount_Penglai",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mount_Penglai",
+  "description": "The mythical island mountain of the immortals in Chinese legend, reimagined as a lagoon. Pinned at the real Penglai on the Shandong coast, where the legend is kept."
+}

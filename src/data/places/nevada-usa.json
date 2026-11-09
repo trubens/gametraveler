@@ -1,0 +1,12 @@
+{
+  "id": "nevada-usa",
+  "name": "Nevada, USA",
+  "position": {
+    "lat": 38.8026,
+    "lon": -116.4194
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nevada",
+  "description": "A landlocked state of the American West, variously counted as part of the Mountain West and the Southwest."
+}

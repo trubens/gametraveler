@@ -1,0 +1,13 @@
+{
+  "id": "salem-massachusetts-usa",
+  "name": "Salem, Massachusetts, USA",
+  "position": {
+    "lat": 42.5195,
+    "lon": -70.8967
+  },
+  "scale": "area",
+  "parentId": "massachusetts-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Salem,_Massachusetts",
+  "description": "A historic coastal city on Boston's North Shore."
+}

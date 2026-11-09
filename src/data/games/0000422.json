@@ -1,0 +1,21 @@
+{
+  "id": 422,
+  "name": "Egypt 1156 B.C.",
+  "series": "Egypt",
+  "year": 1997,
+  "developer": "Cryo Interactive Entertainment",
+  "publisher": "Cryo Interactive",
+  "locations": [
+    {
+      "placeId": "thebes-luxor-egypt",
+      "note": "A young Egyptian investigates tomb robbery in the necropolis near Thebes."
+    }
+  ],
+  "storyYears": [
+    -1156
+  ],
+  "source": "https://en.wikipedia.org/wiki/Egypt_1156_B.C.",
+  "genres": [
+    "Adventure"
+  ]
+}

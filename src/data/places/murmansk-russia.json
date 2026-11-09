@@ -1,0 +1,13 @@
+{
+  "id": "murmansk-russia",
+  "name": "Murmansk, Russia",
+  "position": {
+    "lat": 68.9585,
+    "lon": 33.0827
+  },
+  "scale": "area",
+  "parentId": "russia",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Murmansk",
+  "description": "A major port in the far north-west of Russia."
+}

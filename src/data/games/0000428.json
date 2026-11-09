@@ -1,0 +1,20 @@
+{
+  "id": 428,
+  "name": "Jerusalem: The Three Roads to the Holy Land",
+  "year": 2002,
+  "developer": "Arxel Tribe",
+  "publisher": "Cryo Interactive",
+  "locations": [
+    {
+      "placeId": "jerusalem",
+      "note": "A historical investigation brings the player to Jerusalem."
+    }
+  ],
+  "storyYears": [
+    1552
+  ],
+  "source": "https://en.wikipedia.org/wiki/Jerusalem:_The_Three_Roads_to_the_Holy_Land",
+  "genres": [
+    "Adventure"
+  ]
+}

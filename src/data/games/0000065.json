@@ -1,0 +1,95 @@
+{
+  "id": 65,
+  "name": "Broken Sword: The Sleeping Dragon",
+  "aliases": [
+    "Broken Sword 3"
+  ],
+  "year": 2003,
+  "publisher": "THQ",
+  "series": "Broken Sword",
+  "developer": "Revolution Software",
+  "locations": [
+    {
+      "placeId": "paris-france",
+      "note": "Nico investigates a Paris murder and an abandoned theatre tied to the conspiracy."
+    },
+    {
+      "placeId": "glastonbury-uk",
+      "note": "George's search for the hacker Bruno leads to Glastonbury, where the mystical finale plays out."
+    },
+    {
+      "placeId": "congo",
+      "note": "George's plane crashes in the Congo on a patent job for a scientist claiming unlimited energy."
+    },
+    {
+      "placeId": "prague-czech-republic",
+      "note": "Bruno is held in Susarro's castle, an invented stronghold the game puts in Prague; nothing of the real city is seen."
+    },
+    {
+      "placeId": "egypt",
+      "note": "The group tracks an ancient armillary device to Egypt and confronts the cult."
+    },
+    {
+      "placeId": "glastonbury-tor-glastonbury-uk",
+      "note": "The final battle over the ley lines is fought on Glastonbury Tor."
+    },
+    {
+      "placeId": "ile-saint-louis-paris-france",
+      "note": "An abandoned theatre on the Île Saint-Louis hides part of the Paris trail."
+    }
+  ],
+  "routes": [
+    {
+      "id": "george-stobbart",
+      "name": "George",
+      "characters": [
+        "George Stobbart"
+      ],
+      "storyYears": [
+        2003
+      ],
+      "stops": [
+        "congo",
+        "glastonbury-uk",
+        "paris-france",
+        "congo",
+        "paris-france",
+        "prague-czech-republic",
+        "paris-france",
+        "egypt",
+        "glastonbury-uk"
+      ],
+      "note": "Twice to the Congo and three times to Paris: the plane crash and Cheke's lab, then Glastonbury for Bruno, Paris for the theatre, back to the Congo with Nico for the stone in the Omega temple, Paris again for Montfaucon and the Templars, Prague to free Bruno, Paris once more, then Egypt and the finale on Glastonbury Tor.",
+      "source": "https://gameboomers.com/wtcheats/pcBb/BS3.htm"
+    },
+    {
+      "id": "nico-collard",
+      "name": "Nico",
+      "characters": [
+        "Nicole Collard"
+      ],
+      "storyYears": [
+        2003
+      ],
+      "stops": [
+        "paris-france",
+        "congo",
+        "paris-france",
+        "prague-czech-republic",
+        "egypt",
+        "glastonbury-uk"
+      ],
+      "note": "Nico starts with the hacker's murder in Paris and the theatre, goes to the Congo and Prague with George, and follows him to Egypt and Glastonbury.",
+      "source": "https://gameboomers.com/wtcheats/pcBb/BS3.htm"
+    }
+  ],
+  "storyYears": [
+    2003
+  ],
+  "source": "https://en.wikipedia.org/wiki/Broken_Sword:_The_Sleeping_Dragon",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Revolution_Software",
+  "genres": [
+    "Adventure"
+  ]
+}

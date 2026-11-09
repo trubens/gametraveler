@@ -1,0 +1,14 @@
+{
+  "id": "lake-te-anau-new-zealand",
+  "name": "Lake Te Anau, New Zealand",
+  "position": {
+    "lat": -45.2,
+    "lon": 167.8
+  },
+  "scale": "area",
+  "parentId": "new-zealand",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lake_Te_Anau",
+  "description": "The largest lake in the South Island by area, on the edge of Fiordland, with the Te Anau glowworm caves on its western shore.",
+  "descriptionSource": "wikipedia"
+}

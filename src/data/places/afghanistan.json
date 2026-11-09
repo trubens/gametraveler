@@ -1,0 +1,12 @@
+{
+  "id": "afghanistan",
+  "name": "Afghanistan",
+  "position": {
+    "lat": 33.9391,
+    "lon": 67.71
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Afghanistan",
+  "description": "A landlocked country set at the crossroads of Central and South Asia."
+}

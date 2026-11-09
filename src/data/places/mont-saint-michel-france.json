@@ -1,0 +1,13 @@
+{
+  "id": "mont-saint-michel-france",
+  "name": "Mont-Saint-Michel, France",
+  "position": {
+    "lat": 48.6361,
+    "lon": -1.5115
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mont-Saint-Michel",
+  "description": "A tidal island and the small mainland commune that goes with it."
+}

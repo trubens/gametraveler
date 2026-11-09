@@ -1,0 +1,25 @@
+{
+  "id": 239,
+  "name": "Mafia III",
+  "year": 2016,
+  "publisher": "2K Games",
+  "series": "Mafia",
+  "developer": "Hangar 13",
+  "locations": [
+    {
+      "placeId": "new-orleans-usa",
+      "aliases": [
+        "New Bordeaux"
+      ],
+      "note": "Lincoln Clay fights the mob in New Bordeaux, a reimagined New Orleans with a French Ward, docks and surrounding bayous."
+    }
+  ],
+  "storyYears": [
+    1968
+  ],
+  "source": "https://en.wikipedia.org/wiki/Mafia_III",
+  "publisherUrl": "https://en.wikipedia.org/wiki/2K_(company)",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

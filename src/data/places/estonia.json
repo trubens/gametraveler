@@ -1,0 +1,12 @@
+{
+  "id": "estonia",
+  "name": "Estonia",
+  "position": {
+    "lat": 58.5953,
+    "lon": 25.0136
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Estonia",
+  "description": "A country in the Baltic region of Northern Europe, on the eastern shore of the Baltic Sea."
+}

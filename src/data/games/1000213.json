@@ -1,0 +1,58 @@
+{
+  "id": 1000213,
+  "name": "Chronicles of Mystery: The Scorpio Ritual",
+  "year": 2008,
+  "developer": "City Interactive",
+  "publisher": "City Interactive",
+  "locations": [
+    {
+      "placeId": "paris-france",
+      "note": "Sylvie Leroux's story begins in Paris before she travels to Malta.",
+      "source": "https://www.bigfishgames.com/blog/walkthroughs/chronicles-of-mystery-the-scorpio-ritual.html"
+    },
+    {
+      "placeId": "valletta-malta",
+      "note": "Sylvie investigates her uncle's disappearance in Valletta.",
+      "source": "https://www.bigfishgames.com/blog/walkthroughs/chronicles-of-mystery-the-scorpio-ritual.html"
+    },
+    {
+      "placeId": "gozo-malta",
+      "note": "The investigation visits an archaeological temple site on Gozo.",
+      "source": "https://www.bigfishgames.com/blog/walkthroughs/chronicles-of-mystery-the-scorpio-ritual.html"
+    },
+    {
+      "placeId": "istanbul-turkey",
+      "note": "Sylvie follows the stones from Malta to an art gallery in Istanbul, and is thrown out by its director.",
+      "source": "https://www.bigfishgames.com/blog/walkthroughs/chronicles-of-mystery-the-scorpio-ritual.html"
+    },
+    {
+      "placeId": "vatican-city",
+      "note": "The finale in the Vatican, where Sylvie's uncle dies breaking up the fight between James and Inspector Gronc.",
+      "source": "https://en.wikipedia.org/wiki/Chronicles_of_Mystery:_The_Scorpio_Ritual"
+    }
+  ],
+  "routes": [
+    {
+      "id": "sylvie-investigation",
+      "name": "Sylvie's investigation",
+      "characters": [
+        "Sylvie Leroux"
+      ],
+      "stops": [
+        "paris-france",
+        "valletta-malta",
+        "gozo-malta",
+        "istanbul-turkey",
+        "vatican-city"
+      ],
+      "source": "https://www.bigfishgames.com/blog/walkthroughs/chronicles-of-mystery-the-scorpio-ritual.html"
+    }
+  ],
+  "storyYears": [
+    2008
+  ],
+  "source": "https://en.wikipedia.org/wiki/Chronicles_of_Mystery:_The_Scorpio_Ritual",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": 373,
+  "name": "WRC: Rally Evolved",
+  "year": 2005,
+  "series": "WRC",
+  "developer": "Evolution Studios",
+  "publisher": "Sony Computer Entertainment",
+  "locations": [
+    {
+      "placeId": "jyvaskyla-finland",
+      "note": "Rally Finland, round 10 of 16 of the 2005 World Rally Championship."
+    },
+    {
+      "placeId": "monte-carlo-monaco",
+      "note": "The Monte Carlo Rally, the opening round of the 2005 World Rally Championship."
+    },
+    {
+      "placeId": "karlstad-sweden",
+      "note": "Rally Sweden, round 2 of 16 of the 2005 World Rally Championship."
+    },
+    {
+      "placeId": "leon-mexico",
+      "note": "Rally Mexico, round 3 of 16 of the 2005 World Rally Championship."
+    },
+    {
+      "placeId": "auckland-new-zealand",
+      "note": "Rally New Zealand, round 4 of 16 of the 2005 World Rally Championship."
+    },
+    {
+      "placeId": "olbia-sardinia-italy",
+      "note": "Rally Italia Sardegna, round 5 of 16 of the 2005 World Rally Championship."
+    },
+    {
+      "placeId": "limassol-cyprus",
+      "note": "The Cyprus Rally, round 6 of 16 of the 2005 World Rally Championship."
+    },
+    {
+      "placeId": "antalya-turkiye",
+      "note": "The Rally of Turkey, round 7 of 16 of the 2005 World Rally Championship."
+    },
+    {
+      "placeId": "lamia-greece",
+      "note": "The Acropolis Rally, round 8 of 16 of the 2005 World Rally Championship."
+    },
+    {
+      "placeId": "villa-carlos-paz-argentina",
+      "note": "Rally Argentina, round 9 of 16 of the 2005 World Rally Championship."
+    },
+    {
+      "placeId": "trier-germany",
+      "note": "Rallye Deutschland, round 11 of 16 of the 2005 World Rally Championship."
+    },
+    {
+      "placeId": "cardiff-wales-uk",
+      "note": "The Wales Rally GB, round 12 of 16 of the 2005 World Rally Championship."
+    },
+    {
+      "placeId": "obihiro-japan",
+      "note": "Rally Japan, round 13 of 16 of the 2005 World Rally Championship."
+    },
+    {
+      "placeId": "ajaccio-corsica-france",
+      "note": "The Tour de Corse, round 14 of 16 of the 2005 World Rally Championship."
+    },
+    {
+      "placeId": "salou-spain",
+      "note": "Rally de Catalunya, round 15 of 16 of the 2005 World Rally Championship."
+    },
+    {
+      "placeId": "perth-western-australia",
+      "note": "Rally Australia, the final round of the 2005 World Rally Championship."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/WRC:_Rally_Evolved",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+  "genres": [
+    "Racing"
+  ]
+}

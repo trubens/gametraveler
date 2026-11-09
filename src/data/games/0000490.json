@@ -1,0 +1,20 @@
+{
+  "id": 490,
+  "name": "Akiba's Trip: Undead & Undressed",
+  "year": 2013,
+  "developer": "Acquire",
+  "publisher": "Acquire / Xseed Games / NIS America",
+  "locations": [
+    {
+      "placeId": "akihabara-tokyo-japan",
+      "note": "Players explore a detailed recreation of Akihabara and battle disguised vampires."
+    }
+  ],
+  "storyYears": [
+    2013
+  ],
+  "source": "https://en.wikipedia.org/wiki/Akiba%27s_Trip:_Undead_%26_Undressed",
+  "genres": [
+    "Action RPG"
+  ]
+}

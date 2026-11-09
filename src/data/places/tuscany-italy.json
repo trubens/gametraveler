@@ -1,0 +1,14 @@
+{
+  "id": "tuscany-italy",
+  "name": "Tuscany, Italy",
+  "position": {
+    "lat": 43.2,
+    "lon": 11.3
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "source": "https://en.wikipedia.org/wiki/Tuscany",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tuscany",
+  "placeType": "region",
+  "description": "A region of central Italy, famed for its hill towns, vineyards and Renaissance cities."
+}

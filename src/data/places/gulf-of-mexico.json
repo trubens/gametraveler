@@ -1,0 +1,14 @@
+{
+  "id": "gulf-of-mexico",
+  "name": "Gulf of Mexico",
+  "position": {
+    "lat": 25.0,
+    "lon": -90.0
+  },
+  "scale": "area",
+  "placeType": "body_of_water",
+  "source": "https://en.wikipedia.org/wiki/Gulf_of_Mexico",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gulf_of_Mexico",
+  "description": "An oceanic basin and marginal sea of the Atlantic, bounded by the US Gulf Coast, the Mexican coast from Tamaulipas to Quintana Roo, and Cuba.",
+  "descriptionSource": "wikipedia"
+}

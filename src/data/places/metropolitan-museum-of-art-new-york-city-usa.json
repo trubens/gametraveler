@@ -1,0 +1,17 @@
+{
+  "id": "metropolitan-museum-of-art-new-york-city-usa",
+  "name": "Metropolitan Museum of Art, New York City, USA",
+  "position": {
+    "lat": 40.7794,
+    "lon": -73.9632
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "The Met"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
+  "description": "New York's great encyclopedic art museum, known to everyone as the Met, the largest art museum in the Americas."
+}

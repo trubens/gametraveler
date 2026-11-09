@@ -1,0 +1,51 @@
+{
+  "id": 353,
+  "name": "Assetto Corsa",
+  "year": 2014,
+  "series": "Assetto Corsa",
+  "developer": "Kunos Simulazioni",
+  "publisher": "Kunos Simulazioni (PC) / 505 Games (PS4, Xbox One)",
+  "locations": [
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "Laser-scanned modern GP layout, plus three historic 1966 layouts, including the full course over the banked Sopraelevata, added in the 1.8 update."
+    },
+    {
+      "placeId": "autodromo-enzo-e-dino-ferrari-imola-italy",
+      "note": "One of four tracks in the 2013 Early Access launch, later reworked in the 1.5 update along with the game's other oldest circuits."
+    },
+    {
+      "placeId": "autodromo-dell-umbria-magione-italy",
+      "note": "The only track in the February 2013 Technology Preview, a free benchmark that let players try the physics engine in a Lotus Elise SC."
+    },
+    {
+      "placeId": "mugello-circuit-italy",
+      "note": "The first new track after launch, added in Early Access update 0.2 in November 2013 alongside a fictional drift circuit."
+    },
+    {
+      "placeId": "nurburgring-gp-circuit-germany",
+      "note": "Offers the GP and Sprint layouts, each also in a GT variant, two of them added in the 1.5 update; the Nordschleife is a separate Dream Pack 1 track."
+    },
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "In the game since the 2013 Early Access launch, now with GP, International and National layouts plus a historic 1967 version."
+    },
+    {
+      "placeId": "autodromo-vallelunga-italy",
+      "note": "Kunos had its R&D office at this circuit; the game offers Normal, Club and Classic layouts, the Classic one added in the 1.5 update."
+    },
+    {
+      "placeId": "trento-bondone-hillclimb-italy",
+      "note": "Recreated in 2014 as the game's only hillclimb: the 17.3 km climb from Trento to Vason used by the European Hill Climb Championship."
+    },
+    {
+      "placeId": "zandvoort-circuit-netherlands",
+      "note": "Added free in the 1.2 update in July 2015, and the one modern circuit Kunos chose not to laser-scan, as an experiment."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Assetto_Corsa",
+  "genres": [
+    "Racing"
+  ]
+}

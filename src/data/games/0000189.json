@@ -1,0 +1,66 @@
+{
+  "id": 189,
+  "name": "Medal of Honor: Allied Assault",
+  "year": 2002,
+  "publisher": "Electronic Arts",
+  "series": "Medal of Honor",
+  "developer": "2015, Inc.",
+  "locations": [
+    {
+      "placeId": "arzew-algeria",
+      "note": "The game opens with Powell's Rangers raiding Arzew during Operation Torch in November 1942."
+    },
+    {
+      "placeId": "trondheim-norway",
+      "note": "Powell infiltrates a U-boat base at Trondheim to sabotage a submarine before it sails."
+    },
+    {
+      "placeId": "omaha-beach-france",
+      "note": "The famous D-Day mission lands Lt. Powell on Omaha Beach under fire from the bluffs."
+    },
+    {
+      "placeId": "carentan-france",
+      "note": "Behind enemy lines in the bocage between Omaha Beach and Carentan, Powell raids a manor house used as a command post and destroys a Nebelwerfer battery."
+    },
+    {
+      "placeId": "brest-france",
+      "note": "Powell hijacks a King Tiger tank and uses it to secure a vital bridge at Brest."
+    },
+    {
+      "placeId": "germany",
+      "aliases": [
+        "Fort Schmerzen"
+      ],
+      "settingType": "fictionalized",
+      "note": "The final mission storms Fort Schmerzen, an invented mustard-gas plant on the Siegfried Line, to free its prisoners."
+    }
+  ],
+  "storyYears": [
+    1942,
+    1944
+  ],
+  "source": "https://en.wikipedia.org/wiki/Medal_of_Honor:_Allied_Assault",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "powell",
+      "name": "Powell's war",
+      "characters": [
+        "Lt. Mike Powell"
+      ],
+      "stops": [
+        "arzew-algeria",
+        "trondheim-norway",
+        "omaha-beach-france",
+        "carentan-france",
+        "brest-france",
+        "germany"
+      ],
+      "note": "From Operation Torch in 1942 to the Siegfried Line in 1944.",
+      "source": "https://en.wikipedia.org/wiki/Medal_of_Honor:_Allied_Assault"
+    }
+  ]
+}

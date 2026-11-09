@@ -1,0 +1,18 @@
+{
+  "id": "castel-sant-angelo-rome-italy",
+  "name": "Castel Sant'Angelo, Rome, Italy",
+  "position": {
+    "lat": 41.9031,
+    "lon": 12.4663
+  },
+  "scale": "site",
+  "parentId": "rome-italy",
+  "placeType": "landmark",
+  "aliases": [
+    "Mausoleum of Hadrian"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Castel_Sant%27Angelo",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Castel_Sant%27Angelo",
+  "description": "Hadrian's towering round mausoleum on the Tiber, later a papal fortress and prison linked to the Vatican by a fortified corridor, now a museum.",
+  "descriptionSource": "wikipedia"
+}

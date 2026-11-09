@@ -1,0 +1,14 @@
+{
+  "id": "anzio-italy",
+  "name": "Anzio, Italy",
+  "position": {
+    "lat": 41.4486,
+    "lon": 12.6219
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anzio",
+  "description": "A resort town on the coast south of Rome, where the Allies landed in January 1944 and were pinned on the beachhead for four months.",
+  "descriptionSource": "wikipedia"
+}

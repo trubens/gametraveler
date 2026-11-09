@@ -1,0 +1,35 @@
+{
+  "id": 402,
+  "name": "Sherlock Holmes: The Devil's Daughter",
+  "year": 2016,
+  "series": "Sherlock Holmes",
+  "developer": "Frogwares",
+  "publisher": "Frogwares / Bigben Interactive",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "Five cases in 1896, from a missing father to a séance, that close in on Holmes's own daughter Katelyn."
+    },
+    {
+      "placeId": "221b-baker-street-london-uk",
+      "note": "Home base at 221B, where Katelyn and the cases cross."
+    },
+    {
+      "placeId": "scotland-yard-london-uk",
+      "note": "Where a case can end with a suspect handed over to Lestrade."
+    },
+    {
+      "placeId": "epping-forest-england-uk",
+      "note": "Holmes stalks Marsh and his fellow hunters through Epping Forest."
+    }
+  ],
+  "storyYears": [
+    1896
+  ],
+  "source": "https://en.wikipedia.org/wiki/Sherlock_Holmes:_The_Devil%27s_Daughter",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Frogwares",
+  "genres": [
+    "Adventure"
+  ]
+}

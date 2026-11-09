@@ -1,0 +1,17 @@
+{
+  "id": "arsuf-israel",
+  "name": "Arsuf, Israel",
+  "aliases": [
+    "Apollonia",
+    "Arsur"
+  ],
+  "position": {
+    "lat": 32.1953,
+    "lon": 34.8067
+  },
+  "scale": "area",
+  "parentId": "israel",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Apollonia%E2%80%93Arsuf",
+  "description": "The ruined coastal city of Apollonia, called Arsuf by the Crusaders, north of Tel Aviv, near where Richard the Lionheart beat Saladin in 1191."
+}

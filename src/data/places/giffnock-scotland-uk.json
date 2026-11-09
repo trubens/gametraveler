@@ -1,0 +1,14 @@
+{
+  "id": "giffnock-scotland-uk",
+  "name": "Giffnock, Scotland, UK",
+  "position": {
+    "lat": 55.8051,
+    "lon": -4.2946
+  },
+  "scale": "area",
+  "parentId": "scotland-uk",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Giffnock",
+  "description": "A town on the southern edge of Glasgow, the administrative centre of East Renfrewshire.",
+  "descriptionSource": "wikipedia"
+}

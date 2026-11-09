@@ -1,0 +1,17 @@
+{
+  "id": "amsterdam-centraal-station-netherlands",
+  "name": "Amsterdam Centraal, Amsterdam, Netherlands",
+  "position": {
+    "lat": 52.3783,
+    "lon": 4.9
+  },
+  "scale": "site",
+  "parentId": "amsterdam-netherlands",
+  "placeType": "landmark",
+  "aliases": [
+    "Centraal Station"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amsterdam_Centraal_station",
+  "description": "The city's main railway station, a brick palace of 1889 on an artificial island in the IJ.",
+  "descriptionSource": "wikipedia"
+}

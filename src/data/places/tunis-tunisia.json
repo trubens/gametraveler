@@ -1,0 +1,13 @@
+{
+  "id": "tunis-tunisia",
+  "name": "Tunis, Tunisia",
+  "position": {
+    "lat": 36.8065,
+    "lon": 10.1815
+  },
+  "scale": "area",
+  "parentId": "tunisia",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tunis",
+  "description": "The capital and largest city of Tunisia."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "thruxton-circuit-uk",
+  "name": "Thruxton Circuit, UK",
+  "position": {
+    "lat": 51.207,
+    "lon": -1.6
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Thruxton_Circuit",
+  "description": "A motor-racing circuit beside the village of Thruxton in Hampshire, some way north of Southampton."
+}

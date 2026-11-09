@@ -1,0 +1,14 @@
+{
+  "id": "abkhazia-georgia",
+  "name": "Abkhazia, Georgia",
+  "position": {
+    "lat": 43.0,
+    "lon": 41.0
+  },
+  "scale": "area",
+  "parentId": "georgia",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Abkhazia",
+  "description": "The breakaway region on the Black Sea coast of Georgia, recognised by Russia and a handful of states.",
+  "descriptionSource": "wikipedia"
+}

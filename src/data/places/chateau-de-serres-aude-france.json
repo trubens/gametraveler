@@ -1,0 +1,14 @@
+{
+  "id": "chateau-de-serres-aude-france",
+  "name": "Château de Serres, Aude, France",
+  "position": {
+    "lat": 42.944,
+    "lon": 2.299
+  },
+  "scale": "site",
+  "parentId": "rennes-le-chateau-france",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Serres,_Aude",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Serres,_Aude",
+  "description": "A small commune in the Aude department of southern France, home to the château that bears its name."
+}

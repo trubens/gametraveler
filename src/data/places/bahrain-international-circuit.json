@@ -1,0 +1,12 @@
+{
+  "id": "bahrain-international-circuit",
+  "name": "Bahrain International Circuit",
+  "position": {
+    "lat": 26.0325,
+    "lon": 50.5106
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bahrain_International_Circuit",
+  "description": "A motorsport venue opened in 2004, used for drag racing, GP2 and the annual Formula One Bahrain Grand Prix."
+}

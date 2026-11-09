@@ -1,0 +1,13 @@
+{
+  "id": "israel",
+  "name": "Israel",
+  "position": {
+    "lat": 30.91,
+    "lon": 34.85
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Israel",
+  "description": "A country of the Southern Levant in West Asia, bordered by Lebanon, Syria, Jordan and Egypt."
+}

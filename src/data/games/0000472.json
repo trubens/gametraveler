@@ -1,0 +1,53 @@
+{
+  "id": 472,
+  "name": "Assassin's Creed III: Liberation",
+  "year": 2012,
+  "series": "Assassin's Creed",
+  "developer": "Ubisoft Sofia",
+  "publisher": "Ubisoft",
+  "locations": [
+    {
+      "placeId": "new-orleans-usa",
+      "note": "Aveline's adventures take place in colonial New Orleans and its bayous."
+    },
+    {
+      "placeId": "st-louis-cathedral-new-orleans-usa",
+      "note": "Aveline meets Madeleine at the cathedral to be initiated into the Templar Order."
+    },
+    {
+      "placeId": "chichen-itza-mexico",
+      "note": "Aveline follows the slaves sent out of New Orleans to a Templar dig at Chichén Itzá, and finds her mother Jeanne there."
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "note": "In 1777, with Connor's help, Aveline hunts a Loyalist officer in New York who knows the Company Man's identity."
+    }
+  ],
+  "storyYears": [
+    1765,
+    1777
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_III:_Liberation",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "aveline",
+      "name": "Aveline",
+      "characters": [
+        "Aveline de Grandpré"
+      ],
+      "stops": [
+        "new-orleans-usa",
+        "chichen-itza-mexico",
+        "new-orleans-usa",
+        "new-york-city-usa"
+      ],
+      "note": "1765 to 1777: New Orleans and the bayou, the Yucatán, and New York.",
+      "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_III:_Liberation"
+    }
+  ]
+}

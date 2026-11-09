@@ -1,0 +1,71 @@
+{
+  "id": 399,
+  "name": "Sherlock Holmes Versus Arsène Lupin",
+  "year": 2007,
+  "series": "Sherlock Holmes",
+  "developer": "Frogwares",
+  "publisher": "Frogwares / Focus Home Interactive",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "Lupin announces five thefts in five days, each at a London landmark, and Holmes races him across the city in 1895."
+    },
+    {
+      "placeId": "221b-baker-street-london-uk",
+      "note": "Holmes decodes Lupin's taunting letters at Baker Street between the thefts."
+    },
+    {
+      "placeId": "national-gallery-london-uk",
+      "note": "The first theft: Turner's The Fighting Temeraire, taken from the National Gallery under Holmes's nose."
+    },
+    {
+      "placeId": "tower-of-london-london-uk",
+      "note": "The ravens vanish from the Tower, and the Crown Jewels turn out to be Lupin's real target."
+    },
+    {
+      "placeId": "british-museum-london-uk",
+      "note": "Lupin lifts the Rosetta Stone on ropes in front of Holmes and Watson."
+    },
+    {
+      "placeId": "buckingham-palace-london-uk",
+      "note": "Smuggled into the palace in a grandfather clock, Lupin reaches the Queen's chamber and asks for a kiss."
+    },
+    {
+      "placeId": "big-ben-london-uk",
+      "note": "Watson, Lestrade and the Prime Minister wait for Lupin at Big Ben, the decoy."
+    }
+  ],
+  "storyYears": [
+    1895
+  ],
+  "source": "https://en.wikipedia.org/wiki/Sherlock_Holmes_Versus_Ars%C3%A8ne_Lupin",
+  "reviewed": "2026-11-01",
+  "aliases": [
+    "Sherlock Holmes: Nemesis"
+  ],
+  "developerUrl": "https://en.wikipedia.org/wiki/Frogwares",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "holmes",
+      "name": "Sherlock Holmes",
+      "characters": [
+        "Sherlock Holmes",
+        "Dr. Watson",
+        "Inspector Lestrade"
+      ],
+      "stops": [
+        "221b-baker-street-london-uk",
+        "national-gallery-london-uk",
+        "tower-of-london-london-uk",
+        "british-museum-london-uk",
+        "buckingham-palace-london-uk",
+        "tower-of-london-london-uk"
+      ],
+      "note": "Lupin's letter sends Holmes from Baker Street after a painting, the Tower ravens, the Rosetta Stone and the Queen herself, before he doubles back to the Tower to catch the thief at the Crown Jewels.",
+      "source": "https://en.wikipedia.org/wiki/Sherlock_Holmes_versus_Ars%C3%A8ne_Lupin"
+    }
+  ]
+}

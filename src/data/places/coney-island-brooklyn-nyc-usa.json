@@ -1,0 +1,14 @@
+{
+  "id": "coney-island-brooklyn-nyc-usa",
+  "name": "Coney Island, Brooklyn, New York City, USA",
+  "position": {
+    "lat": 40.575,
+    "lon": -73.985
+  },
+  "scale": "area",
+  "parentId": "brooklyn-new-york-usa",
+  "source": "https://en.wikipedia.org/wiki/Coney_Island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Coney_Island",
+  "placeType": "island",
+  "description": "A neighbourhood and amusement district at the south-western edge of Brooklyn, in New York City."
+}

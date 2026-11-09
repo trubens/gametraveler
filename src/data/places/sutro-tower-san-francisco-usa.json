@@ -1,0 +1,15 @@
+{
+  "id": "sutro-tower-san-francisco-usa",
+  "name": "Sutro Tower, San Francisco, USA",
+  "position": {
+    "lat": 37.7552,
+    "lon": -122.4528
+  },
+  "scale": "site",
+  "parentId": "san-francisco-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sutro_Tower",
+  "description": "A three-legged 298-metre TV and radio mast on the hills of San Francisco's West Side.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Sutro_Tower"
+}

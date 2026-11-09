@@ -1,0 +1,14 @@
+{
+  "id": "galicia-ukraine",
+  "name": "Galicia, Ukraine",
+  "position": {
+    "lat": 49.6,
+    "lon": 24.5
+  },
+  "scale": "area",
+  "parentId": "ukraine",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Galicia_(Eastern_Europe)",
+  "description": "The historic region north of the Carpathians, now western Ukraine and south-eastern Poland, where the Russian and Austro-Hungarian armies fought in 1914 to 1917.",
+  "descriptionSource": "wikipedia"
+}

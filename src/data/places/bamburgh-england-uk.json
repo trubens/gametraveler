@@ -1,0 +1,13 @@
+{
+  "id": "bamburgh-england-uk",
+  "name": "Bamburgh, England, UK",
+  "position": {
+    "lat": 55.608,
+    "lon": -1.71
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bamburgh",
+  "description": "A village on the Northumberland coast beneath its castle."
+}

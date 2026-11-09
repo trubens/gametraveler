@@ -1,0 +1,14 @@
+{
+  "id": "north-korea",
+  "name": "North Korea",
+  "position": {
+    "lat": 40.3399,
+    "lon": 127.5101
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/North_Korea",
+  "description": "The Democratic People's Republic of Korea, the closed northern half of the Korean peninsula.",
+  "descriptionSource": "wikipedia"
+}

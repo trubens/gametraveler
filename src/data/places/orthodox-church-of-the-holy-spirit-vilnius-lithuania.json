@@ -1,0 +1,14 @@
+{
+  "id": "orthodox-church-of-the-holy-spirit-vilnius-lithuania",
+  "name": "Orthodox Church of the Holy Spirit, Vilnius, Lithuania",
+  "position": {
+    "lat": 54.6757,
+    "lon": 25.2905
+  },
+  "scale": "site",
+  "parentId": "vilnius-lithuania",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Orthodox_Church_of_the_Holy_Spirit,_Vilnius",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Orthodox_Church_of_the_Holy_Spirit,_Vilnius",
+  "description": "A Russian Orthodox church in Vilnius Old Town, rebuilt in the mid-eighteenth century in the Vilnian Baroque style."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "abashiri-prison-abashiri-japan",
+  "name": "Abashiri Prison, Abashiri, Japan",
+  "position": {
+    "lat": 44.0166,
+    "lon": 144.2311
+  },
+  "scale": "site",
+  "parentId": "hokkaido-japan",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Yakuza_5",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Abashiri_Prison",
+  "description": "A prison in Abashiri, Hokkaido, opened in 1890; the northernmost prison in Japan, near the Abashiri River.",
+  "descriptionSource": "wikipedia"
+}

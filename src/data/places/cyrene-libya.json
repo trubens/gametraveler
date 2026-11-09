@@ -1,0 +1,14 @@
+{
+  "id": "cyrene-libya",
+  "name": "Cyrene, Libya",
+  "position": {
+    "lat": 32.825,
+    "lon": 21.8583
+  },
+  "scale": "area",
+  "parentId": "libya",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Cyrene,_Libya",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cyrene,_Libya",
+  "description": "An ancient Greek colony and later Roman city, now a ruin near present-day Shahhat in north-eastern Libya."
+}

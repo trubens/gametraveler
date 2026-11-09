@@ -1,0 +1,34 @@
+{
+  "id": 1000277,
+  "name": "Soldier of Fortune: Payback",
+  "year": 2007,
+  "series": "Soldier of Fortune",
+  "developer": "Cauldron HQ",
+  "publisher": "Activision",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    2007
+  ],
+  "source": "https://en.wikipedia.org/wiki/Soldier_of_Fortune:_Payback",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "ishkashim-afghanistan",
+      "note": "Eshkashem: hillside, caves and a mountain village in the Afghan borderlands."
+    },
+    {
+      "placeId": "al-qaim-iraq",
+      "note": "Mason's first job: Al-Qa'im on the Euphrates, where his own side betrays him."
+    },
+    {
+      "placeId": "mogaung-myanmar",
+      "note": "Mogaung: cliffs, jungle, a farming village and a construction site in Kachin State."
+    },
+    {
+      "placeId": "donetsk-ukraine",
+      "note": "Donetsk: the hunt ends in a brothel and a garage in the Donbas."
+    }
+  ]
+}

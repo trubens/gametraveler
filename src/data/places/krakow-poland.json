@@ -1,0 +1,13 @@
+{
+  "id": "krakow-poland",
+  "name": "Kraków, Poland",
+  "position": {
+    "lat": 50.0647,
+    "lon": 19.945
+  },
+  "scale": "area",
+  "parentId": "poland",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Krak%C3%B3w",
+  "description": "Poland's second-largest city and one of its oldest."
+}

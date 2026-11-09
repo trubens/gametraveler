@@ -1,0 +1,21 @@
+{
+  "id": 423,
+  "name": "Egypt II: The Heliopolis Prophecy",
+  "series": "Egypt",
+  "year": 2000,
+  "developer": "Cryo Interactive",
+  "publisher": "Cryo Interactive",
+  "locations": [
+    {
+      "placeId": "heliopolis-egypt",
+      "note": "A priestess investigates an epidemic in ancient Heliopolis."
+    }
+  ],
+  "storyYears": [
+    -1350
+  ],
+  "source": "https://en.wikipedia.org/wiki/Egypt_II:_The_Heliopolis_Prophecy",
+  "genres": [
+    "Adventure"
+  ]
+}

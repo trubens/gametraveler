@@ -1,0 +1,55 @@
+{
+  "id": 191,
+  "name": "Brothers in Arms: Hell's Highway",
+  "year": 2008,
+  "publisher": "Ubisoft",
+  "series": "Brothers in Arms",
+  "developer": "Gearbox Software",
+  "locations": [
+    {
+      "placeId": "eindhoven-netherlands",
+      "note": "The 101st liberates Eindhoven during Market Garden, but the celebration ends in a German air raid."
+    },
+    {
+      "placeId": "sint-oedenrode-netherlands",
+      "note": "Leaving burning Eindhoven, the unit regroups with First Sergeant Hassey at Oedenrode, where the men voice their worries about Baker.",
+      "source": "https://en.wikipedia.org/wiki/Brothers_in_Arms:_Hell%27s_Highway"
+    },
+    {
+      "placeId": "son-netherlands",
+      "note": "Market Garden begins for Baker's squad with the fight for the Son bridge over the Wilhelmina Canal."
+    },
+    {
+      "placeId": "veghel-netherlands",
+      "note": "German counterattacks on the corridor at Veghel keep 'Hell's Highway' under constant fire."
+    }
+  ],
+  "storyYears": [
+    1944
+  ],
+  "source": "https://en.wikipedia.org/wiki/Brothers_in_Arms:_Hell%27s_Highway",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "baker",
+      "name": "Sgt. Matt Baker",
+      "characters": [
+        "Matt Baker",
+        "Joe Hartsock",
+        "Sam Corrion"
+      ],
+      "stops": [
+        "son-netherlands",
+        "eindhoven-netherlands",
+        "sint-oedenrode-netherlands",
+        "veghel-netherlands"
+      ],
+      "note": "Landing for Market Garden, Baker's squad loses the race for the Son bridge, liberates Eindhoven only to see it bombed, regroups with Hassey at Oedenrode and holds Veghel on Hell's Highway as the operation fails.",
+      "source": "https://en.wikipedia.org/wiki/Brothers_in_Arms:_Hell%27s_Highway"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "chiusi-della-verna-italy",
+  "name": "Chiusi della Verna, Italy",
+  "position": {
+    "lat": 43.7,
+    "lon": 11.9333
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "city",
+  "aliases": [
+    "La Verna"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Chiusi_della_Verna",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chiusi_della_Verna",
+  "description": "A small town in Tuscany's province of Arezzo."
+}

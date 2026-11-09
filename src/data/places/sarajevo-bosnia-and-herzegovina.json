@@ -1,0 +1,13 @@
+{
+  "id": "sarajevo-bosnia-and-herzegovina",
+  "name": "Sarajevo, Bosnia and Herzegovina",
+  "position": {
+    "lat": 43.8563,
+    "lon": 18.4131
+  },
+  "scale": "area",
+  "parentId": "bosnia-and-herzegovina",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sarajevo",
+  "description": "The capital and largest city of Bosnia and Herzegovina."
+}

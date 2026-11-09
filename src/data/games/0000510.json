@@ -1,0 +1,20 @@
+{
+  "id": 510,
+  "name": "Hope Springs Eternal",
+  "year": 2005,
+  "publisher": "MDNA Games",
+  "developer": "MDNA Games",
+  "locations": [
+    {
+      "placeId": "norrkoping-sweden",
+      "note": "Hired by Conrad's sister after her co-worker Anna disappears, Carol searches photographed Norrköping streets, a junkyard, the harbour and a castle."
+    }
+  ],
+  "storyYears": [
+    2005
+  ],
+  "source": "https://en.wikipedia.org/wiki/Carol_Reed_Mysteries",
+  "genres": [
+    "Adventure"
+  ]
+}

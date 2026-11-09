@@ -1,0 +1,17 @@
+{
+  "id": "ile-saint-louis-paris-france",
+  "name": "Île Saint-Louis, Paris, France",
+  "position": {
+    "lat": 48.8517,
+    "lon": 2.357
+  },
+  "scale": "site",
+  "parentId": "paris-france",
+  "placeType": "island",
+  "aliases": [
+    "Ile St Louis"
+  ],
+  "source": "https://en.wikipedia.org/wiki/%C3%8Ele_Saint-Louis",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%8Ele_Saint-Louis",
+  "description": "One of the two natural islands in the Seine at Paris, joined to both banks by four bridges and to the Île de la Cité by another."
+}

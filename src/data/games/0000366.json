@@ -1,0 +1,24 @@
+{
+  "id": 366,
+  "name": "Need for Speed Heat",
+  "year": 2019,
+  "series": "Need for Speed",
+  "developer": "Ghost Games",
+  "publisher": "Electronic Arts",
+  "locations": [
+    {
+      "placeId": "miami-usa",
+      "aliases": [
+        "Palm City"
+      ],
+      "settingType": "fictionalized",
+      "note": "Palm City, the game's Miami, by day and by night: sanctioned races on the streets and outlaw ones after dark, with the corrupt police on your tail."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Need_for_Speed_Heat",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tsuwano-shimane-japan",
+  "name": "Tsuwano, Shimane, Japan",
+  "position": {
+    "lat": 34.4717,
+    "lon": 131.7732
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tsuwano,_Shimane",
+  "description": "A small town in the mountains of Shimane Prefecture."
+}

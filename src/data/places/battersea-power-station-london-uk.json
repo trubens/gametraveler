@@ -1,0 +1,13 @@
+{
+  "id": "battersea-power-station-london-uk",
+  "name": "Battersea Power Station, London, UK",
+  "position": {
+    "lat": 51.48,
+    "lon": -0.14
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Battersea_Power_Station",
+  "description": "A preserved coal-fired power station on the south bank of the Thames at Nine Elms in Wandsworth."
+}

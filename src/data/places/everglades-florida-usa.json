@@ -1,0 +1,14 @@
+{
+  "id": "everglades-florida-usa",
+  "name": "Everglades, Florida, USA",
+  "position": {
+    "lat": 26,
+    "lon": -80.7
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Everglades",
+  "description": "The slow river of sawgrass that covers the southern tip of Florida, with airboats and mangroves along its edges.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "pech-cardou-france",
+  "name": "Pech Cardou, France",
+  "position": {
+    "lat": 42.9253,
+    "lon": 2.301
+  },
+  "scale": "site",
+  "parentId": "rennes-le-chateau-france",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Mount Cardou"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Pech_Cardou",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pech_Cardou",
+  "description": "A peak near the village of Rennes-le-Château in the Aude, in the south of France."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "korean-international-circuit-yeongam-south-korea",
+  "name": "Korean International Circuit, Yeongam, South Korea",
+  "position": {
+    "lat": 34.7333,
+    "lon": 126.417
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Korea_International_Circuit",
+  "description": "A motorsport circuit at Yeongam in South Jeolla, far south of Seoul near the port city of Mokpo."
+}

@@ -1,0 +1,109 @@
+{
+  "id": 259,
+  "name": "Commandos 3: Destination Berlin",
+  "year": 2003,
+  "publisher": "Eidos Interactive",
+  "series": "Commandos",
+  "developer": "Pyro Studios",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "The tutorial sends the Spy and Thief into the German embassy to steal documents."
+    },
+    {
+      "placeId": "stalingrad-volgograd-russia",
+      "note": "The Stalingrad campaign includes fighting around the recognisable Barmaley Fountain."
+    },
+    {
+      "placeId": "berlin-germany",
+      "note": "The commandos escape imprisonment in Berlin and pursue the officer who betrayed them."
+    },
+    {
+      "placeId": "normandy-france",
+      "note": "The Normandy campaign culminates in an assault on the D-Day beach defences."
+    },
+    {
+      "placeId": "saint-avold-france",
+      "note": "A Central Europe mission takes place aboard an armoured train at Saint-Avold."
+    },
+    {
+      "placeId": "forbach-france",
+      "note": "Woolridge and Hancock clear a small town near Forbach so the Americans can ambush the German art convoy."
+    },
+    {
+      "placeId": "caen-france",
+      "note": "A Normandy mission infiltrates a German camp near Caen."
+    },
+    {
+      "placeId": "le-havre-france",
+      "note": "A mission at the port targets German E-boats."
+    },
+    {
+      "placeId": "omaha-beach-france",
+      "note": "O'Hara lands with the Americans on Omaha Beach, takes out the coastal artillery and clears the bunkers."
+    }
+  ],
+  "storyYears": [
+    1939,
+    1942,
+    1944
+  ],
+  "source": "https://en.wikipedia.org/wiki/Commandos_3:_Destination_Berlin",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Eidos_Interactive",
+  "genres": [
+    "Real-Time Tactics"
+  ],
+  "routes": [
+    {
+      "id": "stalingrad",
+      "name": "Stalingrad campaign",
+      "characters": [
+        "Sir Francis T. Woolridge",
+        "Thomas Hancock",
+        "Jack O'Hara",
+        "René Duchamp"
+      ],
+      "stops": [
+        "stalingrad-volgograd-russia",
+        "berlin-germany"
+      ],
+      "note": "The commandos defend a Soviet command post at Stalingrad, are betrayed by General O'Donnell and flown to a Berlin prison, then escape to kill the traitor.",
+      "source": "https://strategywiki.org/wiki/Commandos_3:_Destination_Berlin"
+    },
+    {
+      "id": "central-europe",
+      "name": "Central Europe campaign",
+      "characters": [
+        "René Duchamp",
+        "Paul Toledo",
+        "Jack O'Hara",
+        "Sir Francis T. Woolridge",
+        "Thomas Hancock"
+      ],
+      "stops": [
+        "saint-avold-france",
+        "forbach-france"
+      ],
+      "note": "Duchamp, Toledo and O'Hara seize an armoured train of looted art at Saint-Avold, and the convoy carrying the captives and the art is ambushed in a town near Forbach.",
+      "source": "https://en.wikipedia.org/wiki/Commandos_3:_Destination_Berlin"
+    },
+    {
+      "id": "normandy",
+      "name": "Normandy campaign",
+      "characters": [
+        "Thomas Hancock",
+        "Paul Toledo",
+        "James Blackwood",
+        "Jack O'Hara"
+      ],
+      "stops": [
+        "caen-france",
+        "le-havre-france",
+        "omaha-beach-france"
+      ],
+      "note": "On the night before D-Day the commandos wreck a German reserve camp near Caen, mine E-boats in Le Havre at daybreak, and storm Omaha Beach with the Americans.",
+      "source": "https://en.wikipedia.org/wiki/Commandos_3:_Destination_Berlin"
+    }
+  ]
+}

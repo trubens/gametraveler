@@ -1,0 +1,12 @@
+{
+  "id": "tt-circuit-assen-netherlands",
+  "name": "TT Circuit Assen, Netherlands",
+  "position": {
+    "lat": 52.963,
+    "lon": 6.526
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/TT_Circuit_Assen",
+  "description": "The motorcycle-racing circuit at Assen, built in 1955 and home of the Dutch TT, known to fans as the Cathedral of Speed."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "palazzo-vecchio-florence-italy",
+  "name": "Palazzo Vecchio, Florence, Italy",
+  "position": {
+    "lat": 43.7693,
+    "lon": 11.2563
+  },
+  "scale": "site",
+  "parentId": "florence-italy",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Palazzo_Vecchio",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Palazzo_Vecchio",
+  "description": "The town hall of Florence, looking out over the Piazza della Signoria with its copy of Michelangelo's David and the statues of the Loggia dei Lanzi."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pogerola-italy",
+  "name": "Pogerola, Italy",
+  "position": {
+    "lat": 40.6482,
+    "lon": 14.6409
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amalfi",
+  "description": "Part of the Amalfi coast on the Gulf of Salerno."
+}

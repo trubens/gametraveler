@@ -1,0 +1,68 @@
+{
+  "id": 374,
+  "name": "WRC 2: FIA World Rally Championship",
+  "year": 2011,
+  "series": "WRC",
+  "developer": "Milestone srl",
+  "publisher": "Black Bean Games",
+  "locations": [
+    {
+      "placeId": "karlstad-sweden",
+      "note": "Rally Sweden, the snow round, from Karlstad into the Värmland forests."
+    },
+    {
+      "placeId": "leon-mexico",
+      "note": "Rally Mexico's high-altitude gravel around León."
+    },
+    {
+      "placeId": "faro-portugal",
+      "note": "Rally de Portugal in the Algarve."
+    },
+    {
+      "placeId": "dead-sea-jordan",
+      "note": "The Jordan Rally, run from the Dead Sea shore, the lowest-lying round in the sport."
+    },
+    {
+      "placeId": "olbia-sardinia-italy",
+      "note": "Rally Italia Sardegna from Olbia."
+    },
+    {
+      "placeId": "villa-carlos-paz-argentina",
+      "note": "Rally Argentina through the Punilla valley."
+    },
+    {
+      "placeId": "loutraki-greece",
+      "note": "The Acropolis Rally, the rough-gravel classic, from Loutraki."
+    },
+    {
+      "placeId": "jyvaskyla-finland",
+      "note": "Rally Finland's jumps from Jyväskylä."
+    },
+    {
+      "placeId": "trier-germany",
+      "note": "Rallye Deutschland's vineyard tarmac and the Baumholder tank range, from Trier."
+    },
+    {
+      "placeId": "australia-coffs-harbour",
+      "note": "Rally Australia on the forest roads behind Coffs Harbour."
+    },
+    {
+      "placeId": "strasbourg-france",
+      "note": "Rallye de France Alsace, vineyard tarmac out of Strasbourg."
+    },
+    {
+      "placeId": "salou-spain",
+      "note": "RallyRACC Catalunya, half gravel and half tarmac, from Salou."
+    },
+    {
+      "placeId": "cardiff-wales-uk",
+      "note": "Wales Rally GB, the season's last round, from Cardiff into the forests."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/WRC_2:_FIA_World_Rally_Championship",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

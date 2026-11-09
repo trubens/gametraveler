@@ -1,0 +1,13 @@
+{
+  "id": "wakasa-province-japan",
+  "name": "Wakasa Province, Japan",
+  "position": {
+    "lat": 35.5,
+    "lon": 135.9
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wakasa_Province",
+  "description": "A former province of Japan on the Sea of Japan coast, now the south-western part of Fukui Prefecture, bordering Echizen, Ōmi, Tanba and Tango."
+}

@@ -1,0 +1,62 @@
+{
+  "id": 484,
+  "name": "Ryū ga Gotoku Kenzan!",
+  "year": 2008,
+  "series": "Yakuza / Like a Dragon",
+  "developer": "New Entertainment R&D Dept.",
+  "publisher": "Sega",
+  "locations": [
+    {
+      "placeId": "sekigahara-japan",
+      "note": "On the eve of the battle Musashi is sent to kill a supposed traitor in the Tokugawa camp, who turns out to be the clan heir Yūki Hideyasu.",
+      "source": "https://en.wikipedia.org/wiki/Ry%C5%AB_ga_Gotoku_Kenzan!"
+    },
+    {
+      "placeId": "kyoto-japan",
+      "note": "Beyond Gion's walls Kiryu works the rough outskirts of Rakugai and joins the Yoshioka Dojo to meet the false Musashi."
+    },
+    {
+      "placeId": "gion-kyoto-japan",
+      "note": "Under the alias Kiryu Kazumanosuke, Musashi guards the Tsuruya brothel in walled Gion and takes young Haruka's job to kill the impostor using his old name.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "kiyomizu-dera-kyoto-japan",
+      "note": "Kiryu confronts Majima, who has carried Haruka off to the temple; Sasaki Kojirō strikes, and the old man with them reveals himself as Tokugawa Ieyasu, Haruka's grandfather.",
+      "source": "https://en.wikipedia.org/wiki/Ry%C5%AB_ga_Gotoku_Kenzan!"
+    },
+    {
+      "placeId": "ganryu-jima-japan",
+      "note": "Kiryu duels Sasaki Kojirō on the island and holds off Tenkai's army so Haruka can get away.",
+      "source": "https://en.wikipedia.org/wiki/Ry%C5%AB_ga_Gotoku_Kenzan!"
+    }
+  ],
+  "storyYears": [
+    1600,
+    1605
+  ],
+  "source": "https://en.wikipedia.org/wiki/Ry%C5%AB_ga_Gotoku_Kenzan!",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "musashi",
+      "name": "Musashi's road",
+      "characters": [
+        "Miyamoto Musashi"
+      ],
+      "stops": [
+        "sekigahara-japan",
+        "gion-kyoto-japan",
+        "kiyomizu-dera-kyoto-japan",
+        "gion-kyoto-japan",
+        "ganryu-jima-japan"
+      ],
+      "note": "From the Tokugawa camp at Sekigahara to a hidden life in Gion and the final duel on Ganryū-jima.",
+      "source": "https://en.wikipedia.org/wiki/Ry%C5%AB_ga_Gotoku_Kenzan!"
+    }
+  ]
+}

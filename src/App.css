@@ -1,72 +1,195 @@
 /* Kartet trykkes i én grå farge slik at markører og rute står ut */
 .leaflet-container {
-  background: #e4e4e6;
+  background: var(--color-land);
   font-family: var(--font-sans);
 }
 
-.leaflet-tile-pane,
-.leaflet-gl-layer canvas {
-  filter: grayscale(1) contrast(0.92) brightness(1.04);
+/* Bare rasterflisene (reserven) filtreres. Vektorkartet ligger også i flispanelet, men får samme tone
+   regnet inn i stilens farger (basemapTone.ts): et filter på lerretet gjorde landflatene grå også */
+.leaflet-tile-pane > .leaflet-layer:not(.leaflet-gl-layer) {
+  filter: grayscale(0.85) sepia(0.18) contrast(0.78) brightness(1.08);
+}
+
+/* Mørk modus: rasterflisene snus til natt (lyst blir mørkt, havet beholder fargetonen) */
+:root[data-theme="dark"] .leaflet-tile-pane > .leaflet-layer:not(.leaflet-gl-layer) {
+  filter: grayscale(0.85) invert(1) hue-rotate(180deg) brightness(0.85) contrast(0.85);
 }
 
 .leaflet-control-zoom.leaflet-bar {
-  border: 2px solid var(--color-ink);
-  border-radius: 0;
-  box-shadow: none;
+  overflow: hidden;
+  border: 1px solid color-mix(in srgb, var(--color-ink) 18%, transparent);
+  border-radius: 10px;
+  box-shadow: 0 1px 3px color-mix(in srgb, var(--color-shadow) 12%, transparent);
 }
 
 .leaflet-control-zoom.leaflet-bar a {
   width: 44px;
   height: 44px;
-  line-height: 42px;
-  font-size: 22px;
+  line-height: 44px;
+  font-size: 1.35rem;
   color: var(--color-ink);
+  background: var(--color-sheet);
   border-radius: 0;
+  border-bottom-color: color-mix(in srgb, var(--color-ink) 12%, transparent);
 }
 
 .leaflet-control-zoom.leaflet-bar a:hover {
-  background: var(--color-yellow);
+  background: var(--color-card);
 }
+
+:root[data-theme="dark"] .leaflet-container .leaflet-control-attribution,
+:root[data-theme="dark"] .leaflet-container .leaflet-control-attribution a { color: var(--color-ink-soft); }
 
 .leaflet-control-attribution {
   font-size: 12px;
-  background: rgb(255 255 255 / 0.85) !important;
+  background: color-mix(in srgb, var(--color-card) 85%, transparent) !important;
 }
 
-/* Enkeltmarkør: magenta trykkprikk med hvit kant, stort treffområde */
+/* Leaflet owns icon positioning and transforms. Only style its contents here. */
 .gt-marker {
   display: grid;
   place-items: center;
   background: none;
   border: none;
+  isolation: isolate;
 }
 
-.gt-marker span {
+/* A soft halo behind the dot marks a representative area point, in the place's setting colour, once the map
+   is close enough to show what the area is (gt-zoom-halos, from zoom 6). It used to be an outlined ring,
+   which made every city a target symbol; at the world view the halos became pink smudges. */
+.gt-marker.is-approximate::after {
+  display: none;
+  position: absolute;
+  z-index: -1;
+  top: 50%;
+  left: 50%;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: currentColor;
+  color: var(--color-magenta);
+  content: "";
+  opacity: 0.2;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+}
+
+.gt-marker.is-approximate.is-fictionalized::after { color: var(--color-fictional); }
+.gt-marker.is-approximate.is-imaginary::after { color: var(--color-imaginary); }
+.gt-marker.is-approximate.is-mixed::after { color: var(--color-mixed); }
+.gt-marker.is-approximate.is-dimmed::after { color: var(--color-dimmed); }
+.gt-zoom-halos .gt-marker.is-approximate::after { display: block; }
+
+.gt-marker-dot {
+  display: block;
   width: 16px;
   height: 16px;
   border-radius: 50%;
   background: var(--color-magenta);
-  border: 2.5px solid #fff;
-  box-shadow: 0 1px 3px rgb(18 18 20 / 0.45);
-  transition: transform 200ms var(--ease-out-expo);
+  border: 2.5px solid var(--color-ring);
+  box-shadow: 0 1px 3px color-mix(in srgb, var(--color-shadow) 45%, transparent);
+  transition:
+    width 180ms var(--ease-out-expo),
+    height 180ms var(--ease-out-expo),
+    background-color 180ms var(--ease-out-expo),
+    border-color 180ms var(--ease-out-expo),
+    box-shadow 180ms var(--ease-out-expo),
+    transform 180ms var(--ease-out-expo);
 }
 
-.gt-marker:hover span {
+.gt-marker:hover .gt-marker-dot {
   transform: scale(1.3);
 }
 
-.gt-marker.is-active span {
-  width: 22px;
-  height: 22px;
-  background: var(--color-ink);
-  border-color: var(--color-yellow);
-  border-width: 3.5px;
+/* Place reality is encoded with color as well as the filter controls. */
+.gt-marker.is-fictionalized .gt-marker-dot,
+.gt-cluster.is-single.is-fictionalized {
+  background: var(--color-fictional);
 }
 
-.gt-marker.is-dimmed span {
-  background: #9a9aa0;
+.gt-marker.is-imaginary .gt-marker-dot,
+.gt-cluster.is-single.is-imaginary {
+  background: var(--color-imaginary);
+}
+
+.gt-marker.is-mixed .gt-marker-dot {
+  background: var(--color-mixed);
+}
+
+.gt-marker.is-active .gt-marker-dot {
+  width: 22px;
+  height: 22px;
+  border-color: var(--color-sheet);
+  border-width: 3px;
+  box-shadow: 0 0 0 2px var(--color-ink), 0 1px 3px color-mix(in srgb, var(--color-shadow) 45%, transparent);
+}
+
+.gt-marker.is-dimmed .gt-marker-dot {
+  background: var(--color-dimmed);
   box-shadow: none;
 }
+
+/* «My atlas»: merket i hjørnet sier hva du har gjort der; prikkens farge beholder ekte/oppdiktet */
+.gt-mark {
+  position: absolute;
+  top: 5px;
+  left: 23px;
+  display: grid;
+  width: 16px;
+  height: 16px;
+  place-items: center;
+  border-radius: 50%;
+  pointer-events: none;
+}
+.gt-mark svg { width: 10px; height: 10px; }
+.gt-mark.is-been { background: var(--color-ink); box-shadow: 0 0 0 2px var(--color-ring); }
+.gt-mark.is-been svg { fill: none; stroke: var(--color-on-ink); stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+.gt-mark.is-want { background: var(--color-ring); box-shadow: 0 0 0 1.5px var(--color-magenta); }
+.gt-mark.is-want svg { width: 11px; height: 11px; fill: var(--color-magenta); }
+.gt-cluster { position: relative; }
+.gt-mark-count {
+  white-space: nowrap;
+  position: absolute;
+  top: -7px;
+  right: -9px;
+  display: flex;
+  height: 18px;
+  align-items: center;
+  gap: 1px;
+  padding: 0 6px 0 4px;
+  border-radius: 999px;
+  background: var(--color-ink);
+  box-shadow: 0 0 0 2px var(--color-ring);
+  color: var(--color-on-ink);
+  font-size: 11px;
+  font-weight: 800;
+  font-stretch: 100%;
+  line-height: 1;
+  pointer-events: none;
+}
+.gt-mark-count svg { width: 10px; height: 10px; fill: none; stroke: var(--color-on-ink); stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+
+/* Et reisestopp i et helt land: landet er flaten, markøren er usynlig og bærer bare nummerlappen */
+.gt-marker.is-country { background: none; border: 0; }
+/* Nivå to (parker, slott, torg): en rombe i blekk med hvit ring og navnet under, synlig fra zoom 12 */
+.gt-marker.is-spot { background: none; border: 0; }
+.gt-spot { position: absolute; left: 50%; top: 50%; width: 12px; height: 12px; margin: -6px 0 0 -6px; transform: rotate(45deg); background: var(--color-ink); border: 2px solid var(--color-ring); box-shadow: 0 1px 3px color-mix(in srgb, var(--color-shadow) 35%, transparent); }
+.gt-marker.is-spot:hover .gt-spot { background: var(--color-magenta); }
+/* Nålet rombe (åpent spill, åpent sted, søketreff): større, med sheet-ring og kant, men fortsatt i blekk.
+   Terracotta betyr alt sted-prikker og ruter; en rød rombe så ut som noe annet enn et sted på nivå to */
+.gt-marker.is-spot.is-active .gt-spot { width: 16px; height: 16px; margin: -8px 0 0 -8px; background: var(--color-ink); border: 2.5px solid var(--color-ring); box-shadow: 0 0 0 2px var(--color-ink), 0 1px 3px color-mix(in srgb, var(--color-shadow) 35%, transparent); }
+.gt-spot-label { position: absolute; left: 50%; top: calc(50% + 9px); transform: translateX(-50%); white-space: nowrap; font: 650 11px/1.2 'Archivo Variable', system-ui, sans-serif; color: var(--color-ink); background: color-mix(in srgb, var(--color-sheet) 90%, transparent); padding: 1px 5px; border-radius: 4px; pointer-events: none; }
+/* Tallet i hjørnet av en prikk som har flere steder under seg: steder på nivå to under en by, eller
+   stedene i en klynge med bare ett spill. Byens tall er borte når rombene selv vises. */
+.gt-dot-count { position: absolute; right: 5px; bottom: 5px; min-width: 16px; height: 16px; padding: 0 4px; border-radius: 999px; background: var(--color-ink); box-shadow: 0 0 0 1.5px var(--color-ring); color: var(--color-on-ink); font: 700 10px/16px 'Archivo Variable', system-ui, sans-serif; text-align: center; pointer-events: none; }
+.gt-zoom-spots .gt-spot-count { display: none; }
+/* Liten rombe foran tallet: steder på nivå to, ikke spill */
+.gt-dot-count-spot { display: inline-block; width: 6px; height: 6px; margin: 0 3px 1px 0; background: var(--color-on-ink); transform: rotate(45deg); vertical-align: middle; }
+/* Navnene på rombene kommer ett trinn etter rombene selv; stedene under et åpent sted har dem alltid */
+.gt-spot-label { display: none; }
+.gt-zoom-spot-labels .gt-spot-label, .gt-marker.is-spot.is-labelled .gt-spot-label { display: block; }
+/* Samme rombe som brikke foran navnet i spillraden */
+.gt-spot-chip { display: inline-block; width: 8px; height: 8px; margin-right: 2px; transform: rotate(45deg); background: var(--color-ink); }
 
 /* Brukerens egen posisjon */
 .gt-user {
@@ -81,52 +204,140 @@
   height: 18px;
   border-radius: 50%;
   background: var(--color-cyan);
-  border: 3px solid #fff;
+  border: 3px solid var(--color-ring);
   box-shadow: 0 0 0 2px var(--color-ink);
 }
 
-/* Klynge: sort sidetall-kule */
+/* Klynge: mørk kule med antall spill */
+.gt-cluster-icon {
+  display: grid;
+  place-items: center;
+}
+
+/* Den svevende klyngen legges over naboene, så navnelista ikke havner bak dem */
+.leaflet-marker-icon.gt-cluster-icon:hover {
+  z-index: 10000 !important;
+}
+
+.gt-cluster-peek {
+  position: absolute;
+  bottom: calc(100% + 4px);
+  left: 50%;
+  display: none;
+  width: max-content;
+  max-width: 320px;
+  padding: 8px 10px;
+  transform: translateX(-50%);
+  list-style: none;
+  background: var(--color-sheet);
+  color: var(--color-ink);
+  border: 1px solid var(--color-ink);
+  font-size: 14px;
+  line-height: 1.35;
+  text-align: left;
+  pointer-events: none;
+}
+
+.gt-cluster-peek li {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.gt-cluster-peek b {
+  font-variant-numeric: tabular-nums;
+  margin-right: 4px;
+}
+
+.gt-cluster-peek .gt-cluster-area {
+  margin-bottom: 4px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid var(--color-rule);
+  font-weight: 700;
+}
+
+.gt-cluster-peek .gt-cluster-more {
+  color: var(--color-ink-soft);
+}
+
+@media (hover: hover) {
+  .gt-cluster-icon:hover .gt-cluster-peek {
+    display: block;
+  }
+}
+
+/* Klyngen er et lite, fylt merke i blekkfarge med lyst tall og en arkfarget kant, som et stempel i et pass.
+   De hvite boblene med blekkring (til 3. november 2026) gjorde Europa på telefon til et felt av store hvite
+   sirkler som tok over kartet. Merket blir vermilion når man peker på det. */
 .gt-cluster {
   display: grid;
   place-items: center;
   border-radius: 50%;
-  background: var(--color-ink);
-  color: #fff;
-  border: 3px solid #fff;
-  box-shadow: 0 2px 6px rgb(18 18 20 / 0.35);
-  font-weight: 750;
+  background: var(--color-stamp);
+  color: var(--color-on-stamp);
+  /* Flatt stempel uten hvit kant og med svak skygge (8. november 2026): ringen og den kraftige skyggen var det
+     siste som brøt med de kantløse, fylte flatene ellers i appen, og klyngene ropte over kartet */
+  border: 0;
+  box-shadow: 0 1px 3px color-mix(in srgb, var(--color-shadow) 30%, transparent);
+  font-weight: 800;
   font-stretch: 80%;
   font-variant-numeric: tabular-nums;
-  transition: background-color 150ms ease-out;
-}
-
-.gt-cluster.is-single {
-  background: var(--color-magenta);
-  border-width: 2.5px;
+  transition: background-color 150ms ease-out, color 150ms ease-out;
 }
 
 .gt-cluster:hover {
   background: var(--color-magenta);
+  color: var(--color-on-accent);
 }
 
-/* Navnelapp på aktivt sted og reisestopp, satt som en bildetekst */
+.gt-cluster.is-single {
+  background: var(--color-magenta);
+  border: 2.5px solid var(--color-sheet);
+  box-shadow: 0 1px 3px color-mix(in srgb, var(--color-shadow) 45%, transparent);
+}
+
+/* Samme myke glorie som et områdepunkt, i stedets fargekode; ingen ytre ring */
+.gt-cluster.is-single { --gt-halo: var(--color-magenta); }
+.gt-cluster.is-single.is-fictionalized { --gt-halo: var(--color-fictional); }
+.gt-cluster.is-single.is-imaginary { --gt-halo: var(--color-imaginary); }
+.gt-zoom-halos .gt-cluster.is-single.is-approximate { box-shadow: 0 0 0 7px color-mix(in srgb, var(--gt-halo) 20%, transparent), 0 1px 3px color-mix(in srgb, var(--color-shadow) 45%, transparent); }
+.gt-zoom-halos .gt-cluster.is-single.is-approximate.is-dimmed { box-shadow: 0 0 0 7px color-mix(in srgb, var(--color-dimmed) 20%, transparent); }
+
+/* Når et spill er valgt, trer klyngene tilbake som de vanlige markørene */
+.gt-cluster.is-dimmed {
+  background: var(--color-sheet);
+  color: var(--color-ink-soft);
+  border-color: var(--color-dimmed);
+  box-shadow: none;
+  opacity: 0.75;
+  transform: scale(0.8);
+}
+
+/* Navnelapp på aktivt sted og reisestopp, satt som en bildetekst: avrundet som knappene, med luft
+   rundt nummeret og teksten så lappen ikke klemmer */
 .leaflet-tooltip.gt-label {
-  padding: 3px 8px;
+  width: max-content;
+  padding: 5px 11px 5px 7px;
+  line-height: 1.25;
   border: none;
-  border-radius: 0;
+  border-radius: 8px;
   background: var(--color-ink);
-  color: #fff;
+  color: var(--color-on-ink);
   box-shadow: none;
   font-family: var(--font-sans);
   font-size: 14px;
   font-weight: 700;
   font-stretch: 85%;
-  white-space: nowrap;
+  max-width: min(240px, calc(100vw - 48px));
+  white-space: normal;
+  overflow-wrap: anywhere;
+  text-align: center;
 }
 
-.leaflet-tooltip.gt-label::before {
-  display: none;
-}
+.leaflet-tooltip-top.gt-label::before { border-top-color: var(--color-ink); }
+.leaflet-tooltip-bottom.gt-label::before { border-bottom-color: var(--color-ink); }
+.leaflet-tooltip-left.gt-label::before { border-left-color: var(--color-ink); }
+.leaflet-tooltip-right.gt-label::before { border-right-color: var(--color-ink); }
 
 /* Reiseruten for valgt spill tegnes inn */
 .gt-route {
@@ -139,6 +350,12 @@
   to {
     stroke-dashoffset: 0;
   }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .gt-route { animation: none; stroke-dashoffset: 0; }
+  .gt-panel { animation: none; }
+  .gt-marker-dot { transition: none; }
 }
 
 /* Panelet glir inn fra kanten */
@@ -161,3 +378,11 @@
     }
   }
 }
+
+/* Rutenummer og rutefarger i navnelappene på kartet */
+.gt-label .gt-label-stop { display: inline-grid; place-items: center; min-width: 20px; height: 20px; margin-right: 8px; padding: 0 5px; border-radius: 999px; box-shadow: 0 0 0 1.5px var(--color-on-ink); font-size: 12px; font-weight: 800; font-variant-numeric: tabular-nums; color: var(--color-on-accent); vertical-align: 1px; }
+.gt-label .gt-label-routes { display: inline-flex; gap: 3px; margin-right: 6px; vertical-align: 1px; }
+/* Bare nummeret: ingen luft etter pillen, og lik luft på begge sider */
+.gt-label.is-compact { padding: 5px 7px; }
+.gt-label.is-compact .gt-label-stop, .gt-label.is-compact .gt-label-routes { margin-right: 0; }
+.gt-label .gt-label-routes > span { width: 10px; height: 10px; border-radius: 999px; box-shadow: 0 0 0 1.5px var(--color-on-ink); }

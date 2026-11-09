@@ -1,0 +1,21 @@
+{
+  "id": 104,
+  "name": "Heavy Rain",
+  "year": 2010,
+  "publisher": "Sony Computer Entertainment",
+  "developer": "Quantic Dream",
+  "locations": [
+    {
+      "placeId": "philadelphia-pennsylvania-usa",
+      "note": "The unnamed, rain-soaked city of the Origami Killer hunt was modeled on Philadelphia after on-site research."
+    }
+  ],
+  "storyYears": [
+    2010
+  ],
+  "source": "https://en.wikipedia.org/wiki/Heavy_Rain",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+  "genres": [
+    "Interactive Drama"
+  ]
+}

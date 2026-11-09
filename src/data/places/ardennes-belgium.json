@@ -1,0 +1,19 @@
+{
+  "id": "ardennes-belgium",
+  "name": "Ardennes, Belgium",
+  "position": {
+    "lat": 50.25,
+    "lon": 5.6667
+  },
+  "scale": "area",
+  "parentId": "belgium",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Ardennes Forest",
+    "Forest of Ardennes"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Ardennes",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ardennes",
+  "description": "A natural region of forests, rough terrain and ridges, mainly in Belgium and Luxembourg and reaching into Germany and France.",
+  "descriptionSource": "wikipedia"
+}

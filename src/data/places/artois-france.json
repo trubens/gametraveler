@@ -1,0 +1,14 @@
+{
+  "id": "artois-france",
+  "name": "Artois, France",
+  "position": {
+    "lat": 50.5,
+    "lon": 2.5
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Artois",
+  "description": "A region of northern France around Arras, Lens and Béthune.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "lochmarne-fictional-ireland",
+  "name": "Lochmarne, Ireland",
+  "position": {
+    "lat": 52.451,
+    "lon": -9.055
+  },
+  "scale": "area",
+  "parentId": "ireland",
+  "placeType": "area",
+  "fictional": true,
+  "description": "An invented Irish village with a pub, a ruined castle and a Templar dig beneath it. The castle is based on Desmond Castle in Newcastle West, County Limerick, where it is pinned.",
+  "source": "https://brokensword.fandom.com/wiki/Lochmarne_Castle",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Newcastle_West"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1000240,
+  "name": "Nancy Drew: Ghost of Thornton Hall",
+  "year": 2013,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "chatham-county-georgia-usa",
+      "aliases": [
+        "Blackrock Island",
+        "Thornton Hall"
+      ],
+      "settingType": "fictionalized",
+      "note": "Savannah Woodham calls Nancy in when the heiress Jessalyn Thornton vanishes from a pre-wedding sleepover at her family's abandoned mansion on Blackrock Island."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Ghost_of_Thornton_Hall",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

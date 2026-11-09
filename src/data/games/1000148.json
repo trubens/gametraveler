@@ -1,0 +1,89 @@
+{
+  "id": 1000148,
+  "name": "Uncharted 4: A Thief's End",
+  "year": 2016,
+  "publisher": "Sony Computer Entertainment",
+  "series": "Uncharted",
+  "developer": "Naughty Dog",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End",
+  "reviewed": "2026-11-06",
+  "locations": [
+    {
+      "placeId": "boston-usa",
+      "aliases": [
+        "Saint Francis Boys' Home"
+      ],
+      "note": "Young Nate climbs out over the rooftops of Saint Francis Boys' Home, the orphanage he grew up in, to meet his older brother Sam.",
+      "source": "https://primagames.com/eguides/uncharted-4-a-thiefs-end-eguide/story-walkthrough/chapter-1-the-lure-of-adventure"
+    },
+    {
+      "placeId": "panama",
+      "note": "Years before the main story, Nate, Sam and Rafe break into a Panamanian prison to search the cell of Avery's first mate; Rafe kills the warden, and Sam is left behind, presumed dead."
+    },
+    {
+      "placeId": "new-orleans-usa",
+      "note": "Retired from treasure hunting, Nate dives for a salvage firm and lives quietly with Elena, until Sam turns up alive and pulls him back in."
+    },
+    {
+      "placeId": "amalfi-coast-italy",
+      "settingType": "fictionalized",
+      "aliases": [
+        "Rossi estate"
+      ],
+      "note": "Nate, Sam and Sully infiltrate a black-market auction at the Rossi estate, a clifftop villa on the Amalfi Coast, steal the St. Dismas cross and run into Rafe and Nadine.",
+      "source": "https://www.italyformovies.com/film-serie-tv-games/detail/6342/uncharted-4-a-thiefs-end-game"
+    },
+    {
+      "placeId": "scottish-highlands-uk",
+      "settingType": "fictionalized",
+      "aliases": [
+        "St. Dismas's cathedral"
+      ],
+      "note": "Following the map hidden in the cross, the brothers search a Highland graveyard and St. Dismas's cathedral, solve Avery's trials beneath it and find a map pointing to King's Bay."
+    },
+    {
+      "placeId": "madagascar",
+      "settingType": "fictionalized",
+      "aliases": [
+        "King's Bay"
+      ],
+      "note": "In King's Bay, Nate, Sam and Sully drive through the old pirate town and climb Avery's twelve towers to find a map to Libertalia; Elena turns up at their hotel and finds out Nate has lied to her."
+    },
+    {
+      "placeId": "libertalia-legendary-madagascar",
+      "settingType": "imaginary",
+      "aliases": [
+        "Libertalia",
+        "New Devon"
+      ],
+      "note": "The brothers find the ruined pirate colony on an island off Madagascar, follow the founders' treasure to New Devon, and aboard Avery's treasure ship in a cave Nate beats Rafe in a sword fight and saves Sam."
+    }
+  ],
+  "routes": [
+    {
+      "id": "drake-brothers",
+      "name": "The Drake brothers' hunt",
+      "characters": [
+        "Nathan Drake",
+        "Samuel Drake"
+      ],
+      "stops": [
+        "boston-usa",
+        "panama",
+        "new-orleans-usa",
+        "amalfi-coast-italy",
+        "scottish-highlands-uk",
+        "madagascar",
+        "libertalia-legendary-madagascar"
+      ],
+      "note": "From Nate's orphanage in Boston and the prison in Panama to his quiet life in New Orleans, the auction in Italy, St. Dismas's cathedral in Scotland, King's Bay and Avery's ship beneath Libertalia.",
+      "source": "https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End"
+    }
+  ],
+  "storyYears": [
+    2016
+  ]
+}

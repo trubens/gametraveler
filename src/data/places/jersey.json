@@ -1,0 +1,13 @@
+{
+  "id": "jersey",
+  "name": "Jersey",
+  "position": {
+    "lat": 49.22,
+    "lon": -2.09
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jersey",
+  "description": "An island Crown Dependency, self-governing and British, a short way off the Cotentin Peninsula of north-west France."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "glastonbury-uk",
+  "name": "Glastonbury, UK",
+  "position": {
+    "lat": 51.1456,
+    "lon": -2.7144
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Glastonbury",
+  "description": "A town in Somerset."
+}

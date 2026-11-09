@@ -1,0 +1,15 @@
+{
+  "id": "quaramonte-fictional-central-america",
+  "name": "Quaramonte, Central America",
+  "position": {
+    "lat": 16.6,
+    "lon": -90.4
+  },
+  "scale": "area",
+  "placeType": "area",
+  "fictional": true,
+  "aliases": [
+    "Quaramonte City"
+  ],
+  "description": "An invented Central American republic of a capital, a jungle river and a lost Mayan pyramid. Pinned in the Maya lowlands on the Mexico–Guatemala border, the country it is drawn from."
+}

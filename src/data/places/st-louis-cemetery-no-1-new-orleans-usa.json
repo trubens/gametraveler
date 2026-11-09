@@ -1,0 +1,17 @@
+{
+  "id": "st-louis-cemetery-no-1-new-orleans-usa",
+  "name": "St. Louis Cemetery No. 1, New Orleans, USA",
+  "position": {
+    "lat": 29.9608,
+    "lon": -90.0713
+  },
+  "scale": "site",
+  "parentId": "new-orleans-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "Marie Laveau's tomb"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Saint_Louis_Cemetery",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Saint_Louis_Cemetery",
+  "description": "One of three Catholic cemeteries of that name in New Orleans, a maze of above-ground vaults built in the eighteenth and nineteenth centuries."
+}

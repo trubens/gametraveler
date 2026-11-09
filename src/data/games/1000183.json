@@ -1,0 +1,32 @@
+{
+  "id": 1000183,
+  "name": "Flight of the Amazon Queen",
+  "year": 1995,
+  "publisher": "Renegade Software",
+  "developer": "Interactive Binary Illusions",
+  "locations": [
+    {
+      "placeId": "buenos-aires-argentina",
+      "note": "The opening scene, captioned Buenos Aires, 1949: Joe and Rita sit tied up in a warehouse with a ticking bomb until Sparky crashes in through the roof to free them.",
+      "source": "http://superadventuresingaming.blogspot.com/2020/08/flight-of-amazon-queen-ms-dos.html"
+    },
+    {
+      "placeId": "rio-de-janeiro-brazil",
+      "note": "Joe then arrives at a Rio hotel to collect actress Faye Russell, and must escape the room his rival Anderson locks him in.",
+      "source": "https://www.gamesdatabase.org/Media/SYSTEM/Commodore_Amiga/Manual/formated/Flight_of_the_Amazon_Queen_-_1995_-_Renegade_Software.htm"
+    },
+    {
+      "placeId": "amazon-rainforest-south-america",
+      "note": "The flight from Rio crashes in a storm in the Amazon jungle, where the rest of the adventure unfolds.",
+      "source": "https://www.gamesdatabase.org/Media/SYSTEM/Commodore_Amiga/Manual/formated/Flight_of_the_Amazon_Queen_-_1995_-_Renegade_Software.htm"
+    }
+  ],
+  "storyYears": [
+    1949
+  ],
+  "source": "https://en.wikipedia.org/wiki/Flight_of_the_Amazon_Queen",
+  "route": true,
+  "genres": [
+    "Adventure"
+  ]
+}

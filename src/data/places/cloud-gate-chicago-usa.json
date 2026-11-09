@@ -1,0 +1,17 @@
+{
+  "id": "cloud-gate-chicago-usa",
+  "name": "Cloud Gate, Chicago, USA",
+  "position": {
+    "lat": 41.8827,
+    "lon": -87.6233
+  },
+  "scale": "site",
+  "parentId": "chicago-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "The Bean"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Cloud_Gate",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cloud_Gate",
+  "description": "Anish Kapoor's public sculpture at the heart of Grainger Plaza in Millennium Park, in Chicago's Loop."
+}

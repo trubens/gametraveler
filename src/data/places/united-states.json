@@ -1,0 +1,15 @@
+{
+  "id": "united-states",
+  "name": "United States",
+  "position": {
+    "lat": 39.8,
+    "lon": -98.6
+  },
+  "scale": "area",
+  "placeType": "country",
+  "aliases": [
+    "USA"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/United_States",
+  "description": "A federal republic of fifty states and the capital district of Washington, D.C., spanning the breadth of North America."
+}

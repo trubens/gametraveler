@@ -1,0 +1,13 @@
+{
+  "id": "florence-italy",
+  "name": "Florence, Italy",
+  "position": {
+    "lat": 43.7696,
+    "lon": 11.2558
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Florence",
+  "description": "The capital and largest city of Tuscany."
+}

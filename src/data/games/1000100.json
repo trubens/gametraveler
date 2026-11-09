@@ -1,0 +1,37 @@
+{
+  "id": 1000100,
+  "name": "Heart of China",
+  "year": 1991,
+  "publisher": "Sierra On-Line",
+  "developer": "Dynamix",
+  "locations": [
+    {
+      "placeId": "hong-kong-china",
+      "note": "Jake Masters is recruited in 1930s Hong Kong for a rescue mission in China."
+    },
+    {
+      "placeId": "chengdu-china",
+      "note": "The rescue target is held in warlord Li Deng's fortress near Chengdu."
+    },
+    {
+      "placeId": "kathmandu-nepal",
+      "note": "The adventure takes the team through Kathmandu on its route across Asia."
+    },
+    {
+      "placeId": "istanbul-turkey",
+      "note": "After the rescue the trio pass through Istanbul on the way to Paris."
+    },
+    {
+      "placeId": "paris-france",
+      "note": "A later stop on the route through Europe and Asia."
+    }
+  ],
+  "storyYears": [
+    1930
+  ],
+  "route": true,
+  "source": "https://en.wikipedia.org/wiki/Heart_of_China",
+  "genres": [
+    "Adventure"
+  ]
+}

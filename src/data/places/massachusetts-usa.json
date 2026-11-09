@@ -1,0 +1,13 @@
+{
+  "id": "massachusetts-usa",
+  "name": "Massachusetts, USA",
+  "scale": "area",
+  "position": {
+    "lat": 42.3,
+    "lon": -71.8
+  },
+  "parentId": "united-states",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Massachusetts",
+  "description": "A New England state in the north-eastern corner of the United States."
+}

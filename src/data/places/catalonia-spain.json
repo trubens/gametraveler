@@ -1,0 +1,13 @@
+{
+  "id": "catalonia-spain",
+  "name": "Catalonia, Spain",
+  "position": {
+    "lat": 41.1,
+    "lon": 1.2
+  },
+  "scale": "area",
+  "parentId": "spain",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Catalonia",
+  "description": "A self-governing region in the north-east of the Iberian Peninsula, south of the Pyrenees, with Barcelona as its capital."
+}

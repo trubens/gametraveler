@@ -1,0 +1,51 @@
+{
+  "id": 1000177,
+  "name": "Dracula 2: The Last Sanctuary",
+  "year": 2000,
+  "series": "Dracula",
+  "developer": "Wanadoo Edition",
+  "publisher": "Wanadoo Edition",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Dracula_2:_The_Last_Sanctuary",
+  "reviewed": "2026-11-02",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "Jonathan Harker searches Dracula's old home at Carfax Abbey and Seward's asylum, escapes a fake Transylvanian bedroom built inside Dracula's Styx cinema, then burns Carfax while Seward blows up the Styx."
+    },
+    {
+      "placeId": "highgate-cemetery-london-uk",
+      "note": "Jonathan sees Dracula slip into a secret tomb at Highgate, and later follows Hopkins's note inside, where Dracula tells him he is taking Mina back to Transylvania.",
+      "source": "https://en.wikipedia.org/wiki/Dracula_2:_The_Last_Sanctuary"
+    },
+    {
+      "placeId": "castle-dracula-romania",
+      "settingType": "fictionalized",
+      "note": "Jonathan enters the castle through the mines, finds Radu's diamond in an ancient prison and, with the Dragon Ring made whole, destroys Dracula in the Last Sanctuary.",
+      "source": "https://en.wikipedia.org/wiki/Dracula_2:_The_Last_Sanctuary"
+    }
+  ],
+  "storyYears": [
+    1904
+  ],
+  "routes": [
+    {
+      "id": "harker-last-sanctuary",
+      "name": "Jonathan Harker",
+      "characters": [
+        "Jonathan Harker"
+      ],
+      "stops": [
+        "london-uk",
+        "highgate-cemetery-london-uk",
+        "london-uk",
+        "highgate-cemetery-london-uk",
+        "castle-dracula-romania"
+      ],
+      "note": "From Carfax Abbey and Highgate Cemetery in London back to Dracula's castle in Transylvania.",
+      "source": "https://en.wikipedia.org/wiki/Dracula_2:_The_Last_Sanctuary"
+    }
+  ]
+}

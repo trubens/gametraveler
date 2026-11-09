@@ -1,0 +1,15 @@
+{
+  "id": "caesars-palace-las-vegas-usa",
+  "name": "Caesars Palace, Las Vegas, USA",
+  "position": {
+    "lat": 36.1178,
+    "lon": -115.175
+  },
+  "scale": "site",
+  "parentId": "las-vegas-usa",
+  "placeType": "venue",
+  "source": "https://en.wikipedia.org/wiki/Caesars_Palace",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Caesars_Palace",
+  "description": "A luxury casino hotel in Paradise, Nevada, on the west side of the Las Vegas Strip between Bellagio and The Cromwell.",
+  "descriptionSource": "wikipedia"
+}

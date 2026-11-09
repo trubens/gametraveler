@@ -1,0 +1,101 @@
+{
+  "id": 276,
+  "name": "F1 2018",
+  "year": 2018,
+  "series": "F1",
+  "developer": "Codemasters Birmingham",
+  "publisher": "Codemasters / Deep Silver (retail)",
+  "locations": [
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "Raced as the British Grand Prix, round 10 of 21 in the 2018 season."
+    },
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 14 of 21 in the 2018 season."
+    },
+    {
+      "placeId": "albert-park-circuit-melbourne-australia",
+      "note": "Raced as the Australian Grand Prix, the opening round of the 2018 season."
+    },
+    {
+      "placeId": "bahrain-international-circuit",
+      "note": "Raced as the Bahrain Grand Prix, round 2 of 21 in the 2018 season."
+    },
+    {
+      "placeId": "shanghai-international-circuit-china",
+      "note": "Raced as the Chinese Grand Prix, round 3 of 21 in the 2018 season."
+    },
+    {
+      "placeId": "baku-city-circuit-azerbaijan",
+      "note": "Raced as the Azerbaijan Grand Prix, round 4 of 21 in the 2018 season."
+    },
+    {
+      "placeId": "circuit-de-barcelona-catalunya-spain",
+      "note": "Raced as the Spanish Grand Prix, round 5 of 21 in the 2018 season."
+    },
+    {
+      "placeId": "circuit-de-monaco",
+      "note": "Raced as the Monaco Grand Prix, round 6 of 21 in the 2018 season."
+    },
+    {
+      "placeId": "circuit-gilles-villeneuve-montreal-canada",
+      "note": "Raced as the Canadian Grand Prix, round 7 of 21 in the 2018 season."
+    },
+    {
+      "placeId": "circuit-paul-ricard-france",
+      "note": "Raced as the French Grand Prix, round 8 of 21 in the 2018 season, back on the calendar for the first time since 1990."
+    },
+    {
+      "placeId": "red-bull-ring-spielberg-austria",
+      "note": "Raced as the Austrian Grand Prix, round 9 of 21 in the 2018 season."
+    },
+    {
+      "placeId": "hockenheimring-germany",
+      "note": "Raced as the German Grand Prix, round 11 of 21 in the 2018 season."
+    },
+    {
+      "placeId": "hungaroring-hungary",
+      "note": "Raced as the Hungarian Grand Prix, round 12 of 21 in the 2018 season."
+    },
+    {
+      "placeId": "circuit-de-spa-francorchamps-belgium",
+      "note": "Raced as the Belgian Grand Prix, round 13 of 21 in the 2018 season."
+    },
+    {
+      "placeId": "marina-bay-street-circuit-singapore",
+      "note": "Raced as the Singapore Grand Prix, round 15 of 21 in the 2018 season."
+    },
+    {
+      "placeId": "sochi-autodrom-russia",
+      "note": "Raced as the Russian Grand Prix, round 16 of 21 in the 2018 season."
+    },
+    {
+      "placeId": "suzuka-international-racing-course-japan",
+      "note": "Raced as the Japanese Grand Prix, round 17 of 21 in the 2018 season."
+    },
+    {
+      "placeId": "circuit-of-the-americas-texas-usa",
+      "note": "Raced as the United States Grand Prix, round 18 of 21 in the 2018 season."
+    },
+    {
+      "placeId": "autodromo-hermanos-rodriguez-mexico-city",
+      "note": "Raced as the Mexican Grand Prix, round 19 of 21 in the 2018 season."
+    },
+    {
+      "placeId": "interlagos-circuit-sao-paulo-brazil",
+      "note": "Raced as the Brazilian Grand Prix, round 20 of 21 in the 2018 season."
+    },
+    {
+      "placeId": "yas-marina-circuit-abu-dhabi-uae",
+      "note": "Raced as the Abu Dhabi Grand Prix, the final round of the 2018 season."
+    }
+  ],
+  "storyYears": [
+    2018
+  ],
+  "source": "https://en.wikipedia.org/wiki/F1_2018_(video_game)",
+  "genres": [
+    "Racing"
+  ]
+}

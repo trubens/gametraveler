@@ -1,0 +1,14 @@
+{
+  "id": "cambridge-england-uk",
+  "name": "Cambridge, England, UK",
+  "position": {
+    "lat": 52.2053,
+    "lon": 0.1218
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "source": "https://en.wikipedia.org/wiki/Cambridge",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cambridge",
+  "placeType": "landmark",
+  "description": "A city on the River Cam north of London, the county town of Cambridgeshire and home to a famous university."
+}

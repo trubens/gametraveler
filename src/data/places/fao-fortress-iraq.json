@@ -1,0 +1,13 @@
+{
+  "id": "fao-fortress-iraq",
+  "name": "Fao Fortress, Iraq",
+  "position": {
+    "lat": 29.97,
+    "lon": 48.47
+  },
+  "scale": "site",
+  "parentId": "iraq",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Al-Faw_Peninsula",
+  "description": "A fortress on the Al-Faw peninsula at the far south-east of Iraq, where the land meets the Persian Gulf."
+}

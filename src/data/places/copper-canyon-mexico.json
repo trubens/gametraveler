@@ -1,0 +1,17 @@
+{
+  "id": "copper-canyon-mexico",
+  "name": "Copper Canyon, Mexico",
+  "position": {
+    "lat": 27.5161,
+    "lon": -107.7658
+  },
+  "scale": "area",
+  "parentId": "mexico",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Barranca del Cobre"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Copper_Canyon",
+  "description": "Six canyons in the Sierra Madre Occidental of Chihuahua, deeper than the Grand Canyon, with the Chepe railway along their rims.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "byron-bay-australia",
+  "name": "Byron Bay, Australia",
+  "position": {
+    "lat": -28.6474,
+    "lon": 153.602
+  },
+  "scale": "area",
+  "parentId": "australia",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Byron_Bay",
+  "description": "A beachside town in the far north-eastern corner of New South Wales, far up the coast from Sydney."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "indonesia",
+  "name": "Indonesia",
+  "position": {
+    "lat": 3.6,
+    "lon": 98.7
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Indonesia",
+  "description": "A country of Southeast Asia and Oceania, strung out between the Indian and Pacific oceans."
+}

@@ -1,0 +1,20 @@
+{
+  "id": 63,
+  "name": "Dude, Where Is My Beer?",
+  "year": 2020,
+  "publisher": "Arik Games, WhisperGames",
+  "developer": "Arik Games, Edo Brenes",
+  "locations": [
+    {
+      "placeId": "oslo-norway",
+      "note": "A pub crawl through Oslo's sports bars, microbreweries and dive bars in search of one plain pilsner."
+    }
+  ],
+  "storyYears": [
+    2020
+  ],
+  "source": "https://store.steampowered.com/app/1288760/Dude_Where_Is_My_Beer/",
+  "genres": [
+    "Adventure"
+  ]
+}

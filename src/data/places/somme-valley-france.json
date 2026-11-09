@@ -1,0 +1,18 @@
+{
+  "id": "somme-valley-france",
+  "name": "Somme valley, France",
+  "position": {
+    "lat": 49.9411,
+    "lon": 2.7183
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Battle of the Somme",
+    "Somme",
+    "The Somme"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Somme_(river)",
+  "description": "The valley of the Somme in Picardy, where the British and French offensive of July to November 1916 was fought along the river and on the uplands north of it, around Albert and Bray-sur-Somme."
+}

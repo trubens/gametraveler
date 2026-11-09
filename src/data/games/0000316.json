@@ -1,0 +1,138 @@
+{
+  "id": 316,
+  "name": "Gran Turismo 5",
+  "year": 2010,
+  "series": "Gran Turismo",
+  "developer": "Polyphony Digital",
+  "publisher": "Sony Computer Entertainment",
+  "locations": [
+    {
+      "placeId": "laguna-seca-california-usa",
+      "note": "Returns as Laguna Seca Raceway, and hosts the 90-lap Laguna Seca 200 Miles in the endurance series."
+    },
+    {
+      "placeId": "nurburgring-germany",
+      "note": "Nordschleife, GP, GP/D, Type V and the combined 24h course, which brings night and changing weather to a full 24 Hours of Nürburgring endurance race."
+    },
+    {
+      "placeId": "circuit-de-la-sarthe-le-mans-france",
+      "note": "2005 and 2009 layouts, each with and without the Mulsanne chicanes; the 2009 track adds night and weather for a full 24 Hours of Le Mans."
+    },
+    {
+      "placeId": "tsukuba-circuit-japan",
+      "note": "Hosts two endurance races, a 4-hour race for roadsters and the Tsukuba 9 Hours."
+    },
+    {
+      "placeId": "suzuka-international-racing-course-japan",
+      "note": "Full circuit and East Course; a version of the full circuit with changing weather hosts the Suzuka 1000 km endurance race."
+    },
+    {
+      "placeId": "indianapolis-motor-speedway-indiana-usa",
+      "note": "New to the series in GT5, as both the oval and the road course; the road course was the pre-release demo track and the oval runs a 200-lap Indy 500."
+    },
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "New to the series in GT5, with a version that has changing weather and a separate layout without the chicanes."
+    },
+    {
+      "placeId": "daytona-international-speedway-florida-usa",
+      "note": "Both the superspeedway oval and the road course, in the game that brought licensed NASCAR racing to the series."
+    },
+    {
+      "placeId": "dunsfold-aerodrome-surrey-uk",
+      "note": "Top Gear's test track appears only in GT5, with a special event that races VW Samba buses, a Lotus Elise and VW Kübelwagens around it."
+    },
+    {
+      "placeId": "fuji-speedway-japan",
+      "note": "Only the modern track remains, in its F and GT layouts; the 1980s and 1990s versions from GT4 are gone."
+    },
+    {
+      "placeId": "rome-italy",
+      "aliases": [
+        "Rome Circuit"
+      ],
+      "note": "A 3.5 km Rome street circuit, new in this layout for GT5 and raced in both directions, that winds past the Colosseum.",
+      "source": "https://gran-turismo.fandom.com/wiki/Circuito_di_Roma"
+    },
+    {
+      "placeId": "madrid-spain",
+      "aliases": [
+        "Circuito de Madrid"
+      ],
+      "note": "New to GT5: the Circuito de Madrid street course, raced in both directions, with a shorter Mini layout.",
+      "source": "https://en.wikipedia.org/wiki/Gran_Turismo_5"
+    },
+    {
+      "placeId": "london-uk",
+      "aliases": [
+        "London City Circuit"
+      ],
+      "note": "A short street circuit from GT5 Prologue, raced in both directions, past Piccadilly Circus, along Regent Street and Charing Cross Road to Trafalgar Square."
+    },
+    {
+      "placeId": "akasaka-tokyo-japan",
+      "aliases": [
+        "Tokyo R246",
+        "Tokyo Route 246"
+      ],
+      "note": "Tokyo R246 follows real roads in Akasaka, including Route 246 itself, in both directions; it was the track of the Gamescom 2009 demo.",
+      "source": "https://gran-turismo.fandom.com/wiki/Tokyo_R246"
+    },
+    {
+      "placeId": "circuit-de-monaco",
+      "settingType": "fictionalized",
+      "aliases": [
+        "Côte d'Azur"
+      ],
+      "note": "Raced as Côte d'Azur, a version of the Monaco Grand Prix street circuit around the harbour.",
+      "source": "https://gran-turismo.fandom.com/wiki/Gran_Turismo_5/Track_List"
+    },
+    {
+      "placeId": "eiger-switzerland",
+      "settingType": "fictionalized",
+      "aliases": [
+        "Eiger Nordwand"
+      ],
+      "note": "A tarmac Short Track with changing weather below the Eiger's north face, plus K, G and W Trails on snow and dirt, all raced in both directions.",
+      "source": "https://www.gtplanet.net/gran-turismo-5-official-track-list"
+    },
+    {
+      "placeId": "chamonix-mont-blanc-france",
+      "settingType": "fictionalized",
+      "aliases": [
+        "Chamonix"
+      ],
+      "note": "Snow and dirt course with Main, East, West and Mini layouts, all with changing weather.",
+      "source": "https://www.gtplanet.net/gran-turismo-5-official-track-list"
+    },
+    {
+      "placeId": "tuscany-italy",
+      "settingType": "fictionalized",
+      "aliases": [
+        "Toscana"
+      ],
+      "note": "Toscana, a dirt course through the Tuscan countryside with a changing time of day, raced in both directions.",
+      "source": "https://www.gtplanet.net/gran-turismo-5-official-track-list"
+    },
+    {
+      "placeId": "circuit-de-spa-francorchamps-belgium",
+      "note": "Added after release in the Track Pack DLC, with changing weather.",
+      "source": "https://en.wikipedia.org/wiki/Gran_Turismo_5"
+    },
+    {
+      "placeId": "mobility-resort-motegi-japan",
+      "aliases": [
+        "Twin Ring Motegi"
+      ],
+      "note": "Twin Ring Motegi returned to the series as DLC in June 2012, after that year's GT Academy.",
+      "source": "https://en.wikipedia.org/wiki/Gran_Turismo_5"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Gran_Turismo_5",
+  "reviewed": "2026-11-06",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+  "genres": [
+    "Racing"
+  ]
+}

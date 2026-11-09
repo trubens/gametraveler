@@ -1,0 +1,14 @@
+{
+  "id": "faro-portugal",
+  "name": "Faro, Portugal",
+  "position": {
+    "lat": 37.0161,
+    "lon": -7.935
+  },
+  "scale": "area",
+  "parentId": "portugal",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Faro,_Portugal",
+  "description": "The capital of the Algarve on Portugal's south coast, Rally de Portugal's base from 2007 to 2014.",
+  "descriptionSource": "wikipedia"
+}

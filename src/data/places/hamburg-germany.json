@@ -1,0 +1,13 @@
+{
+  "id": "hamburg-germany",
+  "name": "Hamburg, Germany",
+  "position": {
+    "lat": 53.5511,
+    "lon": 9.9937
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hamburg",
+  "description": "Germany's second city after Berlin."
+}

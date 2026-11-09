@@ -1,0 +1,18 @@
+{
+  "id": 1000163,
+  "name": "Prince of Persia: The Two Thrones",
+  "year": 2005,
+  "publisher": "Ubisoft",
+  "developer": "Ubisoft Montreal",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Prince_of_Persia:_The_Two_Thrones",
+  "locations": [
+    {
+      "placeId": "babylon-iraq",
+      "note": "The Prince returns to Babylon, and the game unfolds across its streets, rooftops, canals, and palace district."
+    }
+  ],
+  "storyYears": []
+}

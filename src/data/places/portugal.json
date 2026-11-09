@@ -1,0 +1,12 @@
+{
+  "id": "portugal",
+  "name": "Portugal",
+  "position": {
+    "lat": 39.3999,
+    "lon": -8.2245
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Portugal",
+  "description": "A country at the south-western end of the Iberian Peninsula, with Spain to the north and east and the Atlantic to the west and south."
+}

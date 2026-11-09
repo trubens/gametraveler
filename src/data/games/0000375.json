@@ -1,0 +1,68 @@
+{
+  "id": 375,
+  "name": "WRC 3: FIA World Rally Championship",
+  "year": 2012,
+  "series": "WRC",
+  "developer": "Milestone srl",
+  "publisher": "Milestone",
+  "locations": [
+    {
+      "placeId": "monte-carlo-monaco",
+      "note": "The Monte Carlo Rally, ice and tarmac in the Alps above Monaco."
+    },
+    {
+      "placeId": "karlstad-sweden",
+      "note": "Rally Sweden from Karlstad."
+    },
+    {
+      "placeId": "leon-mexico",
+      "note": "Rally Mexico around León."
+    },
+    {
+      "placeId": "faro-portugal",
+      "note": "Rally de Portugal in the Algarve."
+    },
+    {
+      "placeId": "villa-carlos-paz-argentina",
+      "note": "Rally Argentina from Villa Carlos Paz."
+    },
+    {
+      "placeId": "loutraki-greece",
+      "note": "The Acropolis Rally from Loutraki."
+    },
+    {
+      "placeId": "auckland-new-zealand",
+      "note": "Rally New Zealand's flowing gravel north of Auckland."
+    },
+    {
+      "placeId": "jyvaskyla-finland",
+      "note": "Rally Finland from Jyväskylä."
+    },
+    {
+      "placeId": "trier-germany",
+      "note": "Rallye Deutschland from Trier."
+    },
+    {
+      "placeId": "cardiff-wales-uk",
+      "note": "Wales Rally GB from Cardiff."
+    },
+    {
+      "placeId": "strasbourg-france",
+      "note": "Rallye de France Alsace from Strasbourg."
+    },
+    {
+      "placeId": "olbia-sardinia-italy",
+      "note": "Rally Italia Sardegna from Olbia."
+    },
+    {
+      "placeId": "salou-spain",
+      "note": "RallyRACC Catalunya from Salou, the final round."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/WRC_3:_FIA_World_Rally_Championship",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

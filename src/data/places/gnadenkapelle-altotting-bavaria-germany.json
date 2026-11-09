@@ -1,0 +1,17 @@
+{
+  "id": "gnadenkapelle-altotting-bavaria-germany",
+  "name": "Gnadenkapelle, Altötting, Germany",
+  "position": {
+    "lat": 48.2265,
+    "lon": 12.6755
+  },
+  "scale": "site",
+  "parentId": "bavaria-germany",
+  "placeType": "landmark",
+  "aliases": [
+    "Altötting"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Alt%C3%B6tting",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alt%C3%B6tting",
+  "description": "The Chapel of Grace in Altötting, a town in Bavaria that is the capital of its district."
+}

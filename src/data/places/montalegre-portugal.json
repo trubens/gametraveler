@@ -1,0 +1,13 @@
+{
+  "id": "montalegre-portugal",
+  "name": "Montalegre, Portugal",
+  "position": {
+    "lat": 41.8,
+    "lon": -7.8
+  },
+  "scale": "area",
+  "parentId": "portugal",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Montalegre",
+  "description": "A town in northern Portugal."
+}

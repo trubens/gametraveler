@@ -1,0 +1,12 @@
+{
+  "id": "maya",
+  "name": "Maya",
+  "position": {
+    "lat": 15.1745,
+    "lon": -90.2478
+  },
+  "scale": "area",
+  "placeType": "area",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maya_civilization",
+  "description": "The lands of the Maya, a Mesoamerican civilisation that flourished from antiquity into the early modern period."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sparta-greece",
+  "name": "Sparta, Greece",
+  "position": {
+    "lat": 37.0745,
+    "lon": 22.4301
+  },
+  "scale": "area",
+  "parentId": "greece",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sparta",
+  "description": "The ancient Greek polis of Laconia."
+}

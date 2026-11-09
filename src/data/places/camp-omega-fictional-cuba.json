@@ -1,0 +1,15 @@
+{
+  "id": "camp-omega-fictional-cuba",
+  "name": "Camp Omega, Cuba",
+  "position": {
+    "lat": 19.9175,
+    "lon": -75.16
+  },
+  "scale": "area",
+  "parentId": "cuba",
+  "placeType": "venue",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_V:_Ground_Zeroes",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Guantanamo_Bay_Naval_Base",
+  "description": "The invented American black site of Metal Gear Solid V: Ground Zeroes, on the coast of Cuba. The only American base in Cuba is the naval base at Guantánamo Bay, so the pin stands there; the game does not name it."
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1000242,
+  "name": "Nancy Drew: Sea of Darkness",
+  "year": 2015,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "skipbrot-fictionalized-iceland",
+      "settingType": "fictionalized",
+      "note": "Dagny Silva hires Nancy after Captain Magnus vanishes from the restored ship Heerlijkheid during the town's festival: did he sail off with a legendary treasure, or did someone get rid of him?"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Sea_of_Darkness",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

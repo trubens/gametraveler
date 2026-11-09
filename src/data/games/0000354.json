@@ -1,0 +1,59 @@
+{
+  "id": 354,
+  "name": "Assetto Corsa Competizione",
+  "year": 2019,
+  "series": "Assetto Corsa",
+  "developer": "Kunos Simulazioni",
+  "publisher": "Kunos Simulazioni (PC) / 505 Games",
+  "locations": [
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "Laser-scanned venue of the Blancpain Endurance Cup's Monza round; the real 2019 race weekend also hosted the first SRO E-Sport GT Series round in this game."
+    },
+    {
+      "placeId": "brands-hatch-uk",
+      "note": "Laser-scanned base-game circuit for the Blancpain Sprint Cup round held here in May 2018."
+    },
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "Hosts the 2018 Blancpain Endurance Cup round; an updated 2019 version came free with the game's 2019 season content."
+    },
+    {
+      "placeId": "circuit-paul-ricard-france",
+      "note": "Laser-scanned in early access build 0.3, down to the blue and red run-off stripes that grip better than the track; hosts the Endurance Cup round."
+    },
+    {
+      "placeId": "misano-world-circuit-italy",
+      "note": "Laser-scanned base-game circuit for the Blancpain Sprint Cup weekend held here in June 2018."
+    },
+    {
+      "placeId": "circuit-zolder-belgium",
+      "note": "Added in early access build 0.5 as the venue of the 2018 Blancpain season opener, a Sprint Cup weekend."
+    },
+    {
+      "placeId": "hungaroring-hungary",
+      "note": "Laser-scanned base-game circuit for the September 2018 Blancpain Sprint Cup round."
+    },
+    {
+      "placeId": "nurburgring-gp-circuit-germany",
+      "note": "The GP circuit hosts the 2018 Sprint Cup round; the Nordschleife only arrived years later, in the 24h Nürburgring Pack DLC, once licensing allowed."
+    },
+    {
+      "placeId": "circuit-de-barcelona-catalunya-spain",
+      "note": "Venue of the 2018 Blancpain season finale, an Endurance Cup race; an updated 2019 version came free with the 2019 season content."
+    },
+    {
+      "placeId": "circuit-de-spa-francorchamps-belgium",
+      "note": "Home of the 24 Hours of Spa, the championship's biggest race, which the game lets you run in full through a complete day-night cycle."
+    },
+    {
+      "placeId": "zandvoort-circuit-netherlands",
+      "note": "Added with the free 2019 season content when it joined the Blancpain calendar, and kept in its older layout rather than the reprofiled F1 version."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Assetto_Corsa_Competizione",
+  "genres": [
+    "Racing"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "heliopolis-egypt",
+  "name": "Heliopolis, Egypt",
+  "position": {
+    "lat": 30.129,
+    "lon": 31.307
+  },
+  "scale": "area",
+  "parentId": "egypt",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Heliopolis_(ancient_Egypt)",
+  "description": "One of the great cities of ancient Egypt."
+}

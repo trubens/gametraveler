@@ -1,0 +1,14 @@
+{
+  "id": "thermopylae-greece",
+  "name": "Thermopylae, Greece",
+  "position": {
+    "lat": 38.8053,
+    "lon": 22.5628
+  },
+  "scale": "area",
+  "parentId": "greece",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Thermopylae",
+  "description": "The narrow coastal pass in Phthiotis where Leonidas and his Spartans held the Persians in 480 BC.",
+  "descriptionSource": "wikipedia"
+}

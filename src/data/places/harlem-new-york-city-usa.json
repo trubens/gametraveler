@@ -1,0 +1,14 @@
+{
+  "id": "harlem-new-york-city-usa",
+  "name": "Harlem, New York City, USA",
+  "position": {
+    "lat": 40.8089,
+    "lon": -73.9483
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Harlem",
+  "description": "The Upper Manhattan neighbourhood between Central Park and the Harlem River, the heart of Black New York since the 1920s.",
+  "descriptionSource": "wikipedia"
+}

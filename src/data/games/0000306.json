@@ -1,0 +1,48 @@
+{
+  "id": 306,
+  "name": "Forza Motorsport 2",
+  "year": 2007,
+  "series": "Forza Motorsport",
+  "developer": "Turn 10 Studios",
+  "publisher": "Microsoft Game Studios",
+  "locations": [
+    {
+      "placeId": "laguna-seca-california-usa",
+      "note": "Carried over from the first game as a single full-circuit layout, with no shorter variants."
+    },
+    {
+      "placeId": "road-atlanta-georgia-usa",
+      "note": "Returns with the full circuit plus the shorter layout, later renamed the Club Circuit."
+    },
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "Available as the Grand Prix, National and International circuits, all in the layout used before the 2010 rebuild."
+    },
+    {
+      "placeId": "tsukuba-circuit-japan",
+      "note": "Gains a short layout alongside the full circuit, which was the only version in the first game."
+    },
+    {
+      "placeId": "mugello-circuit-italy",
+      "note": "New to the series in this game, with full and short layouts, and the only track in the game's May 2007 Xbox Live demo."
+    },
+    {
+      "placeId": "sebring-international-raceway-florida-usa",
+      "note": "New to the series in this game, with the full circuit plus Short and Club layouts."
+    },
+    {
+      "placeId": "suzuka-international-racing-course-japan",
+      "note": "Makes its series debut here, including the East and West part-circuit layouts."
+    },
+    {
+      "placeId": "nurburgring-nordschleife-germany",
+      "note": "Only the full Nordschleife lap; the split stages and the Grand Prix circuit came in later games."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Forza_Motorsport_2",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

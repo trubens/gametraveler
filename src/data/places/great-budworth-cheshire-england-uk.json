@@ -1,0 +1,14 @@
+{
+  "id": "great-budworth-cheshire-england-uk",
+  "name": "Great Budworth, Cheshire, England, UK",
+  "position": {
+    "lat": 53.294,
+    "lon": -2.505
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_Budworth",
+  "description": "A village of timber-framed cottages and a medieval church north of Northwich, often called one of the prettiest in Cheshire.",
+  "descriptionSource": "wikipedia"
+}

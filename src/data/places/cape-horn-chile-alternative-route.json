@@ -1,0 +1,13 @@
+{
+  "id": "cape-horn-chile-alternative-route",
+  "name": "Cape Horn, Chile",
+  "position": {
+    "lat": -55.98,
+    "lon": -67.27
+  },
+  "scale": "area",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cape_Horn",
+  "description": "The southernmost headland of Tierra del Fuego, on small Hornos Island at the bottom of Chile.",
+  "parentId": "chile"
+}

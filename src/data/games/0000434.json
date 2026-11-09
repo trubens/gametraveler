@@ -1,0 +1,24 @@
+{
+  "id": 434,
+  "name": "Call of Duty 3",
+  "year": 2006,
+  "series": "Call of Duty",
+  "developer": "Treyarch",
+  "publisher": "Activision",
+  "locations": [
+    {
+      "placeId": "normandy-france",
+      "note": "The campaign follows the Allied breakout from Normandy."
+    }
+  ],
+  "storyYears": [
+    1944
+  ],
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty_3",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Treyarch",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Activision",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

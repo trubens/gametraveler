@@ -1,0 +1,13 @@
+{
+  "id": "mexico-city-mexico",
+  "name": "Mexico City, Mexico",
+  "position": {
+    "lat": 19.4326,
+    "lon": -99.1332
+  },
+  "scale": "area",
+  "parentId": "mexico",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mexico_City",
+  "description": "The capital and largest city of Mexico."
+}

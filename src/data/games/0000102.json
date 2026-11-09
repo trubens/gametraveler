@@ -1,0 +1,77 @@
+{
+  "id": 102,
+  "name": "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
+  "year": 1999,
+  "publisher": "Sierra Studios",
+  "series": "Gabriel Knight",
+  "developer": "Sierra Studios",
+  "locations": [
+    {
+      "placeId": "paris-france",
+      "note": "Gabriel and Grace come to Prince James's home to guard his baby son, and Gabriel, held paralysed, watches the child taken and chases the kidnappers onto a train south.",
+      "source": "https://en.wikipedia.org/wiki/Gabriel_Knight_3:_Blood_of_the_Sacred,_Blood_of_the_Damned"
+    },
+    {
+      "placeId": "rennes-le-chateau-france",
+      "note": "Gabriel and Grace chase a kidnapped infant into the village at the heart of the Sauniere treasure legend."
+    },
+    {
+      "placeId": "rennes-les-bains-france",
+      "note": "A nearby spa village visited while following the tour group's Templar and Grail trail."
+    },
+    {
+      "placeId": "chateau-de-blanchefort-france",
+      "note": "A ruined hilltop castle that figures in the region's treasure puzzle."
+    },
+    {
+      "placeId": "villa-bethania-rennes-le-chateau-france",
+      "note": "Saunière's Villa Bethania, the museum and the church of Mary Magdalene are the heart of the village puzzle.",
+      "source": "https://sierrahelp.com/Walkthroughs/GK3Walkthrough.html"
+    },
+    {
+      "placeId": "couiza-station-france",
+      "note": "Gabriel follows a lead to the Couiza train station in the valley.",
+      "source": "https://sierrahelp.com/Walkthroughs/GK3Walkthrough.html"
+    },
+    {
+      "placeId": "pech-cardou-france",
+      "note": "From the Blanchefort ruin Gabriel walks up Mount Cardou.",
+      "source": "https://sierrahelp.com/Walkthroughs/GK3Walkthrough.html"
+    },
+    {
+      "placeId": "chateau-de-serres-aude-france",
+      "note": "The Château de Serres is one of the valley stops on the treasure trail.",
+      "source": "https://sierrahelp.com/Walkthroughs/GK3Walkthrough.html"
+    }
+  ],
+  "storyYears": [
+    1999
+  ],
+  "source": "https://en.wikipedia.org/wiki/Gabriel_Knight_3:_Blood_of_the_Sacred,_Blood_of_the_Damned",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "gabriel-and-grace",
+      "name": "Gabriel Knight and Grace Nakimura",
+      "characters": [
+        "Gabriel Knight",
+        "Grace Nakimura"
+      ],
+      "stops": [
+        "paris-france",
+        "rennes-le-chateau-france",
+        "couiza-station-france",
+        "chateau-de-blanchefort-france",
+        "chateau-de-serres-aude-france",
+        "rennes-les-bains-france",
+        "villa-bethania-rennes-le-chateau-france",
+        "pech-cardou-france"
+      ],
+      "note": "From the kidnapping at Prince James's home in Paris to three days chasing the baby and the Saunière treasure around the Razès valley, from the hilltop village down to the station and the castles, ending in the hidden temple beneath Mount Cardou.",
+      "source": "https://sierrahelp.com/Walkthroughs/GK3Walkthrough.html"
+    }
+  ]
+}

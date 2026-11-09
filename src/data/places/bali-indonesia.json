@@ -1,0 +1,13 @@
+{
+  "id": "bali-indonesia",
+  "name": "Bali, Indonesia",
+  "position": {
+    "lat": -8.4095,
+    "lon": 115.1889
+  },
+  "scale": "area",
+  "parentId": "indonesia",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bali",
+  "description": "An Indonesian island and province, the westernmost of the Lesser Sunda Islands."
+}

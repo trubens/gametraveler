@@ -1,0 +1,14 @@
+{
+  "id": "monmouth-battlefield-new-jersey-usa",
+  "name": "Monmouth Battlefield, New Jersey, USA",
+  "position": {
+    "lat": 40.2731,
+    "lon": -74.3139
+  },
+  "scale": "area",
+  "parentId": "new-jersey-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Monmouth_Battlefield_State_Park",
+  "description": "The fields near Freehold where Washington's army fought Clinton's in the heat of June 1778.",
+  "descriptionSource": "wikipedia"
+}

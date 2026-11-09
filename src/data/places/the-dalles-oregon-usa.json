@@ -1,0 +1,13 @@
+{
+  "id": "the-dalles-oregon-usa",
+  "name": "The Dalles, Oregon, USA",
+  "position": {
+    "lat": 45.60111,
+    "lon": -121.18278
+  },
+  "scale": "area",
+  "parentId": "oregon-usa",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Dalles,_Oregon",
+  "placeType": "city",
+  "description": "An inland port on the Columbia River in Oregon."
+}

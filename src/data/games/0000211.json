@@ -1,0 +1,22 @@
+{
+  "id": 211,
+  "name": "Blackwell Epiphany",
+  "year": 2014,
+  "publisher": "Wadjet Eye Games",
+  "series": "Blackwell",
+  "developer": "Wadjet Eye Games",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "During a New York blizzard, Rosa and Joey investigate deaths linked to a force that destroys ghosts."
+    }
+  ],
+  "storyYears": [
+    2014
+  ],
+  "source": "https://en.wikipedia.org/wiki/Blackwell_(series)",
+  "developerUrl": "https://en.wikipedia.org/wiki/Wadjet_Eye_Games",
+  "genres": [
+    "Adventure"
+  ]
+}

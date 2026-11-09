@@ -1,0 +1,20 @@
+{
+  "id": 524,
+  "name": "The Legend of Tianding",
+  "year": 2021,
+  "publisher": "Neon Doctrine",
+  "developer": "CGCG",
+  "locations": [
+    {
+      "placeId": "dadaocheng-taipei-taiwan",
+      "note": "A side-scrolling adventure through historical Taipei districts, with Dadaocheng streets and Japanese-era architecture shaping the levels and story."
+    }
+  ],
+  "storyYears": [
+    1909
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Legend_of_Tianding",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

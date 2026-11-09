@@ -1,0 +1,14 @@
+{
+  "id": "leipzig-germany",
+  "name": "Leipzig, Germany",
+  "position": {
+    "lat": 51.34,
+    "lon": 12.375
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Leipzig",
+  "description": "Saxony's largest city, a trade-fair and music town of Bach and the 1989 Monday demonstrations.",
+  "descriptionSource": "wikipedia"
+}

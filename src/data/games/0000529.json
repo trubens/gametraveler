@@ -1,0 +1,20 @@
+{
+  "id": 529,
+  "name": "PARANORMASIGHT: The Seven Mysteries of Honjo",
+  "year": 2023,
+  "publisher": "Square Enix",
+  "developer": "Xeen",
+  "storyYears": [
+    1982
+  ],
+  "source": "https://en.wikipedia.org/wiki/Paranormasight:_The_Seven_Mysteries_of_Honjo",
+  "locations": [
+    {
+      "placeId": "sumida-tokyo-japan",
+      "note": "In 1980s Sumida, a teenage girl and several strangers are given the power to kill with curses tied to the Seven Mysteries of Honjo; the player looks around 360-degree panoramas of real Sumida locations."
+    }
+  ],
+  "genres": [
+    "Visual Novel"
+  ]
+}

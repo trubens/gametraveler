@@ -1,0 +1,19 @@
+{
+  "id": 297,
+  "name": "F1 Championship Season 2000",
+  "year": 2000,
+  "series": "F1",
+  "developer": "Visual Science (PS) / Image Space Incorporated (PC) / EA Redwood Shores (PS2) / Tiertex Design Studios (GBC)",
+  "publisher": "EA Sports, Feral Interactive (Mac OS X)",
+  "locations": [
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 14 of 17 in the 2000 season."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/F1_Championship_Season_2000",
+  "genres": [
+    "Racing"
+  ]
+}

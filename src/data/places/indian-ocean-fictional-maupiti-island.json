@@ -1,0 +1,15 @@
+{
+  "id": "indian-ocean-fictional-maupiti-island",
+  "name": "Maupiti Island, Indian Ocean",
+  "position": {
+    "lat": -12,
+    "lon": 70
+  },
+  "scale": "area",
+  "placeType": "body_of_water",
+  "fictional": true,
+  "aliases": [
+    "Indian Ocean (fictional Maupiti Island)"
+  ],
+  "description": "An invented island named after Maupiti in French Polynesia but placed in the Indian Ocean, on a sailing voyage from Africa. Pinned there."
+}

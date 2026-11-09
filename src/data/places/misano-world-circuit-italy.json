@@ -1,0 +1,13 @@
+{
+  "id": "misano-world-circuit-italy",
+  "name": "Misano World Circuit, Italy",
+  "position": {
+    "lat": 43.962,
+    "lon": 12.684
+  },
+  "scale": "site",
+  "parentId": "italy",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Misano_World_Circuit",
+  "description": "A race track on the edge of Misano Adriatico in Italy, laid out in the hamlet of Santa Monica-Cella."
+}

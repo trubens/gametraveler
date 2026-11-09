@@ -1,0 +1,14 @@
+{
+  "id": "lahore-pakistan",
+  "name": "Lahore, Pakistan",
+  "position": {
+    "lat": 31.5497,
+    "lon": 74.3436
+  },
+  "scale": "area",
+  "parentId": "pakistan",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lahore",
+  "description": "The capital of Punjab and Pakistan's second city, the Mughal capital of the fort, the Badshahi Mosque and the Shalimar gardens.",
+  "descriptionSource": "wikipedia"
+}

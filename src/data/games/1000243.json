@@ -1,0 +1,20 @@
+{
+  "id": 1000243,
+  "name": "Nancy Drew Dossier: Lights, Camera, Curses!",
+  "year": 2008,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "hollywood-california-usa",
+      "note": "Undercover on the set of a remake of the 1930s film Pharaoh!, Nancy investigates leaks and accidents that the crew blames on the curse of the original star, Lois Manson."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew_Dossier:_Lights,_Camera,_Curses!",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

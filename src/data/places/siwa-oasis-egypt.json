@@ -1,0 +1,13 @@
+{
+  "id": "siwa-oasis-egypt",
+  "name": "Siwa Oasis, Egypt",
+  "position": {
+    "lat": 29.2053,
+    "lon": 25.5194
+  },
+  "scale": "area",
+  "parentId": "egypt",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Siwa_Oasis",
+  "description": "An oasis town deep in Egypt's Western Desert near the Libyan border, with date palms, salt lakes and the ruins of its oracle temple."
+}

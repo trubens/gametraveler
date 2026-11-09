@@ -1,0 +1,24 @@
+{
+  "id": 1000315,
+  "name": "Contradiction: Spot the Liar!",
+  "year": 2015,
+  "aliases": [
+    "Contradiction"
+  ],
+  "developer": "Baggy Cat",
+  "publisher": "Baggy Cat",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    2015
+  ],
+  "source": "https://en.wikipedia.org/wiki/Contradiction:_Spot_the_Liar!",
+  "locations": [
+    {
+      "placeId": "edenton-fictional-cheshire-england-uk",
+      "note": "Detective Jenks spends a night in the village of Edenton questioning everyone about a student's death, catching them in contradictions. The full-motion video was shot in Great Budworth.",
+      "settingType": "fictionalized"
+    }
+  ]
+}

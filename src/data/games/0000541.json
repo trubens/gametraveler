@@ -1,0 +1,18 @@
+{
+  "id": 541,
+  "name": "Købendrown",
+  "year": 2024,
+  "publisher": "Independent (itch.io)",
+  "developer": "Royal Danish Academy student team",
+  "storyYears": [],
+  "source": "https://raiain.itch.io/kobendrown",
+  "locations": [
+    {
+      "placeId": "copenhagen-denmark",
+      "note": "A short 3D narrative walking sim through a flooded future Copenhagen: the player travels across submerged streets and ruins to reach a mother in need."
+    }
+  ],
+  "genres": [
+    "Visual Novel"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "cambodia",
+  "name": "Cambodia",
+  "position": {
+    "lat": 12.65,
+    "lon": 104.5
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cambodia",
+  "description": "A country in mainland South-east Asia, bordered by Thailand, Laos and Vietnam, with a coastline on the Gulf of Thailand."
+}

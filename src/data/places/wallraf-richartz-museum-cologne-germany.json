@@ -1,0 +1,14 @@
+{
+  "id": "wallraf-richartz-museum-cologne-germany",
+  "name": "Wallraf-Richartz Museum, Cologne, Germany",
+  "position": {
+    "lat": 50.9375,
+    "lon": 6.9586
+  },
+  "scale": "site",
+  "parentId": "cologne-germany",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wallraf–Richartz_Museum",
+  "description": "Cologne's museum of fine art from the Middle Ages to the early twentieth century, beside the city hall.",
+  "descriptionSource": "wikipedia"
+}

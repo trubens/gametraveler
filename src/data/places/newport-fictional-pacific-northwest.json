@@ -1,0 +1,15 @@
+{
+  "id": "newport-fictional-pacific-northwest",
+  "name": "Newport, Pacific Northwest",
+  "position": {
+    "lat": 47.45,
+    "lon": -122.3
+  },
+  "scale": "area",
+  "parentId": "washington-state-usa",
+  "placeType": "city",
+  "fictional": true,
+  "source": "https://giantbomb.com/wiki/Locations/Newport",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pacific_Northwest",
+  "description": "The invented 23rd-century megacity of The Longest Journey and Dreamfall, a rain-soaked urban sprawl on North America's West Coast. Its creator puts it in the Pacific Northwest without naming a real city, so the pin south of Seattle is a guess."
+}

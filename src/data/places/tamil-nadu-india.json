@@ -1,0 +1,13 @@
+{
+  "id": "tamil-nadu-india",
+  "name": "Tamil Nadu, India",
+  "scale": "area",
+  "parentId": "india",
+  "position": {
+    "lat": 11.1271,
+    "lon": 78.6569
+  },
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tamil_Nadu",
+  "description": "The southernmost state of India, home of the Tamil language and its long temple-building tradition."
+}

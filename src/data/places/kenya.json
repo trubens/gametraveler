@@ -1,0 +1,12 @@
+{
+  "id": "kenya",
+  "name": "Kenya",
+  "position": {
+    "lat": 0.55,
+    "lon": 37.91
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenya",
+  "description": "A country in East Africa, among the most populous on the continent."
+}

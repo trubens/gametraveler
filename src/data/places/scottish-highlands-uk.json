@@ -1,0 +1,12 @@
+{
+  "id": "scottish-highlands-uk",
+  "name": "Scottish Highlands, UK",
+  "position": {
+    "lat": 57.12,
+    "lon": -4.71
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Scottish_Highlands",
+  "description": "The mountainous north of Scotland, split by the Great Glen between the Grampian Mountains and the Northwest Highlands."
+}

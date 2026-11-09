@@ -1,0 +1,17 @@
+{
+  "id": "leczna-county-poland",
+  "name": "Łęczna County, Poland",
+  "position": {
+    "lat": 51.3,
+    "lon": 22.8833
+  },
+  "scale": "area",
+  "parentId": "poland",
+  "placeType": "region",
+  "aliases": [
+    "Leczna County"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/%C5%81%C4%99czna_County",
+  "description": "A county in Lublin Voivodeship in eastern Poland, around the town of Łęczna.",
+  "descriptionSource": "wikipedia"
+}

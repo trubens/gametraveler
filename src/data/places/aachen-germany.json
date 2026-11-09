@@ -1,0 +1,13 @@
+{
+  "id": "aachen-germany",
+  "name": "Aachen, Germany",
+  "position": {
+    "lat": 50.7753,
+    "lon": 6.0839
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aachen",
+  "description": "One of the larger cities of North Rhine-Westphalia."
+}

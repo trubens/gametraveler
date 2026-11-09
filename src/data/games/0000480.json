@@ -1,0 +1,22 @@
+{
+  "id": 480,
+  "name": "Horizon Forbidden West",
+  "year": 2022,
+  "developer": "Guerrilla Games",
+  "publisher": "Sony Interactive Entertainment",
+  "locations": [
+    {
+      "placeId": "san-francisco-usa",
+      "note": "Aloy explores recognizable ruins of San Francisco and Las Vegas."
+    },
+    {
+      "placeId": "las-vegas-usa",
+      "note": "Aloy explores recognizable ruins of San Francisco and Las Vegas."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Horizon_Forbidden_West",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

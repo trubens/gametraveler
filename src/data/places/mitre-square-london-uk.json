@@ -1,0 +1,14 @@
+{
+  "id": "mitre-square-london-uk",
+  "name": "Mitre Square, London, UK",
+  "position": {
+    "lat": 51.5138,
+    "lon": -0.078
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitre_Square",
+  "description": "A small square on the edge of the City where Catherine Eddowes was killed in 1888, the fourth of the Ripper's victims.",
+  "descriptionSource": "wikipedia"
+}

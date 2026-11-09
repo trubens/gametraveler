@@ -1,0 +1,14 @@
+{
+  "id": "rijksmuseum-amsterdam-netherlands",
+  "name": "Rijksmuseum, Amsterdam, Netherlands",
+  "position": {
+    "lat": 52.36,
+    "lon": 4.8853
+  },
+  "scale": "site",
+  "parentId": "amsterdam-netherlands",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rijksmuseum",
+  "description": "The national museum of Dutch art and history on Museum Square, with Rembrandt's Night Watch at the end of its Gallery of Honour.",
+  "descriptionSource": "wikipedia"
+}

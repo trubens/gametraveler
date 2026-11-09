@@ -1,0 +1,17 @@
+{
+  "id": "james-a-farley-building-new-york-city-usa",
+  "name": "James A. Farley Building, New York City, USA",
+  "position": {
+    "lat": 40.7511,
+    "lon": -73.9953
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "Farley Post Office"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_A._Farley_Building",
+  "description": "The monumental former main post office across from Penn Station, now Moynihan Train Hall.",
+  "descriptionSource": "wikipedia"
+}

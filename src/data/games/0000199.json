@@ -1,0 +1,21 @@
+{
+  "id": 199,
+  "name": "Murdered: Soul Suspect",
+  "year": 2014,
+  "publisher": "Square Enix",
+  "developer": "Airtight Games",
+  "locations": [
+    {
+      "placeId": "salem-massachusetts-usa",
+      "note": "Ghost detective Ronan O'Connor hunts the Bell Killer through witch-trial-haunted Salem."
+    }
+  ],
+  "storyYears": [
+    2014
+  ],
+  "source": "https://en.wikipedia.org/wiki/Murdered:_Soul_Suspect",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Square_Enix",
+  "genres": [
+    "Adventure"
+  ]
+}

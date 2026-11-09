@@ -1,0 +1,14 @@
+{
+  "id": "mulege-mexico",
+  "name": "Mulegé, Mexico",
+  "position": {
+    "lat": 26.8917,
+    "lon": -111.9808
+  },
+  "scale": "area",
+  "parentId": "baja-california-mexico",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mulegé",
+  "description": "A palm oasis town on the Gulf of California in Baja California Sur, with a mission church above the river.",
+  "descriptionSource": "wikipedia"
+}

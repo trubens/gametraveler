@@ -1,0 +1,17 @@
+{
+  "id": "azores-portugal",
+  "name": "Azores, Portugal",
+  "position": {
+    "lat": 38.66,
+    "lon": -28.07
+  },
+  "scale": "area",
+  "parentId": "portugal",
+  "placeType": "island",
+  "aliases": [
+    "Açores"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Azores",
+  "description": "Nine volcanic islands in the mid-Atlantic, an autonomous region of Portugal a third of the way to America.",
+  "descriptionSource": "wikipedia"
+}

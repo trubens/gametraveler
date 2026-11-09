@@ -1,0 +1,16 @@
+{
+  "id": "miami-usa",
+  "name": "Miami, USA",
+  "position": {
+    "lat": 25.7617,
+    "lon": -80.1918
+  },
+  "scale": "area",
+  "parentId": "florida-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Miami",
+  "description": "Florida's second city.",
+  "aliases": [
+    "Miami, Florida, USA"
+  ]
+}

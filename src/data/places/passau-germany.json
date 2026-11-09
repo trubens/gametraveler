@@ -1,0 +1,14 @@
+{
+  "id": "passau-germany",
+  "name": "Passau, Germany",
+  "position": {
+    "lat": 48.5744,
+    "lon": 13.4647
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Passau",
+  "description": "The three-rivers city on the Danube at the Austrian border, headquarters of the Central European Rally.",
+  "descriptionSource": "wikipedia"
+}

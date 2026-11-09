@@ -1,0 +1,14 @@
+{
+  "id": "vosges-france",
+  "name": "Vosges, France",
+  "position": {
+    "lat": 48.0,
+    "lon": 7.0
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vosges_Mountains",
+  "description": "A range of medium mountains in eastern France near the German border.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "egypt",
+  "name": "Egypt",
+  "position": {
+    "lat": 26.8206,
+    "lon": 30.8025
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Egypt",
+  "description": "A country spanning the north-east corner of Africa and, across the Sinai Peninsula, the south-west corner of Asia."
+}

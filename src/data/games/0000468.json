@@ -1,0 +1,23 @@
+{
+  "id": 468,
+  "name": "Commandos: Beyond the Call of Duty",
+  "year": 1999,
+  "series": "Commandos",
+  "developer": "Pyro Studios",
+  "publisher": "Eidos Interactive",
+  "locations": [
+    {
+      "placeId": "belgrade-serbia",
+      "note": "The standalone expansion includes a commando mission in Belgrade."
+    }
+  ],
+  "storyYears": [
+    1943
+  ],
+  "source": "https://en.wikipedia.org/wiki/Commandos:_Behind_Enemy_Lines#Beyond_the_Call_of_Duty",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Eidos_Interactive",
+  "genres": [
+    "Tactical Stealth"
+  ]
+}

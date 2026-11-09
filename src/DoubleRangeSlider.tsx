@@ -71,7 +71,7 @@ export const DoubleRangeSlider = ({ min, max, value, onChange, disabled = false,
           max={STEPS}
           value={toPos(value[0])}
           onChange={handleMinChange}
-          aria-label={`${label} fra`}
+          aria-label={`${label} from`}
           aria-valuetext={formatYear(value[0])}
           className="gt-range absolute inset-0 h-full w-full"
           // Når håndtakene står helt til høyre må min-håndtaket ligge øverst for å kunne dras tilbake
@@ -83,7 +83,7 @@ export const DoubleRangeSlider = ({ min, max, value, onChange, disabled = false,
           max={STEPS}
           value={toPos(value[1])}
           onChange={handleMaxChange}
-          aria-label={`${label} til`}
+          aria-label={`${label} to`}
           aria-valuetext={formatYear(value[1])}
           className="gt-range absolute inset-0 h-full w-full"
           style={{ zIndex: 2 }}

@@ -1,0 +1,37 @@
+{
+  "id": 180,
+  "name": "Vampyr",
+  "year": 2018,
+  "publisher": "Focus Home Interactive",
+  "developer": "Dontnod Entertainment",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "Dr Jonathan Reid, newly turned vampire, navigates 1918 London in the grip of the Spanish flu, across four districts drawn from the real East End.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "whitechapel-london-uk",
+      "note": "Whitechapel's streets and the cemetery where Jonathan finds his sister Mary and their mother.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "london-docks-wapping-london-uk",
+      "note": "The Docks: the warehouses and wharves of the old London Docks, researched with the Isle of Dogs for the game's dockland district.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "west-end-london-uk",
+      "note": "Lady Ashbury brings Jonathan to the West End and the Ascalon Club, the highborn vampires' society.",
+      "settingType": "fictionalized"
+    }
+  ],
+  "storyYears": [
+    1918
+  ],
+  "source": "https://en.wikipedia.org/wiki/Vampyr_(video_game)",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Focus_Entertainment",
+  "genres": [
+    "Action RPG"
+  ]
+}

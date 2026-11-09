@@ -1,0 +1,14 @@
+{
+  "id": "kensington-gardens-london-uk",
+  "name": "Kensington Gardens, London, UK",
+  "position": {
+    "lat": 51.5072,
+    "lon": -0.1803
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kensington_Gardens",
+  "description": "The former private gardens of Kensington Palace, west of Hyde Park, with the Serpentine and the Albert Memorial.",
+  "descriptionSource": "wikipedia"
+}

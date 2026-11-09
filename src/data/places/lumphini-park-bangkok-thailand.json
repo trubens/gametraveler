@@ -1,0 +1,14 @@
+{
+  "id": "lumphini-park-bangkok-thailand",
+  "name": "Lumphini Park, Bangkok, Thailand",
+  "position": {
+    "lat": 13.7306,
+    "lon": 100.5417
+  },
+  "scale": "site",
+  "parentId": "bangkok-thailand",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lumphini_Park",
+  "description": "Bangkok's central park, a green square of lakes and lawns among the towers of Silom.",
+  "descriptionSource": "wikipedia"
+}

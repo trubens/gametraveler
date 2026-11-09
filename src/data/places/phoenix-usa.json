@@ -1,0 +1,13 @@
+{
+  "id": "phoenix-usa",
+  "name": "Phoenix, USA",
+  "position": {
+    "lat": 33.4484,
+    "lon": -112.074
+  },
+  "scale": "area",
+  "parentId": "arizona-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Phoenix,_Arizona",
+  "description": "Arizona's capital and largest city."
+}

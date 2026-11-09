@@ -1,0 +1,18 @@
+{
+  "id": "hells-kitchen-mansion-fictional-california-usa",
+  "name": "Hell's Kitchen, California, USA",
+  "position": {
+    "lat": 34.03,
+    "lon": -118.7
+  },
+  "scale": "site",
+  "parentId": "california-usa",
+  "placeType": "landmark",
+  "fictional": true,
+  "aliases": [
+    "Hell's Kitchen mansion"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Alone_in_the_Dark_2_(video_game)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/California",
+  "description": "An invented cliff-top gangster mansion in California, named after the New York district, with a pirate ship hidden in the cliff beneath it. The game names no town; the pin on the Malibu coast is a guess."
+}

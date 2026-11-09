@@ -1,0 +1,15 @@
+{
+  "id": "sarajevo-olympic-bobsleigh-and-luge-track-sarajevo-bosnia-and-herzegovina",
+  "name": "Sarajevo Olympic Bobsleigh and Luge Track, Sarajevo, Bosnia and Herzegovina",
+  "position": {
+    "lat": 43.8411,
+    "lon": 18.4422
+  },
+  "scale": "site",
+  "parentId": "sarajevo-bosnia-and-herzegovina",
+  "placeType": "venue",
+  "source": "https://en.wikipedia.org/wiki/Sarajevo_Olympic_Bobsleigh_and_Luge_Track",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sarajevo_Olympic_Bobsleigh_and_Luge_Track",
+  "description": "A derelict bobsleigh and luge track on Trebević mountain above Sarajevo, built for the 1984 Winter Olympics.",
+  "descriptionSource": "wikipedia"
+}

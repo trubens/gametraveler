@@ -1,0 +1,14 @@
+{
+  "id": "monte-piana-italy",
+  "name": "Monte Piana, Italy",
+  "position": {
+    "lat": 46.6153,
+    "lon": 12.2458
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Monte_Piana",
+  "description": "A 2,324-metre mountain in the Sexten Dolomites on the border of South Tyrol and Belluno.",
+  "descriptionSource": "wikipedia"
+}

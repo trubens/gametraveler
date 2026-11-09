@@ -1,0 +1,18 @@
+{
+  "id": "cadiz-spain",
+  "name": "Cádiz, Spain",
+  "position": {
+    "lat": 36.535,
+    "lon": -6.2975
+  },
+  "scale": "area",
+  "parentId": "spain",
+  "placeType": "city",
+  "aliases": [
+    "Cadiz"
+  ],
+  "source": "https://en.wikipedia.org/wiki/C%C3%A1diz",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/C%C3%A1diz",
+  "description": "An ancient port city in Andalusia, the capital of the province of Cádiz, on a narrow spit of land in the Atlantic at the southwest of the Iberian Peninsula.",
+  "descriptionSource": "wikipedia"
+}

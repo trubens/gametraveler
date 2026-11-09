@@ -1,0 +1,12 @@
+{
+  "id": "southern-louisiana-bayou-usa",
+  "name": "Southern Louisiana bayou, USA",
+  "position": {
+    "lat": 29.8,
+    "lon": -91.2
+  },
+  "scale": "area",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bayou",
+  "description": "The slow, marshy waterways of the flat, low-lying country of southern Louisiana, part stream, part lake, part wetland."
+}

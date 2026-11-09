@@ -1,0 +1,14 @@
+{
+  "id": "death-valley-california-usa",
+  "name": "Death Valley, California, USA",
+  "position": {
+    "lat": 36.2469,
+    "lon": -116.8169
+  },
+  "scale": "area",
+  "parentId": "california-usa",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Death_Valley",
+  "description": "The hottest, lowest desert valley in North America, in the Mojave east of the Sierra Nevada.",
+  "descriptionSource": "wikipedia"
+}

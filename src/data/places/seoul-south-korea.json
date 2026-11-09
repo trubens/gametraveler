@@ -1,0 +1,13 @@
+{
+  "id": "seoul-south-korea",
+  "name": "Seoul, South Korea",
+  "position": {
+    "lat": 37.5665,
+    "lon": 126.978
+  },
+  "scale": "area",
+  "parentId": "south-korea",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Seoul",
+  "description": "South Korea's capital and largest city."
+}

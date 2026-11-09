@@ -1,0 +1,18 @@
+{
+  "id": "slaughter-gulch-fictional-mojave-desert-california-usa",
+  "name": "Slaughter Gulch, Mojave Desert, California, USA",
+  "position": {
+    "lat": 34.6,
+    "lon": -118.0
+  },
+  "scale": "area",
+  "parentId": "california-usa",
+  "placeType": "city",
+  "fictional": true,
+  "aliases": [
+    "Slaughter Gulch ghost town"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Alone_in_the_Dark_3",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mojave_Desert",
+  "description": "An invented ghost town in California's Mojave Desert, said to sit on the San Andreas fault. The pin where the fault crosses the western Mojave is a guess."
+}

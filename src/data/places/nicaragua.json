@@ -1,0 +1,12 @@
+{
+  "id": "nicaragua",
+  "name": "Nicaragua",
+  "position": {
+    "lat": 12.8654,
+    "lon": -85.2072
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicaragua",
+  "description": "A country in the middle of Central America, between the Pacific and the Caribbean."
+}

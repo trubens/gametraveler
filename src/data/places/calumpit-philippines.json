@@ -1,0 +1,15 @@
+{
+  "id": "calumpit-philippines",
+  "name": "Calumpit, Philippines",
+  "position": {
+    "lat": 14.92,
+    "lon": 120.77
+  },
+  "scale": "area",
+  "parentId": "philippines",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Calumpit",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Calumpit",
+  "description": "A municipality in Bulacan province on Luzon, north of Manila, where the Calumpit bridge was a key crossing in the 1942 retreat to Bataan.",
+  "descriptionSource": "wikipedia"
+}

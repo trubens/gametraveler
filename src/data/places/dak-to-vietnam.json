@@ -1,0 +1,14 @@
+{
+  "id": "dak-to-vietnam",
+  "name": "Dak To, Vietnam",
+  "position": {
+    "lat": 14.6511,
+    "lon": 107.7986
+  },
+  "scale": "area",
+  "parentId": "vietnam",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Battle_of_Dak_To",
+  "description": "A district town in the Central Highlands, where the battle for Hill 875 was fought in November 1967.",
+  "descriptionSource": "wikipedia"
+}

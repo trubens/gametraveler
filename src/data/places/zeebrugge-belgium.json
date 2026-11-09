@@ -1,0 +1,14 @@
+{
+  "id": "zeebrugge-belgium",
+  "name": "Zeebrugge, Belgium",
+  "position": {
+    "lat": 51.3303,
+    "lon": 3.2089
+  },
+  "scale": "area",
+  "parentId": "belgium",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Zeebrugge",
+  "description": "The port of Bruges on the Belgian coast, raided by the Royal Navy in April 1918 to block the U-boat canal.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 536,
+  "name": "Steins;Gate",
+  "year": 2009,
+  "publisher": "5pb.",
+  "series": "Steins;Gate",
+  "developer": "5pb. / Nitroplus",
+  "storyYears": [
+    2010
+  ],
+  "source": "https://en.wikipedia.org/wiki/Steins;Gate",
+  "locations": [
+    {
+      "placeId": "akihabara-tokyo-japan",
+      "note": "Rintaro Okabe and his friends find a way to send messages into the past from their lab in Akihabara, among its electronics shops and streets."
+    }
+  ],
+  "genres": [
+    "Visual Novel"
+  ]
+}

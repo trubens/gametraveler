@@ -1,0 +1,14 @@
+{
+  "id": "west-end-london-uk",
+  "name": "West End, London, UK",
+  "position": {
+    "lat": 51.5131,
+    "lon": -0.125
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/West_End_of_London",
+  "description": "The theatres, clubs and squares west of the City, from Covent Garden to Mayfair.",
+  "descriptionSource": "wikipedia"
+}

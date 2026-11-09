@@ -1,0 +1,14 @@
+{
+  "id": "liguria-italy",
+  "name": "Liguria, Italy",
+  "position": {
+    "lat": 44.3,
+    "lon": 8.9
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Liguria",
+  "description": "The crescent of north-western Italy between the Alps and the sea, with Genoa in the middle and the Riviera on either side.",
+  "descriptionSource": "wikipedia"
+}

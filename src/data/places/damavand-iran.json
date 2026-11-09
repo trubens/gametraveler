@@ -1,0 +1,17 @@
+{
+  "id": "damavand-iran",
+  "name": "Mount Damavand, Iran",
+  "position": {
+    "lat": 35.951,
+    "lon": 52.109
+  },
+  "scale": "area",
+  "parentId": "iran",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Damavand"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mount_Damavand",
+  "description": "The highest peak in Iran, a snow-capped volcano in the Alborz range north-east of Tehran.",
+  "descriptionSource": "wikipedia"
+}

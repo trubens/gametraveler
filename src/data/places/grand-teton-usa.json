@@ -1,0 +1,12 @@
+{
+  "id": "grand-teton-usa",
+  "name": "Grand Teton, USA",
+  "position": {
+    "lat": 43.7904,
+    "lon": -110.6818
+  },
+  "scale": "area",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Grand_Teton_National_Park",
+  "description": "A national park in north-western Wyoming, named after the mountain at its heart."
+}

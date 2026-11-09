@@ -1,0 +1,12 @@
+{
+  "id": "michigan-usa",
+  "name": "Michigan, USA",
+  "position": {
+    "lat": 44.31,
+    "lon": -85.6
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Michigan",
+  "description": "A peninsular state of the Upper Midwest, shaped by the Great Lakes around it."
+}

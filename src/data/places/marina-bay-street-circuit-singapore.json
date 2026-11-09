@@ -1,0 +1,13 @@
+{
+  "id": "marina-bay-street-circuit-singapore",
+  "name": "Marina Bay Street Circuit, Singapore",
+  "position": {
+    "lat": 1.2914,
+    "lon": 103.8644
+  },
+  "scale": "site",
+  "parentId": "singapore",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marina_Bay_Street_Circuit",
+  "description": "A street circuit laid out around Marina Bay in Singapore, winding through the Downtown Core and Kallang."
+}

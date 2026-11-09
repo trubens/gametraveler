@@ -1,0 +1,15 @@
+{
+  "id": "lake-baikal-russia",
+  "name": "Lake Baikal, Russia",
+  "position": {
+    "lat": 53.5,
+    "lon": 108.0
+  },
+  "scale": "area",
+  "parentId": "russia",
+  "placeType": "body_of_water",
+  "source": "https://en.wikipedia.org/wiki/Lake_Baikal",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lake_Baikal",
+  "description": "A rift lake in southern Siberia and the deepest lake in the world, between Irkutsk Oblast and the Republic of Buryatia.",
+  "descriptionSource": "wikipedia"
+}

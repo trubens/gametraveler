@@ -1,0 +1,13 @@
+{
+  "id": "jan-mayen-island-norway",
+  "name": "Jan Mayen Island, Norway",
+  "position": {
+    "lat": 70.98,
+    "lon": -8.5
+  },
+  "scale": "area",
+  "parentId": "norway",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_Mayen",
+  "description": "A Norwegian volcanic island in the Arctic Ocean, partly covered by glaciers and without a single permanent inhabitant."
+}

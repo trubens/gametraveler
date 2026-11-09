@@ -1,0 +1,13 @@
+{
+  "id": "port-royal-jamaica",
+  "name": "Port Royal, Jamaica",
+  "position": {
+    "lat": 17.975,
+    "lon": -76.823
+  },
+  "scale": "area",
+  "parentId": "jamaica",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Port_Royal",
+  "description": "A small town at the end of the Palisadoes spit at the mouth of Kingston Harbour."
+}

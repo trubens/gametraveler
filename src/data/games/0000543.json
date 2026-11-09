@@ -1,0 +1,31 @@
+{
+  "id": 543,
+  "name": "The Godfather II",
+  "year": 2009,
+  "publisher": "Electronic Arts",
+  "series": "The Godfather",
+  "developer": "EA Redwood Shores",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Dominic takes charge of the Corleone family's New York operations after the previous Don is killed."
+    },
+    {
+      "placeId": "miami-usa",
+      "note": "The crime campaign expands into Miami, where Dominic fights the Granados family and builds the Corleones' Florida business."
+    },
+    {
+      "placeId": "havana-cuba",
+      "note": "The story reaches Havana during the Cuban Revolution, where the family has a major stake in the city."
+    }
+  ],
+  "storyYears": [
+    1958,
+    1961
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Godfather_II_(video_game)",
+  "genres": [
+    "Action-Adventure",
+    "Strategy"
+  ]
+}

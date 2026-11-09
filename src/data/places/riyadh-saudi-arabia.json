@@ -1,0 +1,14 @@
+{
+  "id": "riyadh-saudi-arabia",
+  "name": "Riyadh, Saudi Arabia",
+  "position": {
+    "lat": 24.6333,
+    "lon": 46.7167
+  },
+  "scale": "area",
+  "parentId": "saudi-arabia",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Riyadh",
+  "description": "The capital of Saudi Arabia, a city of towers and highways on the plateau of Najd in the middle of the peninsula.",
+  "descriptionSource": "wikipedia"
+}

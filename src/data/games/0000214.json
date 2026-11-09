@@ -1,0 +1,71 @@
+{
+  "id": 214,
+  "name": "A Golden Wake",
+  "year": 2014,
+  "publisher": "Wadjet Eye Games",
+  "developer": "Grundislav Games",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "The prologue follows Alfie at Morris & Banks before he leaves for Florida.",
+      "source": "https://amigamaster.github.io/Simple-Game-Solutions/solutions/A/A%20Golden%20Wake-EN.html"
+    },
+    {
+      "placeId": "miami-usa",
+      "note": "Miami scenes include Flagler Street, the Miami Herald and the Miami Men's Club.",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=865115208"
+    },
+    {
+      "placeId": "coral-gables-florida-usa",
+      "note": "Alfie works in Coral Gables during its real estate boom, around the sales office, the Venetian Pool and the Biltmore Hotel.",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=865115208"
+    },
+    {
+      "placeId": "havana-cuba",
+      "note": "A chapter takes Alfie to Havana, where he investigates a bar and an office.",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=865115208"
+    },
+    {
+      "placeId": "tamiami-trail-florida-usa",
+      "note": "In 1929 Alfie follows Tamiami Trail into the Everglades, where the moonshine-running sequence takes place.",
+      "source": "https://amigamaster.github.io/Simple-Game-Solutions/solutions/A/A%20Golden%20Wake-EN.html"
+    }
+  ],
+  "routes": [
+    {
+      "id": "alfies-journey",
+      "name": "Alfie's journey",
+      "characters": [
+        "Alfie Banks"
+      ],
+      "storyYears": [
+        1921,
+        1922,
+        1925,
+        1926,
+        1929
+      ],
+      "stops": [
+        "new-york-city-usa",
+        "miami-usa",
+        "coral-gables-florida-usa",
+        "havana-cuba",
+        "coral-gables-florida-usa",
+        "tamiami-trail-florida-usa"
+      ],
+      "note": "Alfie Banks leaves New York for Miami, sells land in Coral Gables, takes a trip to Havana and ends up on the Tamiami Trail in 1929.",
+      "source": "https://amigamaster.github.io/Simple-Game-Solutions/solutions/A/A%20Golden%20Wake-EN.html"
+    }
+  ],
+  "storyYears": [
+    1921,
+    1922,
+    1925,
+    1926,
+    1929
+  ],
+  "source": "https://en.wikipedia.org/wiki/A_Golden_Wake",
+  "genres": [
+    "Adventure"
+  ]
+}

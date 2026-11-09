@@ -1,0 +1,16 @@
+{
+  "id": "iwo-jima-japan",
+  "name": "Iwo Jima, Japan",
+  "position": {
+    "lat": 24.7803,
+    "lon": 141.3244
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "island",
+  "aliases": [
+    "Iwo To"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Iwo_Jima",
+  "description": "A volcanic island south of Japan, fought over in 1945."
+}

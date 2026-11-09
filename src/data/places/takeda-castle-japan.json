@@ -1,0 +1,14 @@
+{
+  "id": "takeda-castle-japan",
+  "name": "Takeda Castle, Asago, Japan",
+  "position": {
+    "lat": 35.3006,
+    "lon": 134.8292
+  },
+  "scale": "site",
+  "parentId": "japan",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Takeda_Castle",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Takeda_Castle",
+  "description": "The ruins of a Sengoku-period castle above Asago in northern Hyōgo, famous for appearing to float above the morning mist."
+}

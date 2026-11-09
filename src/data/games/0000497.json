@@ -1,0 +1,22 @@
+{
+  "id": 497,
+  "name": "Resistance 3",
+  "year": 2011,
+  "series": "Resistance",
+  "developer": "Insomniac Games",
+  "publisher": "Sony Computer Entertainment",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "The journey east culminates in combat in New York City."
+    }
+  ],
+  "storyYears": [
+    1957
+  ],
+  "source": "https://en.wikipedia.org/wiki/Resistance_3",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

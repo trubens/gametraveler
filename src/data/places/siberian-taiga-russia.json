@@ -1,0 +1,12 @@
+{
+  "id": "siberian-taiga-russia",
+  "name": "Siberian taiga, Russia",
+  "position": {
+    "lat": 60,
+    "lon": 90
+  },
+  "scale": "area",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Taiga",
+  "description": "The boreal forest that blankets much of Siberia, endless stands of pine, spruce and larch."
+}

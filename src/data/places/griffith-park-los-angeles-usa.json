@@ -1,0 +1,14 @@
+{
+  "id": "griffith-park-los-angeles-usa",
+  "name": "Griffith Park, Los Angeles, USA",
+  "position": {
+    "lat": 34.1333,
+    "lon": -118.3
+  },
+  "scale": "site",
+  "parentId": "los-angeles-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Griffith_Park",
+  "description": "The wild hills at the eastern end of the Santa Monica Mountains, with the observatory and the Hollywood sign on its slopes.",
+  "descriptionSource": "wikipedia"
+}

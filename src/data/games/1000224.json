@@ -1,0 +1,24 @@
+{
+  "id": 1000224,
+  "name": "Nancy Drew: Ghost Dogs of Moon Lake",
+  "year": 2002,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "pennsylvania-usa",
+      "aliases": [
+        "Moon Lake"
+      ],
+      "settingType": "fictionalized",
+      "note": "Nancy stays at Sally McDonald's lake house, once the hideout of Prohibition gangster Mickey Malone, to find out who is behind the glowing-eyed 'ghost dogs' that menace it every night."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Ghost_Dogs_of_Moon_Lake",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

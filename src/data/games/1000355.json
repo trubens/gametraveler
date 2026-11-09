@@ -1,0 +1,43 @@
+{
+  "id": 1000355,
+  "name": "Metal Gear Solid V: Ground Zeroes",
+  "year": 2014,
+  "series": "Metal Gear",
+  "developer": "Kojima Productions",
+  "publisher": "Konami",
+  "genres": [
+    "Stealth"
+  ],
+  "storyYears": [
+    1975
+  ],
+  "source": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_V:_Ground_Zeroes",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "camp-omega-fictional-cuba",
+      "note": "1975: Snake infiltrates the American black site Camp Omega in Cuba to rescue Paz and Chico, while XOF destroys his Mother Base.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "mother-base-fictional-caribbean",
+      "settingType": "imaginary",
+      "note": "Snake flies home with Paz and Chico to find XOF destroying Mother Base; Paz's hidden bomb blows up the helicopter as they escape."
+    }
+  ],
+  "routes": [
+    {
+      "id": "big-boss-1975",
+      "name": "Big Boss",
+      "characters": [
+        "Big Boss"
+      ],
+      "stops": [
+        "camp-omega-fictional-cuba",
+        "mother-base-fictional-caribbean"
+      ],
+      "note": "From the Cuban black site back to the burning Mother Base.",
+      "source": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_V:_Ground_Zeroes"
+    }
+  ]
+}

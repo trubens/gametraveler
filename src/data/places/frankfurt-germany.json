@@ -1,0 +1,17 @@
+{
+  "id": "frankfurt-germany",
+  "name": "Frankfurt, Germany",
+  "position": {
+    "lat": 50.1106,
+    "lon": 8.6822
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "city",
+  "aliases": [
+    "Frankfurt am Main"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frankfurt",
+  "description": "The banking city on the Main, towers over a rebuilt old town.",
+  "descriptionSource": "wikipedia"
+}

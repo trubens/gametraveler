@@ -1,0 +1,13 @@
+{
+  "id": "dead-sea-jordan",
+  "name": "Dead Sea, Jordan",
+  "position": {
+    "lat": 31.5,
+    "lon": 35.5
+  },
+  "scale": "area",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dead_Sea",
+  "description": "The salt lake at the lowest point on Earth, on whose Jordanian shore the Jordan Rally made its headquarters.",
+  "descriptionSource": "wikipedia"
+}

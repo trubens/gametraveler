@@ -1,0 +1,15 @@
+{
+  "id": "isezakicho-yokohama-japan",
+  "name": "Isezakichō, Yokohama, Japan",
+  "position": {
+    "lat": 35.4436,
+    "lon": 139.6314
+  },
+  "scale": "area",
+  "parentId": "yokohama-japan",
+  "placeType": "neighborhood",
+  "source": "https://en.wikipedia.org/wiki/Isezakich%C5%8D",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isezakich%C5%8D",
+  "description": "A district of Naka Ward in Yokohama built around the long Isezakichō shopping street, near Chinatown and the harbour.",
+  "descriptionSource": "wikipedia"
+}

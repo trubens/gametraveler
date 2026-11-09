@@ -1,0 +1,76 @@
+{
+  "id": 121,
+  "name": "Assassin's Creed Brotherhood",
+  "aliases": [
+    "AC",
+    "AC Brotherhood"
+  ],
+  "year": 2010,
+  "publisher": "Ubisoft",
+  "series": "Assassin's Creed",
+  "developer": "Ubisoft Montreal",
+  "locations": [
+    {
+      "placeId": "rome-italy",
+      "note": "Ezio rebuilds the Assassin Brotherhood in Borgia-ruled Rome during the Italian Wars of 1500-1507."
+    },
+    {
+      "placeId": "monteriggioni-italy",
+      "note": "The Auditore villa town where the game opens, before a Borgia siege drives Ezio to Rome."
+    },
+    {
+      "placeId": "colosseum-rome-italy",
+      "note": "Ezio hides the Apple in a First Civilization vault beneath the Colosseum."
+    },
+    {
+      "placeId": "pantheon-rome-italy",
+      "note": "The Pantheon is one of the Roman landmarks Ezio climbs."
+    },
+    {
+      "placeId": "castel-sant-angelo-rome-italy",
+      "note": "Ezio breaks into the Borgia stronghold to free Caterina Sforza, who is held prisoner in the castle.",
+      "source": "https://en.wikipedia.org/wiki/Caterina_Sforza"
+    },
+    {
+      "placeId": "st-peters-basilica-vatican-city",
+      "note": "Ezio retrieves the Apple from within St. Peter's Basilica."
+    },
+    {
+      "placeId": "viana-navarre-spain",
+      "note": "The finale in 1507: Ezio follows Cesare Borgia to Viana in Navarre and ends him on the castle walls."
+    },
+    {
+      "placeId": "naples-italy",
+      "note": "Ezio's travels take him to the harbour of Naples."
+    }
+  ],
+  "storyYears": [
+    1500,
+    1507,
+    2012
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Brotherhood",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Ubisoft_Montreal",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "ezio-rome",
+      "name": "Ezio against the Borgia",
+      "characters": [
+        "Ezio Auditore da Firenze"
+      ],
+      "stops": [
+        "monteriggioni-italy",
+        "rome-italy",
+        "naples-italy",
+        "viana-navarre-spain"
+      ],
+      "note": "The siege of Monteriggioni, the years in Rome, and the chase after Cesare to Spain.",
+      "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Brotherhood"
+    }
+  ]
+}

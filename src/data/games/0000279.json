@@ -1,0 +1,45 @@
+{
+  "id": 279,
+  "name": "F1 2021",
+  "year": 2021,
+  "series": "F1",
+  "developer": "Codemasters",
+  "publisher": "EA Sports",
+  "locations": [
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "Raced as the British Grand Prix, round 10 of 22 in the 2021 season."
+    },
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 14 of 22 in the 2021 season."
+    },
+    {
+      "placeId": "albert-park-circuit-melbourne-australia",
+      "note": "The 2021 Australian Grand Prix was cancelled in the pandemic, but the circuit is in the game, and Braking Point's story opens its season here."
+    },
+    {
+      "placeId": "shanghai-international-circuit-china",
+      "note": "Not on the 2021 calendar; the circuit is in the game for the Braking Point story mode."
+    },
+    {
+      "placeId": "circuit-gilles-villeneuve-montreal-canada",
+      "note": "The 2021 Canadian Grand Prix was cancelled in the pandemic, but in the game as originally planned."
+    },
+    {
+      "placeId": "autodromo-hermanos-rodriguez-mexico-city",
+      "note": "Raced as the Mexico City Grand Prix, round 18 of 22 in the 2021 season."
+    },
+    {
+      "placeId": "yas-marina-circuit-abu-dhabi-uae",
+      "note": "Raced as the Abu Dhabi Grand Prix, the final round of the 2021 season."
+    }
+  ],
+  "storyYears": [
+    2021
+  ],
+  "source": "https://en.wikipedia.org/wiki/F1_2021_(video_game)",
+  "genres": [
+    "Racing"
+  ]
+}

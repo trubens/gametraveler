@@ -1,0 +1,14 @@
+{
+  "id": "space-needle-seattle-usa",
+  "name": "Space Needle, Seattle, USA",
+  "position": {
+    "lat": 47.6204,
+    "lon": -122.3491
+  },
+  "scale": "site",
+  "parentId": "seattle-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Space_Needle",
+  "description": "The 605-foot observation tower built for the 1962 World's Fair at Seattle Center, the city's best-known landmark.",
+  "descriptionSource": "wikipedia"
+}

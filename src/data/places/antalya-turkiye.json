@@ -1,0 +1,12 @@
+{
+  "id": "antalya-turkiye",
+  "name": "Antalya, Türkiye",
+  "position": {
+    "lat": 36.9,
+    "lon": 30.71
+  },
+  "scale": "area",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Antalya",
+  "description": "One of the largest cities in Turkey and the capital of the province that shares its name."
+}

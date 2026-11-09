@@ -1,0 +1,15 @@
+{
+  "id": "merville-gun-battery-france",
+  "name": "Merville Gun Battery, France",
+  "position": {
+    "lat": 49.2694,
+    "lon": -0.1978
+  },
+  "scale": "site",
+  "parentId": "normandy-france",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Merville_Gun_Battery",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Merville_Gun_Battery",
+  "description": "A decommissioned Atlantic Wall coastal fortification in Normandy, one of the first positions attacked on D-Day, captured by British paratroopers under Lt Col Terence Otway.",
+  "descriptionSource": "wikipedia"
+}

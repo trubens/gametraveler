@@ -1,0 +1,14 @@
+{
+  "id": "tripoli-libya",
+  "name": "Tripoli, Libya",
+  "position": {
+    "lat": 32.8875,
+    "lon": 13.1875
+  },
+  "scale": "area",
+  "parentId": "libya",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tripoli,_Libya",
+  "description": "The capital of Libya, a corsair harbour on the Mediterranean in the 16th century.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "villa-borghese-rome-italy",
+  "name": "Villa Borghese, Rome, Italy",
+  "position": {
+    "lat": 41.9142,
+    "lon": 12.4922
+  },
+  "scale": "site",
+  "parentId": "rome-italy",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Villa_Borghese",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Villa_Borghese",
+  "description": "A landscape garden in the heart of Rome, the city's third-largest park, scattered with museums, villas and attractions."
+}

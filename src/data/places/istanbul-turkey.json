@@ -1,0 +1,19 @@
+{
+  "id": "istanbul-turkey",
+  "name": "Istanbul, Turkey",
+  "position": {
+    "lat": 41.0082,
+    "lon": 28.9784
+  },
+  "scale": "area",
+  "parentId": "turkey",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Istanbul",
+  "description": "Turkey's largest city.",
+  "aliases": [
+    "Constantinople (Istanbul), Turkey",
+    "Constantinople (Istanbul)",
+    "Istanbul, Türkiye",
+    "Constantinople"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": 195,
+  "name": "Verdun",
+  "year": 2015,
+  "series": "WW1 Game Series",
+  "publisher": "M2H, Blackmill Games",
+  "developer": "M2H, Blackmill Games",
+  "locations": [
+    {
+      "placeId": "fort-douaumont-verdun-france",
+      "note": "Douaumont: the French assault on the fort on 22 May 1916.",
+      "source": "https://www.moddb.com/news/douaumont-beta-explosives-and-patterns"
+    },
+    {
+      "placeId": "argonne-forest-france",
+      "note": "Argonne: trench lines in the forest around the Four-de-Paris, laid out from real trench maps.",
+      "source": "https://verdun.fandom.com/wiki/Maps"
+    },
+    {
+      "placeId": "vauquois-france",
+      "settingType": "fictionalized",
+      "note": "Vauquois: a dense trench network around a huge mine crater, modelled on the mine war at Vauquois, Les Éparges and the Haute-Chevauchée.",
+      "source": "https://verdun.fandom.com/wiki/Maps"
+    },
+    {
+      "placeId": "saint-mihiel-france",
+      "note": "St. Mihiel: wooded terrain of the salient south of Verdun, fought over in 1915 and again in 1918.",
+      "source": "https://verdun.fandom.com/wiki/Maps"
+    },
+    {
+      "placeId": "ypres-belgium",
+      "note": "Flanders: muddy, water-filled trenches of the Ypres salient, after Passchendaele, Hooge, Hill 60 and Langemarck.",
+      "source": "https://www.moddb.com/games/verdun/images/flanders"
+    },
+    {
+      "placeId": "artois-france",
+      "note": "Artois: a quarry redoubt and slag heaps on the front of the battles of Vimy Ridge, Loos and Neuve Chapelle.",
+      "source": "https://combatsim.com/?p=832"
+    },
+    {
+      "placeId": "champagne-france",
+      "note": "Champagne: a night map of the front between Reims and the Argonne, fought over in 1915 and again in the final offensive of 1918 at Blanc Mont.",
+      "source": "https://www.moddb.com/games/verdun/news/champagne"
+    },
+    {
+      "placeId": "aisne-france",
+      "note": "Aisne: the early-war map, wooded farmland still little touched by the war where trench warfare on the Western Front began.",
+      "source": "https://www.gamingonlinux.com/2015/04/verdun-wwi-fps-exits-early-access-heads-for-the-trenches/"
+    },
+    {
+      "placeId": "vosges-france",
+      "note": "Vosges: fighting over rocky, wooded mountain heights.",
+      "source": "https://verdun.fandom.com/wiki/Maps"
+    },
+    {
+      "placeId": "somme-valley-france",
+      "aliases": [
+        "Picardie"
+      ],
+      "note": "Picardie: rolling hills between Amiens and Saint-Quentin, after the fighting of 1916 and of March and August 1918.",
+      "source": "https://www.moddb.com/news/verdun-status"
+    }
+  ],
+  "storyYears": [
+    1914,
+    1915,
+    1916,
+    1917,
+    1918
+  ],
+  "source": "https://en.wikipedia.org/wiki/Verdun_(video_game)",
+  "reviewed": "2026-11-08",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

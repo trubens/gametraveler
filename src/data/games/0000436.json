@@ -1,0 +1,85 @@
+{
+  "id": 436,
+  "name": "Call of Duty: World at War",
+  "year": 2008,
+  "series": "Call of Duty",
+  "developer": "Treyarch",
+  "publisher": "Activision",
+  "locations": [
+    {
+      "placeId": "berlin-germany",
+      "note": "The Soviet campaign culminates in the Battle of Berlin and the assault on the Reichstag."
+    },
+    {
+      "placeId": "makin-island-kiribati",
+      "note": "The Pacific campaign opens with a playable operation on Makin Atoll."
+    },
+    {
+      "placeId": "peleliu-palau",
+      "note": "Several Pacific missions recreate the Battle of Peleliu."
+    },
+    {
+      "placeId": "philippine-sea",
+      "note": "April 1945: gunner Locke's PBY Catalina sinks Japanese supply ships bound for Okinawa, then lands to pull survivors of a kamikaze-hit US fleet from the water.",
+      "source": "https://callofduty.fandom.com/wiki/Black_Cats"
+    },
+    {
+      "placeId": "okinawa-japan",
+      "note": "May 1945: Miller's squad assaults Okinawa, ending with the attack on Shuri Castle and the fake surrender."
+    },
+    {
+      "placeId": "stalingrad-volgograd-russia",
+      "note": "The Soviet campaign includes the battle for Stalingrad."
+    },
+    {
+      "placeId": "seelow-heights-germany",
+      "note": "April 1945: Reznov finds Petrenko alive on the Seelow Heights, and they break the German line on foot and then in a T-34 on the road to Berlin.",
+      "source": "https://callofduty.fandom.com/wiki/Blood_and_Iron"
+    }
+  ],
+  "storyYears": [
+    1945
+  ],
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_World_at_War",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Treyarch",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Activision",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "miller",
+      "name": "Pvt. C. Miller",
+      "characters": [
+        "C. Miller",
+        "Roebuck",
+        "Polonsky",
+        "Sullivan"
+      ],
+      "stops": [
+        "makin-island-kiribati",
+        "peleliu-palau",
+        "okinawa-japan"
+      ],
+      "note": "Rescued from his captors on Makin, Miller storms the beaches of Peleliu and ends at the fake surrender at Shuri Castle on Okinawa.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_World_at_War"
+    },
+    {
+      "id": "petrenko",
+      "name": "Pvt. Dimitri Petrenko",
+      "characters": [
+        "Dimitri Petrenko",
+        "Viktor Reznov",
+        "Chernov"
+      ],
+      "stops": [
+        "stalingrad-volgograd-russia",
+        "seelow-heights-germany",
+        "berlin-germany"
+      ],
+      "note": "From a fountain of corpses in Stalingrad, hunting General Amsel with Reznov, through the Seelow Heights to planting the Soviet flag on the Reichstag.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_World_at_War"
+    }
+  ]
+}

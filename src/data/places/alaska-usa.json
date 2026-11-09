@@ -1,0 +1,12 @@
+{
+  "id": "alaska-usa",
+  "name": "Alaska, USA",
+  "position": {
+    "lat": 64.2008,
+    "lon": -149.4937
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alaska",
+  "description": "The north-western state of the United States, one of only two, with Hawaii, that are separated from the rest of the country."
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1000151,
+  "name": "Police Quest: Open Season",
+  "aliases": [
+    "Police Quest IV",
+    "Police Quest 4"
+  ],
+  "year": 1993,
+  "publisher": "Sierra On-Line",
+  "developer": "Sierra On-Line",
+  "locations": [
+    {
+      "placeId": "los-angeles-usa",
+      "note": "Detective John Carey investigates a series of murders in Los Angeles, including South Central and LAPD locations.",
+      "source": "https://en.wikipedia.org/wiki/Police_Quest:_Open_Season"
+    }
+  ],
+  "storyYears": [
+    1993
+  ],
+  "source": "https://en.wikipedia.org/wiki/Police_Quest:_Open_Season",
+  "genres": [
+    "Adventure"
+  ]
+}

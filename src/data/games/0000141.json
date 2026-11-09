@@ -1,0 +1,73 @@
+{
+  "id": 141,
+  "name": "Kingdom Come: Deliverance",
+  "year": 2018,
+  "publisher": "Deep Silver",
+  "series": "Kingdom Come",
+  "developer": "Warhorse Studios",
+  "locations": [
+    {
+      "placeId": "skalitz-stribrna-skalice-czech-republic",
+      "note": "1403: Sigismund's Cumans raze Skalitz, today's Stříbrná Skalice, and kill Henry's parents; the blacksmith's son flees with the sword his father made."
+    },
+    {
+      "placeId": "talmberg-czech-republic",
+      "note": "Henry rides to Talmberg to warn Sir Divish of the attack; later Tóth's mercenaries take the castle and seize Divish's wife Stephanie."
+    },
+    {
+      "placeId": "rataje-nad-sazavou-czech-republic",
+      "note": "Rattay, Sir Radzig's town and Hans Capon's home, where Henry enters Radzig's service and becomes his envoy."
+    },
+    {
+      "placeId": "sazava-czech-republic",
+      "note": "Sasau, the town on the Sázava with its silver-lined market, at the western end of the map."
+    },
+    {
+      "placeId": "sazava-monastery-czech-republic",
+      "note": "Henry goes undercover as a novice in the Sasau monastery to find a bandit hiding among the monks."
+    },
+    {
+      "placeId": "uzice-czech-republic",
+      "note": "Uzhitz, one of the real villages of the Rattay lands Henry rides through."
+    },
+    {
+      "placeId": "ledecko-czech-republic",
+      "note": "Ledetchko, the river village below Talmberg, is one of the real villages Henry rides through."
+    },
+    {
+      "placeId": "mrchojedy-czech-republic",
+      "note": "Merhojed, the village where Henry fights a plague in the side quest Pestilence."
+    },
+    {
+      "placeId": "samopse-czech-republic",
+      "note": "Samopesh is one of the real villages of the Talmberg lands Henry rides through."
+    }
+  ],
+  "storyYears": [
+    1403
+  ],
+  "source": "https://en.wikipedia.org/wiki/Kingdom_Come:_Deliverance",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Deep_Silver",
+  "genres": [
+    "RPG"
+  ],
+  "routes": [
+    {
+      "id": "henry",
+      "name": "Henry of Skalitz",
+      "characters": [
+        "Henry of Skalitz"
+      ],
+      "stops": [
+        "skalitz-stribrna-skalice-czech-republic",
+        "talmberg-czech-republic",
+        "rataje-nad-sazavou-czech-republic",
+        "sazava-monastery-czech-republic",
+        "talmberg-czech-republic"
+      ],
+      "note": "From the burning of Skalitz to the retaking of Talmberg.",
+      "source": "https://en.wikipedia.org/wiki/Kingdom_Come:_Deliverance"
+    }
+  ]
+}

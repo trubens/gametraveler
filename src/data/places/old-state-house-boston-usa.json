@@ -1,0 +1,14 @@
+{
+  "id": "old-state-house-boston-usa",
+  "name": "Old State House, Boston, USA",
+  "position": {
+    "lat": 42.3588,
+    "lon": -71.0575
+  },
+  "scale": "site",
+  "parentId": "boston-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Old_State_House_(Boston)",
+  "description": "The 1713 seat of colonial government on Washington Street; the Boston Massacre happened beneath its balcony in 1770.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1000360,
+  "name": "The Excavation of Hob's Barrow",
+  "aliases": [
+    "Hob's Barrow",
+    "Incantamentum"
+  ],
+  "year": 2022,
+  "publisher": "Wadjet Eye Games",
+  "developer": "Cloak and Dagger Games",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Excavation_of_Hob%27s_Barrow",
+  "reviewed": "2026-11-06",
+  "locations": [
+    {
+      "placeId": "ticehurst-house-hospital-east-sussex-england-uk",
+      "aliases": [
+        "Ticehurst House"
+      ],
+      "settingType": "fictionalized",
+      "note": "Thomasina tells her story from a room at Ticehurst House, the asylum she is shut in after Bewlay, and the last chapter ends there with her father.",
+      "source": "https://www.walkthroughking.com/text/excavationofhobsbarrow.aspx"
+    },
+    {
+      "placeId": "england-uk",
+      "aliases": [
+        "Bewlay"
+      ],
+      "settingType": "fictionalized",
+      "note": "Thomasina Bateman takes the train to the moorland village of Bewlay to dig the barrow her father failed to excavate decades earlier, and finds the man who invited her missing and the villagers set against her.",
+      "source": "https://en.wikipedia.org/wiki/The_Excavation_of_Hob%27s_Barrow"
+    },
+    {
+      "placeId": "hob-hursts-house-derbyshire-england-uk",
+      "aliases": [
+        "Hob's Barrow"
+      ],
+      "settingType": "fictionalized",
+      "note": "Beneath Hob's Barrow, the game's version of this Beeley Moor mound, Thomasina performs a blood ritual meant to heal her father and frees the entity Abraxas.",
+      "source": "https://en.wikipedia.org/wiki/The_Excavation_of_Hob%27s_Barrow"
+    }
+  ],
+  "storyYears": [],
+  "routes": [
+    {
+      "id": "thomasina",
+      "name": "Thomasina Bateman",
+      "characters": [
+        "Thomasina Bateman"
+      ],
+      "stops": [
+        "ticehurst-house-hospital-east-sussex-england-uk",
+        "england-uk",
+        "hob-hursts-house-derbyshire-england-uk",
+        "ticehurst-house-hospital-east-sussex-england-uk"
+      ],
+      "note": "From a room at Ticehurst House back to the excavation at Bewlay and beneath the barrow, and back to the asylum.",
+      "source": "https://www.walkthroughking.com/text/excavationofhobsbarrow.aspx"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "st-vitus-cathedral-prague-czech-republic",
+  "name": "St. Vitus Cathedral, Prague, Czech Republic",
+  "position": {
+    "lat": 50.0908,
+    "lon": 14.4006
+  },
+  "scale": "site",
+  "parentId": "prague-czech-republic",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/St._Vitus_Cathedral",
+  "description": "The Gothic cathedral inside Prague Castle, where the Bohemian crown jewels are kept behind a door with seven locks.",
+  "descriptionSource": "wikipedia"
+}

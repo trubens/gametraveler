@@ -1,0 +1,13 @@
+{
+  "id": "newburyport-massachusetts-usa",
+  "name": "Newburyport, Massachusetts, USA",
+  "scale": "area",
+  "position": {
+    "lat": 42.8126,
+    "lon": -70.8773
+  },
+  "parentId": "massachusetts-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Newburyport,_Massachusetts",
+  "description": "A small coastal city in Essex County."
+}

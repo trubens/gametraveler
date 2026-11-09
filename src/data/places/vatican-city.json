@@ -1,0 +1,12 @@
+{
+  "id": "vatican-city",
+  "name": "Vatican City",
+  "position": {
+    "lat": 41.9029,
+    "lon": 12.4534
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vatican_City",
+  "description": "The papal city-state enclosed within Rome, the smallest sovereign state in the world and the seat of the Catholic Church."
+}

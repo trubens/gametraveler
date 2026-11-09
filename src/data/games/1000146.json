@@ -1,0 +1,25 @@
+{
+  "id": 1000146,
+  "name": "Kathy Rain",
+  "year": 2016,
+  "publisher": "Raw Fury",
+  "developer": "Clifftop Games",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Kathy_Rain",
+  "reviewed": "2026-11-06",
+  "locations": [
+    {
+      "placeId": "united-states",
+      "aliases": [
+        "Conwell Springs"
+      ],
+      "settingType": "fictionalized",
+      "note": "Journalism student Kathy Rain comes home to Conwell Springs for her grandfather Joseph's funeral and digs into the incident that left him in a vegetative state, which leads her to a painter who drowned in 1975, a cult at the Church of the Holy Trinity and a pit in Conwell Woods."
+    }
+  ],
+  "storyYears": [
+    1995
+  ]
+}

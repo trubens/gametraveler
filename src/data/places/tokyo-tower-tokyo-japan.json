@@ -1,0 +1,14 @@
+{
+  "id": "tokyo-tower-tokyo-japan",
+  "name": "Tokyo Tower, Tokyo, Japan",
+  "position": {
+    "lat": 35.6586,
+    "lon": 139.7456
+  },
+  "scale": "site",
+  "parentId": "tokyo-japan",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tokyo_Tower",
+  "description": "The red-and-white lattice tower of 1958 in Shiba Park, the city's Eiffel.",
+  "descriptionSource": "wikipedia"
+}

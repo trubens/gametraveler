@@ -1,0 +1,16 @@
+{
+  "id": "ambarino-fictionalized-mountain-west",
+  "name": "Ambarino, Mountain West, USA",
+  "position": {
+    "lat": 43,
+    "lon": -108
+  },
+  "scale": "area",
+  "placeType": "natural_feature",
+  "fictional": true,
+  "aliases": [
+    "Ambarino (fictionalized mountain West)"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rocky_Mountains",
+  "description": "An invented snowbound northern state modelled on the Rocky Mountains of Montana, Wyoming and Colorado. Pinned in the Wyoming Rockies."
+}

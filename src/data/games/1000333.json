@@ -1,0 +1,36 @@
+{
+  "id": 1000333,
+  "name": "Vampire: The Masquerade – Bloodlines 2",
+  "year": 2025,
+  "aliases": [
+    "Bloodlines 2"
+  ],
+  "series": "Vampire: The Masquerade",
+  "developer": "The Chinese Room",
+  "publisher": "Paradox Interactive",
+  "genres": [
+    "RPG"
+  ],
+  "storyYears": [
+    2025
+  ],
+  "source": "https://en.wikipedia.org/wiki/Vampire:_The_Masquerade_%E2%80%93_Bloodlines_2",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "seattle-usa",
+      "note": "The elder vampire Phyre wakes in a Seattle buried in a historic snowstorm, an open city of five districts seen through vampire eyes, taller and darker than the real one.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "pioneer-square-seattle-usa",
+      "note": "Pioneer Square, one of the real landmarks condensed into the game's Seattle.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "volunteer-park-seattle-usa",
+      "note": "Volunteer Park on Capitol Hill, another of the condensed landmarks.",
+      "settingType": "fictionalized"
+    }
+  ]
+}

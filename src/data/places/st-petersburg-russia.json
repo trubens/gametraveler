@@ -1,0 +1,13 @@
+{
+  "id": "st-petersburg-russia",
+  "name": "St. Petersburg, Russia",
+  "position": {
+    "lat": 59.9343,
+    "lon": 30.3351
+  },
+  "scale": "area",
+  "parentId": "russia",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Saint_Petersburg",
+  "description": "Russia's second city after Moscow."
+}

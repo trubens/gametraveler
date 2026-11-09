@@ -1,0 +1,52 @@
+{
+  "id": 9,
+  "name": "L.A. Noire",
+  "year": 2011,
+  "publisher": "Rockstar Games",
+  "developer": "Team Bondi",
+  "locations": [
+    {
+      "placeId": "los-angeles-usa",
+      "note": "Detective Cole Phelps rises through the LAPD in a meticulously recreated 1947 Los Angeles, with thirty real landmarks to find from Union Station to Grauman's."
+    },
+    {
+      "placeId": "union-station-los-angeles-usa",
+      "note": "Phelps can drive past Union Station and log it as one of the city's landmarks.",
+      "source": "https://strategywiki.org/wiki/L.A._Noire/Landmarks"
+    },
+    {
+      "placeId": "bradbury-building-los-angeles-usa",
+      "note": "The Bradbury Building's iron atrium is among the thirty landmarks of the 1947 city.",
+      "source": "https://strategywiki.org/wiki/L.A._Noire/Landmarks"
+    },
+    {
+      "placeId": "angels-flight-los-angeles-usa",
+      "note": "Angels Flight still runs up Bunker Hill in the game's 1947, a landmark to find.",
+      "source": "https://strategywiki.org/wiki/L.A._Noire/Landmarks"
+    },
+    {
+      "placeId": "pershing-square-los-angeles-usa",
+      "note": "Pershing Square, with its wartime lawns, is one of the downtown landmarks.",
+      "source": "https://strategywiki.org/wiki/L.A._Noire/Landmarks"
+    },
+    {
+      "placeId": "graumans-chinese-theatre-los-angeles-usa",
+      "note": "Grauman's Chinese Theatre anchors the Hollywood cases.",
+      "source": "https://strategywiki.org/wiki/L.A._Noire/Landmarks"
+    },
+    {
+      "placeId": "los-angeles-central-library-usa",
+      "note": "The Central Library's pyramid tower is one of the landmarks on Phelps's beat.",
+      "source": "https://strategywiki.org/wiki/L.A._Noire/Landmarks"
+    }
+  ],
+  "storyYears": [
+    1947
+  ],
+  "source": "https://en.wikipedia.org/wiki/L.A._Noire",
+  "developerUrl": "https://en.wikipedia.org/wiki/Team_Bondi",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Rockstar_Games",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

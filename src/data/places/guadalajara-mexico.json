@@ -1,0 +1,14 @@
+{
+  "id": "guadalajara-mexico",
+  "name": "Guadalajara, Mexico",
+  "position": {
+    "lat": 20.6767,
+    "lon": -103.3475
+  },
+  "scale": "area",
+  "parentId": "mexico",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Guadalajara",
+  "description": "The capital of Jalisco and Mexico's second city, home of mariachi and tequila country.",
+  "descriptionSource": "wikipedia"
+}

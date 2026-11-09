@@ -1,0 +1,17 @@
+{
+  "id": "megara-greece",
+  "name": "Megara, Greece",
+  "position": {
+    "lat": 37.9964,
+    "lon": 23.3444
+  },
+  "scale": "area",
+  "parentId": "greece",
+  "placeType": "city",
+  "aliases": [
+    "Megaris"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Megara",
+  "description": "The old city on the isthmus between Attica and Corinth, the heart of ancient Megaris.",
+  "descriptionSource": "wikipedia"
+}

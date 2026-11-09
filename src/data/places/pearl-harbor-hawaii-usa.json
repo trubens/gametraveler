@@ -1,0 +1,13 @@
+{
+  "id": "pearl-harbor-hawaii-usa",
+  "name": "Pearl Harbor, Hawaii, USA",
+  "position": {
+    "lat": 21.3679,
+    "lon": -157.9771
+  },
+  "scale": "area",
+  "parentId": "hawaii-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pearl_Harbor",
+  "description": "A lagoon harbour on the south coast of Oʻahu, just west of Honolulu in Hawaii."
+}

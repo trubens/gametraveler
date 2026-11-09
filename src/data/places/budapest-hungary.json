@@ -1,0 +1,13 @@
+{
+  "id": "budapest-hungary",
+  "name": "Budapest, Hungary",
+  "position": {
+    "lat": 47.4979,
+    "lon": 19.0402
+  },
+  "scale": "area",
+  "parentId": "hungary",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Budapest",
+  "description": "The Hungarian capital and the country's largest city."
+}

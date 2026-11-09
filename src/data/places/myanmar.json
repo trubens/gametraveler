@@ -1,0 +1,12 @@
+{
+  "id": "myanmar",
+  "name": "Myanmar",
+  "position": {
+    "lat": 21.92,
+    "lon": 95.96
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Myanmar",
+  "description": "A country in north-western Southeast Asia, also known as Burma, and the largest in mainland Southeast Asia."
+}

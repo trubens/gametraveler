@@ -1,0 +1,14 @@
+{
+  "id": "naivasha-kenya",
+  "name": "Naivasha, Kenya",
+  "position": {
+    "lat": -0.7202,
+    "lon": 36.4285
+  },
+  "scale": "area",
+  "parentId": "kenya",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Naivasha",
+  "description": "A lakeside town in the Rift Valley north-west of Nairobi, the home of the Safari Rally since 2021.",
+  "descriptionSource": "wikipedia"
+}

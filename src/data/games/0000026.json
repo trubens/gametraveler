@@ -1,0 +1,36 @@
+{
+  "id": 26,
+  "name": "Shenmue II",
+  "year": 2001,
+  "publisher": "Sega",
+  "series": "Shenmue",
+  "developer": "SEGA AM2",
+  "locations": [
+    {
+      "placeId": "hong-kong-china",
+      "note": "Ryo Hazuki arrives in Hong Kong in 1987 pursuing his father's killer, Lan Di."
+    },
+    {
+      "placeId": "guilin-china",
+      "note": "Ryo's journey ends among the karst hills of Guilin, in the village of Bailu."
+    },
+    {
+      "placeId": "wan-chai-hong-kong",
+      "note": "Ryo lands in Wan Chai in 1987 and starts his search among its markets and martial-arts halls."
+    },
+    {
+      "placeId": "kowloon-walled-city-hong-kong",
+      "note": "Zhu Yuanda hides from the Chi You Men inside the Walled City, where Ryo and Ren go looking for him."
+    }
+  ],
+  "storyYears": [
+    1987
+  ],
+  "source": "https://en.wikipedia.org/wiki/Shenmue_II",
+  "route": true,
+  "developerUrl": "https://en.wikipedia.org/wiki/Sega_AM2",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
+  "genres": [
+    "Adventure"
+  ]
+}

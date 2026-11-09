@@ -1,0 +1,13 @@
+{
+  "id": "stalingrad-volgograd-russia",
+  "name": "Stalingrad (Volgograd), Russia",
+  "position": {
+    "lat": 48.708,
+    "lon": 44.5133
+  },
+  "scale": "area",
+  "parentId": "russia",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volgograd",
+  "description": "A Russian city that has borne three names."
+}

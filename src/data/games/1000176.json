@@ -1,0 +1,45 @@
+{
+  "id": 1000176,
+  "name": "Dracula: Resurrection",
+  "year": 1999,
+  "series": "Dracula",
+  "developer": "Index+",
+  "publisher": "Index+",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Dracula:_Resurrection",
+  "reviewed": "2026-11-02",
+  "locations": [
+    {
+      "placeId": "tihuta-pass-romania",
+      "note": "Seven years after Dracula was killed in an ambush at the pass, Jonathan Harker stops at the Borgo Pass Inn looking for Mina, digs up the Dragon Ring in the village cemetery and goes down an old mine toward the castle.",
+      "source": "https://en.wikipedia.org/wiki/Dracula:_Resurrection"
+    },
+    {
+      "placeId": "castle-dracula-romania",
+      "settingType": "fictionalized",
+      "note": "Jonathan explores the castle with the witch Dorko's help, is betrayed by her in the attic and escapes with Mina in Dracula's ornithopter.",
+      "source": "https://en.wikipedia.org/wiki/Dracula:_Resurrection"
+    }
+  ],
+  "storyYears": [
+    1897,
+    1904
+  ],
+  "routes": [
+    {
+      "id": "harker-resurrection",
+      "name": "Jonathan Harker",
+      "characters": [
+        "Jonathan Harker"
+      ],
+      "stops": [
+        "tihuta-pass-romania",
+        "castle-dracula-romania"
+      ],
+      "note": "From the Borgo Pass Inn through the mines into Dracula's castle.",
+      "source": "https://en.wikipedia.org/wiki/Dracula:_Resurrection"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "gaberoun-libya",
+  "name": "Gaberoun, Libya",
+  "position": {
+    "lat": 26.8031,
+    "lon": 13.5353
+  },
+  "scale": "area",
+  "parentId": "libya",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gaberoun",
+  "description": "An oasis lake in the Sahara of south-west Libya."
+}

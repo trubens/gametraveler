@@ -1,0 +1,22 @@
+{
+  "id": 1000202,
+  "name": "The Next BIG Thing",
+  "year": 2011,
+  "developer": "Pendulo Studios",
+  "publisher": "Focus Home Interactive",
+  "locations": [
+    {
+      "placeId": "los-angeles-usa",
+      "note": "The alternate-history monster-movie story is set in Hollywood.",
+      "source": "https://en.wikipedia.org/wiki/The_Next_Big_Thing_(video_game)"
+    }
+  ],
+  "storyYears": [
+    1940,
+    1949
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Next_Big_Thing_(video_game)",
+  "genres": [
+    "Adventure"
+  ]
+}

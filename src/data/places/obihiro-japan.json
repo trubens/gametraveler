@@ -1,0 +1,13 @@
+{
+  "id": "obihiro-japan",
+  "name": "Obihiro, Japan",
+  "position": {
+    "lat": 42.92,
+    "lon": 143.2
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Obihiro",
+  "description": "A city of the Tokachi district in the east of Hokkaidō, Japan's northern island."
+}

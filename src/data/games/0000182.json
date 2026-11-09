@@ -1,0 +1,23 @@
+{
+  "id": 182,
+  "name": "Tom Clancy's Rainbow Six: Vegas",
+  "year": 2006,
+  "publisher": "Ubisoft",
+  "series": "Rainbow Six",
+  "developer": "Ubisoft Montreal",
+  "locations": [
+    {
+      "placeId": "las-vegas-usa",
+      "note": "Team Rainbow battles terrorist Irena Morales's forces through the casinos and landmarks of the Strip."
+    }
+  ],
+  "storyYears": [
+    2010
+  ],
+  "source": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_Rainbow_Six:_Vegas",
+  "developerUrl": "https://en.wikipedia.org/wiki/Ubisoft_Montreal",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Tactical Shooter"
+  ]
+}

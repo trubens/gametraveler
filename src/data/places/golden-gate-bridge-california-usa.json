@@ -1,0 +1,13 @@
+{
+  "id": "golden-gate-bridge-california-usa",
+  "name": "Golden Gate Bridge, San Francisco, USA",
+  "position": {
+    "lat": 37.8199,
+    "lon": -122.4783
+  },
+  "scale": "site",
+  "parentId": "san-francisco-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge",
+  "description": "The suspension bridge across the Golden Gate, the mile-wide strait joining San Francisco Bay to the Pacific."
+}

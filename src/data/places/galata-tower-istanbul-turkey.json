@@ -1,0 +1,14 @@
+{
+  "id": "galata-tower-istanbul-turkey",
+  "name": "Galata Tower, Istanbul, Turkey",
+  "position": {
+    "lat": 41.0256,
+    "lon": 28.9744
+  },
+  "scale": "site",
+  "parentId": "istanbul-turkey",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Galata_Tower",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Galata_Tower",
+  "description": "The tower that rises over the Galata neighbourhood in Istanbul's Beyoğlu district, now open as a museum."
+}

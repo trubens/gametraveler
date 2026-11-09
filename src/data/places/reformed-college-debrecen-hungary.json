@@ -1,0 +1,18 @@
+{
+  "id": "reformed-college-debrecen-hungary",
+  "name": "Reformed College, Debrecen, Hungary",
+  "position": {
+    "lat": 47.5342,
+    "lon": 21.6264
+  },
+  "scale": "site",
+  "parentId": "debrecen-hungary",
+  "placeType": "landmark",
+  "aliases": [
+    "Debreceni Református Kollégium",
+    "Great Library of the Reformed College"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Debrecen_Reformed_College",
+  "description": "The Calvinist college on Kálvin tér, founded in 1538, whose Great Library and oratory stand behind the Great Church.",
+  "descriptionSource": "wikipedia"
+}

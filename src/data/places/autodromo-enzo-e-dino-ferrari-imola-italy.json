@@ -1,0 +1,13 @@
+{
+  "id": "autodromo-enzo-e-dino-ferrari-imola-italy",
+  "name": "Autodromo Enzo e Dino Ferrari, Imola, Italy",
+  "position": {
+    "lat": 44.344,
+    "lon": 11.716
+  },
+  "scale": "site",
+  "parentId": "italy",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Imola_Circuit",
+  "description": "The Imola motor racing circuit in Emilia-Romagna, east of Bologna, named for Enzo and Dino Ferrari."
+}

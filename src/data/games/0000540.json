@@ -1,0 +1,18 @@
+{
+  "id": 540,
+  "name": "Stilstand",
+  "year": 2020,
+  "publisher": "Niila Games",
+  "developer": "Niila Games",
+  "storyYears": [],
+  "source": "https://niila.io/stilstand/presskit/",
+  "locations": [
+    {
+      "placeId": "copenhagen-denmark",
+      "note": "An interactive graphic novel following a young woman through a lonely summer in Copenhagen, with the city and her apartment shaping the story."
+    }
+  ],
+  "genres": [
+    "Visual Novel"
+  ]
+}

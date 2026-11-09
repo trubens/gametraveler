@@ -1,0 +1,14 @@
+{
+  "id": "alang-india",
+  "name": "Alang, India",
+  "position": {
+    "lat": 21.3975,
+    "lon": 72.1775
+  },
+  "scale": "area",
+  "parentId": "india",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alang",
+  "description": "A town on the Gujarat coast whose beaches are the world's largest ship-breaking yard.",
+  "descriptionSource": "wikipedia"
+}

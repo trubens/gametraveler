@@ -1,0 +1,20 @@
+{
+  "id": 202,
+  "name": "The Crew Motorfest",
+  "year": 2023,
+  "publisher": "Ubisoft",
+  "series": "The Crew",
+  "developer": "Ivory Tower",
+  "locations": [
+    {
+      "placeId": "o-ahu-hawaii-usa",
+      "note": "A scaled-down Oʻahu, from Honolulu to the North Shore, hosts the Motorfest racing festival."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/The_Crew_Motorfest",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Racing"
+  ]
+}

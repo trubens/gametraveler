@@ -1,0 +1,13 @@
+{
+  "id": "interlagos-circuit-sao-paulo-brazil",
+  "name": "Interlagos Circuit, São Paulo, Brazil",
+  "position": {
+    "lat": -23.7036,
+    "lon": -46.6997
+  },
+  "scale": "site",
+  "parentId": "sao-paulo-brazil",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Interlagos_Circuit",
+  "description": "A motorsport circuit inside the city of São Paulo, officially named for José Carlos Pace but known to everyone as Interlagos."
+}

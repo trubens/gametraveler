@@ -1,0 +1,12 @@
+{
+  "id": "china",
+  "name": "China",
+  "position": {
+    "lat": 35.8617,
+    "lon": 104.1954
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/China",
+  "description": "The vast country of East Asia, made up of more than thirty provinces and regions, including two special administrative regions."
+}

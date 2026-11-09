@@ -1,0 +1,40 @@
+{
+  "id": 1000188,
+  "name": "Hidden: On the Trail of the Ancients",
+  "year": 2015,
+  "developer": "Lost Spell",
+  "publisher": "Lost Spell",
+  "locations": [
+    {
+      "placeId": "buenos-aires-argentina",
+      "note": "Chapter 1 takes place in Buenos Aires in 1934.",
+      "source": "https://rawg.io/games/hidden-on-the-trail-of-the-ancients"
+    },
+    {
+      "placeId": "patagonia-argentina",
+      "note": "Chapter 2 moves to the expedition's camp in Patagonia.",
+      "source": "https://lubiegrac.pl/poradnik/hidden-on-the-trail-of-the-ancients"
+    }
+  ],
+  "routes": [
+    {
+      "id": "thomas-expedition",
+      "name": "Thomas's investigation",
+      "characters": [
+        "Thomas Farrell"
+      ],
+      "stops": [
+        "buenos-aires-argentina",
+        "patagonia-argentina"
+      ],
+      "source": "https://lubiegrac.pl/poradnik/hidden-on-the-trail-of-the-ancients"
+    }
+  ],
+  "storyYears": [
+    1934
+  ],
+  "source": "https://rawg.io/games/hidden-on-the-trail-of-the-ancients",
+  "genres": [
+    "Adventure"
+  ]
+}

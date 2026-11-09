@@ -1,0 +1,12 @@
+{
+  "id": "goodwood-hillclimb-west-sussex-uk",
+  "name": "Goodwood Hillclimb, West Sussex, UK",
+  "position": {
+    "lat": 50.86,
+    "lon": -0.759
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Goodwood_Festival_of_Speed",
+  "description": "The 1.86-kilometre hillclimb through the Goodwood House estate in West Sussex, run every summer at the Festival of Speed since 1993, past the house and up to the top of the downs."
+}

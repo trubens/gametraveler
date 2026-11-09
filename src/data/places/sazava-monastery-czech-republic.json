@@ -1,0 +1,17 @@
+{
+  "id": "sazava-monastery-czech-republic",
+  "name": "Sázava Monastery, Czech Republic",
+  "position": {
+    "lat": 49.8761,
+    "lon": 14.8981
+  },
+  "scale": "site",
+  "parentId": "sazava-czech-republic",
+  "placeType": "landmark",
+  "aliases": [
+    "Sasau Monastery"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sázava_Monastery",
+  "description": "The Benedictine abbey founded around 1032 by St Procopius on the Sázava, a centre of Slavonic liturgy.",
+  "descriptionSource": "wikipedia"
+}

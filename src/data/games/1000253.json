@@ -1,0 +1,21 @@
+{
+  "id": 1000253,
+  "name": "Face Noir",
+  "year": 2012,
+  "developer": "Mad Orange",
+  "publisher": "Daedalic Entertainment / Phoenix Online Publishing",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    1934
+  ],
+  "source": "https://www.games-guide.de/games/face-noir/",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Private detective Jack Del Nero investigates a murder and protects a young girl in Depression-era New York, in 1934.",
+      "source": "https://store.postudios.com/products/face-noir"
+    }
+  ]
+}

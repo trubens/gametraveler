@@ -1,0 +1,58 @@
+{
+  "id": 400,
+  "name": "Sherlock Holmes Versus Jack the Ripper",
+  "year": 2009,
+  "series": "Sherlock Holmes",
+  "developer": "Frogwares / Spiders (X360)",
+  "publisher": "Frogwares / Focus Home Interactive",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "Autumn 1888: Holmes and Watson follow the Whitechapel murders scene by scene through London's East End."
+    },
+    {
+      "placeId": "221b-baker-street-london-uk",
+      "note": "Holmes reconstructs each murder at Baker Street, down to a clay model of Mary Jane Kelly's body."
+    },
+    {
+      "placeId": "whitechapel-london-uk",
+      "note": "The murders of Nichols, Chapman, Stride, Eddowes and Kelly are examined where they happened, and the trail ends at a butcher's on Middlesex Street."
+    },
+    {
+      "placeId": "hanbury-street-london-uk",
+      "note": "The yard of 29 Hanbury Street, where Annie Chapman was found."
+    },
+    {
+      "placeId": "mitre-square-london-uk",
+      "note": "Mitre Square, where Catherine Eddowes was killed."
+    }
+  ],
+  "storyYears": [
+    1888
+  ],
+  "source": "https://en.wikipedia.org/wiki/Sherlock_Holmes_Versus_Jack_the_Ripper",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "holmes",
+      "name": "Sherlock Holmes and Dr. Watson",
+      "characters": [
+        "Sherlock Holmes",
+        "Dr. Watson"
+      ],
+      "stops": [
+        "221b-baker-street-london-uk",
+        "whitechapel-london-uk",
+        "hanbury-street-london-uk",
+        "mitre-square-london-uk",
+        "221b-baker-street-london-uk",
+        "whitechapel-london-uk"
+      ],
+      "note": "Through the autumn of 1888 Holmes follows the Ripper from murder scene to murder scene across the East End, rebuilds Mary Jane Kelly's death at Baker Street and finds the killer in a butcher's home off Middlesex Street.",
+      "source": "https://en.wikipedia.org/wiki/Sherlock_Holmes_Versus_Jack_the_Ripper"
+    }
+  ]
+}

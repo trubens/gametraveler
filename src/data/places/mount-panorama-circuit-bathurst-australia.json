@@ -1,0 +1,13 @@
+{
+  "id": "mount-panorama-circuit-bathurst-australia",
+  "name": "Mount Panorama Circuit, Bathurst, Australia",
+  "position": {
+    "lat": -33.446,
+    "lon": 149.557
+  },
+  "scale": "site",
+  "parentId": "australia",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mount_Panorama_Circuit",
+  "description": "A motor racing track at Bathurst in New South Wales, Australia, laid out over the slopes of Mount Panorama."
+}

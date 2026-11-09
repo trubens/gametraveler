@@ -1,0 +1,14 @@
+{
+  "id": "aberdeen-hong-kong",
+  "name": "Aberdeen, Hong Kong",
+  "position": {
+    "lat": 22.2478,
+    "lon": 114.1517
+  },
+  "scale": "site",
+  "parentId": "hong-kong-china",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aberdeen,_Hong_Kong",
+  "description": "A harbour town on the south side of Hong Kong Island, known for its floating restaurants and fishing fleet.",
+  "descriptionSource": "wikipedia"
+}

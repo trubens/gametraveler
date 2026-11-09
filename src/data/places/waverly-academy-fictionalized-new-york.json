@@ -1,0 +1,18 @@
+{
+  "id": "waverly-academy-fictionalized-new-york",
+  "name": "Waverly Academy, New York",
+  "position": {
+    "lat": 44.2856,
+    "lon": -73.9853
+  },
+  "scale": "area",
+  "placeType": "landmark",
+  "fictional": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lake_Placid,_New_York",
+  "description": "An invented girls' boarding school in upstate New York, which the Nancy Drew games place near Lake Placid in the Adirondacks; pinned at Lake Placid.",
+  "source": "https://nancydrew.fandom.com/wiki/Waverly_Academy",
+  "aliases": [
+    "Averyville",
+    "Waverly Academy"
+  ]
+}

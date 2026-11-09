@@ -1,0 +1,52 @@
+{
+  "id": 361,
+  "name": "Need for Speed: Shift",
+  "year": 2009,
+  "series": "Need for Speed",
+  "developer": "Slightly Mad Studios",
+  "publisher": "Electronic Arts",
+  "locations": [
+    {
+      "placeId": "brands-hatch-uk",
+      "note": "Career mode opens with two laps of Brands Hatch, which the game uses to judge your skill before entering you in the NFS Live World Series."
+    },
+    {
+      "placeId": "nurburgring-nordschleife-germany",
+      "note": "The grueling 20 km Nordschleife hosts a three-lap race in the Endurance event that closes Tier 3 of the career."
+    },
+    {
+      "placeId": "road-america-wisconsin-usa",
+      "note": "Shift marked the circuit's first appearance in any Need for Speed game."
+    },
+    {
+      "placeId": "circuit-de-spa-francorchamps-belgium",
+      "note": "The Spa GP course opens the Europe vs Japan career event and returns in the late Tier 4 and World Tour races."
+    },
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "Raced in GP, International and National layouts, with the GP circuit used in the Europe vs Japan career event."
+    },
+    {
+      "placeId": "willow-springs-international-raceway-california-usa",
+      "note": "Raced on the main circuit and on the tight one-mile Horse Thief Mile layout."
+    },
+    {
+      "placeId": "donington-park-uk",
+      "note": "Absent from EA's pre-launch list of 18 tracks but in the final game, which also has a point-to-point drift layout here."
+    },
+    {
+      "placeId": "autopolis-japan",
+      "note": "Raced as the full GP course and the short Lakeside layout, both used in the Tier 3 Time Attack Series III."
+    },
+    {
+      "placeId": "laguna-seca-california-usa",
+      "note": "Appears under its then sponsored name, Mazda Raceway Laguna Seca, one of the real circuits on EA's launch track list."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Need_for_Speed:_Shift",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

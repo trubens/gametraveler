@@ -1,0 +1,14 @@
+{
+  "id": "keswick-england-uk",
+  "name": "Keswick, England, UK",
+  "position": {
+    "lat": 54.6008,
+    "lon": -3.1375
+  },
+  "scale": "area",
+  "parentId": "lake-district-uk",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Keswick,_Cumbria",
+  "description": "A market town at the head of Derwentwater in the northern Lake District.",
+  "descriptionSource": "wikipedia"
+}

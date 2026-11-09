@@ -1,0 +1,12 @@
+{
+  "id": "cornwall-england",
+  "name": "Cornwall, England",
+  "position": {
+    "lat": 50.266,
+    "lon": -5.0527
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cornwall",
+  "description": "The far south-western county of England, one of the Celtic nations and homeland of the Cornish people."
+}

@@ -1,0 +1,47 @@
+{
+  "id": 341,
+  "name": "TOCA 2: Touring Cars",
+  "year": 1998,
+  "series": "TOCA Race Driver",
+  "developer": "Codemasters",
+  "publisher": "Codemasters",
+  "locations": [
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "In the 1998 BTCC season the game recreates, Silverstone's International layout hosted round 2 and the round 13 finale."
+    },
+    {
+      "placeId": "thruxton-circuit-uk",
+      "note": "Opened the 1998 BTCC season the game recreates with round 1 in April, and returned for round 9 in August."
+    },
+    {
+      "placeId": "donington-park-uk",
+      "note": "The 1998 BTCC season the game recreates held two meetings here on the National layout, rounds 3 and 6."
+    },
+    {
+      "placeId": "brands-hatch-uk",
+      "note": "The 1998 BTCC season the game recreates raced the Indy layout twice, in rounds 4 and 11."
+    },
+    {
+      "placeId": "oulton-park-uk",
+      "note": "The 1998 BTCC season the game recreates came here twice, using the Fosters layout for rounds 5 and 12."
+    },
+    {
+      "placeId": "croft-circuit-uk",
+      "note": "Hosted round 7 of the 1998 BTCC season the game recreates, the championship's only visit here that year."
+    },
+    {
+      "placeId": "snetterton-circuit-uk",
+      "note": "Hosted round 8 of the 1998 BTCC season the game recreates, a single July meeting."
+    },
+    {
+      "placeId": "knockhill-racing-circuit-scotland",
+      "note": "Hosted round 10 of the 1998 BTCC season the game recreates, the championship's only Scottish round."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/TOCA_2:_Touring_Cars",
+  "genres": [
+    "Racing"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "epping-forest-england-uk",
+  "name": "Epping Forest, England, UK",
+  "position": {
+    "lat": 51.66,
+    "lon": 0.05
+  },
+  "scale": "site",
+  "parentId": "england-uk",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Epping_Forest",
+  "description": "An ancient woodland on the edge of north-east London, kept as open space since 1878.",
+  "descriptionSource": "wikipedia"
+}

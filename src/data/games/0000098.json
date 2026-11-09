@@ -1,0 +1,21 @@
+{
+  "id": 98,
+  "name": "Anacapri: The Dream",
+  "year": 2007,
+  "publisher": "Got Game Entertainment",
+  "developer": "S&G Software",
+  "locations": [
+    {
+      "placeId": "anacapri-capri-italy",
+      "note": "Set in Anacapri, Capri's upper town, mixing myth, literature and sci-fi over 2,700 photographic screens."
+    }
+  ],
+  "storyYears": [
+    2007
+  ],
+  "source": "https://en.wikipedia.org/wiki/Capri_(series)",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Got_Game_Entertainment",
+  "genres": [
+    "Adventure"
+  ]
+}

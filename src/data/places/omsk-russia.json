@@ -1,0 +1,14 @@
+{
+  "id": "omsk-russia",
+  "name": "Omsk, Russia",
+  "position": {
+    "lat": 54.9893,
+    "lon": 73.3686
+  },
+  "scale": "area",
+  "parentId": "russia",
+  "source": "https://en.wikipedia.org/wiki/Omsk",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Omsk",
+  "placeType": "city",
+  "description": "The largest city of Omsk Oblast."
+}

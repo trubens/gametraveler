@@ -1,0 +1,19 @@
+{
+  "id": 500,
+  "name": "Midtown Madness",
+  "year": 1999,
+  "series": "Midtown Madness",
+  "developer": "Angel Studios",
+  "publisher": "Microsoft",
+  "locations": [
+    {
+      "placeId": "chicago-usa",
+      "note": "Players race through a recognizable Chicago with landmarks including the Loop and Wrigley Field."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Midtown_Madness",
+  "genres": [
+    "Racing"
+  ]
+}

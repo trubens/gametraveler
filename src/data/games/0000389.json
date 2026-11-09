@@ -1,0 +1,19 @@
+{
+  "id": 389,
+  "name": "Colin McRae Rally 2005",
+  "year": 2004,
+  "series": "Colin McRae Rally",
+  "developer": "Codemasters",
+  "publisher": "Codemasters / N-Gage / Nokia / Mac OS X / Feral Interactive",
+  "locations": [
+    {
+      "placeId": "finland",
+      "note": "Players race rally stages through Finnish forest scenery."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Colin_McRae_Rally_2005",
+  "genres": [
+    "Racing"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "gazala-libya",
+  "name": "Gazala, Libya",
+  "position": {
+    "lat": 32.1453,
+    "lon": 23.3575
+  },
+  "scale": "area",
+  "parentId": "libya",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gazala",
+  "description": "A small coastal village in eastern Libya, the front line of the 1942 desert battle."
+}

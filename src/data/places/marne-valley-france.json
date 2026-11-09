@@ -1,0 +1,17 @@
+{
+  "id": "marne-valley-france",
+  "name": "Marne valley, France",
+  "position": {
+    "lat": 49.0772,
+    "lon": 3.6403
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Second Battle of the Marne",
+    "Marne"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marne_(river)",
+  "description": "The valley of the Marne between Château-Thierry and Épernay east of Paris, where the last great German offensive of the First World War was stopped in July 1918."
+}

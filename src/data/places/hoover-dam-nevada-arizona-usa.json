@@ -1,0 +1,12 @@
+{
+  "id": "hoover-dam-nevada-arizona-usa",
+  "name": "Hoover Dam, Nevada-Arizona, USA",
+  "position": {
+    "lat": 36.0161,
+    "lon": -114.7377
+  },
+  "scale": "site",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hoover_Dam",
+  "description": "A great concrete arch-gravity dam across the Black Canyon of the Colorado River, on the line between Nevada and Arizona."
+}

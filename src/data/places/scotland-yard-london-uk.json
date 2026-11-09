@@ -1,0 +1,14 @@
+{
+  "id": "scotland-yard-london-uk",
+  "name": "Scotland Yard, London, UK",
+  "position": {
+    "lat": 51.5027,
+    "lon": -0.124
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Scotland_Yard",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Scotland_Yard",
+  "description": "The headquarters of the Metropolitan Police, the force that patrols the boroughs of Greater London."
+}

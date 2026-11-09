@@ -1,0 +1,19 @@
+{
+  "id": 355,
+  "name": "GTR – FIA GT Racing Game",
+  "year": 2004,
+  "series": "GTR",
+  "developer": "Simbin Studios AB",
+  "publisher": "10tacle Publishing",
+  "locations": [
+    {
+      "placeId": "circuit-de-spa-francorchamps-belgium",
+      "note": "The FIA GT championship includes races on Spa-Francorchamps."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/GTR_%E2%80%93_FIA_GT_Racing_Game",
+  "genres": [
+    "Racing"
+  ]
+}

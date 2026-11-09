@@ -1,0 +1,15 @@
+{
+  "id": "matmata-tunisia",
+  "name": "Matmata, Tunisia",
+  "position": {
+    "lat": 33.5426,
+    "lon": 9.9668
+  },
+  "scale": "area",
+  "parentId": "tunisia",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Matmata,_Tunisia",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Matmata,_Tunisia",
+  "description": "A small Berber-speaking town in southern Tunisia, where some residents live in traditional underground troglodyte houses.",
+  "descriptionSource": "wikipedia"
+}

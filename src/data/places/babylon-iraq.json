@@ -1,0 +1,13 @@
+{
+  "id": "babylon-iraq",
+  "name": "Babylon, Iraq",
+  "position": {
+    "lat": 32.5364,
+    "lon": 44.4209
+  },
+  "scale": "area",
+  "parentId": "iraq",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Babylon",
+  "description": "An ancient city that stood on the lower Euphrates in southern Mesopotamia."
+}

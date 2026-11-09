@@ -1,0 +1,13 @@
+{
+  "id": "capri-italy",
+  "name": "Capri, Italy",
+  "position": {
+    "lat": 40.55,
+    "lon": 14.2333
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Capri",
+  "description": "An island in the Tyrrhenian Sea off the Sorrento Peninsula, on the south side of the Gulf of Naples."
+}

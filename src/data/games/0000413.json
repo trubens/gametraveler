@@ -1,0 +1,27 @@
+{
+  "id": 413,
+  "name": "The Pandora Directive",
+  "year": 1996,
+  "series": "Tex Murphy",
+  "developer": "Access Software",
+  "publisher": "Access Software",
+  "locations": [
+    {
+      "placeId": "san-francisco-usa",
+      "aliases": [
+        "Chandler Avenue",
+        "Old San Francisco"
+      ],
+      "note": "Tex Murphy investigates a conspiracy from his office on Chandler Avenue in Old San Francisco, newly cleaned up by the city in 2043.",
+      "source": "https://en.wikipedia.org/wiki/The_Pandora_Directive"
+    }
+  ],
+  "storyYears": [
+    2043
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Pandora_Directive",
+  "developerUrl": "https://en.wikipedia.org/wiki/Access_Software",
+  "genres": [
+    "Adventure"
+  ]
+}

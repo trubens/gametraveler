@@ -1,0 +1,15 @@
+{
+  "id": "sao-tome-and-principe",
+  "name": "São Tomé and Príncipe",
+  "aliases": [
+    "São Tomé and Principe"
+  ],
+  "position": {
+    "lat": 0.97,
+    "lon": 7.02
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "description": "An island country in the Gulf of Guinea off Central Africa, made up of the two islands that give it its name."
+}

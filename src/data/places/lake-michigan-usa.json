@@ -1,0 +1,14 @@
+{
+  "id": "lake-michigan-usa",
+  "name": "Lake Michigan, USA",
+  "position": {
+    "lat": 44.0,
+    "lon": -87.0
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lake_Michigan",
+  "description": "The only one of the Great Lakes wholly in the United States, with Chicago and Milwaukee on its shores.",
+  "descriptionSource": "wikipedia"
+}

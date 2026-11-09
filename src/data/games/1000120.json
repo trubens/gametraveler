@@ -1,0 +1,22 @@
+{
+  "id": 1000120,
+  "name": "The Dark Pictures Anthology: House of Ashes",
+  "year": 2021,
+  "publisher": "Bandai Namco Entertainment",
+  "series": "The Dark Pictures Anthology",
+  "developer": "Supermassive Games",
+  "locations": [
+    {
+      "placeId": "zagros-mountains-iraq",
+      "note": "In 2003, a military unit searches for weapons and uncovers a buried Sumerian temple in the Zagros Mountains."
+    }
+  ],
+  "storyYears": [
+    2000,
+    2003
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Dark_Pictures_Anthology:_House_of_Ashes",
+  "genres": [
+    "Interactive Drama"
+  ]
+}

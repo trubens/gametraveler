@@ -1,0 +1,57 @@
+{
+  "id": 408,
+  "name": "Nancy Drew: The Silent Spy",
+  "year": 2013,
+  "series": "Nancy Drew",
+  "developer": "Her Interactive",
+  "publisher": "Her Interactive",
+  "locations": [
+    {
+      "placeId": "glasgow-scotland-uk",
+      "aliases": [
+        "Cathedral"
+      ],
+      "note": "Nancy follows a package from the spy agency Cathedral to learn how her mother Kate died, and ends up defusing the Revenant cell's bomb in Cathedral's server room."
+    },
+    {
+      "placeId": "giffnock-scotland-uk",
+      "note": "Nancy drops an envelope at the Ten Raven pub.",
+      "source": "https://www.gameboomers.com/wtcheats/pcNn/ND29/ND29.htm"
+    },
+    {
+      "placeId": "bearsden-scotland-uk",
+      "note": "Nancy hides in Moira's cottage while Moira is abducted, and finds directions to a safehouse in her safe.",
+      "source": "https://www.gameboomers.com/wtcheats/pcNn/ND29/ND29.htm"
+    },
+    {
+      "placeId": "loch-lomond-scotland-uk",
+      "note": "Kate's old safehouse cabin opens into a hidden spy room holding her notes.",
+      "source": "https://www.gameboomers.com/wtcheats/pcNn/ND29/ND29.htm"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_The_Silent_Spy",
+  "reviewed": "2026-11-03",
+  "developerUrl": "https://en.wikipedia.org/wiki/HeR_Interactive",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "nancy",
+      "name": "Nancy Drew",
+      "characters": [
+        "Nancy Drew"
+      ],
+      "stops": [
+        "glasgow-scotland-uk",
+        "giffnock-scotland-uk",
+        "bearsden-scotland-uk",
+        "loch-lomond-scotland-uk",
+        "glasgow-scotland-uk"
+      ],
+      "note": "From Glasgow out to the pub in Giffnock, Moira's cottage in Bearsden and Kate's cabin on Loch Lomond, and back for the bomb.",
+      "source": "https://www.gameboomers.com/wtcheats/pcNn/ND29/ND29.htm"
+    }
+  ]
+}

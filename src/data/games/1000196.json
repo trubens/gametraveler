@@ -1,0 +1,47 @@
+{
+  "id": 1000196,
+  "name": "The Sinking City",
+  "year": 2019,
+  "series": "The Sinking City",
+  "developer": "Frogwares",
+  "publisher": "Bigben Interactive",
+  "locations": [
+    {
+      "placeId": "boston-usa",
+      "note": "Private investigator Charles Reed comes from Boston to investigate Oakmont.",
+      "source": "https://en.wikipedia.org/wiki/The_Sinking_City"
+    },
+    {
+      "placeId": "massachusetts-usa",
+      "aliases": [
+        "Oakmont"
+      ],
+      "settingType": "fictionalized",
+      "note": "Private investigator Charles Reed comes to the flooded city of Oakmont in the 1920s, looking for the source of his visions.",
+      "source": "https://blog.playstation.com/2019/06/24/5-ways-the-sinking-city-will-drain-your-sanity/"
+    }
+  ],
+  "routes": [
+    {
+      "id": "reed-to-oakmont",
+      "name": "Reed's arrival in Oakmont",
+      "characters": [
+        "Charles Reed"
+      ],
+      "stops": [
+        "boston-usa",
+        "massachusetts-usa"
+      ],
+      "source": "https://en.wikipedia.org/wiki/The_Sinking_City"
+    }
+  ],
+  "storyYears": [
+    1920,
+    1929
+  ],
+  "source": "https://www.xbox.com/en-us/games/store/The-Sinking-City/BPZ6Z3VDCVXC",
+  "genres": [
+    "Adventure",
+    "Survival Horror"
+  ]
+}

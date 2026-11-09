@@ -1,0 +1,13 @@
+{
+  "id": "damascus-syria",
+  "name": "Damascus, Syria",
+  "position": {
+    "lat": 33.513,
+    "lon": 36.2913
+  },
+  "scale": "area",
+  "parentId": "syria",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Damascus",
+  "description": "Syria's capital and largest city."
+}

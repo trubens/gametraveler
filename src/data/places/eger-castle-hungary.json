@@ -1,0 +1,14 @@
+{
+  "id": "eger-castle-hungary",
+  "name": "Eger Castle, Eger, Hungary",
+  "position": {
+    "lat": 47.9057,
+    "lon": 20.3783
+  },
+  "scale": "site",
+  "parentId": "eger-hungary",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Eger_Castle",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eger_Castle",
+  "description": "The castle of Eger in northern Hungary, remembered for repelling the Turkish attack in the siege of 1552."
+}

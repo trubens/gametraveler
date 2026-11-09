@@ -1,0 +1,14 @@
+{
+  "id": "valdez-alaska-usa",
+  "name": "Valdez, Alaska, USA",
+  "position": {
+    "lat": 61.1308,
+    "lon": -146.3483
+  },
+  "scale": "area",
+  "parentId": "alaska-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Valdez,_Alaska",
+  "description": "A small port at the head of a fjord in Prince William Sound, the terminal of the trans-Alaska oil pipeline.",
+  "descriptionSource": "wikipedia"
+}

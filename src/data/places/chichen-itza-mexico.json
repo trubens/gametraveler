@@ -1,0 +1,17 @@
+{
+  "id": "chichen-itza-mexico",
+  "name": "Chichén Itzá, Mexico",
+  "position": {
+    "lat": 20.6831,
+    "lon": -88.5686
+  },
+  "scale": "area",
+  "parentId": "mexico",
+  "placeType": "landmark",
+  "aliases": [
+    "Chichen Itza"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chichen_Itza",
+  "description": "The great Maya city of the Yucatán, with the stepped pyramid of El Castillo.",
+  "descriptionSource": "wikipedia"
+}

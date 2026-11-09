@@ -1,0 +1,23 @@
+{
+  "id": 240,
+  "name": "Mafia: The Old Country",
+  "year": 2025,
+  "publisher": "2K",
+  "series": "Mafia",
+  "developer": "Hangar 13",
+  "locations": [
+    {
+      "placeId": "sicily-italy",
+      "settingType": "fictionalized",
+      "note": "In 1904 Enzo Favara flees the sulfur mines and goes to work for Don Bernardo Torrisi's crime family in Sicily."
+    }
+  ],
+  "storyYears": [
+    1904,
+    1907
+  ],
+  "source": "https://en.wikipedia.org/wiki/Mafia:_The_Old_Country",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

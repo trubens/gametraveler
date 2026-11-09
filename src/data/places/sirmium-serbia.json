@@ -1,0 +1,13 @@
+{
+  "id": "sirmium-serbia",
+  "name": "Sirmium (Sremska Mitrovica), Serbia",
+  "position": {
+    "lat": 44.9764,
+    "lon": 19.6122
+  },
+  "scale": "area",
+  "parentId": "serbia",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sirmium",
+  "description": "A Roman city of Pannonia that stood on the Sava river."
+}

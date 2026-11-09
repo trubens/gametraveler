@@ -1,0 +1,13 @@
+{
+  "id": "la-rochelle-france",
+  "name": "La Rochelle, France",
+  "position": {
+    "lat": 46.16,
+    "lon": -1.15
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/La_Rochelle",
+  "description": "A seaport on France's Atlantic coast."
+}

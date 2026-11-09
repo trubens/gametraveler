@@ -1,0 +1,17 @@
+{
+  "id": "new-york-stock-exchange-new-york-city-usa",
+  "name": "New York Stock Exchange, New York City, USA",
+  "position": {
+    "lat": 40.7069,
+    "lon": -74.0111
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "Wall Street"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/New_York_Stock_Exchange_Building",
+  "description": "The columned exchange building on Broad Street at Wall Street.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,68 @@
+{
+  "id": 122,
+  "name": "Assassin's Creed Revelations",
+  "aliases": [
+    "AC",
+    "AC Revelations"
+  ],
+  "year": 2011,
+  "publisher": "Ubisoft",
+  "series": "Assassin's Creed",
+  "developer": "Ubisoft Montreal",
+  "locations": [
+    {
+      "placeId": "istanbul-turkey",
+      "note": "An older Ezio searches Ottoman Constantinople for the keys to Altair's sealed library."
+    },
+    {
+      "placeId": "cappadocia-turkey",
+      "note": "A substantial underground-city sequence takes place in Cappadocia."
+    },
+    {
+      "placeId": "galata-tower-istanbul-turkey",
+      "note": "The Galata Tower is one of the landmarks Ezio can renovate and climb."
+    },
+    {
+      "placeId": "hagia-sophia-istanbul-turkey",
+      "note": "Hagia Sophia hides one of the tombs Ezio explores."
+    },
+    {
+      "placeId": "topkapi-palace-istanbul-turkey",
+      "note": "The Topkapı Palace is a renovatable landmark on the Constantinople skyline."
+    },
+    {
+      "placeId": "masyaf-castle-syria",
+      "note": "Ezio starts and ends at Altaïr's old stronghold, opening the sealed library with the five keys."
+    }
+  ],
+  "storyYears": [
+    1511,
+    1512,
+    2012
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Revelations",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Ubisoft_Montreal",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "ezio-constantinople",
+      "name": "Ezio and Altaïr's library",
+      "characters": [
+        "Ezio Auditore da Firenze"
+      ],
+      "stops": [
+        "masyaf-castle-syria",
+        "istanbul-turkey",
+        "cappadocia-turkey",
+        "istanbul-turkey",
+        "masyaf-castle-syria"
+      ],
+      "note": "Masyaf, the years in Constantinople with the run into Cappadocia, and back to the library.",
+      "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Revelations"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "quang-tri-vietnam",
+  "name": "Quảng Trị, Vietnam",
+  "position": {
+    "lat": 16.75,
+    "lon": 107.0
+  },
+  "scale": "area",
+  "parentId": "vietnam",
+  "placeType": "region",
+  "aliases": [
+    "Quang Tri"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Quảng_Trị_province",
+  "description": "The northernmost province of South Vietnam, just below the demilitarized zone, fought over from 1966 to 1972.",
+  "descriptionSource": "wikipedia"
+}

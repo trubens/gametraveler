@@ -1,0 +1,64 @@
+{
+  "id": 68,
+  "name": "Grand Theft Auto",
+  "aliases": [
+    "GTA"
+  ],
+  "year": 1997,
+  "publisher": "BMG Interactive",
+  "series": "Grand Theft Auto",
+  "developer": "DMA Design",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "aliases": [
+        "Liberty City"
+      ],
+      "settingType": "fictionalized",
+      "note": "In Liberty City, the game's New York, the player starts out running jobs for Bubby Seragliano's gang and kills the rival boss Sonetti before the police close in.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_(video_game)"
+    },
+    {
+      "placeId": "san-francisco-usa",
+      "aliases": [
+        "San Andreas"
+      ],
+      "settingType": "fictionalized",
+      "note": "Lying low in San Andreas, as the first game calls its San Francisco, the player works for Uncle Fu's Chinese gang and then El Burro, who sends them on to Vice City.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_(video_game)"
+    },
+    {
+      "placeId": "miami-usa",
+      "aliases": [
+        "Vice City"
+      ],
+      "settingType": "fictionalized",
+      "note": "In Vice City, the game's Miami, the player is blackmailed by the corrupt cop Samuel Deever, runs jobs for Brother Marcus's Rastafarians and retires on the payout.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_(video_game)"
+    }
+  ],
+  "storyYears": [
+    1997
+  ],
+  "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_(video_game)",
+  "reviewed": "2026-11-02",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "player",
+      "name": "The player's career",
+      "characters": [
+        "Player character"
+      ],
+      "stops": [
+        "new-york-city-usa",
+        "san-francisco-usa",
+        "miami-usa"
+      ],
+      "note": "From the Liberty City mob to the San Andreas gangs and retirement in Vice City.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_(video_game)"
+    }
+  ]
+}

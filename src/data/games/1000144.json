@@ -1,0 +1,19 @@
+{
+  "id": 1000144,
+  "name": "Raji: An Ancient Epic",
+  "year": 2020,
+  "publisher": "Super.com",
+  "developer": "Nodding Heads Games",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "source": "https://www.rajithegame.com/post/making-it-in-unreal-action-adventure-goes-to-india-in-raji-an-ancient-epic",
+  "locations": [
+    {
+      "placeId": "india",
+      "settingType": "fictionalized",
+      "note": "Raji, a circus performer, fights through a mythic ancient India drawn from Hindu and Balinese myth to rescue her brother Golu from the demon lord Mahabalasura."
+    }
+  ],
+  "storyYears": []
+}

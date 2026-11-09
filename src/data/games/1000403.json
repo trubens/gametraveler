@@ -1,0 +1,26 @@
+{
+  "id": 1000403,
+  "name": "My Child Lebensborn",
+  "aliases": [
+    "Mitt barn Lebensborn",
+    "My Child Lebensborn Remastered"
+  ],
+  "year": 2018,
+  "developer": "Sarepta Studio, Teknopilot",
+  "publisher": "Teknopilot",
+  "genres": [
+    "Interactive Drama"
+  ],
+  "storyYears": [
+    1951
+  ],
+  "source": "https://en.wikipedia.org/wiki/My_Child_Lebensborn",
+  "reviewed": "2026-11-08",
+  "locations": [
+    {
+      "placeId": "norway",
+      "note": "In 1951 an adoptive parent raises Klaus or Karin, a child fathered by a German soldier during the occupation, through the bullying and shame of their Norwegian town, until the two of them leave it.",
+      "source": "https://www.bpb.de/lernen/games/546294/my-child-lebensborn/"
+    }
+  ]
+}

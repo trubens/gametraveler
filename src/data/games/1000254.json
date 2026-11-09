@@ -1,0 +1,52 @@
+{
+  "id": 1000254,
+  "name": "Return to Castle Wolfenstein",
+  "year": 2001,
+  "series": "Wolfenstein",
+  "developer": "Gray Matter Interactive",
+  "publisher": "Activision",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    1943
+  ],
+  "source": "https://en.wikipedia.org/wiki/Return_to_Castle_Wolfenstein",
+  "locations": [
+    {
+      "placeId": "egypt",
+      "note": "B.J. Blazkowicz and Agent One investigate the SS Paranormal Division at a desert dig site by an invented village."
+    },
+    {
+      "placeId": "germany",
+      "settingType": "fictionalized",
+      "note": "Castle Wolfenstein, the village below it and the bombed city of Kugelstadt are invented places in wartime Germany."
+    },
+    {
+      "placeId": "norway",
+      "note": "Deathshead's X-Labs facility lies somewhere in Norway; the game never names the town."
+    },
+    {
+      "placeId": "paderborn-germany",
+      "note": "Operation Resurrection begins with a parachute drop at Paderborn and the nearby Bramburg dam."
+    }
+  ],
+  "routes": [
+    {
+      "id": "bj",
+      "name": "B.J.'s mission",
+      "characters": [
+        "B.J. Blazkowicz"
+      ],
+      "stops": [
+        "egypt",
+        "germany",
+        "norway",
+        "paderborn-germany",
+        "germany"
+      ],
+      "note": "The story returns to Castle Wolfenstein for the finale.",
+      "source": "https://en.wikipedia.org/wiki/Return_to_Castle_Wolfenstein"
+    }
+  ]
+}

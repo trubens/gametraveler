@@ -1,0 +1,40 @@
+{
+  "id": 1000326,
+  "name": "Test Drive 4",
+  "year": 1997,
+  "series": "Test Drive",
+  "developer": "Pitbull Syndicate",
+  "publisher": "Accolade",
+  "genres": [
+    "Racing"
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Test_Drive_4",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "keswick-england-uk",
+      "note": "A point-to-point run through the lanes around Keswick in the Lake District."
+    },
+    {
+      "placeId": "san-francisco-usa",
+      "note": "The hills and streets of San Francisco."
+    },
+    {
+      "placeId": "bern-switzerland",
+      "note": "Bern's old town and the roads around it."
+    },
+    {
+      "placeId": "kyoto-japan",
+      "note": "The temples and streets of Kyoto."
+    },
+    {
+      "placeId": "washington-d-c-usa",
+      "note": "The monuments and avenues of Washington."
+    },
+    {
+      "placeId": "munich-germany",
+      "note": "Munich, added in the Windows version."
+    }
+  ]
+}

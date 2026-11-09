@@ -1,0 +1,19 @@
+{
+  "id": "dumfries-scotland-uk",
+  "name": "Dumfries, Scotland, UK",
+  "position": {
+    "lat": 55.07,
+    "lon": -3.603
+  },
+  "scale": "area",
+  "parentId": "scotland-uk",
+  "placeType": "city",
+  "aliases": [
+    "Dùn Phris",
+    "Dun Phris"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Dumfries",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dumfries",
+  "description": "A market town and former royal burgh near the mouth of the River Nith on the Solway Firth; its name is usually derived from the Gaelic Dùn Phris, 'fort of the thicket'.",
+  "descriptionSource": "wikipedia"
+}

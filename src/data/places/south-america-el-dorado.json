@@ -1,0 +1,13 @@
+{
+  "id": "south-america-el-dorado",
+  "name": "El Dorado, South America",
+  "position": {
+    "lat": -8.7832,
+    "lon": -55.4915
+  },
+  "scale": "area",
+  "placeType": "area",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/El_Dorado",
+  "description": "The South American interior where legend placed El Dorado, a city of gold that explorers sought for centuries and never found.",
+  "legendary": true
+}

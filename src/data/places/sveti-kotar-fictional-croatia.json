@@ -1,0 +1,17 @@
+{
+  "id": "sveti-kotar-fictional-croatia",
+  "name": "Sveti Kotar, Croatia",
+  "scale": "area",
+  "position": {
+    "lat": 45.4,
+    "lon": 14.8
+  },
+  "parentId": "croatia",
+  "placeType": "city",
+  "fictional": true,
+  "aliases": [
+    "Sveti Kotar (fictional town)"
+  ],
+  "description": "An invented cursed valley town in the forested mountains of Gorski Kotar, Croatia, named after the region by its Croatian makers. Pinned in the middle of Gorski Kotar; no real town stands behind it.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gorski_Kotar"
+}

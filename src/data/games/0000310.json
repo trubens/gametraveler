@@ -1,0 +1,100 @@
+{
+  "id": 310,
+  "name": "Forza Motorsport 6",
+  "year": 2015,
+  "series": "Forza Motorsport",
+  "developer": "Turn 10 Studios",
+  "publisher": "Microsoft Studios",
+  "locations": [
+    {
+      "placeId": "laguna-seca-california-usa",
+      "note": "Offered only as the full circuit, in daylight and dry conditions."
+    },
+    {
+      "placeId": "dunsfold-aerodrome-surrey-uk",
+      "note": "The Top Gear test track returns through the continued Top Gear partnership and can now be raced in the rain."
+    },
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "New to the series in this game, with the full circuit, a short circuit and an alternative full layout."
+    },
+    {
+      "placeId": "brands-hatch-uk",
+      "note": "New to the series in this game, with both the Grand Prix and Indy circuits raceable in the wet."
+    },
+    {
+      "placeId": "circuit-de-barcelona-catalunya-spain",
+      "note": "Offered as the Grand Prix circuit plus the National and School layouts."
+    },
+    {
+      "placeId": "circuit-de-spa-francorchamps-belgium",
+      "note": "One of the few circuits that can be raced both in the rain and at night."
+    },
+    {
+      "placeId": "circuit-of-the-americas-texas-usa",
+      "note": "New to the series in this game, with the Grand Prix circuit and shorter East and West routes."
+    },
+    {
+      "placeId": "daytona-international-speedway-florida-usa",
+      "note": "New to the series in this game, with the sports car circuit, a short circuit and the tri-oval, all also raced at night."
+    },
+    {
+      "placeId": "hockenheimring-germany",
+      "note": "Back after Forza Motorsport 4, with the Full, National and Short circuits and a drag strip."
+    },
+    {
+      "placeId": "indianapolis-motor-speedway-indiana-usa",
+      "note": "Hosts the demo's seven-lap IndyCar race; adds classic and alternative versions of the Grand Prix layout to the road course and oval."
+    },
+    {
+      "placeId": "circuit-de-la-sarthe-le-mans-france",
+      "note": "The full circuit, Old Mulsanne and Bugatti layouts, each raceable in the dry, in the rain and at night."
+    },
+    {
+      "placeId": "lime-rock-park-connecticut-usa",
+      "note": "New to the series in this game, and the demo's introductory race in everyday cars; the full circuit can be run with West or South chicanes."
+    },
+    {
+      "placeId": "long-beach-street-circuit-california-usa",
+      "note": "On the disc with full, East and West routes, after arriving in Forza Motorsport 5 as a free download in April 2014."
+    },
+    {
+      "placeId": "mount-panorama-circuit-bathurst-australia",
+      "note": "Returns from Forza Motorsport 5 as the single Bathurst circuit."
+    },
+    {
+      "placeId": "nurburgring-germany",
+      "note": "The combined full circuit, the Nordschleife and the GP circuit, each raceable in the dry, in the rain and at night."
+    },
+    {
+      "placeId": "road-america-wisconsin-usa",
+      "note": "The full circuit plus East and West route layouts and alternative versions."
+    },
+    {
+      "placeId": "road-atlanta-georgia-usa",
+      "note": "Offered as the Full and Club circuits, in dry conditions only."
+    },
+    {
+      "placeId": "sebring-international-raceway-florida-usa",
+      "note": "Hosts the demo's rain race, where wet braking, aquaplaning and spray show off the game's new weather."
+    },
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "One of the circuits that can be raced in the rain, a condition new to the series in this game."
+    },
+    {
+      "placeId": "sonoma-raceway-california-usa",
+      "note": "Returns under its new name after appearing in Forza Motorsport 4 as Infineon Raceway."
+    },
+    {
+      "placeId": "yas-marina-circuit-abu-dhabi-uae",
+      "note": "Hosts the demo's night race, where falling track temperature reduces grip."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Forza_Motorsport_6",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

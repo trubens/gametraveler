@@ -1,0 +1,13 @@
+{
+  "id": "atlanta-usa",
+  "name": "Atlanta, USA",
+  "position": {
+    "lat": 33.749,
+    "lon": -84.388
+  },
+  "scale": "area",
+  "parentId": "georgia-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Atlanta",
+  "description": "The capital and most populous city of the state of Georgia."
+}

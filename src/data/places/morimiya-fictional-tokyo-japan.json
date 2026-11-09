@@ -1,0 +1,17 @@
+{
+  "id": "morimiya-fictional-tokyo-japan",
+  "name": "Morimiya, Tokyo, Japan",
+  "position": {
+    "lat": 35.6942,
+    "lon": 139.4197
+  },
+  "scale": "site",
+  "parentId": "tokyo-japan",
+  "placeType": "neighborhood",
+  "fictional": true,
+  "aliases": [
+    "Tachikawa"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tachikawa,_Tokyo",
+  "description": "The invented suburb of Tokyo Xanadu, modelled on Tachikawa in the west of the Tokyo metropolis. Pinned on Tachikawa."
+}

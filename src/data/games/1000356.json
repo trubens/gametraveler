@@ -1,0 +1,52 @@
+{
+  "id": 1000356,
+  "name": "Metal Gear Rising: Revengeance",
+  "year": 2013,
+  "series": "Metal Gear",
+  "developer": "PlatinumGames",
+  "publisher": "Konami",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "storyYears": [
+    2018
+  ],
+  "source": "https://en.wikipedia.org/wiki/Metal_Gear_Rising:_Revengeance",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "abkhazia-georgia",
+      "note": "Raiden infiltrates breakaway Abkhazia to stop Desperado's coup; the Chechen leader Dolzaev blows himself up on an oil tank."
+    },
+    {
+      "placeId": "guadalajara-mexico",
+      "note": "In Guadalajara Raiden finds a research facility harvesting orphans' brains for cyborg soldiers and meets the boy George."
+    },
+    {
+      "placeId": "denver-usa",
+      "note": "Raiden's one-man assault on World Marshal's headquarters in Denver, through the privatised city to fights with Monsoon and Sundowner."
+    },
+    {
+      "placeId": "pakistan",
+      "settingType": "fictionalized",
+      "note": "At a Pakistani air base Raiden stops Senator Armstrong's plot to kill the US President, destroying Metal Gear EXCELSUS and beating Armstrong."
+    }
+  ],
+  "routes": [
+    {
+      "id": "raiden",
+      "name": "Raiden",
+      "characters": [
+        "Raiden"
+      ],
+      "stops": [
+        "abkhazia-georgia",
+        "guadalajara-mexico",
+        "denver-usa",
+        "pakistan"
+      ],
+      "note": "Raiden's war on Desperado runs from Abkhazia through Guadalajara and Denver to the final fight with Armstrong in Pakistan.",
+      "source": "https://en.wikipedia.org/wiki/Metal_Gear_Rising:_Revengeance"
+    }
+  ]
+}

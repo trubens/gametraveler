@@ -1,0 +1,22 @@
+{
+  "id": 460,
+  "name": "Medal of Honor: Frontline",
+  "year": 2002,
+  "series": "Medal of Honor",
+  "developer": "EA Los Angeles",
+  "publisher": "Electronic Arts",
+  "locations": [
+    {
+      "placeId": "normandy-france",
+      "note": "The opening mission recreates the assault on Omaha Beach."
+    }
+  ],
+  "storyYears": [
+    1944
+  ],
+  "source": "https://en.wikipedia.org/wiki/Medal_of_Honor:_Frontline",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

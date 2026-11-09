@@ -1,0 +1,13 @@
+{
+  "id": "central-oregon-usa-fictionalized",
+  "name": "Central Oregon, USA",
+  "position": {
+    "lat": 44,
+    "lon": -121.3
+  },
+  "scale": "area",
+  "placeType": "area",
+  "fictional": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Central_Oregon",
+  "description": "A loosely fictionalised Central Oregon of lava fields, pine forest and the Cascades around Bend. Pinned near Bend."
+}

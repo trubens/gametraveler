@@ -1,0 +1,13 @@
+{
+  "id": "hoboken-new-jersey-usa",
+  "name": "Hoboken, New Jersey, USA",
+  "position": {
+    "lat": 40.744,
+    "lon": -74.0324
+  },
+  "scale": "area",
+  "parentId": "new-jersey-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hoboken,_New_Jersey",
+  "description": "A city on the New Jersey side of the New York metropolitan area."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "marseille-france",
+  "name": "Marseille, France",
+  "position": {
+    "lat": 43.2965,
+    "lon": 5.3698
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marseille",
+  "description": "France's great Mediterranean port.",
+  "descriptionSource": "wikipedia"
+}

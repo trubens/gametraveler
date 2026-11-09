@@ -1,0 +1,71 @@
+{
+  "id": 1000270,
+  "name": "Soldier of Fortune II: Double Helix",
+  "year": 2002,
+  "series": "Soldier of Fortune",
+  "developer": "Raven Software",
+  "publisher": "Activision",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    2002
+  ],
+  "source": "https://en.wikipedia.org/wiki/Soldier_of_Fortune_II:_Double_Helix",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "prague-czech-republic",
+      "note": "The opening is a Cold War flashback: a young John Mullins on an extraction mission in Prague.",
+      "source": "https://de.wikipedia.org/wiki/Soldier_of_Fortune_II:_Double_Helix"
+    },
+    {
+      "placeId": "colombia",
+      "note": "The investigation of a viral outbreak starts in the Colombian jungle."
+    },
+    {
+      "placeId": "hong-kong-china",
+      "note": "The trail runs through the streets of Hong Kong.",
+      "source": "https://de.wikipedia.org/wiki/Soldier_of_Fortune_II:_Double_Helix"
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Mullins fights through New York on the way to the people behind the virus.",
+      "source": "https://de.wikipedia.org/wiki/Soldier_of_Fortune_II:_Double_Helix"
+    },
+    {
+      "placeId": "switzerland",
+      "note": "Near the end of the hunt for the Romulus virus, Mullins protects a summit in Switzerland from attack."
+    },
+    {
+      "placeId": "kamchatka-russia",
+      "note": "Mullins follows the trail of the Romulus virus into the snows of Kamchatka."
+    },
+    {
+      "placeId": "texas-usa",
+      "note": "The hunt for Prometheus ends in Texas, after the attack on the summit in Switzerland.",
+      "source": "https://www.speedrun.com/soldier_of_fortune_ii_double_helix/levels"
+    }
+  ],
+  "routes": [
+    {
+      "id": "mullins",
+      "name": "John Mullins",
+      "characters": [
+        "John Mullins",
+        "Madeline Taylor"
+      ],
+      "stops": [
+        "prague-czech-republic",
+        "colombia",
+        "hong-kong-china",
+        "new-york-city-usa",
+        "kamchatka-russia",
+        "switzerland",
+        "texas-usa"
+      ],
+      "note": "After a Cold War rescue in Prague, Mullins traces a man-made virus from a Colombian village through Hong Kong, New York and Kamchatka to the attack on the G8 summit in Switzerland, and ends the hunt in Texas.",
+      "source": "https://www.speedrun.com/soldier_of_fortune_ii_double_helix/levels"
+    }
+  ]
+}

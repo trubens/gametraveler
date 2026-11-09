@@ -1,0 +1,16 @@
+{
+  "id": "american-frontier-fictionalized-colonial-wilderness-usa",
+  "name": "American Frontier, USA",
+  "position": {
+    "lat": 42.5,
+    "lon": -74
+  },
+  "scale": "area",
+  "placeType": "natural_feature",
+  "fictional": true,
+  "aliases": [
+    "American Frontier (fictionalized colonial wilderness), USA"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/American_frontier",
+  "description": "A compressed version of the colonial forests between Boston and New York, the New England and upstate wilderness of the 1770s. Pinned between the two cities."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "akomish-reservation-fictional-washington-usa",
+  "name": "Akomish Reservation, Washington, USA",
+  "position": {
+    "lat": 47.66,
+    "lon": -122.38
+  },
+  "scale": "area",
+  "parentId": "washington-state-usa",
+  "placeType": "area",
+  "fictional": true,
+  "aliases": [
+    "Akomish Reservation",
+    "Akomish"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Salmon_Bay",
+  "source": "https://en.wikipedia.org/wiki/Infamous_Second_Son",
+  "description": "The invented home of the Akomish tribe in the inFamous games, which the series puts on the shore of Salmon Bay; pinned on Salmon Bay, the real inlet of the Lake Washington Ship Canal in north-west Seattle."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "colorado-usa-fictional-university-setting",
+  "name": "University of Eastern Colorado, Colorado",
+  "position": {
+    "lat": 39.9933,
+    "lon": -105.245
+  },
+  "scale": "area",
+  "placeType": "landmark",
+  "fictional": true,
+  "aliases": [
+    "University of Eastern Colorado",
+    "UEC"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Boulder,_Colorado",
+  "description": "The invented University of Eastern Colorado, an abandoned campus set in Boulder and modelled on Colorado State University in Fort Collins; pinned at Boulder.",
+  "source": "https://thelastofus.fandom.com/wiki/Boulder",
+  "parentId": "colorado-usa"
+}

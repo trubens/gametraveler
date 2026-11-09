@@ -1,0 +1,17 @@
+{
+  "id": "ledecko-czech-republic",
+  "name": "Ledečko, Czech Republic",
+  "position": {
+    "lat": 49.85,
+    "lon": 14.9489
+  },
+  "scale": "area",
+  "parentId": "czech-republic",
+  "placeType": "city",
+  "aliases": [
+    "Ledetchko"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ledečko",
+  "description": "A village on the Sázava river below Talmberk.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "puerto-rico",
+  "name": "Puerto Rico",
+  "position": {
+    "lat": 18.23,
+    "lon": -66.48
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Puerto_Rico",
+  "description": "A self-governing Caribbean island and archipelago, a territory of the United States styled a commonwealth."
+}

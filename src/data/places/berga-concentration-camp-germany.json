@@ -1,0 +1,19 @@
+{
+  "id": "berga-concentration-camp-germany",
+  "name": "Berga concentration camp, Germany",
+  "position": {
+    "lat": 50.75,
+    "lon": 12.1667
+  },
+  "scale": "site",
+  "parentId": "germany",
+  "placeType": "landmark",
+  "aliases": [
+    "Berga an der Elster",
+    "Berga/Elster"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Berga_concentration_camp",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Berga_concentration_camp",
+  "description": "A Buchenwald subcamp at Berga an der Elster in Thuringia, where prisoners, among them Jewish American prisoners of war, were forced to dig tunnels for an underground factory in 1945.",
+  "descriptionSource": "wikipedia"
+}

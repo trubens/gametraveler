@@ -1,0 +1,23 @@
+{
+  "id": 1000263,
+  "name": "Alone in the Dark 2",
+  "year": 1993,
+  "series": "Alone in the Dark",
+  "developer": "Infogrames",
+  "publisher": "Infogrames",
+  "genres": [
+    "Survival Horror"
+  ],
+  "storyYears": [
+    1924
+  ],
+  "source": "https://en.wikipedia.org/wiki/Alone_in_the_Dark_2_(video_game)",
+  "reviewed": "2026-11-02",
+  "locations": [
+    {
+      "placeId": "hells-kitchen-mansion-fictional-california-usa",
+      "settingType": "fictionalized",
+      "note": "At Christmas 1924 Carnby follows his murdered partner Ted Stryker's trail to Hell's Kitchen and fights One-Eyed Jack's undead pirate gang through the house, its maze and the pirate ship hidden in the cliff to rescue Grace Saunders."
+    }
+  ]
+}

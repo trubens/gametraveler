@@ -1,0 +1,19 @@
+{
+  "id": "rizhskaya-station-moscow-russia",
+  "name": "Rizhskaya station, Moscow, Russia",
+  "position": {
+    "lat": 55.7936,
+    "lon": 37.6362
+  },
+  "scale": "site",
+  "parentId": "moscow-russia",
+  "placeType": "landmark",
+  "aliases": [
+    "Riga",
+    "Rizhskaya"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rizhskaya_(Kaluzhsko-Rizhskaya_line)",
+  "description": "A Moscow Metro station on the Kaluzhsko-Rizhskaya line, beside Rizhsky railway station.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Rizhskaya_(Kaluzhsko-Rizhskaya_line)"
+}

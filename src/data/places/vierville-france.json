@@ -1,0 +1,15 @@
+{
+  "id": "vierville-france",
+  "name": "Vierville, France",
+  "position": {
+    "lat": 49.3611,
+    "lon": -1.2453
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Vierville,_Manche",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vierville,_Manche",
+  "description": "A former commune in the Manche department in Normandy, merged into Carentan-les-Marais in 2019; not Vierville-sur-Mer above Omaha Beach.",
+  "descriptionSource": "wikipedia"
+}

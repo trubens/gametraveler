@@ -1,0 +1,47 @@
+{
+  "id": 349,
+  "name": "Grid Legends",
+  "year": 2022,
+  "series": "Grid",
+  "developer": "Codemasters",
+  "publisher": "Electronic Arts",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "Six city-circuit routes run around Westminster, with names like Big Ben View, Parliament Run, Horse Guards Sprint and Buckingham Palace View."
+    },
+    {
+      "placeId": "brands-hatch-uk",
+      "note": "Four routes: the Grand Prix and Indy circuits, each with a B variant."
+    },
+    {
+      "placeId": "indianapolis-motor-speedway-indiana-usa",
+      "note": "Driven to Glory puts players in three-lap stock car races on the oval; eight layouts in all, including the road course."
+    },
+    {
+      "placeId": "suzuka-international-racing-course-japan",
+      "note": "Six routes, from the full International Racing Course to the shorter East and West courses."
+    },
+    {
+      "placeId": "mount-panorama-circuit-bathurst-australia",
+      "note": "Bathurst returns to the series after skipping Grid 2019, with two layouts."
+    },
+    {
+      "placeId": "san-francisco-usa",
+      "note": "A street circuit with Grand Prix, Sprint and Short layouts and a B variant of each."
+    },
+    {
+      "placeId": "paris-france",
+      "note": "Driven to Glory sends players here for a five-lap stadium-truck race with ramps added to the narrow, winding streets."
+    },
+    {
+      "placeId": "moscow-russia",
+      "note": "Six city-circuit routes around the centre, including the Kremlin Run, Red Square Loop and St. Basil's View."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Grid_Legends",
+  "genres": [
+    "Racing"
+  ]
+}

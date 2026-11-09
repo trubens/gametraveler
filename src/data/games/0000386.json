@@ -1,0 +1,23 @@
+{
+  "id": 386,
+  "name": "Colin McRae Rally 2.0",
+  "year": 2000,
+  "series": "Colin McRae Rally",
+  "developer": "Codemasters",
+  "publisher": "Codemasters",
+  "locations": [
+    {
+      "placeId": "corsica-france",
+      "note": "The rally championship includes stages on the French island of Corsica."
+    },
+    {
+      "placeId": "japan",
+      "note": "A Japanese rally is playable in Challenge mode."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Colin_McRae_Rally_2.0",
+  "genres": [
+    "Racing"
+  ]
+}

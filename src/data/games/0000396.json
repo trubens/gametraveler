@@ -1,0 +1,43 @@
+{
+  "id": 396,
+  "name": "Dirt Rally 2.0",
+  "year": 2019,
+  "series": "Dirt",
+  "developer": "Codemasters",
+  "publisher": "Codemasters",
+  "locations": [
+    {
+      "placeId": "catamarca-province-argentina",
+      "note": "The rally runs between walls of jagged rock on stages such as Las Juntas and Valle de los puentes."
+    },
+    {
+      "placeId": "monaro-new-south-wales-australia",
+      "note": "Stages such as Mount Kaye Pass, Chandlers Creek and Bondi Forest cross wide, flat-out plains."
+    },
+    {
+      "placeId": "hawke-s-bay-new-zealand",
+      "note": "Coastal stages such as Waimarama Point, Te Awanga and Ocean Beach."
+    },
+    {
+      "placeId": "leczna-county-poland",
+      "note": "Stages such as Zaróbka, Zienki and Jezioro Rotcze."
+    },
+    {
+      "placeId": "spain",
+      "aliases": [
+        "Ribadelles"
+      ],
+      "settingType": "fictionalized",
+      "note": "The game's only all-tarmac rally, around the invented town of Ribadelles, on stages such as Comienzo en Bellriu and Viñedos Dardenya."
+    },
+    {
+      "placeId": "new-england-usa",
+      "note": "Forest stages such as Tolt Valley Sprint and North Fork Pass."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Dirt_Rally_2.0",
+  "genres": [
+    "Racing"
+  ]
+}

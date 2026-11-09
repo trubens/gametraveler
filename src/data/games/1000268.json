@@ -1,0 +1,23 @@
+{
+  "id": 1000268,
+  "name": "Alone in the Dark (2024)",
+  "year": 2024,
+  "series": "Alone in the Dark",
+  "developer": "Pieces Interactive",
+  "publisher": "THQ Nordic",
+  "genres": [
+    "Survival Horror"
+  ],
+  "storyYears": [
+    1930
+  ],
+  "source": "https://en.wikipedia.org/wiki/Alone_in_the_Dark_(2024_video_game)",
+  "reviewed": "2026-11-02",
+  "locations": [
+    {
+      "placeId": "derceto-fictional-louisiana-usa",
+      "settingType": "fictionalized",
+      "note": "Carnby and Emily Hartwood come to the Derceto sanatorium in search of her missing uncle Jeremy and uncover a cult among patients and staff preparing to summon the Black Goat at the wish tree in the conservatory."
+    }
+  ]
+}

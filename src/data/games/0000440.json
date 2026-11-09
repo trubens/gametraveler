@@ -1,0 +1,23 @@
+{
+  "id": 440,
+  "name": "Call of Duty: Infinite Warfare",
+  "year": 2016,
+  "series": "Call of Duty",
+  "developer": "Infinity Ward",
+  "publisher": "Activision",
+  "locations": [
+    {
+      "placeId": "geneva-switzerland",
+      "note": "An attack on a military parade in Geneva triggers the campaign."
+    }
+  ],
+  "storyYears": [
+    2187
+  ],
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Infinite_Warfare",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Activision",
+  "genres": [
+    "First-Person Shooter"
+  ]
+}

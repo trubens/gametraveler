@@ -1,0 +1,13 @@
+{
+  "id": "hawke-s-bay-new-zealand",
+  "name": "Hawke's Bay, New Zealand",
+  "position": {
+    "lat": -39.5011,
+    "lon": 176.8683
+  },
+  "scale": "area",
+  "parentId": "new-zealand",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hawke%27s_Bay",
+  "description": "A region on the east coast of New Zealand's North Island, taking its name from the bay named after Edward Hawke."
+}

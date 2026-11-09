@@ -1,0 +1,58 @@
+{
+  "id": 1000313,
+  "name": "Casebook 1899: The Leipzig Murders",
+  "year": 2025,
+  "aliases": [
+    "Casebook 1899 - The Leipzig Murders"
+  ],
+  "developer": "Homo Narrans Studio",
+  "publisher": "Homo Narrans Studio",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    1899
+  ],
+  "source": "https://adventuregamehotspot.com/game/1605/casebook-1899-the-leipzig-murders",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "leipzig-germany",
+      "note": "Detective Joseph Kreiser works four murders across the Leipzig of 1899, from the theatre quarter to the working-class slums and an opium den; several of the scenes are reconstructions of real places in the city."
+    },
+    {
+      "placeId": "plagwitz-leipzig-germany",
+      "note": "The first case: a factory owner drives his new automobile into the water in Plagwitz, and the villas of the industrial quarter hold the suspects."
+    },
+    {
+      "placeId": "lindenau-leipzig-germany",
+      "note": "The poor district of the game is the tenement streets of Lindenau."
+    },
+    {
+      "placeId": "neues-theater-augustusplatz-leipzig-germany",
+      "note": "The posh theatre and the square in front of it: in 1899 that is the Neues Theater on the Augustusplatz."
+    },
+    {
+      "placeId": "altes-theater-leipzig-germany",
+      "note": "The Old Theatre of the last case, the city's original playhouse on the Fleischerplatz."
+    }
+  ],
+  "routes": [
+    {
+      "id": "joseph-kreiser",
+      "name": "Joseph Kreiser",
+      "characters": [
+        "Joseph Kreiser"
+      ],
+      "stops": [
+        "plagwitz-leipzig-germany",
+        "lindenau-leipzig-germany",
+        "neues-theater-augustusplatz-leipzig-germany",
+        "leipzig-germany",
+        "altes-theater-leipzig-germany"
+      ],
+      "note": "Four murders lead Kreiser from a car in the water at Plagwitz through the Lindenau slums and the opera stage, into the city's newspapers, cafes and opium dens, to the final killing at the Old Theatre.",
+      "source": "https://nuxgameguides.com/guides/casebook-1899-all-cases-100-full-walkthrough/"
+    }
+  ]
+}

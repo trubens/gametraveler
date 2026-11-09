@@ -1,0 +1,39 @@
+{
+  "id": 345,
+  "name": "Race Driver: Grid",
+  "year": 2008,
+  "series": "Grid",
+  "developer": "Codemasters / Firebrand Games (DS) / Spiced Bits (J2ME)",
+  "publisher": "Codemasters / Glu Mobile (J2ME) / Sega (Arcade) / Feral Interactive (OS X)",
+  "locations": [
+    {
+      "placeId": "circuit-de-la-sarthe-le-mans-france",
+      "note": "The 24 Hours of Le Mans closes each season, and a 1968 version of the circuit hosts the one-race prototype Virgin Mobile Endurance Classic."
+    },
+    {
+      "placeId": "circuit-de-spa-francorchamps-belgium",
+      "note": "The Grand Prix layout hosts Le Mans Series endurance rounds and European F3 races, while the Sportscar layout stages the Pro Tuned Dunlop Spa Challenge."
+    },
+    {
+      "placeId": "detroit-usa",
+      "note": "Street layouts host the Dodge Motor City Cup for Vipers and Challengers plus GT1 and prototype rounds, and a demolition stadium stages a stock-car derby."
+    },
+    {
+      "placeId": "washington-d-c-usa",
+      "note": "Its Park, Sprint and Grand Prix street layouts host the touring-car Quickshift DC Challenge, the Rotora Capitol Drift and GT1 and prototype rounds."
+    },
+    {
+      "placeId": "san-francisco-usa",
+      "note": "A fictional street course with Sprint, Short and Grand Prix layouts, home to the Classic Muscle Lucas Oil Bay Bridge Trophy and GT1 rounds in the US career."
+    },
+    {
+      "placeId": "milan-italy",
+      "note": "The fictional Castello street circuit, raced in the Bilstein Festival Milano for classic muscle cars, runs through the old centre past Milan Cathedral."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Race_Driver:_Grid",
+  "genres": [
+    "Racing"
+  ]
+}

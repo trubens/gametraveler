@@ -1,0 +1,17 @@
+{
+  "id": "passchendaele-belgium",
+  "name": "Passchendaele, Belgium",
+  "position": {
+    "lat": 50.9003,
+    "lon": 3.0206
+  },
+  "scale": "area",
+  "parentId": "belgium",
+  "placeType": "city",
+  "aliases": [
+    "Passendale"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Passendale",
+  "description": "A village on the ridge east of Ypres, reduced to mud and rubble in the Third Battle of Ypres in 1917.",
+  "descriptionSource": "wikipedia"
+}

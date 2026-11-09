@@ -1,0 +1,20 @@
+{
+  "id": 512,
+  "name": "East Side Story",
+  "year": 2007,
+  "publisher": "MDNA Games",
+  "developer": "MDNA Games",
+  "locations": [
+    {
+      "placeId": "norrkoping-sweden",
+      "note": "Carol investigates the murder of a vagrant found in a friend's apartment, moving scene by scene through photographs of real Norrköping."
+    }
+  ],
+  "storyYears": [
+    2007
+  ],
+  "source": "https://en.wikipedia.org/wiki/Carol_Reed_Mysteries",
+  "genres": [
+    "Adventure"
+  ]
+}

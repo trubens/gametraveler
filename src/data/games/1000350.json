@@ -1,0 +1,53 @@
+{
+  "id": 1000350,
+  "name": "Metal Gear Solid 2: Sons of Liberty",
+  "year": 2001,
+  "series": "Metal Gear",
+  "developer": "Konami Computer Entertainment Japan",
+  "publisher": "Konami",
+  "genres": [
+    "Stealth"
+  ],
+  "storyYears": [
+    2007,
+    2009
+  ],
+  "source": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_2:_Sons_of_Liberty",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "george-washington-bridge-new-york-city-usa",
+      "note": "2007: Snake drops from the George Washington Bridge onto a tanker sailing down the Hudson with the new Metal Gear RAY aboard."
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "note": "The tanker chapter on the Hudson, and two years later the Big Shell in the harbour, put the whole story in and around New York."
+    },
+    {
+      "placeId": "big-shell-fictional-new-york-harbor-usa",
+      "note": "2009: rookie Raiden infiltrates the Big Shell, the clean-up facility built over the tanker's sinking, where the Sons of Liberty hold the President.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "federal-hall-new-york-city-usa",
+      "note": "Arsenal Gear crashes into Manhattan and comes to rest at Federal Hall, where Raiden fights Solidus on the roof."
+    }
+  ],
+  "routes": [
+    {
+      "id": "sons-of-liberty",
+      "name": "Snake and Raiden",
+      "characters": [
+        "Solid Snake",
+        "Raiden"
+      ],
+      "stops": [
+        "george-washington-bridge-new-york-city-usa",
+        "big-shell-fictional-new-york-harbor-usa",
+        "federal-hall-new-york-city-usa"
+      ],
+      "note": "The tanker in 2007, the Big Shell in 2009, the finale in Manhattan.",
+      "source": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_2:_Sons_of_Liberty"
+    }
+  ]
+}

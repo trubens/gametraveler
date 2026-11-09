@@ -1,0 +1,14 @@
+{
+  "id": "cayman-islands",
+  "name": "Cayman Islands",
+  "aliases": [
+    "Cayman Is."
+  ],
+  "position": {
+    "lat": 19.32,
+    "lon": -81.24
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/"
+}

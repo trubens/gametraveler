@@ -1,0 +1,24 @@
+{
+  "id": 1000116,
+  "name": "The Vanishing of Ethan Carter",
+  "year": 2014,
+  "publisher": "The Astronauts",
+  "developer": "The Astronauts",
+  "locations": [
+    {
+      "placeId": "wisconsin-usa",
+      "aliases": [
+        "Red Creek Valley"
+      ],
+      "settingType": "fictionalized",
+      "note": "Paranormal investigator Paul Prospero answers a letter from the boy Ethan Carter and pieces together the murders of Ethan's family across Red Creek Valley."
+    }
+  ],
+  "storyYears": [
+    1973
+  ],
+  "source": "https://store.steampowered.com/app/258520/The_Vanishing_of_Ethan_Carter/",
+  "genres": [
+    "Adventure"
+  ]
+}

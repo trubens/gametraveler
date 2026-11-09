@@ -1,0 +1,13 @@
+{
+  "id": "autodromo-vallelunga-italy",
+  "name": "Autodromo Vallelunga, Italy",
+  "position": {
+    "lat": 42.1608,
+    "lon": 12.3692
+  },
+  "scale": "site",
+  "parentId": "italy",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/ACI_Vallelunga_Circuit",
+  "description": "A racing circuit north of Rome near Campagnano, begun in 1951 as a sand oval."
+}

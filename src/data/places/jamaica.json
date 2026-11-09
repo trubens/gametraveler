@@ -1,0 +1,13 @@
+{
+  "id": "jamaica",
+  "name": "Jamaica",
+  "position": {
+    "lat": 18.14,
+    "lon": -77.32
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jamaica",
+  "description": "An island country in the Caribbean, the third largest island of the Greater Antilles after Cuba and Hispaniola."
+}

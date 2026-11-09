@@ -1,0 +1,13 @@
+{
+  "id": "lankebanen-norway",
+  "name": "Lånkebanen, Norway",
+  "position": {
+    "lat": 63.5,
+    "lon": 11
+  },
+  "scale": "site",
+  "parentId": "norway",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/L%C3%A5nkebanen",
+  "description": "A road racing circuit just east of the village of Hell in Stjørdal, opened in 1987 as Norway's first asphalt track."
+}

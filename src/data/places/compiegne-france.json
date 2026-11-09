@@ -1,0 +1,13 @@
+{
+  "id": "compiegne-france",
+  "name": "Compiègne, France",
+  "position": {
+    "lat": 49.4179,
+    "lon": 2.8261
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Compi%C3%A8gne",
+  "description": "A town on the river Oise in northern France."
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1000114,
+  "name": "Life Is Strange: Reunion",
+  "year": 2026,
+  "publisher": "Square Enix",
+  "series": "Life Is Strange",
+  "developer": "Deck Nine",
+  "locations": [
+    {
+      "placeId": "lakeport-fictional-vermont-usa",
+      "settingType": "fictionalized",
+      "note": "Max comes back from a weekend away to find the Caledon campus burning, rewinds three days and, with Chloe Price beside her again, digs into a 1995 death at an Abraxas party to stop the fire before it reaches the observatory.",
+      "source": "https://en.wikipedia.org/wiki/Life_Is_Strange:_Reunion"
+    },
+    {
+      "placeId": "arcadia-bay-fictional-oregon-usa",
+      "settingType": "fictionalized",
+      "note": "If Chloe destroys Max's old polaroid, the two of them go back to Arcadia Bay together.",
+      "source": "https://en.wikipedia.org/wiki/Life_Is_Strange:_Reunion"
+    }
+  ],
+  "storyYears": [
+    2024
+  ],
+  "source": "https://en.wikipedia.org/wiki/Life_Is_Strange:_Reunion",
+  "reviewed": "2026-11-02",
+  "genres": [
+    "Interactive Drama"
+  ],
+  "routes": [
+    {
+      "id": "max-and-chloe",
+      "name": "Max and Chloe",
+      "characters": [
+        "Max Caulfield",
+        "Chloe Price"
+      ],
+      "stops": [
+        "lakeport-fictional-vermont-usa",
+        "arcadia-bay-fictional-oregon-usa"
+      ],
+      "note": "From the burning Caledon campus in Vermont back across the country to Arcadia Bay.",
+      "source": "https://en.wikipedia.org/wiki/Life_Is_Strange:_Reunion"
+    }
+  ]
+}

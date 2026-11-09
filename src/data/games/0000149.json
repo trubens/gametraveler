@@ -1,0 +1,51 @@
+{
+  "id": 149,
+  "name": "Driver 2",
+  "year": 2000,
+  "publisher": "Infogrames",
+  "series": "Driver",
+  "developer": "Reflections Interactive",
+  "locations": [
+    {
+      "placeId": "chicago-usa",
+      "note": "After a shootout at Pink Lenny's bar meeting, Tanner and Jones go undercover and trail Vasquez's men to hardware shipped from Cuba; Tanner later brings Lenny back here in custody."
+    },
+    {
+      "placeId": "havana-cuba",
+      "note": "Tanner wrecks Vasquez's operations but is too late to stop Lenny sailing for San Diego."
+    },
+    {
+      "placeId": "las-vegas-usa",
+      "note": "Under a truce with Solomon Caine, Tanner drives for his crew and destroys Vasquez's supply depot."
+    },
+    {
+      "placeId": "rio-de-janeiro-brazil",
+      "note": "Tanner rescues Jones from Vasquez's gang, downs Lenny's helicopter with Jericho and arrests Lenny after the crash."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Driver_2",
+  "reviewed": "2026-11-02",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "hunt-for-pink-lenny",
+      "name": "The hunt for Pink Lenny",
+      "characters": [
+        "John Tanner",
+        "Tobias Jones"
+      ],
+      "stops": [
+        "chicago-usa",
+        "havana-cuba",
+        "las-vegas-usa",
+        "rio-de-janeiro-brazil",
+        "chicago-usa"
+      ],
+      "note": "From a Chicago gang war through Havana and Las Vegas to Rio, and back to Chicago with Pink Lenny in custody.",
+      "source": "https://en.wikipedia.org/wiki/Driver_2"
+    }
+  ]
+}

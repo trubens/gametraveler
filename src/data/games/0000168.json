@@ -1,0 +1,73 @@
+{
+  "id": 168,
+  "name": "Ghostwire: Tokyo",
+  "year": 2022,
+  "publisher": "Bethesda Softworks",
+  "developer": "Tango Gameworks",
+  "locations": [
+    {
+      "placeId": "shibuya-crossing-tokyo-japan",
+      "note": "Akito Izuki is left unconscious by a crash on the scramble crossing when the spirit KK takes his body, just as a deadly fog sweeps through and everyone around him vanishes.",
+      "source": "https://en.wikipedia.org/wiki/Ghostwire:_Tokyo"
+    },
+    {
+      "placeId": "shibuya-tokyo-japan",
+      "settingType": "fictionalized",
+      "note": "Akito and KK fight the Visitors through an emptied Shibuya, cleansing torii gates to push back the fog, chasing Hannya, who has kidnapped Akito's sister Mari, and freeing the spirits caught in his cages.",
+      "source": "https://en.wikipedia.org/wiki/Ghostwire:_Tokyo"
+    },
+    {
+      "placeId": "shibuya-station-tokyo-japan",
+      "settingType": "fictionalized",
+      "note": "Akito can explore the deserted station, haunted by an urban legend about a train that leads to nowhere.",
+      "source": "https://bethesda.net/en-US/news/ghostwire-tokyo-landmark-primer"
+    },
+    {
+      "placeId": "shibuya-109-tokyo-japan",
+      "settingType": "fictionalized",
+      "note": "Akito passes the deserted fashion tower at the fork west of the crossing while he clears the fog from central Shibuya.",
+      "source": "https://automaton-media.com/en/news/20230823-20986/"
+    },
+    {
+      "placeId": "shibuya-hikarie-tokyo-japan",
+      "aliases": [
+        "Shibuya Kagerie",
+        "Kagerie Observation Tower"
+      ],
+      "settingType": "fictionalized",
+      "note": "KK sends Akito up the Kagerie observation tower, the game's Hikarie, to scan the town, and from the top they spot Hannya's ally slipping into an underground station.",
+      "source": "https://mp1st.com/previews/everything-we-learned-about-ghostwire-tokyo-from-our-hands-on-preview"
+    },
+    {
+      "placeId": "tokyo-tower-tokyo-japan",
+      "note": "Akito rides through the fog on Rinko's motorcycle to Tokyo Tower, fights the mother puppet and reaches the top, where Hannya leaps with Mari into the mouth of a giant spirit.",
+      "source": "https://en.wikipedia.org/wiki/Ghostwire:_Tokyo"
+    }
+  ],
+  "storyYears": [
+    2022
+  ],
+  "source": "https://en.wikipedia.org/wiki/Ghostwire:_Tokyo",
+  "reviewed": "2026-11-06",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "akito-kk",
+      "name": "Akito and KK",
+      "characters": [
+        "Akito Izuki",
+        "KK"
+      ],
+      "stops": [
+        "shibuya-crossing-tokyo-japan",
+        "shibuya-tokyo-japan",
+        "shibuya-hikarie-tokyo-japan",
+        "tokyo-tower-tokyo-japan"
+      ],
+      "note": "From the crash on the scramble crossing through the fog-bound streets of Shibuya and up the Kagerie tower to the last fight at Tokyo Tower.",
+      "source": "https://en.wikipedia.org/wiki/Ghostwire:_Tokyo"
+    }
+  ]
+}

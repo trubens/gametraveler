@@ -1,0 +1,19 @@
+{
+  "id": 1000125,
+  "name": "Tchia",
+  "year": 2023,
+  "publisher": "Kepler Interactive",
+  "developer": "Awaceb",
+  "locations": [
+    {
+      "placeId": "new-caledonia",
+      "settingType": "fictionalized",
+      "note": "Tchia sails, glides and climbs across an archipelago modelled on New Caledonia to rescue her father from the tyrant Meavora."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://blog.playstation.com/2021/09/09/tchia-creating-a-game-inspired-by-new-caledonia/",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

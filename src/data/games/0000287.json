@@ -1,0 +1,31 @@
+{
+  "id": 287,
+  "name": "Formula One 99",
+  "year": 1999,
+  "series": "Formula One",
+  "developer": "Studio 33",
+  "publisher": "Psygnosis / Sony Computer Entertainment",
+  "locations": [
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "Raced as the British Grand Prix, round 8 of 16 in the 1999 season."
+    },
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 13 of 16 in the 1999 season."
+    },
+    {
+      "placeId": "red-bull-ring-spielberg-austria",
+      "note": "Raced as the Austrian Grand Prix, round 9 of 16 in the 1999 season."
+    },
+    {
+      "placeId": "nurburgring-germany",
+      "note": "Raced as the European Grand Prix, round 14 of 16 in the 1999 season."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Formula_One_99",
+  "genres": [
+    "Racing"
+  ]
+}

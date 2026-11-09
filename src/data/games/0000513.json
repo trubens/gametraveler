@@ -1,0 +1,20 @@
+{
+  "id": 513,
+  "name": "The Colour of Murder",
+  "year": 2008,
+  "publisher": "MDNA Games",
+  "developer": "MDNA Games",
+  "locations": [
+    {
+      "placeId": "norrkoping-sweden",
+      "note": "Carol's neighbour Willy fears his missing son is mixed up in a murder, and the search takes her through photographed places around Norrköping."
+    }
+  ],
+  "storyYears": [
+    2008
+  ],
+  "source": "https://en.wikipedia.org/wiki/Carol_Reed_Mysteries",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "kamchatka-russia",
+  "name": "Kamchatka, Russia",
+  "position": {
+    "lat": 53.0195,
+    "lon": 158.65
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kamchatka_Peninsula",
+  "description": "A long peninsula of the Russian Far East, a vast territory of its own on the country's eastern edge."
+}

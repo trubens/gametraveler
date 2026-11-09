@@ -1,0 +1,46 @@
+{
+  "id": 1000220,
+  "name": "Tom Clancy's Ghost Recon: Desert Siege",
+  "year": 2002,
+  "publisher": "Ubi Soft Entertainment",
+  "series": "Ghost Recon",
+  "developer": "Red Storm Entertainment",
+  "locations": [
+    {
+      "placeId": "eritrea",
+      "note": "Most of the eight-mission campaign takes place in Eritrea, including the opening coastal operations and the final missions.",
+      "source": "https://gamefaqs.gamespot.com/pc/548600-tom-clancys-ghost-recon-desert-siege/faqs/22913"
+    },
+    {
+      "placeId": "ethiopia",
+      "note": "Two middle campaign missions move across the border into Ethiopia, including the Denakil Desert.",
+      "source": "https://gamefaqs.gamespot.com/pc/548600-tom-clancys-ghost-recon-desert-siege/faqs/22913"
+    }
+  ],
+  "routes": [
+    {
+      "id": "ghosts-campaign",
+      "name": "Ghosts campaign",
+      "characters": [
+        "The Ghosts"
+      ],
+      "storyYears": [
+        2009
+      ],
+      "stops": [
+        "eritrea",
+        "ethiopia",
+        "eritrea"
+      ],
+      "note": "The Ghosts start in Eritrea, push into Ethiopia for the middle of the war and return to Eritrea to end it.",
+      "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13620/manuals/GRDS_PC_MNL.pdf?t=1764697924"
+    }
+  ],
+  "storyYears": [
+    2009
+  ],
+  "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13620/manuals/GRDS_PC_MNL.pdf?t=1764697924",
+  "genres": [
+    "Tactical Shooter"
+  ]
+}

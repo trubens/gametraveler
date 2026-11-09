@@ -1,0 +1,13 @@
+{
+  "id": "vimy-ridge-france",
+  "name": "Vimy Ridge, France",
+  "position": {
+    "lat": 50.3796,
+    "lon": 2.7738
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vimy_Ridge",
+  "description": "An escarpment in northern France where the Canadian Corps fought the Battle of Vimy Ridge in the First World War, now a national memorial."
+}

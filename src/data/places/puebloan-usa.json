@@ -1,0 +1,12 @@
+{
+  "id": "puebloan-usa",
+  "name": "Puebloan, USA",
+  "position": {
+    "lat": 37,
+    "lon": -109
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ancestral_Puebloans",
+  "description": "The Four Corners country of the American South-west, homeland of the Ancestral Puebloans, an ancient Native American culture of the Pueblo peoples."
+}

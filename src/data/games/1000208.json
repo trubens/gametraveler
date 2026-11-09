@@ -1,0 +1,20 @@
+{
+  "id": 1000208,
+  "name": "Saint Kotar",
+  "year": 2021,
+  "developer": "Red Martyr Entertainment",
+  "publisher": "SOEDESCO",
+  "locations": [
+    {
+      "placeId": "sveti-kotar-fictional-croatia",
+      "settingType": "imaginary",
+      "note": "Benedek and Nikolay uncover witchcraft murders in Sveti Kotar, an invented valley town in the mountains of Gorski Kotar.",
+      "source": "https://www.soedesco.com/news/get-to-know-red-martyr-entertainment-saint-kotar"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://www.soedesco.com/news/saint-kotar-console-release-date-announcement",
+  "genres": [
+    "Adventure"
+  ]
+}

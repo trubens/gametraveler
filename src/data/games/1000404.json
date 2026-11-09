@@ -1,0 +1,121 @@
+{
+  "id": 1000404,
+  "name": "Valiant Hearts: Coming Home",
+  "year": 2023,
+  "series": "Valiant Hearts",
+  "developer": "Old Skull Games",
+  "publisher": "Ubisoft, Netflix",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    1916,
+    1917,
+    1918
+  ],
+  "source": "https://en.wikipedia.org/wiki/Valiant_Hearts:_The_Great_War",
+  "reviewed": "2026-11-08",
+  "locations": [
+    {
+      "placeId": "north-sea",
+      "note": "German diver Ernst is caught in the Battle of Jutland, saves drowning sailors as his own boat goes down, and is picked up by the blockade-running submarine Germania."
+    },
+    {
+      "placeId": "baltimore-usa",
+      "note": "The Germania docks in neutral Baltimore, where Ernst befriends dock worker James, Freddie's brother, over their love of music."
+    },
+    {
+      "placeId": "north-atlantic",
+      "note": "Aboard U-155 Ernst deliberately misses the troop ship carrying James; later he sabotages the U-boat's torpedoes, and it is sunk and he is captured."
+    },
+    {
+      "placeId": "vimy-ridge-france",
+      "note": "Freddie teams up with British pilot George at the Battle of Vimy Ridge, Anna comes to train British medics, and George follows a German spy through a tunnel to the enemy lines and escapes in a stolen plane."
+    },
+    {
+      "placeId": "sainte-menehould-france",
+      "note": "Anna nurses the wounded in the town's hospital when the Germans bomb it; James's Harlem Hellfighters arrive and he is reunited with Freddie."
+    },
+    {
+      "placeId": "paris-france",
+      "note": "After holding the line in the spring offensive, the Harlem Hellfighters perform a jazz concert in Paris."
+    },
+    {
+      "placeId": "argonne-forest-france",
+      "note": "In the Meuse–Argonne offensive Freddie is badly wounded protecting James, and George flies him to Anna's field hospital."
+    }
+  ],
+  "routes": [
+    {
+      "id": "james",
+      "name": "James",
+      "characters": [
+        "James"
+      ],
+      "stops": [
+        "baltimore-usa",
+        "north-atlantic",
+        "sainte-menehould-france",
+        "paris-france",
+        "argonne-forest-france"
+      ],
+      "note": "From the Baltimore docks across the Atlantic to the Harlem Hellfighters' war in France.",
+      "source": "https://en.wikipedia.org/wiki/Valiant_Hearts:_The_Great_War"
+    },
+    {
+      "id": "freddie",
+      "name": "Freddie",
+      "characters": [
+        "Freddie"
+      ],
+      "stops": [
+        "vimy-ridge-france",
+        "sainte-menehould-france",
+        "argonne-forest-france"
+      ],
+      "note": "From Vimy Ridge to the Meuse–Argonne offensive.",
+      "source": "https://en.wikipedia.org/wiki/Valiant_Hearts:_The_Great_War"
+    },
+    {
+      "id": "anna",
+      "name": "Anna",
+      "characters": [
+        "Anna"
+      ],
+      "stops": [
+        "sainte-menehould-france",
+        "vimy-ridge-france",
+        "argonne-forest-france"
+      ],
+      "note": "From the hospital at Sainte-Menehould to Vimy and the field hospital of the Meuse–Argonne.",
+      "source": "https://en.wikipedia.org/wiki/Valiant_Hearts:_The_Great_War"
+    },
+    {
+      "id": "george",
+      "name": "George",
+      "characters": [
+        "George"
+      ],
+      "stops": [
+        "vimy-ridge-france",
+        "argonne-forest-france"
+      ],
+      "note": "From the skies over Vimy Ridge to the Meuse–Argonne.",
+      "source": "https://en.wikipedia.org/wiki/Valiant_Hearts:_The_Great_War"
+    },
+    {
+      "id": "ernst",
+      "name": "Ernst",
+      "characters": [
+        "Ernst"
+      ],
+      "stops": [
+        "north-sea",
+        "baltimore-usa",
+        "north-atlantic"
+      ],
+      "note": "From the Battle of Jutland to Baltimore and back to sea on a U-boat.",
+      "source": "https://en.wikipedia.org/wiki/Valiant_Hearts:_The_Great_War"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "roswell-new-mexico-usa",
+  "name": "Roswell, New Mexico, USA",
+  "position": {
+    "lat": 33.3943,
+    "lon": -104.523
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Roswell,_New_Mexico",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Roswell,_New_Mexico",
+  "description": "A city in south-eastern New Mexico."
+}

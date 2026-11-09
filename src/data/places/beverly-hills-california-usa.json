@@ -1,0 +1,14 @@
+{
+  "id": "beverly-hills-california-usa",
+  "name": "Beverly Hills, California, USA",
+  "position": {
+    "lat": 34.0731,
+    "lon": -118.3994
+  },
+  "scale": "area",
+  "parentId": "los-angeles-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Beverly_Hills,_California",
+  "description": "The small city of mansions and Rodeo Drive, surrounded by Los Angeles south-west of the Hollywood Hills.",
+  "descriptionSource": "wikipedia"
+}

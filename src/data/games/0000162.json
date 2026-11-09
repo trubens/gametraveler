@@ -1,0 +1,57 @@
+{
+  "id": 162,
+  "name": "Crysis 2",
+  "year": 2011,
+  "publisher": "Electronic Arts",
+  "series": "Crysis",
+  "developer": "Crytek",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Marine 'Alcatraz' in the Nanosuit fights an alien invasion through a ruined Manhattan."
+    },
+    {
+      "placeId": "grand-central-terminal-new-york-city-usa",
+      "note": "Alcatraz helps the Marines hold Grand Central, the city's evacuation point, against the Ceph."
+    },
+    {
+      "placeId": "times-square-new-york-city-usa",
+      "note": "A second evacuation point to defend, where the alien spores are turned against the Ceph."
+    },
+    {
+      "placeId": "roosevelt-island-new-york-city-usa",
+      "note": "Hargreave's Crynet complex, the Prism, stands on Roosevelt Island."
+    },
+    {
+      "placeId": "central-park-new-york-city-usa",
+      "note": "The litho-ship rises from under Central Park for the final battle."
+    }
+  ],
+  "storyYears": [
+    2023
+  ],
+  "source": "https://en.wikipedia.org/wiki/Crysis_2",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "alcatraz",
+      "name": "Alcatraz",
+      "characters": [
+        "Alcatraz",
+        "Nathan Gould"
+      ],
+      "stops": [
+        "new-york-city-usa",
+        "grand-central-terminal-new-york-city-usa",
+        "times-square-new-york-city-usa",
+        "roosevelt-island-new-york-city-usa",
+        "central-park-new-york-city-usa"
+      ],
+      "note": "Reborn in Prophet's Nanosuit in flooded lower Manhattan, Alcatraz holds the evacuation points at Grand Central and Times Square, storms Hargreave's Prism on Roosevelt Island and ends the Ceph at the spire rising from Central Park.",
+      "source": "https://en.wikipedia.org/wiki/Crysis_2"
+    }
+  ]
+}

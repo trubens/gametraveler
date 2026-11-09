@@ -1,0 +1,25 @@
+{
+  "id": 1000271,
+  "name": "Just Cause",
+  "year": 2006,
+  "series": "Just Cause",
+  "developer": "Avalanche Studios",
+  "publisher": "Eidos Interactive",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "storyYears": [
+    2006
+  ],
+  "source": "https://en.wikipedia.org/wiki/Just_Cause_(video_game)",
+  "locations": [
+    {
+      "placeId": "caribbean",
+      "aliases": [
+        "San Esperito"
+      ],
+      "settingType": "fictionalized",
+      "note": "Rico Rodriguez is dropped into San Esperito, an invented Caribbean island nation, to topple its dictator."
+    }
+  ]
+}

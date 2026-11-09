@@ -1,0 +1,21 @@
+{
+  "id": 470,
+  "name": "Zombie Army Trilogy",
+  "series": "Zombie Army",
+  "year": 2015,
+  "developer": "Rebellion Developments",
+  "publisher": "Rebellion Developments / Sold Out (retail)",
+  "locations": [
+    {
+      "placeId": "berlin-germany",
+      "note": "The supernatural wartime campaign takes players through a ruined Berlin."
+    }
+  ],
+  "storyYears": [
+    1945
+  ],
+  "source": "https://en.wikipedia.org/wiki/Zombie_Army_Trilogy",
+  "genres": [
+    "Third-Person Shooter"
+  ]
+}

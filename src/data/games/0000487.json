@@ -1,0 +1,51 @@
+{
+  "id": 487,
+  "name": "Yakuza: Dead Souls",
+  "year": 2011,
+  "series": "Yakuza / Like a Dragon",
+  "developer": "Sega CS1 R&D",
+  "publisher": "Sega",
+  "locations": [
+    {
+      "placeId": "kabukicho-tokyo-japan",
+      "aliases": [
+        "Kamurocho"
+      ],
+      "settingType": "fictionalized",
+      "note": "Akiyama, Majima, Ryuji Goda and Kiryu fight through a zombie outbreak sealed inside Kamurocho, the series' Kabukicho, ending atop the Millennium Tower against the mutated Nikaido."
+    },
+    {
+      "placeId": "okinawa-japan",
+      "note": "A caller tells Kiryu at his Okinawa orphanage that Haruka has been kidnapped, drawing him back to Kamurocho.",
+      "source": "https://en.wikipedia.org/wiki/Yakuza:_Dead_Souls"
+    }
+  ],
+  "storyYears": [
+    2011
+  ],
+  "source": "https://en.wikipedia.org/wiki/Yakuza:_Dead_Souls",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "four",
+      "name": "Into the quarantine zone",
+      "characters": [
+        "Shun Akiyama",
+        "Goro Majima",
+        "Ryuji Goda",
+        "Kazuma Kiryu"
+      ],
+      "stops": [
+        "kabukicho-tokyo-japan",
+        "okinawa-japan",
+        "kabukicho-tokyo-japan"
+      ],
+      "note": "From the first outbreak in Kamurocho to Kiryu's call in Okinawa and the climb up the Millennium Tower.",
+      "source": "https://en.wikipedia.org/wiki/Yakuza:_Dead_Souls"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "illinois-usa",
+  "name": "Illinois, USA",
+  "position": {
+    "lat": 40.0,
+    "lon": -89.0
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Illinois",
+  "description": "A Midwestern state that runs from Chicago on Lake Michigan south between the Mississippi and the Wabash and Ohio rivers.",
+  "descriptionSource": "wikipedia"
+}

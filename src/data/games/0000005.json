@@ -1,0 +1,35 @@
+{
+  "id": 5,
+  "name": "The Last Express",
+  "year": 1997,
+  "publisher": "Brøderbund",
+  "developer": "Smoking Car Productions",
+  "locations": [
+    {
+      "placeId": "gare-de-l-est-paris-france",
+      "note": "The Orient Express leaves the Gare de l'Est on 24 July 1914 with fugitive Robert Cath jumping aboard from a motorcycle."
+    },
+    {
+      "placeId": "munich-germany",
+      "note": "The second morning, 25 July 1914: the Express stops at Munich, where George Abbot boards and August Schmidt oversees the loading of his crates of 'merchandise'."
+    },
+    {
+      "placeId": "vienna-austria",
+      "note": "Vienna: Kronos and Kahina leave the train without the Firebird, and after departure Tatiana confides her fears about Alexei to Cath."
+    },
+    {
+      "placeId": "istanbul-turkey",
+      "note": "Constantinople is the train's final destination as Europe slides toward war."
+    }
+  ],
+  "storyYears": [
+    1914
+  ],
+  "route": true,
+  "source": "https://en.wikipedia.org/wiki/The_Last_Express",
+  "developerUrl": "https://en.wikipedia.org/wiki/The_Last_Express",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Broderbund",
+  "genres": [
+    "Adventure"
+  ]
+}

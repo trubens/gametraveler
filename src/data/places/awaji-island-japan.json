@@ -1,0 +1,14 @@
+{
+  "id": "awaji-island-japan",
+  "name": "Awaji Island, Japan",
+  "position": {
+    "lat": 34.38,
+    "lon": 134.85
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "island",
+  "source": "https://en.wikipedia.org/wiki/Awaji_Island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Awaji_Island",
+  "description": "An island in the eastern Seto Inland Sea, lying between Honshū and Shikoku in Hyōgo Prefecture."
+}

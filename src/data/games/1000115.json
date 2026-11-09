@@ -1,0 +1,20 @@
+{
+  "id": 1000115,
+  "name": "Control",
+  "year": 2019,
+  "publisher": "505 Games",
+  "developer": "Remedy Entertainment",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "Jesse Faden walks into the Oldest House, a shifting Brutalist skyscraper in New York that houses the Federal Bureau of Control, to look for her brother."
+    }
+  ],
+  "storyYears": [
+    2019
+  ],
+  "source": "https://en.wikipedia.org/wiki/Control_(video_game)",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

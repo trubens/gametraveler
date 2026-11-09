@@ -1,0 +1,20 @@
+{
+  "id": 426,
+  "name": "Pompei: The Legend of Vesuvius",
+  "year": 2000,
+  "developer": "Arxel Tribe",
+  "publisher": "Cryo Interactive / DreamCatcher Interactive",
+  "locations": [
+    {
+      "placeId": "pompeii-italy",
+      "note": "A time traveler explores Pompeii shortly before the eruption of Vesuvius."
+    }
+  ],
+  "storyYears": [
+    79
+  ],
+  "source": "https://en.wikipedia.org/wiki/Pompei:_The_Legend_of_Vesuvius",
+  "genres": [
+    "Adventure"
+  ]
+}

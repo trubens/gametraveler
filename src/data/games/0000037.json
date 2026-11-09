@@ -1,0 +1,62 @@
+{
+  "id": 37,
+  "name": "Crowns and Pawns: Kingdom of Deceit",
+  "year": 2022,
+  "publisher": "Thunderful Publishing",
+  "developer": "Tag of Joy",
+  "locations": [
+    {
+      "placeId": "vilnius-lithuania",
+      "note": "American Milda inherits her grandfather's Vilnius house and uncovers a mystery tied to Lithuanian history."
+    },
+    {
+      "placeId": "cloud-gate-chicago-usa",
+      "note": "The prologue opens in Chicago at Cloud Gate, the Bean, before Milda flies to Lithuania.",
+      "source": "https://adventuregamers.com/walkthroughs/full/crowns-and-pawns-kingdom-of-deceit-full-game-prologue"
+    },
+    {
+      "placeId": "vilnius-university-lithuania",
+      "note": "The university library and archives hold the records Milda digs through.",
+      "source": "https://adventuregamers.com/walkthroughs/full/crowns-and-pawns-kingdom-of-deceit-full-game-prologue"
+    },
+    {
+      "placeId": "orthodox-church-of-the-holy-spirit-vilnius-lithuania",
+      "note": "The Orthodox Church of the Holy Spirit is one of the religious sites on her grandfather's trail.",
+      "source": "https://adventuregamers.com/walkthroughs/full/crowns-and-pawns-kingdom-of-deceit-full-game-prologue"
+    },
+    {
+      "placeId": "church-of-st-catherine-vilnius-lithuania",
+      "note": "St. Catherine's church is another stop on the trail through Vilnius.",
+      "source": "https://adventuregamers.com/walkthroughs/full/crowns-and-pawns-kingdom-of-deceit-full-game-prologue"
+    },
+    {
+      "placeId": "great-synagogue-of-vilnius-lithuania",
+      "note": "The site of the Great Synagogue of Vilnius, destroyed after the war, figures in the search.",
+      "source": "https://adventuregamers.com/walkthroughs/full/crowns-and-pawns-kingdom-of-deceit-full-game-prologue"
+    },
+    {
+      "placeId": "sapieha-palace-vilnius-lithuania",
+      "note": "The grounds of the Sapieha Palace are searched near the end.",
+      "source": "https://adventuregamers.com/walkthroughs/full/crowns-and-pawns-kingdom-of-deceit-full-game-prologue"
+    },
+    {
+      "placeId": "minsk-arena-belarus",
+      "note": "A hockey game at the Minsk-Arena, with its VIP lounge, takes Milda across the border.",
+      "source": "https://adventuregamers.com/walkthroughs/full/crowns-and-pawns-kingdom-of-deceit-full-game-prologue"
+    },
+    {
+      "placeId": "piazza-del-campo-siena-italy",
+      "note": "A flashback meeting with her grandfather plays out on Siena's shell-shaped square.",
+      "source": "https://adventuregamers.com/walkthroughs/full/crowns-and-pawns-kingdom-of-deceit-full-game-prologue"
+    }
+  ],
+  "storyYears": [
+    2022
+  ],
+  "source": "https://en.wikipedia.org/wiki/Crowns_and_Pawns:_Kingdom_of_Deceit",
+  "developerUrl": "https://en.wikipedia.org/wiki/Tag_of_Joy",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Thunderful_Group",
+  "genres": [
+    "Adventure"
+  ]
+}

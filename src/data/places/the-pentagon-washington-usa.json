@@ -1,0 +1,14 @@
+{
+  "id": "the-pentagon-washington-usa",
+  "name": "The Pentagon, Arlington, Virginia, USA",
+  "position": {
+    "lat": 38.8719,
+    "lon": -77.0563
+  },
+  "scale": "site",
+  "parentId": "virginia-usa",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/The_Pentagon",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Pentagon",
+  "description": "The headquarters of the US Department of Defense in Arlington, Virginia, across the Potomac from Washington, built at speed during the Second World War."
+}

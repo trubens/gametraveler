@@ -1,0 +1,13 @@
+{
+  "id": "cambrai-france",
+  "name": "Cambrai, France",
+  "position": {
+    "lat": 50.176,
+    "lon": 3.2345
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cambrai",
+  "description": "A city in the Nord department of northern France on the Scheldt river."
+}

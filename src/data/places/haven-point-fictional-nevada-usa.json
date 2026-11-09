@@ -1,0 +1,14 @@
+{
+  "id": "haven-point-fictional-nevada-usa",
+  "name": "Haven Point, Nevada, USA",
+  "position": {
+    "lat": 38.4,
+    "lon": -117.1
+  },
+  "scale": "area",
+  "parentId": "nevada-usa",
+  "placeType": "area",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Life_Is_Strange_2",
+  "description": "An invented isolated religious commune in the Nevada desert, home of a cult led by Lisbeth. The game names only the state, so the pin in central Nevada is a guess."
+}

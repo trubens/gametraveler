@@ -1,0 +1,20 @@
+{
+  "id": 424,
+  "name": "China: The Forbidden City",
+  "year": 1998,
+  "developer": "Cryo Interactive Entertainment",
+  "publisher": "Cryo Interactive Entertainment / Canal+ Multimedia / Réunion des Musées Nationaux",
+  "locations": [
+    {
+      "placeId": "beijing-forbidden-city-china",
+      "note": "An imperial investigator solves a murder inside Beijing's Forbidden City."
+    }
+  ],
+  "storyYears": [
+    1775
+  ],
+  "source": "https://en.wikipedia.org/wiki/China:_The_Forbidden_City",
+  "genres": [
+    "Adventure"
+  ]
+}

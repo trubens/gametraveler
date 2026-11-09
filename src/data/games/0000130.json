@@ -1,0 +1,85 @@
+{
+  "id": 130,
+  "name": "Assassin's Creed Valhalla",
+  "aliases": [
+    "AC",
+    "AC Valhalla"
+  ],
+  "year": 2020,
+  "publisher": "Ubisoft",
+  "series": "Assassin's Creed",
+  "developer": "Ubisoft Montreal",
+  "locations": [
+    {
+      "placeId": "rogaland-norway",
+      "note": "Eivor's homeland in Rygjafylke, the Viking Age name for Rogaland, where the story begins before the clan sails for England.",
+      "source": "https://www.gamepressure.com/assassins-creed-valhalla/norway-all-secrets-list/zbdbd1"
+    },
+    {
+      "placeId": "england-uk",
+      "note": "Viking Eivor raids and builds alliances across the Anglo-Saxon kingdoms of 9th-century England."
+    },
+    {
+      "placeId": "hordaland-norway",
+      "note": "Hordafylke, today's Hordaland, is the second Norwegian region, opened later in the game.",
+      "source": "https://www.gamepressure.com/assassins-creed-valhalla/norway-all-secrets-list/zbdbd1"
+    },
+    {
+      "placeId": "london-uk",
+      "note": "Lunden, the Roman-walled London, is one of the three cities Eivor can explore."
+    },
+    {
+      "placeId": "york-uk",
+      "note": "Jorvik: Eivor spends Yule in the Viking city hunting the Order's agents among its merchants."
+    },
+    {
+      "placeId": "winchester-uk",
+      "note": "Alfred's capital, where Eivor roots out the Order inside the royal court and the cathedral."
+    },
+    {
+      "placeId": "dublin-ireland",
+      "note": "Wrath of the Druids takes Eivor to Dublin in 879."
+    },
+    {
+      "placeId": "paris-france",
+      "note": "The Siege of Paris expansion raids Francia in 885."
+    },
+    {
+      "placeId": "melun-france",
+      "note": "Melun is one of the Frankish towns in The Siege of Paris."
+    },
+    {
+      "placeId": "l-anse-aux-meadows-canada",
+      "note": "Vinland: Eivor sails to the Norse foothold in Newfoundland.",
+      "settingType": "fictionalized"
+    }
+  ],
+  "storyYears": [
+    872,
+    878,
+    2020
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Valhalla",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Ubisoft_Montreal",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action RPG"
+  ],
+  "routes": [
+    {
+      "id": "eivor",
+      "name": "Eivor Varinsdottir",
+      "characters": [
+        "Eivor",
+        "Sigurd"
+      ],
+      "stops": [
+        "rogaland-norway",
+        "england-uk"
+      ],
+      "note": "Eivor's clan leaves the feuding fjords of Rygjafylke and sails west to carve out a settlement in Anglo-Saxon England.",
+      "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Valhalla"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "munich-germany",
+  "name": "Munich, Germany",
+  "position": {
+    "lat": 48.1351,
+    "lon": 11.582
+  },
+  "scale": "area",
+  "parentId": "germany",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Munich",
+  "description": "The capital of Bavaria and Germany's third city after Berlin and Hamburg."
+}

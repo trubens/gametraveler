@@ -1,0 +1,23 @@
+{
+  "id": 1000200,
+  "name": "Intruder in Antiquonia",
+  "year": 2022,
+  "developer": "Aruma Studios",
+  "publisher": "Aruma Studios",
+  "locations": [
+    {
+      "placeId": "galicia-spain",
+      "aliases": [
+        "Antiquonia"
+      ],
+      "settingType": "fictionalized",
+      "note": "Sarah is found with no memory on the road into Antiquonia, a town that shuns the internet, and has to piece together who she is and why she came.",
+      "source": "https://intruderinantiquonia.com/"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://arumastudios.itch.io/intruder-in-antiquonia",
+  "genres": [
+    "Adventure"
+  ]
+}

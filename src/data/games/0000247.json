@@ -1,0 +1,33 @@
+{
+  "id": 247,
+  "name": "Grand Theft Auto: Liberty City Stories",
+  "aliases": [
+    "GTA",
+    "GTA Liberty City Stories",
+    "GTA LCS"
+  ],
+  "year": 2005,
+  "publisher": "Rockstar Games",
+  "series": "Grand Theft Auto",
+  "developer": "Rockstar Leeds / Rockstar North",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "aliases": [
+        "Liberty City"
+      ],
+      "settingType": "fictionalized",
+      "note": "Back in Liberty City, the series' New York, after four years in hiding, Toni Cipriani rises to made man in the Leone family, kills the treacherous Vincenzo and assassinates Mayor Hole in Belleville Park.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Liberty_City_Stories"
+    }
+  ],
+  "storyYears": [
+    1998
+  ],
+  "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Liberty_City_Stories",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Rockstar_Games",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "autodromo-oscar-y-juan-galvez-buenos-aires-argentina",
+  "name": "Autódromo Oscar y Juan Gálvez, Buenos Aires, Argentina",
+  "position": {
+    "lat": -34.694,
+    "lon": -58.459
+  },
+  "scale": "site",
+  "parentId": "buenos-aires-argentina",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_y_Juan_G%C3%A1lvez",
+  "description": "Buenos Aires's big motor racing circuit, built in 1952 under Juan Perón and first named for Loyalty Day, the 17th of October."
+}

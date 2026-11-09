@@ -1,0 +1,20 @@
+{
+  "id": 95,
+  "name": "Necrobarista",
+  "year": 2020,
+  "publisher": "Route 59, Playism",
+  "developer": "Route 59",
+  "locations": [
+    {
+      "placeId": "melbourne-australia",
+      "note": "A supernatural Melbourne back-alley cafe where the newly dead get a final 24 hours among the living."
+    }
+  ],
+  "storyYears": [
+    2020
+  ],
+  "source": "https://en.wikipedia.org/wiki/Necrobarista",
+  "genres": [
+    "Visual Novel"
+  ]
+}

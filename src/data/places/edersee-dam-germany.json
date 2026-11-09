@@ -1,0 +1,18 @@
+{
+  "id": "edersee-dam-germany",
+  "name": "Edersee Dam, Germany",
+  "position": {
+    "lat": 51.1833,
+    "lon": 9.0589
+  },
+  "scale": "site",
+  "parentId": "germany",
+  "placeType": "landmark",
+  "aliases": [
+    "Eder Dam"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Edersee_Dam",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edersee_Dam",
+  "description": "A hydroelectric dam on the Eder river in northern Hesse, near Waldeck; breached by Allied bombs in the Second World War and rebuilt during the war.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "saint-sauveur-le-vicomte-france",
+  "name": "Saint-Sauveur-le-Vicomte, France",
+  "position": {
+    "lat": 49.3872,
+    "lon": -1.5308
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Saint-Sauveur-le-Vicomte",
+  "description": "A Normandy town on the Cotentin Peninsula near Valognes."
+}

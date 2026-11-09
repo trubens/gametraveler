@@ -1,0 +1,19 @@
+{
+  "id": "arcadia-bay-fictional-oregon-usa",
+  "name": "Arcadia Bay, Oregon, USA",
+  "position": {
+    "lat": 45.5608,
+    "lon": -123.9111
+  },
+  "scale": "area",
+  "parentId": "oregon-usa",
+  "placeType": "city",
+  "fictional": true,
+  "aliases": [
+    "Garibaldi",
+    "Blackwell Academy"
+  ],
+  "source": "https://web.archive.org/web/20170510085147/http://www.momenta.online/2016/02/edouard-caplain-on-the-art-behind-life-is-strange/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Garibaldi,_Oregon",
+  "description": "The invented Oregon coast town of Life Is Strange, home of Blackwell Academy and a clifftop lighthouse. Dontnod's artists first looked at Astoria, then laid the town out after Garibaldi on Tillamook Bay, so the pin stands on Garibaldi."
+}

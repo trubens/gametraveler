@@ -1,0 +1,13 @@
+{
+  "id": "manchuria-china",
+  "name": "Manchuria, China",
+  "position": {
+    "lat": 43,
+    "lon": 126
+  },
+  "scale": "area",
+  "parentId": "china",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manchuria",
+  "description": "A historical region of Northeast Asia, taking in all of today's Northeast China and parts of the Russian Far East south of the Uda River."
+}

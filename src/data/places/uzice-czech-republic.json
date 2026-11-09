@@ -1,0 +1,17 @@
+{
+  "id": "uzice-czech-republic",
+  "name": "Úžice, Czech Republic",
+  "position": {
+    "lat": 49.8722,
+    "lon": 14.9725
+  },
+  "scale": "area",
+  "parentId": "czech-republic",
+  "placeType": "city",
+  "aliases": [
+    "Uzhitz"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Úžice_(Kutná_Hora_District)",
+  "description": "A village in the hills above the Sázava, between Rataje and Talmberk.",
+  "descriptionSource": "wikipedia"
+}

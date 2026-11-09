@@ -1,0 +1,25 @@
+{
+  "id": 406,
+  "name": "Nancy Drew: The Creature of Kapu Cave",
+  "year": 2006,
+  "series": "Nancy Drew",
+  "developer": "Her Interactive",
+  "publisher": "DreamCatcher",
+  "locations": [
+    {
+      "placeId": "hawaii-island-hawaii-usa",
+      "aliases": [
+        "Kapu Cave"
+      ],
+      "settingType": "fictionalized",
+      "note": "As assistant to the entomologist Dr. Quigley Kim, Nancy finds his camp wrecked while pineapple crops vanish and locals blame the legendary Kane Okala; the Hardy Boys are on a case at a resort nearby."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_The_Creature_of_Kapu_Cave",
+  "reviewed": "2026-11-03",
+  "developerUrl": "https://en.wikipedia.org/wiki/HeR_Interactive",
+  "genres": [
+    "Adventure"
+  ]
+}

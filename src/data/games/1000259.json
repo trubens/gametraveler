@@ -1,0 +1,25 @@
+{
+  "id": 1000259,
+  "name": "Dark Fall: The Journal",
+  "year": 2002,
+  "series": "Dark Fall",
+  "developer": "XXv Productions",
+  "publisher": "The Adventure Company",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    2002
+  ],
+  "source": "https://en.wikipedia.org/wiki/Dark_Fall:_The_Journal",
+  "locations": [
+    {
+      "placeId": "dorset-england-uk",
+      "aliases": [
+        "Dowerton"
+      ],
+      "settingType": "fictionalized",
+      "note": "Mr Crowhurst answers his brother's call for help at the abandoned railway hotel and station in Dowerton, an invented Dorset town modelled on a derelict station Jonathan Boakes explored in 2000."
+    }
+  ]
+}

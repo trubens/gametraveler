@@ -1,0 +1,23 @@
+{
+  "id": 1000267,
+  "name": "Alone in the Dark: Illumination",
+  "year": 2015,
+  "series": "Alone in the Dark",
+  "developer": "Pure FPS",
+  "publisher": "Atari",
+  "genres": [
+    "Survival Horror"
+  ],
+  "storyYears": [
+    2015
+  ],
+  "source": "https://en.wikipedia.org/wiki/Alone_in_the_Dark:_Illumination",
+  "reviewed": "2026-11-02",
+  "locations": [
+    {
+      "placeId": "lorwich-fictional-virginia-usa",
+      "settingType": "fictionalized",
+      "note": "Four hunters, among them Ted Carnby and Emily Hartwood's descendant Celeste, fight through the flooded, abandoned coal town of Lorwich to destroy the Obelisk and banish Cthulhu."
+    }
+  ]
+}

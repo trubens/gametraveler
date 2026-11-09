@@ -1,0 +1,19 @@
+{
+  "id": 1000293,
+  "name": "Indika",
+  "year": 2024,
+  "developer": "Odd Meter",
+  "publisher": "11 Bit Studios",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Indika_(video_game)",
+  "locations": [
+    {
+      "placeId": "russia",
+      "settingType": "fictionalized",
+      "note": "The nun Indika leaves her convent and travels with the convict Ilya through an invented late-19th-century Russia to the town of Spasov; the convent, Spasov and its temple are the game’s own."
+    }
+  ]
+}

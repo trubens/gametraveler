@@ -1,0 +1,107 @@
+{
+  "id": 443,
+  "name": "Call of Duty: Vanguard",
+  "year": 2021,
+  "series": "Call of Duty",
+  "developer": "Sledgehammer Games",
+  "publisher": "Activision",
+  "locations": [
+    {
+      "placeId": "stalingrad-volgograd-russia",
+      "note": "Polina's story: the Wehrmacht enters Stalingrad in August 1942, her father is executed and she becomes a sniper."
+    },
+    {
+      "placeId": "merville-gun-battery-france",
+      "note": "Operation Tonga, June 1944: Kingsley drops with the Parachute Regiment, helps destroy the Merville Gun Battery and meets Richard Webb.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Vanguard"
+    },
+    {
+      "placeId": "midway-atoll-usa",
+      "note": "June 1942: Wade Jackson and his gunner Hernandez fly a Dauntless in the Battle of Midway and destroy two Japanese carriers.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Vanguard"
+    },
+    {
+      "placeId": "bougainville-island-papua-new-guinea",
+      "note": "November 1943: shot down and captured on Bougainville, Jackson is freed by the 93rd Infantry Division and flies a captured Aichi dive bomber to help retake the island.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Vanguard"
+    },
+    {
+      "placeId": "tobruk-libya",
+      "note": "Lucas Riggs of the Rats of Tobruk, August 1941: a failed ambush on an Afrika Korps convoy and the defence of the port."
+    },
+    {
+      "placeId": "hamburg-germany",
+      "note": "April 1945: Vanguard hijacks a train to Hamburg and boards a U-boat for the files on Project Phoenix."
+    },
+    {
+      "placeId": "el-alamein-egypt",
+      "note": "October 1942: Riggs disobeys Major Hamms at the Second Battle of El Alamein and retakes a hill on his own."
+    },
+    {
+      "placeId": "berlin-germany",
+      "note": "Captured, the team is taken to the Gestapo headquarters in Berlin, where Richter interrogates them; the frame story of the whole campaign."
+    },
+    {
+      "placeId": "berlin-tempelhof-airport-berlin-germany",
+      "note": "Jackson is caught trying to steal a plane at Tempelhof; in the finale Vanguard chases Freisinger to the airfield, kills him and takes his plane.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Vanguard"
+    }
+  ],
+  "storyYears": [
+    1942,
+    1945
+  ],
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Vanguard",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Activision",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "vanguard",
+      "name": "Task Force Vanguard",
+      "characters": [
+        "Arthur Kingsley",
+        "Polina Petrova",
+        "Lucas Riggs",
+        "Wade Jackson"
+      ],
+      "stops": [
+        "hamburg-germany",
+        "berlin-germany",
+        "berlin-tempelhof-airport-berlin-germany"
+      ],
+      "note": "Vanguard hijacks a train to Hamburg's U-boat pens, is captured and taken to Gestapo headquarters in Berlin, then breaks out as the city falls and runs Freisinger down at Tempelhof.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Vanguard"
+    },
+    {
+      "id": "riggs",
+      "name": "Pvt. Lucas Riggs",
+      "characters": [
+        "Lucas Riggs",
+        "Des Wilmont"
+      ],
+      "stops": [
+        "tobruk-libya",
+        "el-alamein-egypt"
+      ],
+      "note": "From the besieged Rats of Tobruk in 1941 to the hill Riggs retakes against orders at El Alamein.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Vanguard"
+    },
+    {
+      "id": "jackson",
+      "name": "Lt. Wade Jackson",
+      "characters": [
+        "Wade Jackson",
+        "Mateo Hernandez"
+      ],
+      "stops": [
+        "midway-atoll-usa",
+        "bougainville-island-papua-new-guinea"
+      ],
+      "note": "From the dive-bombing runs at Midway in 1942 to the jungle of Bougainville, where Jackson is shot down in 1943.",
+      "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Vanguard"
+    }
+  ]
+}

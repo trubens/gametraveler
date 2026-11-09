@@ -1,0 +1,13 @@
+{
+  "id": "netherlands",
+  "name": "Netherlands",
+  "position": {
+    "lat": 52.42,
+    "lon": 5.61
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Netherlands",
+  "description": "A low-lying country in north-western Europe, often called Holland, with overseas territories in the Caribbean."
+}

@@ -1,0 +1,43 @@
+{
+  "id": 1000301,
+  "name": "Lost Chronicles of Zerzura",
+  "year": 2012,
+  "developer": "Cranberry Production",
+  "publisher": "dtp entertainment",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    1514
+  ],
+  "source": "https://de.wikipedia.org/wiki/Lost_Chronicles_of_Zerzura",
+  "route": true,
+  "locations": [
+    {
+      "placeId": "barcelona-spain",
+      "note": "In 1514 the inventor Feodor Morales tests a flying machine on the roofs of Barcelona; when the Inquisition drags his brother Ramon away, he escapes by balloon.",
+      "source": "https://www.gameboomers.com/wtcheats/pcLl/Zerzura/LostChroniclesZerzura.htm"
+    },
+    {
+      "placeId": "almeria-spain",
+      "note": "The balloon comes down on a church spire in Almería, where Feodor meets Jamila and is carried off by corsairs.",
+      "source": "https://www.gameboomers.com/wtcheats/pcLl/Zerzura/LostChroniclesZerzura.htm"
+    },
+    {
+      "placeId": "malta",
+      "note": "Among the corsairs of Malta, Feodor must win five captains to his side and pass a diving test.",
+      "source": "https://www.gameboomers.com/wtcheats/pcLl/Zerzura/LostChroniclesZerzura.htm"
+    },
+    {
+      "placeId": "tripoli-libya",
+      "note": "Sold as a slave into the palace at Tripoli, Feodor frees Ramon and the Emir from its prison and learns the way to Zerzura.",
+      "source": "https://www.gameboomers.com/wtcheats/pcLl/Zerzura/LostChroniclesZerzura.htm"
+    },
+    {
+      "placeId": "zerzura-legendary-sahara",
+      "settingType": "imaginary",
+      "note": "Across the desert, past a mountain monastery held by the Inquisitor, Feodor opens the gate of the white city and restores its healing fountain.",
+      "source": "https://www.gameboomers.com/wtcheats/pcLl/Zerzura/LostChroniclesZerzura.htm"
+    }
+  ]
+}

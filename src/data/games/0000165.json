@@ -1,0 +1,22 @@
+{
+  "id": 165,
+  "name": "Tom Clancy's Ghost Recon Advanced Warfighter",
+  "year": 2006,
+  "publisher": "Ubisoft",
+  "series": "Ghost Recon",
+  "developer": "Ubisoft Paris",
+  "locations": [
+    {
+      "placeId": "mexico-city-mexico",
+      "note": "The Ghosts counter a coup during a North American summit in Mexico City in 2013."
+    }
+  ],
+  "storyYears": [
+    2013
+  ],
+  "source": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_Ghost_Recon_Advanced_Warfighter",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Third-Person Shooter"
+  ]
+}

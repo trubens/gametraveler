@@ -1,0 +1,15 @@
+{
+  "id": "bahia-brazil",
+  "name": "Bahia, Brazil",
+  "position": {
+    "lat": -12.0,
+    "lon": -41.0
+  },
+  "scale": "area",
+  "parentId": "brazil",
+  "placeType": "region",
+  "source": "https://en.wikipedia.org/wiki/Bahia",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bahia",
+  "description": "One of the 26 states of Brazil, in the Northeast Region, with its capital Salvador on a spit of land between the Bay of All Saints and the Atlantic.",
+  "descriptionSource": "wikipedia"
+}

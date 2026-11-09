@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "name": "Still Life 2",
+  "year": 2009,
+  "publisher": "Microids",
+  "series": "Still Life",
+  "developer": "Gameco Studios",
+  "locations": [
+    {
+      "placeId": "maine-usa",
+      "note": "FBI agent Victoria McPherson hunts the East Coast Killer at an isolated house in rural Maine."
+    }
+  ],
+  "storyYears": [
+    2008
+  ],
+  "source": "https://en.wikipedia.org/wiki/Still_Life_2",
+  "developerUrl": "https://en.wikipedia.org/wiki/Gameco_Studios",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Microids",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "basilica-cistern-istanbul-turkey",
+  "name": "Basilica Cistern, Istanbul, Turkey",
+  "position": {
+    "lat": 41.0081,
+    "lon": 28.9778
+  },
+  "scale": "site",
+  "parentId": "istanbul-turkey",
+  "placeType": "landmark",
+  "aliases": [
+    "Yerebatan Sarnıcı"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Basilica_Cistern",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Basilica_Cistern",
+  "description": "The largest of the hundreds of ancient cisterns beneath Istanbul, built in the 6th century about 150 m southwest of the Hagia Sophia on the historical peninsula.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tillamook-bay-oregon-usa",
+  "name": "Tillamook Bay, Oregon, USA",
+  "position": {
+    "lat": 45.56,
+    "lon": -123.9
+  },
+  "scale": "area",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tillamook_Bay",
+  "description": "A small inlet of the Pacific on the north-west coast of Oregon, a few miles long and sheltered from the open sea."
+}

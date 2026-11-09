@@ -1,0 +1,21 @@
+{
+  "id": 58,
+  "name": "Detective Di: The Silk Rose Murders",
+  "year": 2019,
+  "publisher": "Nupixo Games",
+  "developer": "Nupixo Games",
+  "locations": [
+    {
+      "placeId": "chang-an-xi-an-china",
+      "note": "Magistrate Di Renjie hunts a serial killer in the Tang capital under Empress Wu Zetian."
+    }
+  ],
+  "storyYears": [
+    683
+  ],
+  "source": "https://store.steampowered.com/app/792040/",
+  "developerUrl": "https://en.wikipedia.org/wiki/Nupixo_Games",
+  "genres": [
+    "Adventure"
+  ]
+}

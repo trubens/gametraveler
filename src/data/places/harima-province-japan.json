@@ -1,0 +1,13 @@
+{
+  "id": "harima-province-japan",
+  "name": "Harima Province, Japan",
+  "position": {
+    "lat": 34.9,
+    "lon": 134.9
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Harima_Province",
+  "description": "A former province of Japan, also called Banshū, that covered the south-western part of today's Hyōgo Prefecture on Honshū."
+}

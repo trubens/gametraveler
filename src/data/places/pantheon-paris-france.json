@@ -1,0 +1,18 @@
+{
+  "id": "pantheon-paris-france",
+  "name": "Panthéon, Paris, France",
+  "position": {
+    "lat": 48.8461,
+    "lon": 2.3458
+  },
+  "scale": "site",
+  "parentId": "paris-france",
+  "placeType": "landmark",
+  "aliases": [
+    "Pantheon"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Panth%C3%A9on",
+  "description": "A monument on the Montagne Sainte-Geneviève in the Latin Quarter, built as a church and now the resting place of distinguished French citizens.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Panth%C3%A9on"
+}

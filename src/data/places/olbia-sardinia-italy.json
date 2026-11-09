@@ -1,0 +1,13 @@
+{
+  "id": "olbia-sardinia-italy",
+  "name": "Olbia, Sardinia, Italy",
+  "position": {
+    "lat": 40.92,
+    "lon": 9.5
+  },
+  "scale": "area",
+  "parentId": "sardinia-italy",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Olbia",
+  "description": "A port city in the historic Gallura region of north-eastern Sardinia."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "new-austin-fictionalized-arid-southwest",
+  "name": "New Austin, USA",
+  "position": {
+    "lat": 31,
+    "lon": -105
+  },
+  "scale": "area",
+  "placeType": "area",
+  "fictional": true,
+  "aliases": [
+    "New Austin (fictionalized arid Southwest)"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Southwestern_United_States",
+  "description": "An invented desert state drawn from West Texas, New Mexico and the Mexican border. Pinned on the Rio Grande border country."
+}

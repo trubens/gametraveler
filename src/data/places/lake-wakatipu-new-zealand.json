@@ -1,0 +1,14 @@
+{
+  "id": "lake-wakatipu-new-zealand",
+  "name": "Lake Wakatipu, New Zealand",
+  "position": {
+    "lat": -45.05,
+    "lon": 168.5
+  },
+  "scale": "area",
+  "parentId": "new-zealand",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lake_Wakatipu",
+  "description": "A long, Z-shaped inland lake in the South Island's Otago region, with Queenstown on its shore.",
+  "descriptionSource": "wikipedia"
+}

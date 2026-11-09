@@ -1,0 +1,13 @@
+{
+  "id": "arles-france",
+  "name": "Arles, France",
+  "position": {
+    "lat": 43.6766,
+    "lon": 4.6278
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arles",
+  "description": "A coastal city in the old province of Provence in southern France."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "union-station-los-angeles-usa",
+  "name": "Union Station, Los Angeles, USA",
+  "position": {
+    "lat": 34.0551,
+    "lon": -118.2352
+  },
+  "scale": "site",
+  "parentId": "los-angeles-usa",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Union_Station_(Los_Angeles)",
+  "description": "The 1939 Mission-style terminal, the last of America's great railway stations.",
+  "descriptionSource": "wikipedia"
+}

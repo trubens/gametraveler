@@ -1,578 +1,544 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-08T18:10:17.000Z",
-  "title": "Design System: Game Traveller",
+  "generatedAt": "2026-11-03T13:38:41.000Z",
+  "title": "Design System: Game Traveler",
   "extensions": {
     "colorMeta": {
       "ink": {
-        "role": "neutral",
-        "displayName": "Ink",
-        "canonical": "#121214",
-        "oklch": "oklch(18.3% 0.004 286.0)",
+        "role": "primary",
+        "displayName": "Midnight Ink",
+        "canonical": "#1b2a41",
+        "purpose": "All text, rules, cluster bullets, pressed controls and map labels.",
         "tonalRamp": [
-          "oklch(15% 0.004 286.0)",
-          "oklch(26% 0.004 286.0)",
-          "oklch(38% 0.004 286.0)",
-          "oklch(50% 0.004 286.0)",
-          "oklch(62% 0.004 286.0)",
-          "oklch(74% 0.004 286.0)",
-          "oklch(85% 0.004 286.0)",
-          "oklch(95% 0.004 286.0)"
-        ],
-        "source": "src/index.css @theme --color-ink"
+          "#162336",
+          "#253a5a",
+          "#34517e",
+          "#4369a2",
+          "#688bc0",
+          "#9ab1d5",
+          "#c9d5e9",
+          "#edf1f8"
+        ]
       },
       "ink-soft": {
         "role": "neutral",
         "displayName": "Soft Ink",
-        "canonical": "#46464d",
-        "oklch": "oklch(39.7% 0.012 285.9)",
+        "canonical": "#4f5a6b",
+        "purpose": "Secondary text: meta lines, \"Set in\" lines, placeholders.",
         "tonalRamp": [
-          "oklch(15% 0.012 285.9)",
-          "oklch(26% 0.012 285.9)",
-          "oklch(38% 0.012 285.9)",
-          "oklch(50% 0.012 285.9)",
-          "oklch(62% 0.012 285.9)",
-          "oklch(74% 0.012 285.9)",
-          "oklch(85% 0.012 285.9)",
-          "oklch(95% 0.012 285.9)"
-        ],
-        "source": "src/index.css @theme --color-ink-soft"
+          "#20252c",
+          "#363e49",
+          "#4c5667",
+          "#616f84",
+          "#8490a4",
+          "#adb5c2",
+          "#d3d8df",
+          "#f0f2f4"
+        ]
       },
       "paper": {
         "role": "neutral",
-        "displayName": "Paper",
-        "canonical": "#f7f7f5",
-        "oklch": "oklch(97.6% 0.003 106.4)",
+        "displayName": "Ivory Paper",
+        "canonical": "#ece5d5",
+        "purpose": "The page behind the app, the hover fill on index rows.",
         "tonalRamp": [
-          "oklch(15% 0.003 106.4)",
-          "oklch(26% 0.003 106.4)",
-          "oklch(38% 0.003 106.4)",
-          "oklch(50% 0.003 106.4)",
-          "oklch(62% 0.003 106.4)",
-          "oklch(74% 0.003 106.4)",
-          "oklch(85% 0.003 106.4)",
-          "oklch(95% 0.003 106.4)"
-        ],
-        "source": "src/index.css @theme --color-paper"
+          "#352c18",
+          "#584928",
+          "#7b6638",
+          "#9e8447",
+          "#bca46c",
+          "#d3c29d",
+          "#e7deca",
+          "#f7f4ed"
+        ]
       },
       "sheet": {
         "role": "neutral",
-        "displayName": "Sheet White",
-        "canonical": "#ffffff",
-        "oklch": "oklch(100.0% 0.000 89.9)",
+        "displayName": "Sheet",
+        "canonical": "#fdfaf2",
+        "purpose": "Panels, masthead, filter, notices, floating cards.",
         "tonalRamp": [
-          "oklch(15% 0.000 89.9)",
-          "oklch(26% 0.000 89.9)",
-          "oklch(38% 0.000 89.9)",
-          "oklch(50% 0.000 89.9)",
-          "oklch(62% 0.000 89.9)",
-          "oklch(74% 0.000 89.9)",
-          "oklch(85% 0.000 89.9)",
-          "oklch(95% 0.000 89.9)"
-        ],
-        "source": "src/index.css @theme --color-sheet"
+          "#42330a",
+          "#6f5511",
+          "#9b7718",
+          "#c7991f",
+          "#e2b845",
+          "#eccf83",
+          "#f5e5bd",
+          "#fcf6e9"
+        ]
       },
       "rule": {
         "role": "neutral",
-        "displayName": "Hairline Grey",
-        "canonical": "#d9d9dc",
-        "oklch": "oklch(88.6% 0.004 286.3)",
+        "displayName": "Hairline",
+        "canonical": "#d2d1c2",
+        "purpose": "1px dividers.",
         "tonalRamp": [
-          "oklch(15% 0.004 286.3)",
-          "oklch(26% 0.004 286.3)",
-          "oklch(38% 0.004 286.3)",
-          "oklch(50% 0.004 286.3)",
-          "oklch(62% 0.004 286.3)",
-          "oklch(74% 0.004 286.3)",
-          "oklch(85% 0.004 286.3)",
-          "oklch(95% 0.004 286.3)"
-        ],
-        "source": "src/index.css @theme --color-rule"
+          "#2c2b20",
+          "#494836",
+          "#67654c",
+          "#848261",
+          "#a4a284",
+          "#c2c1ad",
+          "#dfded3",
+          "#f4f4f0"
+        ]
+      },
+      "rule-strong": {
+        "role": "neutral",
+        "displayName": "Strong Hairline",
+        "canonical": "#868c97",
+        "purpose": "Border of an unpressed chip (3.1:1).",
+        "tonalRamp": [
+          "#232529",
+          "#3b3e45",
+          "#535760",
+          "#6a707b",
+          "#8c929c",
+          "#b2b6bd",
+          "#d6d8dc",
+          "#f1f2f3"
+        ]
       },
       "magenta": {
-        "role": "primary",
-        "displayName": "Process Magenta",
-        "canonical": "#d4006f",
-        "oklch": "oklch(56.3% 0.228 0.4)",
+        "role": "secondary",
+        "displayName": "Vermilion",
+        "canonical": "#c0432a",
+        "purpose": "The one accent: places, routes, the primary action, focus ring.",
         "tonalRamp": [
-          "oklch(15% 0.070 0.4)",
-          "oklch(26% 0.107 0.4)",
-          "oklch(38% 0.147 0.4)",
-          "oklch(50% 0.187 0.4)",
-          "oklch(62% 0.213 0.4)",
-          "oklch(74% 0.173 0.4)",
-          "oklch(85% 0.137 0.4)",
-          "oklch(95% 0.103 0.4)"
-        ],
-        "source": "src/index.css @theme --color-magenta (also literal in src/App.tsx RouteLine and public/favicon.svg)"
+          "#3f160e",
+          "#692517",
+          "#923320",
+          "#bc4229",
+          "#d9664f",
+          "#e5998a",
+          "#f1c8c0",
+          "#faedea"
+        ]
       },
       "magenta-deep": {
-        "role": "primary",
-        "displayName": "Deep Magenta",
-        "canonical": "#a8005a",
-        "oklch": "oklch(47.5% 0.193 358.8)",
+        "role": "secondary",
+        "displayName": "Deep Vermilion",
+        "canonical": "#97321e",
+        "purpose": "Hover on primary buttons.",
         "tonalRamp": [
-          "oklch(15% 0.070 358.8)",
-          "oklch(26% 0.107 358.8)",
-          "oklch(38% 0.147 358.8)",
-          "oklch(50% 0.187 358.8)",
-          "oklch(62% 0.193 358.8)",
-          "oklch(74% 0.173 358.8)",
-          "oklch(85% 0.137 358.8)",
-          "oklch(95% 0.103 358.8)"
-        ],
-        "source": "src/index.css @theme --color-magenta-deep"
+          "#40150d",
+          "#6a2315",
+          "#95311e",
+          "#bf3f26",
+          "#db644c",
+          "#e79888",
+          "#f2c8bf",
+          "#fbedea"
+        ]
       },
       "cyan": {
         "role": "tertiary",
-        "displayName": "Process Cyan",
-        "canonical": "#00a3e0",
-        "oklch": "oklch(67.5% 0.142 234.3)",
+        "displayName": "Sea Tint",
+        "canonical": "#d3e0e6",
+        "purpose": "Genre tags and hover fills; never interactive meaning on its own.",
         "tonalRamp": [
-          "oklch(15% 0.070 234.3)",
-          "oklch(26% 0.107 234.3)",
-          "oklch(38% 0.142 234.3)",
-          "oklch(50% 0.142 234.3)",
-          "oklch(62% 0.142 234.3)",
-          "oklch(74% 0.142 234.3)",
-          "oklch(85% 0.137 234.3)",
-          "oklch(95% 0.103 234.3)"
-        ],
-        "source": "src/index.css @theme --color-cyan"
+          "#1c2a31",
+          "#2e4651",
+          "#416272",
+          "#537e92",
+          "#769fb1",
+          "#a4bfcb",
+          "#cedde3",
+          "#eff4f6"
+        ]
       },
       "yellow": {
-        "role": "secondary",
-        "displayName": "Process Yellow",
-        "canonical": "#ffe100",
-        "oklch": "oklch(90.7% 0.188 99.5)",
+        "role": "tertiary",
+        "displayName": "Brass Tint",
+        "canonical": "#e0c07c",
+        "purpose": "Genre tags, text selection, the selected game row at 30%.",
         "tonalRamp": [
-          "oklch(15% 0.070 99.5)",
-          "oklch(26% 0.107 99.5)",
-          "oklch(38% 0.147 99.5)",
-          "oklch(50% 0.187 99.5)",
-          "oklch(62% 0.188 99.5)",
-          "oklch(74% 0.173 99.5)",
-          "oklch(85% 0.137 99.5)",
-          "oklch(95% 0.103 99.5)"
-        ],
-        "source": "src/index.css @theme --color-yellow (also literal in public/favicon.svg)"
+          "#3e2f0f",
+          "#674e18",
+          "#906d22",
+          "#ba8c2c",
+          "#d6ac52",
+          "#e4c78c",
+          "#f0e1c1",
+          "#faf5ea"
+        ]
       },
       "map-ground": {
         "role": "neutral",
         "displayName": "Map Ground",
-        "canonical": "#e4e4e6",
-        "oklch": "oklch(91.9% 0.003 286.3)",
+        "canonical": "#f6f0e3",
+        "purpose": "Behind the faint basemap.",
         "tonalRamp": [
-          "oklch(15% 0.003 286.3)",
-          "oklch(26% 0.003 286.3)",
-          "oklch(38% 0.003 286.3)",
-          "oklch(50% 0.003 286.3)",
-          "oklch(62% 0.003 286.3)",
-          "oklch(74% 0.003 286.3)",
-          "oklch(85% 0.003 286.3)",
-          "oklch(95% 0.003 286.3)"
-        ],
-        "source": "literal in src/App.css (not an @theme token)"
+          "#3a2d13",
+          "#604c1f",
+          "#876a2b",
+          "#ae8838",
+          "#cba85d",
+          "#dcc593",
+          "#ece0c5",
+          "#f9f5ec"
+        ]
       },
       "marker-dimmed": {
         "role": "neutral",
         "displayName": "Dimmed Dot",
-        "canonical": "#9a9aa0",
-        "oklch": "oklch(68.8% 0.009 286.2)",
+        "canonical": "#9aa0aa",
+        "purpose": "Place dots off the shown route.",
         "tonalRamp": [
-          "oklch(15% 0.009 286.2)",
-          "oklch(26% 0.009 286.2)",
-          "oklch(38% 0.009 286.2)",
-          "oklch(50% 0.009 286.2)",
-          "oklch(62% 0.009 286.2)",
-          "oklch(74% 0.009 286.2)",
-          "oklch(85% 0.009 286.2)",
-          "oklch(95% 0.009 286.2)"
-        ],
-        "source": "literal in src/App.css (not an @theme token)"
+          "#23252a",
+          "#3a3e45",
+          "#525761",
+          "#69707d",
+          "#8b929d",
+          "#b1b6be",
+          "#d5d8dc",
+          "#f1f2f3"
+        ]
+      },
+      "cluster-dimmed": {
+        "role": "neutral",
+        "displayName": "Dimmed Cluster",
+        "canonical": "#6b717c",
+        "purpose": "Clusters off the shown route; keeps 4.9:1 for its white numeral.",
+        "tonalRamp": [
+          "#232529",
+          "#3b3e44",
+          "#535760",
+          "#6a707b",
+          "#8c929c",
+          "#b2b6bd",
+          "#d6d8dc",
+          "#f1f2f3"
+        ]
+      },
+      "place-real": {
+        "role": "tertiary",
+        "displayName": "Real Place",
+        "canonical": "#c0432a",
+        "purpose": "Marker colour for a place a game shows as it is.",
+        "tonalRamp": [
+          "#3f160e",
+          "#692517",
+          "#923320",
+          "#bc4229",
+          "#d9664f",
+          "#e5998a",
+          "#f1c8c0",
+          "#faedea"
+        ]
+      },
+      "place-fictionalized": {
+        "role": "tertiary",
+        "displayName": "Fictionalized Place",
+        "canonical": "#23787a",
+        "purpose": "Marker colour for a real place reshaped or renamed.",
+        "tonalRamp": [
+          "#113a3b",
+          "#1c6163",
+          "#28888b",
+          "#33afb2",
+          "#59cdcf",
+          "#90dddf",
+          "#c4edee",
+          "#ebf9f9"
+        ]
+      },
+      "place-imaginary": {
+        "role": "tertiary",
+        "displayName": "Imaginary Place",
+        "canonical": "#6b5b95",
+        "purpose": "Marker colour for a pure invention.",
+        "tonalRamp": [
+          "#221d2f",
+          "#39304f",
+          "#50446f",
+          "#66578e",
+          "#887aae",
+          "#b0a6c9",
+          "#d5d0e2",
+          "#f1eff5"
+        ]
+      },
+      "place-mixed": {
+        "role": "tertiary",
+        "displayName": "Mixed Settings",
+        "canonical": "#7a5c43",
+        "purpose": "Marker colour where games disagree.",
+        "tonalRamp": [
+          "#31251b",
+          "#523e2d",
+          "#73573f",
+          "#947051",
+          "#b39175",
+          "#ccb6a3",
+          "#e4d8ce",
+          "#f6f2ef"
+        ]
       }
     },
     "typographyMeta": {
       "display": {
         "displayName": "Display",
-        "purpose": "Spread title (place, game, search term, 'Near you'): 2.5rem from md up, 1.6rem clamped to two lines on phone. Uppercase, balanced wrap. Built as font-stretch: 68% (Archivo wdth axis)."
+        "purpose": "The panel title (place or game), 85% width, sentence case."
       },
       "masthead": {
         "displayName": "Masthead",
-        "purpose": "GAME TRAVELLER nameplate, uppercase, 'Traveller' in yellow; 1.9rem from md up, 1.6rem on phone. The 'Filter' heading uses the 1.6rem step."
+        "purpose": "The wordmark «Game»; «Traveler» is Newsreader italic at 1.1×."
       },
       "headline": {
         "displayName": "Headline",
-        "purpose": "Game names in the spread, sentence case as in data; a hover-magenta button in the list variant."
+        "purpose": "Welcome heading and dialog headings, 68% width."
+      },
+      "masthead-compact": {
+        "displayName": "Masthead Compact",
+        "purpose": "The wordmark on phones."
+      },
+      "game-title": {
+        "displayName": "Game Title",
+        "purpose": "Game names in a list."
+      },
+      "game-title-compact": {
+        "displayName": "Game Title Compact",
+        "purpose": "Game names in a list on phones."
       },
       "numeral": {
         "displayName": "Numeral",
-        "purpose": "Release-year column in each game row."
+        "purpose": "The release-year column; tabular lining figures."
       },
       "body": {
         "displayName": "Body",
-        "purpose": "Running UI text, desktop issue line, meta line under the title, field text, notices. Weight 700 for journey place names and same-era game names."
+        "purpose": "Running text and notes."
       },
       "body-data": {
         "displayName": "Body Data",
-        "purpose": "Developer/publisher values, chip, era-chip and route-button text, 'Back to' button, one-line location notes."
-      },
-      "subhead": {
-        "displayName": "Subhead",
-        "purpose": "Sticky place sub-headings in multi-place spreads; 'Nearby', 'Set in the same era', 'The journey' headings. Uppercase, tracking-wide."
+        "purpose": "Credits, chips and meta lines."
       },
       "label": {
         "displayName": "Label",
-        "purpose": "Field labels, slider legends, filter badge, section meta, journey step numbers, 'Set in' lines, panel footer; mobile issue line at 0.8125rem."
+        "purpose": "The index line, field legends and section meta."
       },
       "tag": {
         "displayName": "Tag",
-        "purpose": "Genre tags only; uppercase, tracking-wide."
+        "purpose": "Genre tags, the one uppercase style."
       },
       "cluster-numeral": {
         "displayName": "Cluster Numeral",
-        "purpose": "Game count inside a cluster bullet: 17px, 15px from 100 games up, weight 750, 80% width, tabular. Set inline from src/App.tsx."
+        "purpose": "Game count inside a cluster bullet."
       },
       "map-label": {
         "displayName": "Map Label",
-        "purpose": "Permanent caption on route stops, the active place and the reader's position (.leaflet-tooltip.gt-label): 14px bold, 85% width, white on ink."
+        "purpose": "Ink caption labels on the map."
       },
       "attribution": {
         "displayName": "Attribution",
-        "purpose": "Leaflet attribution line only (.leaflet-control-attribution): 12px. The one step below the 13px floor; third-party chrome, never a model for app text."
+        "purpose": "Third-party map attribution only."
       }
     },
     "shadows": [
       {
+        "name": "float",
+        "value": "0 8px 24px -12px rgb(27 42 65 / 0.35)",
+        "purpose": "The one soft shadow: welcome card, menus, suggestions, filter card, consent strip, modals."
+      },
+      {
+        "name": "map-button",
+        "value": "0 1px 3px rgb(27 42 65 / 0.12)",
+        "purpose": "Near me, Surprise me and zoom over the map."
+      },
+      {
         "name": "dot-halo",
-        "value": "0 1px 3px rgb(18 18 20 / 0.45)",
-        "purpose": "Single place dot on the map only; removed when dimmed."
+        "value": "0 1px 3px rgb(27 42 65 / 0.45)",
+        "purpose": "Place dots on the map; removed when dimmed."
       },
       {
-        "name": "bullet-halo",
-        "value": "0 2px 6px rgb(18 18 20 / 0.35)",
-        "purpose": "Cluster bullet on the map only, including the single-game magenta dot."
+        "name": "active-outline",
+        "value": "0 0 0 2px var(--color-ink), 0 1px 3px rgb(27 42 65 / 0.45)",
+        "purpose": "The active or pinned place dot and spot diamond."
       },
       {
-        "name": "user-ring",
-        "value": "0 0 0 2px var(--color-ink)",
-        "purpose": "Hard ink outline around the cyan position dot's white ring. Zero blur; an outline, not a shadow."
-      }
-    ],
-    "inkRules": [
-      {
-        "name": "rule-heavy",
-        "value": "3px solid var(--color-ink)",
-        "purpose": "Structural seams: panel to map, filter sides and bottom, spread header, status and empty notices."
-      },
-      {
-        "name": "rule-control",
-        "value": "2px solid var(--color-ink)",
-        "purpose": "Control frames: select, route toggle, outline genre tag, zoom control, active era chip, cover image frame."
-      },
-      {
-        "name": "rule-chip-idle",
-        "value": "2px solid var(--color-rule)",
-        "purpose": "Idle era chip; turns ink on hover."
-      },
-      {
-        "name": "rule-subhead",
-        "value": "1px solid var(--color-ink)",
-        "purpose": "Under a sticky place sub-heading, and the hairline beneath the spread header's heavy rule."
-      },
-      {
-        "name": "rule-hairline",
-        "value": "1px solid var(--color-rule)",
-        "purpose": "Row dividers, filter footer, Nearby and same-era section edges."
-      }
-    ],
-    "focus": [
-      {
-        "name": "focus-default",
-        "value": "outline: 3px solid var(--color-magenta); outline-offset: 2px",
-        "purpose": "Global :focus-visible, including slider thumbs."
-      },
-      {
-        "name": "focus-on-ink",
-        "value": "outline: 3px solid var(--color-yellow); outline-offset: 0",
-        "purpose": "Search field on the black masthead."
+        "name": "sheet-lift",
+        "value": "0 -8px 24px -14px rgb(27 42 65 / 0.35)",
+        "purpose": "The phone bottom sheet."
       }
     ],
     "motion": [
       {
         "name": "ease-out-expo",
         "value": "cubic-bezier(0.16, 1, 0.3, 1)",
-        "purpose": "The only custom easing (@theme --ease-out-expo); panels, route draw, marker hover."
+        "purpose": "The custom easing (@theme --ease-out-expo): marker size and colour changes, panels."
       },
       {
-        "name": "panel-slide-in",
-        "value": "420ms ease-out-expo; from translateX(-24px) (desktop) / translateY(40px) (<768px), opacity 0",
-        "purpose": "Location spread and filter sheet entrance."
+        "name": "sheet-snap",
+        "value": "420ms cubic-bezier(.22,.75,.2,1)",
+        "purpose": "Bottom sheet moving between its snap points."
       },
       {
         "name": "route-draw",
-        "value": "1100ms ease-out-expo, 150ms delay; stroke-dashoffset 1 to 0 with pathLength=1",
-        "purpose": "Route polyline draws itself in."
+        "value": "1100ms",
+        "purpose": "The route line drawing in."
       },
       {
-        "name": "marker-hover",
-        "value": "transform scale(1.3), 200ms ease-out-expo",
-        "purpose": "Place dot hover."
-      },
-      {
-        "name": "cluster-hover",
-        "value": "background-color 150ms ease-out",
-        "purpose": "Cluster bullet turns magenta."
-      },
-      {
-        "name": "map-fly",
-        "value": "flyTo 0.8s (point, zoom never below 5, shifted 210px right on desktop / 31% up on phone); flyToBounds 1s (route or search, maxZoom 6); cluster flyToBounds 0.8s",
-        "purpose": "Camera moves, offset for the docked panel. Instant setView/fitBounds when restoring from a shared link."
-      },
-      {
-        "name": "notice-dismiss",
-        "value": "2500ms timeout",
-        "purpose": "Status notice clears itself unless the text ends in an ellipsis (in progress)."
-      },
-      {
-        "name": "reduced-motion",
-        "value": "animation/transition-duration 0.01ms",
-        "purpose": "prefers-reduced-motion: reduce collapses all motion."
+        "name": "control-hover",
+        "value": "150ms ease-out",
+        "purpose": "Border and fill changes on controls."
       }
     ],
     "breakpoints": [
       {
-        "name": "md",
-        "value": "768px",
-        "purpose": "Below: bottom-sheet spread (max 62% height, 90% when expanded via the handle), search on its own masthead row, full-width filter, 1.6rem nameplate and title, 0.8125rem issue line. At and above: 420px left-docked spread, 400px framed filter inset 24px from the right, 36px min chip/toggle height, 1.9rem nameplate, 2.5rem title."
+        "name": "xs",
+        "value": "360px",
+        "purpose": "Below: the wordmark drops to 1.0625rem."
       },
       {
-        "name": "lg",
-        "value": "1024px",
-        "purpose": "The 'Near me' masthead button shows its text label; below it is icon-only."
+        "name": "md",
+        "value": "768px",
+        "purpose": "Below: bottom sheet, two-row masthead, full-width filter. At and above: 420px left-docked panel and the 400px filter card."
+      },
+      {
+        "name": "caption",
+        "value": "1360px",
+        "purpose": "Below: the caption and All places move to a 56px strip under the map."
       }
     ],
-    "map": {
-      "tiles": "OpenFreeMap 'positron' vector style rendered by MapLibre GL via @maplibre/maplibre-gl-leaflet; symbol layers rewritten to coalesce(name_en, name:latin, name). OpenStreetMap raster tiles only if the style fails to load.",
-      "tileFilter": "grayscale(1) contrast(0.92) brightness(1.04) on .leaflet-tile-pane and .leaflet-gl-layer canvas",
-      "initialView": "center [30, 10], zoom 3 on desktop / 2 on phone, minZoom 2, maxZoom 18, worldCopyJump",
-      "markerHitArea": "44px (place dots, pinned dots, clusters); user marker 24px, not interactive",
-      "pinned": "Route stops, the active place and up to 8 search hits render outside the cluster group as active dots (zIndexOffset 1000); route stops and the active place carry a permanent gt-label caption (offset 0,-14).",
-      "clusterSizes": {
-        "single": "20px magenta dot, 2.5px white ring (one game across several close places)",
-        "lt10": "38px",
-        "lt50": "46px",
-        "gte50": "54px"
-      },
-      "clusterFontSize": "17px (15px from 100 games)",
-      "clusterClick": "flyToBounds 0.8s while the places can still be separated (fit zoom < 10); otherwise opens the spread in cluster mode",
-      "maxClusterRadius": 50,
-      "listZoom": 10,
-      "label": {
-        "selector": ".leaflet-tooltip.gt-label",
-        "padding": "3px 8px",
-        "background": "var(--color-ink)",
-        "color": "#fff",
-        "font": "14px 700, font-stretch 85%, nowrap",
-        "arrow": "none (::before hidden)",
-        "shadow": "none"
-      },
-      "user": {
-        "selector": ".gt-user span",
-        "size": "18px",
-        "fill": "var(--color-cyan)",
-        "ring": "3px #fff",
-        "outline": "box-shadow 0 0 0 2px var(--color-ink)",
-        "label": "You (offset 0,-10)"
-      },
-      "zoomControl": "44px buttons, 22px glyphs, 2px ink frame, no radius, no shadow, hover yellow, bottom right",
-      "attribution": "12px on rgb(255 255 255 / 0.85)",
-      "route": {
-        "color": "#d4006f",
-        "weight": 4,
-        "opacity": 0.95,
-        "lineCap": "round",
-        "lineJoin": "round",
-        "interactive": false
-      }
-    },
     "brand": {
-      "favicon": {
-        "file": "public/favicon.svg",
-        "viewBox": "0 0 64 64",
-        "field": "#121214",
-        "route": "M12 46 L26 30 L40 38 L54 18, stroke #d4006f 4px, round caps and joins",
-        "stops": "r=5 #d4006f with 2.5px #fff ring at (12,46) and (40,38); terminal r=7 #121214 with 4px #ffe100 ring at (54,18)",
-        "rasters": "favicon-32.png, apple-touch-icon.png, icon-192.png, icon-512.png; manifest background/theme #121214; <meta theme-color> #121214"
-      },
-      "og": {
-        "file": "public/og.png",
-        "size": "1200x630",
-        "composition": "Ink field; 'GAME' white and 'TRAVELLER' yellow in condensed heavy caps; strap 'Where video games take place' in white over a white rule; grey figure line with numbers in yellow; magenta route with white-ringed dots and a yellow-ringed terminal at upper right."
-      }
-    },
-    "open": [
-      "Leaflet zoom control uses text glyphs (+ / −) at 22px rather than SVG icons; 22px is off the ramp and recorded here, not canonized.",
-      "src/DoubleRangeSlider.tsx still sets Norwegian aria-labels ('… fra' / '… til') while the UI is English.",
-      ".impeccable/surfaces/src-app-tsx.md still says 'Norwegian UI copy' and a 400px panel; the build is English and docks the spread at 420px.",
-      "Route colour, map ground and dimmed dot are literals in src/App.tsx and src/App.css rather than @theme tokens."
-    ]
+      "mark": "src/assets/atlas-mark.svg: four folded-map panels, three survey green, the last terracotta.",
+      "favicon": "scripts/generate-icons.py: the mark with wider fold gaps on a rounded paper tile (14/64), so it reads on dark and light tabs.",
+      "shareCard": "scripts/og-card.mjs → public/og.png: the sheet with the wordmark beside the map, every story place dimmed and Indiana Jones and the Fate of Atlantis as the route."
+    }
   },
   "components": [
+    {
+      "name": "Wordmark",
+      "kind": "custom",
+      "refersTo": "masthead",
+      "description": "The folded-map mark and «Game Traveler»: Archivo 720 at 88% width, then Newsreader italic.",
+      "html": "<a class=\"ds-brand\" href=\"#\"><svg viewBox=\"0 0 120 96\" aria-hidden=\"true\"><polygon points=\"0,16 24,24 24,96 0,88\" fill=\"#1b2a41\"/><polygon points=\"28,24 58,0 58,72 28,96\" fill=\"#1b2a41\"/><polygon points=\"62,0 92,24 92,96 62,72\" fill=\"#1b2a41\"/><polygon points=\"96,24 120,16 120,88 96,96\" fill=\"#c0432a\"/></svg><span class=\"ds-brand-name\">Game<i>Traveler</i></span></a>",
+      "css": ".ds-brand { display: inline-flex; align-items: center; gap: 0.43em; min-height: 44px; font-size: 1.3125rem; color: var(--color-ink, #1b2a41); text-decoration: none; } .ds-brand svg { height: 1.05em; width: auto; } .ds-brand-name { font-family: \"Archivo Variable\", system-ui, sans-serif; font-weight: 720; font-stretch: 88%; line-height: 1; letter-spacing: -0.025em; white-space: nowrap; } .ds-brand-name i { margin-left: 0.05em; font-family: \"Newsreader Variable\", Georgia, serif; font-size: 1.1em; font-weight: 500; font-stretch: normal; letter-spacing: -0.01em; } .ds-brand:focus-visible { outline: 3px solid var(--color-magenta, #c0432a); outline-offset: 3px; }"
+    },
+    {
+      "name": "Search Field",
+      "kind": "input",
+      "refersTo": "input-search",
+      "description": "The masthead search: white, 1px ink-tinted border, 10px corners, terracotta focus ring.",
+      "html": "<label class=\"ds-search\"><svg viewBox=\"0 0 24 24\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.25\" stroke-linecap=\"round\"><circle cx=\"11\" cy=\"11\" r=\"7\"/><path d=\"m20 20-3.5-3.5\"/></svg><input type=\"search\" placeholder=\"Search games or places\" /></label>",
+      "css": ".ds-search { position: relative; display: flex; align-items: center; width: 400px; max-width: 100%; color: var(--color-ink-soft, #4f5a6b); } .ds-search svg { position: absolute; left: 12px; pointer-events: none; } .ds-search input { width: 100%; height: 44px; padding: 0 14px 0 40px; border: 1px solid rgb(27 42 65 / 0.22); border-radius: 10px; background: #fff; color: var(--color-ink, #1b2a41); font: 400 1rem/1.5 \"Archivo Variable\", system-ui, sans-serif; } .ds-search input::placeholder { color: var(--color-ink-soft, #4f5a6b); } .ds-search input:hover { border-color: rgb(27 42 65 / 0.5); } .ds-search input:focus-visible { outline: 3px solid var(--color-magenta, #c0432a); outline-offset: 1px; }"
+    },
+    {
+      "name": "Filter Button",
+      "kind": "button",
+      "refersTo": "button-toolbar",
+      "description": "White control beside the search; fills ink when the filter is open, with a terracotta count badge on its edge.",
+      "html": "<button class=\"ds-filter\" type=\"button\"><svg viewBox=\"0 0 24 24\" width=\"19\" height=\"19\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.25\" stroke-linecap=\"round\"><path d=\"M4 6h10M18 6h2M4 12h4M12 12h8M4 18h12M20 18h0\"/><circle cx=\"16\" cy=\"6\" r=\"2\"/><circle cx=\"10\" cy=\"12\" r=\"2\"/><circle cx=\"18\" cy=\"18\" r=\"2\"/></svg>Filter<span class=\"ds-filter-badge\">2</span></button> <button class=\"ds-filter is-active\" type=\"button\">Filter</button>",
+      "css": ".ds-filter { position: relative; height: 44px; padding: 0 14px 0 12px; display: inline-flex; align-items: center; gap: 8px; border: 1px solid rgb(27 42 65 / 0.22); border-radius: 10px; background: #fff; color: var(--color-ink, #1b2a41); font: 600 1rem/1 \"Archivo Variable\", system-ui, sans-serif; cursor: pointer; transition: border-color 150ms ease-out, background-color 150ms ease-out; } .ds-filter:hover { border-color: var(--color-ink, #1b2a41); } .ds-filter:focus-visible { outline: 3px solid var(--color-magenta, #c0432a); outline-offset: 2px; } .ds-filter.is-active { background: var(--color-ink, #1b2a41); border-color: var(--color-ink, #1b2a41); color: var(--color-sheet, #fdfaf2); } .ds-filter-badge { position: absolute; top: -8px; right: -8px; display: grid; place-items: center; width: 24px; height: 24px; border: 2px solid var(--color-sheet, #fdfaf2); border-radius: 999px; background: var(--color-magenta, #c0432a); color: #fff; font-size: 0.875rem; font-variant-numeric: tabular-nums; }"
+    },
     {
       "name": "Primary Button",
       "kind": "button",
       "refersTo": "button-primary",
-      "description": "The single filled action, magenta; confirms the filter (\"Show N games\").",
-      "html": "<button class=\"ds-btn-primary\">Show 206 games</button>",
-      "css": ".ds-btn-primary { font-family: var(--font-sans, 'Archivo Variable', system-ui, sans-serif); height: 44px; padding: 0 20px; border: 0; border-radius: 0; background: var(--color-magenta, #d4006f); color: #fff; font-size: 1rem; font-weight: 700; font-variant-numeric: tabular-nums lining-nums; cursor: pointer; transition: background-color 150ms; } .ds-btn-primary:hover { background: var(--color-magenta-deep, #a8005a); } .ds-btn-primary:focus-visible { outline: 3px solid var(--color-magenta, #d4006f); outline-offset: 2px; }"
+      "description": "The one terracotta action, such as \"Show N games\" in the filter footer.",
+      "html": "<button class=\"ds-btn-primary\" type=\"button\">Show 634 games</button>",
+      "css": ".ds-btn-primary { height: 44px; padding: 0 20px; border: 0; border-radius: 10px; background: var(--color-magenta, #c0432a); color: var(--color-sheet, #fdfaf2); font: 650 1rem/1 \"Archivo Variable\", system-ui, sans-serif; font-variant-numeric: tabular-nums; cursor: pointer; transition: background-color 150ms ease-out; } .ds-btn-primary:hover { background: var(--color-magenta-deep, #97321e); } .ds-btn-primary:focus-visible { outline: 3px solid var(--color-magenta, #c0432a); outline-offset: 3px; }"
     },
     {
-      "name": "Route Toggle (outline button)",
+      "name": "Been here / Want to go",
+      "kind": "chip",
+      "refersTo": "chip",
+      "description": "The place header segment: a 38px hairline pill, two choices, the chosen side filled with ink.",
+      "html": "<div class=\"ds-segment\"><button class=\"is-on\" type=\"button\">Been here</button><button type=\"button\">Want to go</button></div>",
+      "css": ".ds-segment { display: inline-flex; border: 1px solid rgb(27 42 65 / 0.22); border-radius: 999px; overflow: hidden; } .ds-segment button { min-height: 38px; padding: 0 16px 0 13px; border: 0; background: transparent; color: var(--color-ink, #1b2a41); font: 650 0.95rem/1 \"Archivo Variable\", system-ui, sans-serif; letter-spacing: -0.005em; cursor: pointer; } .ds-segment button + button { border-left: 1px solid rgb(27 42 65 / 0.22); } .ds-segment button.is-on { background: var(--color-ink, #1b2a41); color: #fff; } .ds-segment button.is-on + button { border-left-color: transparent; } .ds-segment:hover { border-color: rgb(27 42 65 / 0.5); } .ds-segment button:focus-visible { outline: 3px solid var(--color-magenta, #c0432a); outline-offset: -3px; }"
+    },
+    {
+      "name": "Map Button",
       "kind": "button",
-      "refersTo": "button-outline",
-      "description": "2px ink-framed toggle that draws a game's route; inverts to ink on hover, fills magenta when pressed.",
-      "html": "<div style=\"display:flex;gap:12px;flex-wrap:wrap\"><button class=\"ds-btn-outline\" aria-pressed=\"false\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.25\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"6\" cy=\"19\" r=\"3\"/><path d=\"M9 19h8.5a3.5 3.5 0 0 0 0-7h-11a3.5 3.5 0 0 1 0-7H15\"/><circle cx=\"18\" cy=\"5\" r=\"3\"/></svg>Show the journey (4 places)</button><button class=\"ds-btn-outline\" aria-pressed=\"true\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.25\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"6\" cy=\"19\" r=\"3\"/><path d=\"M9 19h8.5a3.5 3.5 0 0 0 0-7h-11a3.5 3.5 0 0 1 0-7H15\"/><circle cx=\"18\" cy=\"5\" r=\"3\"/></svg>Journey shown on the map</button></div>",
-      "css": ".ds-btn-outline { font-family: var(--font-sans, 'Archivo Variable', system-ui, sans-serif); display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 0 14px; border: 2px solid var(--color-ink, #121214); border-radius: 0; background: transparent; color: var(--color-ink, #121214); font-size: 0.95rem; font-weight: 700; cursor: pointer; transition: background-color 150ms, color 150ms; } .ds-btn-outline:hover { background: var(--color-ink, #121214); color: #fff; } .ds-btn-outline[aria-pressed=\"true\"] { background: var(--color-magenta, #d4006f); border-color: var(--color-magenta, #d4006f); color: #fff; } .ds-btn-outline:focus-visible { outline: 3px solid var(--color-magenta, #d4006f); outline-offset: 2px; }"
+      "refersTo": "button-toolbar",
+      "description": "Near me and Surprise me: 44px sheet squares with 10px corners floating over the map.",
+      "html": "<button class=\"ds-map-button\" type=\"button\" aria-label=\"Near me\"><svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.25\" stroke-linejoin=\"round\"><path d=\"M3 11 21 3l-8 18-2-8z\"/></svg></button>",
+      "css": ".ds-map-button { width: 44px; height: 44px; display: grid; place-items: center; border: 1px solid rgb(27 42 65 / 0.18); border-radius: 10px; background: var(--color-sheet, #fdfaf2); color: var(--color-ink, #1b2a41); box-shadow: 0 1px 3px rgb(27 42 65 / 0.12); cursor: pointer; } .ds-map-button:hover { background: #fff; } .ds-map-button:focus-visible { outline: 3px solid var(--color-magenta, #c0432a); outline-offset: 2px; }"
     },
     {
-      "name": "Masthead",
-      "kind": "nav",
-      "refersTo": "masthead",
-      "description": "Black 64px strip: condensed nameplate, live issue line with the era in yellow, search, 'Near me' and Filter buttons with active count.",
-      "html": "<header class=\"ds-masthead\"><h1 class=\"ds-nameplate\">Game <span>Traveller</span></h1><p class=\"ds-issue\">206 games · 286 places<span> · 3100 BC–2310</span></p><label class=\"ds-search\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.25\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"11\" cy=\"11\" r=\"8\"/><path d=\"m21 21-4.3-4.3\"/></svg><input type=\"search\" placeholder=\"Search games or places\"></label><button class=\"ds-btn-masthead\" aria-label=\"Games near me\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.25\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><line x1=\"2\" x2=\"5\" y1=\"12\" y2=\"12\"/><line x1=\"19\" x2=\"22\" y1=\"12\" y2=\"12\"/><line x1=\"12\" x2=\"12\" y1=\"2\" y2=\"5\"/><line x1=\"12\" x2=\"12\" y1=\"19\" y2=\"22\"/><circle cx=\"12\" cy=\"12\" r=\"7\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/></svg>Near me</button><button class=\"ds-btn-masthead\" aria-expanded=\"false\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.25\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M21 4h-7M10 4H3M21 12h-9M8 12H3M21 20h-5M12 20H3M14 2v4M8 10v4M16 18v4\"/></svg>Filter<b>2</b></button></header>",
-      "css": ".ds-masthead { font-family: var(--font-sans, 'Archivo Variable', system-ui, sans-serif); display: flex; align-items: center; gap: 20px; height: 64px; padding: 0 24px; background: var(--color-ink, #121214); color: #fff; } .ds-nameplate { margin: 0; font-size: 1.9rem; line-height: 1; font-weight: 800; font-stretch: 68%; letter-spacing: -0.01em; text-transform: uppercase; white-space: nowrap; } .ds-nameplate span, .ds-issue span { color: var(--color-yellow, #ffe100); } .ds-issue { margin: 0; font-size: 1rem; line-height: 1; font-weight: 600; font-variant-numeric: tabular-nums lining-nums; white-space: nowrap; } .ds-search { position: relative; display: block; flex: 1; max-width: 448px; margin-left: auto; color: var(--color-ink-soft, #46464d); } .ds-search svg { position: absolute; left: 12px; top: 50%; transform: translateY(-50%); pointer-events: none; } .ds-search input { font-family: var(--font-sans, 'Archivo Variable', system-ui, sans-serif); width: 100%; height: 44px; padding: 0 40px; border: 0; border-radius: 0; background: #fff; color: var(--color-ink, #121214); font-size: 1rem; } .ds-search input::placeholder { color: var(--color-ink-soft, #46464d); } .ds-search input:focus { outline: none; } .ds-search input:focus-visible { outline: 3px solid var(--color-yellow, #ffe100); outline-offset: 0; } .ds-btn-masthead { font-family: var(--font-sans, 'Archivo Variable', system-ui, sans-serif); display: inline-flex; align-items: center; gap: 8px; height: 44px; padding: 0 14px; border: 0; border-radius: 0; background: rgb(255 255 255 / 0.1); color: #fff; font-size: 1rem; font-weight: 700; cursor: pointer; transition: background-color 150ms; } .ds-btn-masthead:hover { background: rgb(255 255 255 / 0.2); } .ds-btn-masthead[aria-expanded=\"true\"] { background: var(--color-yellow, #ffe100); color: var(--color-ink, #121214); } .ds-btn-masthead b { display: grid; place-items: center; width: 24px; height: 24px; border-radius: 9999px; background: var(--color-magenta, #d4006f); color: #fff; font-size: 0.875rem; font-variant-numeric: tabular-nums; } .ds-btn-masthead:focus-visible { outline: 3px solid var(--color-magenta, #d4006f); outline-offset: 2px; }"
-    },
-    {
-      "name": "Genre Select",
-      "kind": "input",
-      "refersTo": "input-search",
-      "description": "2px ink-framed square select in the filter sheet.",
-      "html": "<label class=\"ds-field\"><span>Genre</span><select class=\"ds-select\"><option>All genres</option><option>Adventure</option></select></label>",
-      "css": ".ds-field { font-family: var(--font-sans, 'Archivo Variable', system-ui, sans-serif); display: flex; flex-direction: column; gap: 6px; color: var(--color-ink, #121214); } .ds-field > span { font-size: 0.875rem; font-weight: 600; } .ds-select { font-family: var(--font-sans, 'Archivo Variable', system-ui, sans-serif); height: 44px; padding: 0 40px 0 12px; border: 2px solid var(--color-ink, #121214); border-radius: 0; background: #fff; color: var(--color-ink, #121214); font-size: 1rem; font-weight: 500; cursor: pointer; } .ds-select:focus-visible { outline: 3px solid var(--color-magenta, #d4006f); outline-offset: 2px; }"
-    },
-    {
-      "name": "Story-Year Slider with Era Chips",
-      "kind": "input",
-      "refersTo": "slider-thumb",
-      "description": "Two-thumb range on a non-linear year scale: hairline track, magenta fill, 24px white thumbs with a 3px ink ring (yellow while dragged, no shadow), and era preset chips beneath.",
-      "html": "<div class=\"ds-story\"><fieldset class=\"ds-range\"><legend><span>Story set in</span><span class=\"ds-range-val\">1500 – 1799</span></legend><div class=\"ds-range-track\"><div class=\"ds-range-fill\" style=\"left:34%;right:56%\"></div><span class=\"ds-thumb\" style=\"left:34%\" tabindex=\"0\"></span><span class=\"ds-thumb\" style=\"left:44%\" tabindex=\"0\"></span></div></fieldset><div class=\"ds-eras\" role=\"group\" aria-label=\"Choose an era\"><button class=\"ds-era\" aria-pressed=\"false\">Ancient</button><button class=\"ds-era\" aria-pressed=\"false\">Medieval</button><button class=\"ds-era\" aria-pressed=\"true\">1500s–1700s</button><button class=\"ds-era\" aria-pressed=\"false\">1800s</button><button class=\"ds-era\" aria-pressed=\"false\">1900s</button><button class=\"ds-era\" aria-pressed=\"false\">Today</button><button class=\"ds-era\" aria-pressed=\"false\">Future</button></div></div>",
-      "css": ".ds-story { font-family: var(--font-sans, 'Archivo Variable', system-ui, sans-serif); display: flex; flex-direction: column; gap: 8px; width: 352px; max-width: 100%; color: var(--color-ink, #121214); } .ds-range { margin: 0; padding: 0; border: 0; } .ds-range legend { display: flex; width: 100%; justify-content: space-between; font-size: 0.875rem; font-weight: 600; } .ds-range-val { color: var(--color-ink-soft, #46464d); font-variant-numeric: tabular-nums lining-nums; } .ds-range-track { position: relative; height: 44px; } .ds-range-track::before { content: \"\"; position: absolute; left: 0; right: 0; top: 50%; height: 4px; transform: translateY(-50%); background: var(--color-rule, #d9d9dc); } .ds-range-fill { position: absolute; top: 50%; height: 4px; transform: translateY(-50%); background: var(--color-magenta, #d4006f); } .ds-thumb { position: absolute; top: 50%; width: 24px; height: 24px; transform: translate(-50%, -50%); border-radius: 50%; background: #fff; border: 3px solid var(--color-ink, #121214); box-shadow: none; cursor: grab; } .ds-thumb:active { background: var(--color-yellow, #ffe100); cursor: grabbing; } .ds-thumb:focus-visible { outline: 3px solid var(--color-magenta, #d4006f); outline-offset: 2px; } .ds-eras { display: flex; flex-wrap: wrap; gap: 6px; } .ds-era { font-family: inherit; min-height: 44px; padding: 0 12px; border: 2px solid var(--color-rule, #d9d9dc); border-radius: 0; background: transparent; color: var(--color-ink, #121214); font-size: 0.95rem; font-weight: 600; cursor: pointer; transition: border-color 150ms, background-color 150ms, color 150ms; } .ds-era:hover { border-color: var(--color-ink, #121214); } .ds-era[aria-pressed=\"true\"] { border-color: var(--color-ink, #121214); background: var(--color-ink, #121214); color: #fff; } .ds-era:focus-visible { outline: 3px solid var(--color-magenta, #d4006f); outline-offset: 2px; } @media (min-width: 768px) { .ds-era { min-height: 36px; } }"
-    },
-    {
-      "name": "Place Chips",
-      "kind": "chip",
-      "refersTo": "chip-place",
-      "description": "A game's locations and the Nearby list; the current place is solid ink, others are hairline chips that turn magenta on hover. Nearby chips append game count and distance in soft ink.",
-      "html": "<ul class=\"ds-chips\"><li><span class=\"ds-chip ds-chip-current\"><svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0\"/><circle cx=\"12\" cy=\"10\" r=\"3\"/></svg>Paris, France</span></li><li><button class=\"ds-chip\"><svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.25\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0\"/><circle cx=\"12\" cy=\"10\" r=\"3\"/></svg>Ireland</button></li><li><button class=\"ds-chip\"><svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.25\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0\"/><circle cx=\"12\" cy=\"10\" r=\"3\"/></svg>Lyon<span class=\"ds-chip-meta\">· 2 games · 390 km</span></button></li></ul>",
-      "css": ".ds-chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; list-style: none; } .ds-chip { font-family: var(--font-sans, 'Archivo Variable', system-ui, sans-serif); display: inline-flex; align-items: center; gap: 6px; min-height: 44px; padding: 0 12px; border: 1px solid rgb(70 70 77 / 0.4); border-radius: 0; background: transparent; color: var(--color-ink, #121214); font-size: 0.95rem; font-weight: 500; cursor: pointer; transition: border-color 150ms, color 150ms; } button.ds-chip:hover { border-color: var(--color-magenta, #d4006f); color: var(--color-magenta, #d4006f); } .ds-chip-current { border-color: var(--color-ink, #121214); background: var(--color-ink, #121214); color: #fff; font-weight: 600; cursor: default; } .ds-chip-meta { color: var(--color-ink-soft, #46464d); font-weight: 400; font-variant-numeric: tabular-nums lining-nums; } .ds-chip:focus-visible { outline: 3px solid var(--color-magenta, #d4006f); outline-offset: 2px; } @media (min-width: 768px) { .ds-chip { min-height: 36px; } }"
-    },
-    {
-      "name": "Genre Tags",
-      "kind": "chip",
-      "refersTo": "tag-genre-cyan",
-      "description": "Printed genre labels in four fixed process treatments chosen by a stable hash of the genre name. Never magenta.",
-      "html": "<div class=\"ds-tags\"><span class=\"ds-tag ds-tag-cyan\">Adventure</span><span class=\"ds-tag ds-tag-yellow\">Racing</span><span class=\"ds-tag ds-tag-ink\">Shooter</span><span class=\"ds-tag ds-tag-outline\">Strategy</span></div>",
-      "css": ".ds-tags { display: flex; flex-wrap: wrap; gap: 8px; } .ds-tag { font-family: var(--font-sans, 'Archivo Variable', system-ui, sans-serif); display: inline-block; padding: 2px 8px; font-size: 0.8125rem; font-weight: 700; letter-spacing: 0.025em; text-transform: uppercase; } .ds-tag-cyan { background: var(--color-cyan, #00a3e0); color: var(--color-ink, #121214); } .ds-tag-yellow { background: var(--color-yellow, #ffe100); color: var(--color-ink, #121214); } .ds-tag-ink { background: var(--color-ink, #121214); color: #fff; } .ds-tag-outline { border: 2px solid var(--color-ink, #121214); color: var(--color-ink, #121214); }"
-    },
-    {
-      "name": "Location Spread (list variant)",
+      "name": "Floating Card",
       "kind": "card",
-      "refersTo": "panel-spread",
-      "description": "Docked feature spread: condensed title with Share and Close over a heavy-plus-hairline double rule, a sticky place sub-heading, then games sorted by year with the year in its own column, an optional cover and location note.",
-      "html": "<aside class=\"ds-spread\"><header class=\"ds-spread-head\"><div class=\"ds-spread-title\"><h2>Paris, France</h2><p><b>19 games</b> · set 1481–2310</p></div><button class=\"ds-icon-btn\" aria-label=\"Share this page\"><svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.25\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"18\" cy=\"5\" r=\"3\"/><circle cx=\"6\" cy=\"12\" r=\"3\"/><circle cx=\"18\" cy=\"19\" r=\"3\"/><line x1=\"8.59\" x2=\"15.42\" y1=\"13.51\" y2=\"17.49\"/><line x1=\"15.41\" x2=\"8.59\" y1=\"6.51\" y2=\"10.49\"/></svg></button><button class=\"ds-icon-btn\" aria-label=\"Close panel\"><svg width=\"26\" height=\"26\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M18 6 6 18\"/><path d=\"m6 6 12 12\"/></svg></button></header><h3 class=\"ds-subhead\"><button>Paris, France</button><span>19 games</span></h3><ol class=\"ds-spread-list\"><li class=\"is-selected\"><div class=\"ds-year\">1993</div><article><div class=\"ds-row-head\"><h4><button>The Journeyman Project</button></h4><span class=\"ds-cover\" aria-hidden=\"true\"></span></div><p class=\"ds-tagline\"><span class=\"ds-tag ds-tag-cyan\">Adventure</span><span class=\"ds-setin\">Set in 2112, 2185, 2310</span></p><dl><dt>Developer</dt><dd>Presto Studios</dd><dt>Publisher</dt><dd>Presto Studios</dd></dl></article></li><li><div class=\"ds-year\">1996</div><article><h4><button>Broken Sword: The Shadow of the Templars</button></h4><p class=\"ds-tagline\"><span class=\"ds-tag ds-tag-cyan\">Adventure</span></p><p class=\"ds-note\">Opens with a Paris cafe bombing that drags tourist George Stobbart into the Templar mystery.</p><dl><dt>Developer</dt><dd>Revolution Software</dd><dt>Publisher</dt><dd>Virgin Interactive</dd></dl></article></li></ol><footer class=\"ds-spread-foot\"><p>Missing a game or a place? <a href=\"#\">Suggest it</a></p><p>Cover art from <a href=\"#\" class=\"ds-foot-plain\">IGDB</a>.</p></footer></aside>",
-      "css": ".ds-spread { font-family: var(--font-sans, 'Archivo Variable', system-ui, sans-serif); width: 420px; max-width: 100%; background: #fff; color: var(--color-ink, #121214); border-right: 3px solid var(--color-ink, #121214); } .ds-spread-head { position: relative; display: flex; align-items: flex-start; gap: 8px; margin-bottom: 8px; padding: 20px 24px 16px; border-bottom: 3px solid var(--color-ink, #121214); } .ds-spread-head::after { content: \"\"; position: absolute; left: 0; right: 0; bottom: -6px; height: 1px; background: var(--color-ink, #121214); } .ds-spread-title { flex: 1; min-width: 0; } .ds-spread-head h2 { margin: 0; font-size: 2.5rem; line-height: 0.95; font-weight: 800; font-stretch: 68%; letter-spacing: -0.01em; text-transform: uppercase; text-wrap: balance; } .ds-spread-head p { margin: 8px 0 0; color: var(--color-ink-soft, #46464d); font-variant-numeric: tabular-nums lining-nums; } .ds-spread-head b { color: var(--color-ink, #121214); font-weight: 600; } .ds-icon-btn { display: grid; place-items: center; width: 44px; height: 44px; flex-shrink: 0; border: 0; border-radius: 0; background: transparent; color: var(--color-ink, #121214); cursor: pointer; transition: background-color 150ms; } .ds-icon-btn:last-child { margin-right: -8px; } .ds-icon-btn:hover { background: var(--color-yellow, #ffe100); } .ds-icon-btn:focus-visible { outline: 3px solid var(--color-magenta, #d4006f); outline-offset: 2px; } .ds-subhead { position: sticky; top: 0; z-index: 1; display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin: 0; padding: 16px 24px 8px; border-bottom: 1px solid var(--color-ink, #121214); background: #fff; } .ds-subhead button { font-family: inherit; min-height: 36px; padding: 0; border: 0; background: none; color: inherit; font-size: 0.95rem; font-weight: 700; letter-spacing: 0.025em; text-transform: uppercase; text-align: left; cursor: pointer; } .ds-subhead button:hover { color: var(--color-magenta, #d4006f); } .ds-subhead span { flex-shrink: 0; color: var(--color-ink-soft, #46464d); font-size: 0.875rem; font-weight: 600; font-variant-numeric: tabular-nums lining-nums; } .ds-spread-list { margin: 0; padding: 0; list-style: none; } .ds-spread-list li { display: grid; grid-template-columns: 4.25rem 1fr; column-gap: 16px; padding: 20px 24px; border-bottom: 1px solid var(--color-rule, #d9d9dc); transition: background-color 150ms; } .ds-spread-list li.is-selected { background: rgb(255 225 0 / 0.3); } .ds-year { padding-top: 2px; font-size: 1.9rem; line-height: 1; font-weight: 800; font-stretch: 68%; font-variant-numeric: tabular-nums lining-nums; } .ds-row-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; } .ds-spread-list h4 { margin: 0; font-size: 1.6rem; line-height: 1.05; font-weight: 800; font-stretch: 68%; letter-spacing: -0.01em; } .ds-spread-list h4 button { font: inherit; padding: 0; border: 0; background: none; color: inherit; text-align: left; cursor: pointer; } .ds-spread-list h4 button:hover { color: var(--color-magenta, #d4006f); text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 4px; } .ds-cover { display: block; width: 64px; height: 85px; flex-shrink: 0; border: 2px solid var(--color-ink, #121214); background: var(--color-rule, #d9d9dc); } .ds-tagline { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 10px 0 0; } .ds-tag { display: inline-block; padding: 2px 8px; font-size: 0.8125rem; font-weight: 700; letter-spacing: 0.025em; text-transform: uppercase; } .ds-tag-cyan { background: var(--color-cyan, #00a3e0); color: var(--color-ink, #121214); } .ds-setin { color: var(--color-ink-soft, #46464d); font-size: 0.875rem; font-variant-numeric: tabular-nums lining-nums; } .ds-note { margin: 12px 0 0; font-size: 0.95rem; line-height: 1.375; } .ds-spread-list dl { display: grid; grid-template-columns: auto 1fr; gap: 2px 12px; margin: 12px 0 0; font-size: 0.95rem; } .ds-spread-list dt { color: var(--color-ink-soft, #46464d); } .ds-spread-list dd { margin: 0; font-weight: 500; } .ds-spread-foot { padding: 20px 24px; color: var(--color-ink-soft, #46464d); font-size: 0.875rem; } .ds-spread-foot p { margin: 0; } .ds-spread-foot p + p { margin-top: 4px; } .ds-spread-foot a { color: var(--color-ink, #121214); font-weight: 600; text-decoration: underline; text-underline-offset: 4px; } .ds-spread-foot a:hover { color: var(--color-magenta, #d4006f); } .ds-spread-foot a.ds-foot-plain { color: inherit; font-weight: 400; }"
+      "refersTo": "panel",
+      "description": "Anything that floats over the map (welcome, menus, filter): sheet, 14px corners, 1px tinted border, the one soft shadow.",
+      "html": "<div class=\"ds-float\"><h2>Where video games <em>take place</em></h2><p>Pan the map, open a place, follow a game's journey.</p></div>",
+      "css": ".ds-float { width: 338px; padding: 20px 22px 16px; border: 1px solid rgb(27 42 65 / 0.18); border-radius: 14px; background: var(--color-sheet, #fdfaf2); box-shadow: 0 8px 24px -12px rgb(27 42 65 / 0.35); color: var(--color-ink, #1b2a41); font-family: \"Archivo Variable\", system-ui, sans-serif; } .ds-float h2 { margin: 0; font-size: 1.9rem; line-height: 1; font-weight: 800; font-stretch: 68%; letter-spacing: -0.01em; } .ds-float h2 em { font-style: normal; color: var(--color-magenta, #c0432a); } .ds-float p { margin: 12px 0 0; font-size: 0.95rem; line-height: 1.45; color: var(--color-ink-soft, #4f5a6b); }"
     },
     {
-      "name": "Game Spread (journey and same era)",
-      "kind": "card",
-      "refersTo": "panel-subhead",
-      "description": "The game variant of the spread: 'Back to' button, year-first meta line, a numbered journey list with magenta step numbers and one-line notes, then a compact 'Set in the same era' list.",
-      "html": "<aside class=\"ds-game\"><header class=\"ds-game-head\"><button class=\"ds-back\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.25\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m12 19-7-7 7-7\"/><path d=\"M19 12H5\"/></svg>Back to Paris</button><h2>Broken Sword: The Shadow of the Templars</h2><p><b>1996</b> · 4 places · set 1996</p></header><section class=\"ds-journey\"><h4>The journey · 4 places</h4><ol><li><span class=\"ds-step\">1</span><div><button>Paris, France</button><p>Opens with a Paris cafe bombing that drags tourist George Stobbart into the Templar mystery.</p></div></li><li><span class=\"ds-step\">2</span><div><button>Ireland</button><p>A dig at Lochmarne castle in Ireland uncovers a Templar site tied to the conspiracy.</p></div></li></ol></section><section class=\"ds-era-list\"><h3>Set in the same era</h3><ol><li><span class=\"ds-era-year\">1993</span><button>The Journeyman Project<span>1993</span></button></li><li><span class=\"ds-era-year\">1996</span><button>The Last Express<span>1914</span></button></li></ol></section></aside>",
-      "css": ".ds-game { font-family: var(--font-sans, 'Archivo Variable', system-ui, sans-serif); width: 420px; max-width: 100%; background: #fff; color: var(--color-ink, #121214); border-right: 3px solid var(--color-ink, #121214); } .ds-game-head { position: relative; margin-bottom: 8px; padding: 20px 24px 16px; border-bottom: 3px solid var(--color-ink, #121214); } .ds-game-head::after { content: \"\"; position: absolute; left: 0; right: 0; bottom: -6px; height: 1px; background: var(--color-ink, #121214); } .ds-back { font-family: inherit; display: inline-flex; align-items: center; gap: 6px; min-height: 36px; margin: 0 0 8px -4px; padding: 0 4px; border: 0; background: none; color: var(--color-ink-soft, #46464d); font-size: 0.95rem; font-weight: 600; cursor: pointer; } .ds-back:hover { color: var(--color-magenta, #d4006f); } .ds-game-head h2 { margin: 0; font-size: 2.5rem; line-height: 0.95; font-weight: 800; font-stretch: 68%; letter-spacing: -0.01em; text-transform: uppercase; text-wrap: balance; } .ds-game-head p { margin: 8px 0 0; color: var(--color-ink-soft, #46464d); font-variant-numeric: tabular-nums lining-nums; } .ds-game-head b { color: var(--color-ink, #121214); font-weight: 600; } .ds-journey { padding: 20px 24px; border-bottom: 1px solid var(--color-rule, #d9d9dc); } .ds-journey h4, .ds-era-list h3 { margin: 0; font-size: 0.95rem; font-weight: 700; letter-spacing: 0.025em; text-transform: uppercase; } .ds-journey ol { display: flex; flex-direction: column; gap: 4px; margin: 8px 0 0; padding: 0; list-style: none; } .ds-journey li { display: grid; grid-template-columns: 1.5rem 1fr; column-gap: 8px; } .ds-step { padding-top: 10px; color: var(--color-magenta, #d4006f); font-size: 0.875rem; font-weight: 700; font-variant-numeric: tabular-nums lining-nums; } .ds-journey button { font-family: inherit; min-height: 44px; padding: 0; border: 0; background: none; color: var(--color-ink, #121214); font-size: 1rem; font-weight: 700; text-align: left; cursor: pointer; } .ds-journey button:hover { color: var(--color-magenta, #d4006f); } .ds-journey p { margin: -4px 0 0; padding-bottom: 8px; color: var(--color-ink-soft, #46464d); font-size: 0.95rem; line-height: 1.375; } .ds-era-list { padding: 20px 24px; border-bottom: 1px solid var(--color-rule, #d9d9dc); } .ds-era-list ol { margin: 8px 0 0; padding: 0; list-style: none; } .ds-era-list li { display: grid; grid-template-columns: 4.25rem 1fr; column-gap: 16px; border-bottom: 1px solid var(--color-rule, #d9d9dc); } .ds-era-list li:last-child { border-bottom: 0; } .ds-era-year { padding: 12px 0; color: var(--color-ink-soft, #46464d); font-size: 1rem; font-weight: 600; line-height: 1; font-variant-numeric: tabular-nums lining-nums; } .ds-era-list button { font-family: inherit; min-height: 44px; padding: 8px 0; border: 0; background: none; color: var(--color-ink, #121214); font-size: 1rem; font-weight: 700; line-height: 1.25; text-align: left; cursor: pointer; } .ds-era-list button:hover { color: var(--color-magenta, #d4006f); } .ds-era-list button span { margin-left: 8px; color: var(--color-ink-soft, #46464d); font-weight: 400; font-variant-numeric: tabular-nums lining-nums; } @media (min-width: 768px) { .ds-journey button { min-height: 36px; } }"
-    },
-    {
-      "name": "Notices",
-      "kind": "custom",
-      "refersTo": "notice-status",
-      "description": "Framed strips at the top centre of the map: a transient status notice in white on ink, and an empty-state notice in ink on sheet with magenta reset links.",
-      "html": "<div class=\"ds-notices\"><div class=\"ds-notice ds-notice-status\" role=\"status\">Link copied</div><div class=\"ds-notice ds-notice-empty\" role=\"status\"><span>No games match “tokyo” with these filters.</span><button>Clear search</button><button>Reset filters</button><a href=\"#\">Suggest a game</a></div></div>",
-      "css": ".ds-notices { font-family: var(--font-sans, 'Archivo Variable', system-ui, sans-serif); display: flex; flex-direction: column; align-items: center; gap: 8px; width: 420px; max-width: 100%; padding: 24px 16px; background: #e4e4e6; } .ds-notice { border: 3px solid var(--color-ink, #121214); padding: 12px 20px; font-size: 1rem; font-weight: 600; } .ds-notice-status { background: var(--color-ink, #121214); color: #fff; } .ds-notice-empty { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 16px; max-width: 100%; background: #fff; color: var(--color-ink, #121214); } .ds-notice-empty button { font-family: inherit; min-height: 44px; padding: 0; border: 0; background: none; color: var(--color-magenta, #d4006f); font-size: 1rem; font-weight: 700; text-decoration: underline; text-underline-offset: 4px; cursor: pointer; } .ds-notice-empty a { color: var(--color-ink-soft, #46464d); font-weight: 600; text-decoration: underline; text-underline-offset: 4px; } .ds-notice-empty button:focus-visible, .ds-notice-empty a:focus-visible { outline: 3px solid var(--color-magenta, #d4006f); outline-offset: 2px; }"
-    },
-    {
-      "name": "Map Overprint",
+      "name": "Place Dot",
       "kind": "custom",
       "refersTo": "map-marker",
-      "description": "Signature marks on single-grey tiles: magenta place dot, active ink dot with yellow ring and caption label, dimmed dot, ink cluster bullet, single-game cluster dot, the reader's cyan position dot, and the self-drawing magenta route line.",
-      "html": "<div class=\"ds-map\"><svg class=\"ds-route\" viewBox=\"0 0 320 140\" aria-hidden=\"true\"><path d=\"M40 110 L280 40\" pathLength=\"1\"/></svg><span class=\"ds-dot\" style=\"left:150px;top:30px\"></span><span class=\"ds-dot is-active\" style=\"left:40px;top:110px\"><i class=\"ds-label\">Spain</i></span><span class=\"ds-dot is-active\" style=\"left:280px;top:40px\"><i class=\"ds-label\">Syria</i></span><span class=\"ds-dot is-dimmed\" style=\"left:200px;top:115px\"></span><span class=\"ds-cluster\" style=\"left:90px;top:40px;width:38px;height:38px\">4</span><span class=\"ds-cluster\" style=\"left:230px;top:100px;width:46px;height:46px\">17</span><span class=\"ds-cluster is-single\" style=\"left:120px;top:80px\"></span><span class=\"ds-user\" style=\"left:170px;top:70px\"><i class=\"ds-label\">You</i></span></div>",
-      "css": ".ds-map { font-family: var(--font-sans, 'Archivo Variable', system-ui, sans-serif); position: relative; width: 320px; height: 140px; background: #e4e4e6; overflow: hidden; } .ds-route { position: absolute; inset: 0; width: 100%; height: 100%; } .ds-route path { fill: none; stroke: var(--color-magenta, #d4006f); stroke-width: 4; stroke-opacity: 0.95; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 1; stroke-dashoffset: 1; animation: ds-draw 1100ms cubic-bezier(0.16, 1, 0.3, 1) 150ms forwards; } @keyframes ds-draw { to { stroke-dashoffset: 0; } } .ds-dot { position: absolute; width: 16px; height: 16px; transform: translate(-50%, -50%); border-radius: 50%; background: var(--color-magenta, #d4006f); border: 2.5px solid #fff; box-shadow: 0 1px 3px rgb(18 18 20 / 0.45); transition: transform 200ms cubic-bezier(0.16, 1, 0.3, 1); cursor: pointer; } .ds-dot:hover { transform: translate(-50%, -50%) scale(1.3); } .ds-dot.is-active { width: 22px; height: 22px; background: var(--color-ink, #121214); border: 3.5px solid var(--color-yellow, #ffe100); } .ds-dot.is-dimmed { background: #9a9aa0; box-shadow: none; } .ds-label { position: absolute; left: 50%; bottom: calc(100% + 6px); transform: translateX(-50%); padding: 3px 8px; background: var(--color-ink, #121214); color: #fff; font-style: normal; font-size: 14px; font-weight: 700; font-stretch: 85%; line-height: 1.5; white-space: nowrap; } .ds-cluster { position: absolute; display: grid; place-items: center; transform: translate(-50%, -50%); border-radius: 50%; background: var(--color-ink, #121214); color: #fff; border: 3px solid #fff; box-shadow: 0 2px 6px rgb(18 18 20 / 0.35); font-size: 17px; font-weight: 750; font-stretch: 80%; line-height: 1; font-variant-numeric: tabular-nums; transition: background-color 150ms ease-out; cursor: pointer; } .ds-cluster:hover { background: var(--color-magenta, #d4006f); } .ds-cluster.is-single { width: 20px; height: 20px; background: var(--color-magenta, #d4006f); border-width: 2.5px; } .ds-user { position: absolute; width: 18px; height: 18px; transform: translate(-50%, -50%); border-radius: 50%; background: var(--color-cyan, #00a3e0); border: 3px solid #fff; box-shadow: 0 0 0 2px var(--color-ink, #121214); } @media (prefers-reduced-motion: reduce) { .ds-route path { animation-duration: 0.01ms; } .ds-dot { transition-duration: 0.01ms; } }"
+      "description": "The map overprint: 16px terracotta dot with a white ring; 22px with a sheet ring and ink outline when active; grey when dimmed.",
+      "html": "<span class=\"ds-dot\"></span> <span class=\"ds-dot is-active\"></span> <span class=\"ds-dot is-dimmed\"></span>",
+      "css": ".ds-dot { display: inline-block; width: 16px; height: 16px; border: 2.5px solid #fff; border-radius: 50%; background: var(--color-magenta, #c0432a); box-shadow: 0 1px 3px rgb(27 42 65 / 0.45); vertical-align: middle; transition: width 180ms cubic-bezier(0.16, 1, 0.3, 1), height 180ms cubic-bezier(0.16, 1, 0.3, 1); } .ds-dot.is-active { width: 22px; height: 22px; border: 3px solid var(--color-sheet, #fdfaf2); box-shadow: 0 0 0 2px var(--color-ink, #1b2a41), 0 1px 3px rgb(27 42 65 / 0.45); } .ds-dot.is-dimmed { background: #9aa0aa; box-shadow: none; }"
+    },
+    {
+      "name": "Map Label",
+      "kind": "custom",
+      "refersTo": "map-label",
+      "description": "Ink caption on route stops and the active place, with the stop number in a route-coloured pill.",
+      "html": "<span class=\"ds-label\"><b>3</b>Tikal, Guatemala</span>",
+      "css": ".ds-label { display: inline-block; padding: 5px 11px 5px 7px; border-radius: 8px; background: var(--color-ink, #1b2a41); color: #fff; font: 700 14px/1.25 \"Archivo Variable\", system-ui, sans-serif; font-stretch: 85%; } .ds-label b { display: inline-grid; place-items: center; min-width: 20px; height: 20px; margin-right: 8px; padding: 0 5px; border-radius: 999px; background: var(--color-magenta, #c0432a); box-shadow: 0 0 0 1.5px #fff; font-size: 12px; font-weight: 800; font-variant-numeric: tabular-nums; vertical-align: 1px; }"
     }
   ],
   "narrative": {
-    "northStar": "The Fold-Out Supplement",
-    "overview": "The map is the centre spread of a 1990s games magazine, pulled out and laid flat. The world is printed in a single grey ink, and everything the reader can act on is overprinted in CMYK process colour: magenta dots for places, black numbered bullets for clusters, a magenta route line for the selected game's journey, and small black caption labels naming the stops along it. Chrome sits at the edges like a magazine's furniture: a black masthead strip across the top, and a feature spread that docks to the left (desktop) or rises as a bottom sheet (phone).\n\nThe type is Archivo in two widths. Headlines are condensed and heavy, the way magazine features set their titles. UI text stays at normal width. Release years carry as much weight as game names, set as large tabular numerals in their own column. Depth comes from ink rules, never from soft shadows or floating cards: heavy 3px rules mark seams, 2px rules frame controls, 1px hairlines divide rows. Every corner is square. The only round forms are the dots printed on the map and the few marks that echo them. The one kind of picture in the product is a game's cover from IGDB, printed small and framed in ink like a thumbnail in a review column.\n\nThe density is generous on purpose. The audience is 30 to 60, so app text never drops below 13px (only Leaflet's attribution line is smaller, at 12px), interactive targets are 44px tall on touch, and contrast is ink on white. UI copy is English.",
+    "northStar": "The Voyage Chart",
+    "overview": "Game Traveler is a reference atlas for video games. The world is printed faintly on ivory with a smoke-blue sea, like a steamship chart, and everything a reader can act on is overprinted in two inks: deep midnight blue for structure and vermilion for destinations. The chrome is the atlas's furniture: a cream title bar with the wordmark and a live index line (\"598 games / 685 places · 3100 BC–2310\"), a sheet that docks to the left on desktop or rises as a bottom sheet on phones, and a list of every place by country for readers who would rather use the index than the map.\n\nThe type is one family, Archivo, in several widths. Titles and game names are condensed and heavy, release years are big tabular numerals in their own column, and controls and running text stay at normal width. The only other face is Newsreader italic, used for «Traveler» in the wordmark and for the line «A video game atlas»; everything else, including the welcome heading, is Archivo.\n\nThe audience is 30 to 60, so app text never drops below 13px (0.8125rem), touch targets are 44px, and every text pair passes WCAG AA. UI copy is English and speaks plainly: \"Games in this area\", not \"cluster\"; \"The pin marks the area, not an exact spot\", not \"Representative map point\".",
     "keyCharacteristics": [
-      "Grey single-ink map; colour only where there is something to act on.",
-      "Magenta is the one action and route colour; cyan, yellow and black sort genres.",
-      "Condensed heavy Archivo caps for titles, normal-width Archivo for UI.",
-      "Ink rules for seams and edges, square corners on everything except map dots.",
-      "The year comes first: tabular numerals in their own column.",
-      "Place names on the map are set as captions: ink boxes, white condensed bold, no arrow."
+      "Faint, desaturated basemap; colour only where there is something to act on.",
+      "Vermilion (`magenta` token) is the one action, destination and route colour.",
+      "Midnight ink (`ink`) for text, rules, clusters and pressed controls.",
+      "Condensed heavy Archivo for titles, names and years; normal width for UI.",
+      "Square corners everywhere except things printed on the map.",
+      "The map shows games, not just numbers: clusters list their games on hover, and small clusters open as a list."
     ],
     "rules": [
       {
-        "name": "The One Action Ink Rule",
-        "body": "Magenta means \"act here\" or \"this is the route\". Never use it for genre, decoration or a passive label.",
+        "name": "The One Accent Rule",
+        "body": "Vermilion means \"a place\", \"act here\" or \"this is the route\". Never use it for genre or decoration.",
         "section": "colors"
       },
       {
-        "name": "The Process Ink Rule",
-        "body": "Genre tags take one of four fixed treatments: cyan, yellow, black, or a 2px black outline, assigned by a stable hash of the genre name so a genre always looks the same. Magenta is never in that set.",
+        "name": "The Faint Map Rule",
+        "body": "Tiles are always desaturated (`grayscale(0.85) sepia(0.05) contrast(0.9) brightness(1.03)`, baked into the style in basemapTone.ts) so labels sit behind markers, not beside them; land is ivory (#f6f0e3) and the sea smoke blue (#b7cbd2), set after the tone. Rejected (3 November 2026): sepia 0.18 and contrast 0.78, which yellowed the whole map like newsprint, and a grey-beige sea barely darker than the land. Town and city names sit 1.2em off their point (variable anchor), so they never cover the place dot on it.",
         "section": "colors"
       },
       {
-        "name": "The Single Grey Map Rule",
-        "body": "Map tiles are always desaturated, whatever renders them. The map must not compete with the overprinted dots, labels and route.",
-        "section": "colors"
-      },
-      {
-        "name": "The Two Widths Rule",
-        "body": "Condensed widths are for titles, names and years. Controls, data and running text stay at normal width.",
+        "name": "The Ramp Rule",
+        "body": "Sizes come from 2.5 / 1.9 / 1.6 / 1.5 / 1.375 / 1 / 0.95 / 0.875 / 0.8125 rem, plus 1.25rem for the brand below 360px, 17/15px cluster numerals, 14px map text and 12px attribution.",
         "section": "typography"
       },
       {
         "name": "The Tabular Years Rule",
-        "body": "Every year, count and range readout uses tabular lining numerals. Years before 0 are written as \"N BC\", and spans as \"49 BC–2017\".",
+        "body": "Every year, count and range uses tabular lining figures. Years before 0 read \"N BC\".",
         "section": "typography"
-      },
-      {
-        "name": "The Ramp Rule",
-        "body": "Sizes come from this ramp and nowhere else: 2.5 / 1.9 / 1.6 / 1 / 0.95 / 0.875 / 0.8125 rem in the chrome, plus 17 and 15px cluster numerals, 14px map captions and the 12px attribution line on the map.",
-        "section": "typography"
-      },
-      {
-        "name": "The Ink Rule Rule",
-        "body": "Seams are rules, not shadows. Use 3px ink for structural edges (masthead to panel, panel to map, filter frame, notices), 2px ink for control frames and the cover image, and 1px for dividers (hairline grey between rows, ink under a sticky sub-heading).",
-        "section": "elevation"
       }
     ],
     "dos": [
-      "**Do** keep map tiles in one grey and overprint everything actionable in process ink.",
-      "**Do** reserve magenta for actions, the route and focus.",
-      "**Do** separate chrome from the map with 3px ink rules and dock overlays flush to an edge.",
-      "**Do** set titles, game names and years in condensed weight-800 Archivo, and years and counts in tabular figures with \"BC\" for years before 0.",
-      "**Do** keep interactive targets at least 44px tall on touch, including map markers and zoom buttons.",
-      "**Do** keep every corner square except the dots and bullets printed on the map and the marks that echo them.",
-      "**Do** pin route stops and the active place outside clusters and caption them with ink labels.",
-      "**Do** frame notices as strips at the top centre of the map: ink for transient status, sheet for empty states."
+      "**Do** keep the basemap faint and overprint only what can be acted on.",
+      "**Do** explain the rules to the reader: the More menu has \"How places are chosen\", a second tab of the info dialog, which restates in plain words what counts as a place, the three settings, dots versus sites versus country shapes, places within places, journeys, the link policy and My atlas. The About tab links to it.",
+      "**Do** give the browser's back button something to go back to: opening a place, game, country or search pushes a history entry (filters, route choice and map moves replace the address in place), and popstate rebuilds the panel, filters and map from the address exactly as a page load does. Rejected: replaceState for everything (the back button left the site after any number of taps).",
+      "**Do** draw the country shapes in the vector basemap (MapLibre, on the GPU), not as Leaflet SVG: Leaflet re-projected every polygon vertex on every zoom change, and that, not clustering, was most of what a zoom cost (333ms of a 4-zoom profile). The shapes are one GeoJSON source per scale keyed by ISO code; games, open, been and hover are feature state, so nothing is re-sent when the selection changes, and the layers sit under the basemap's labels. Hover and click come from the Leaflet map and are looked up with queryRenderedFeatures. The SVG layer remains only as the fallback when the vector basemap fails. The atlas tone of the basemap (grayscale 0.85, sepia 0.18, contrast 0.78, brightness 1.08) is baked into the style's colours at load (basemapTone.ts) instead of a CSS filter on the canvas: the filter desaturated everything drawn in the canvas, including the vermilion country shapes, and cost a full-canvas filter pass per frame. The same filter still applies to the raster tile fallback. The 1:50m borders are also simplified at build time to 0.02° (under a pixel at zoom 6.75, the last level before the shapes hide at 7; 100k vertices became 52k) and the 1:110m ones to 0.03°.",
+      "**Do** keep the catalogue in its own script chunk, parsed with JSON.parse (several times faster than object literals for a megabyte of records), preloaded next to the app; and ship the italic wordmark face as a 23KB instance (opsz 20, weight 450–500, basic Latin) instead of the 144KB variable file.",
+      "**Do** zoom a touchpad pinch fractionally around the cursor. A pinch arrives as ctrl+wheel events with small deltas; Leaflet's wheel handler batches them and rounds each batch up to a whole level, so a pinch on a Windows laptop hopped level by level. While the pinch lasts the layers are scaled with CSS, the way Leaflet's own finger pinch works (map._move with pinch), and the map lands on a zoom level with a single zoomend when it stops; setting the zoom per event cost 20 to 240 ms each, because every zoomend rebuilds clusters and labels. About one level per 40px of pinch. The desktop map snaps to quarter levels (phones to halves), so fits land closer to their places. Scroll-wheel notches still step about one level.",
+      "**Do** keep a second level of places, spots, inside cities: a site record (park, castle, square) whose parent is a city or neighbourhood, and only those: a church in Cornwall or a castle in Bavaria stands on its own, since a region is not a place you are \"inside\" the way you are inside Lisbon (with regions on the list, Barrow Hill's page grew an invented \"Cornwall, England\" row with the stone circle nested under it). The game rolls up to the city, which lists it with an \"At …\" row of chips naming the spots, and the spot itself appears on the map only from zoom 12 as an ink diamond with its name under it, so the world and country views stay as they are. Opening a spot zooms to at least 12. Opening any place zooms in until no other dot lies within the cluster radius of it (up to 14), so the pinned dot never sits on top of a cluster of the places it was just listed with (Rennes-les-Bains opened over a \"2\"). A city that has spots under it carries a small count in the corner of its dot below zoom 12, and opening it frames the city with its spots (up to zoom 14) and shows those spots at whatever zoom the frame lands on, so a dot never hides five places behind it (Rennes-le-Château looked like one place with five sites underneath). On the game page the list says where you are and where in it: the city is the row, and its spots sit indented under it with a diamond, each clickable; a journey stays a flat, numbered list. A game set wholly in one spot lists only the spot, so with the game open the map marks the park, not the park and the city on top of each other; the city row on the game page is synthesised from the catalogue. Rejected: spots as ordinary pins at every zoom (a dozen dots on top of Lisbon at the world view); spots only in the list (nothing to find on the map).",
+      "**Do** let the world scroll as far south as the phone sheet covers, so the strip above the sheet can show Antarctica and large countries; otherwise every southern fly gets panned back north and the country ends up under the sheet. A panel that is open in React but whose sheet is not yet in the DOM counts as a sheet at 62%, both for fits and for the world limit; otherwise the limit centres the world in the full map for a moment before the sheet arrives and the stops end up under it. The world limit is enforced in pixels on `moveend` (not with Leaflet's `maxBounds`: Mercator clamps latitude at 85°, so a limit below the world cannot be expressed as a LatLngBounds). Country shapes (the selected country, the been shading) are drawn only below zoom 7: closer in, the country is larger than the screen and its fill became a veil over the whole map (8 still felt late: at 7 a country already fills most of a phone screen). A country opened on a phone puts the sheet at its peek height (104px) and fits the country to the whole map above it with 16px margins; new content opened inside the country (a cluster list) lifts the sheet back to 62%. Rejected: fitting a country above a 62% sheet (the strip is about 180px on a phone: Norway was a speck at zoom 3 and the United Kingdom a 60px sliver under two clusters). Phones zoom in half steps down to 1 (desktop: whole steps from 2), because the strip is small: Russia fits at 1.5 and a route round the whole world (an F1 season) at 1; when the world is shorter than the map it is centred in the strip rather than pinned to the top. The minimum zoom never changes while the map lives: the cluster layer builds one grid per zoom level down to the map's minimum when it is added, and a minimum that moves afterwards either hides the pins that stand alone (Hawke's Bay vanished on desktop when the layer was built for 1 and the map's minimum was 2) or crashes when such a pin is removed (Murmansk, the other way round). Rejected: min zoom 1 only while a sheet is open, 2 otherwise. Fits for a sheet are always computed for the 62% sheet, whatever the sheet is doing: a sheet at peek goes back up when new content opens, and a sheet at 90% covers nearly the whole map, so a fit computed for it zoomed Norway out to the world. A cluster list is fitted with pin margins only (24px left, 32px top, 16px above the sheet, 72px right for the map buttons), not the 56/60px label margins that routes get: the strip above the sheet is about 180px on a phone, and with label margins the Oslo-area cluster stayed exactly as tight as it had been clustered. Every fit keeps at least 80px of height even when the sheet covers more, so it never collapses to the minimum zoom. The panel's sequence number only ever grows, also after the panel has been closed: the country layer remembers the sequence it last fitted, and when the count restarted at 1 after a close, the next country tapped got the same number and was never fitted (zoom in a little, tap Brazil, and only its top showed above the sheet). A point that is a whole country opens the country even when a fictionalised area record shares its coordinates (Greece, India); country records sit on the country's label point, not on a city (Germany's sat on Trier, Turkey's on Marmaris, Kenya's on the Safari Rally). The fit covers the country's main part (the polygon holding its label point), the other parts within 8° of the label (archipelagos: the Bahamas, Palau, both islands of New Zealand, Crete, Corsica) and its places with games within 12° of the label: Norway's mainland without Svalbard (16° north of the label) or Jan Mayen (18° west; it cost a zoom level on phones and showed mostly sea, and it stays in the panel), Greece with Crete, France without French Guiana, the USA without Hawaii, Easter Island left to the panel. Rejected: all parts within 35° (Svalbard forced Norway to zoom out to the whole North Atlantic); the main part alone (the Bahamas, Palau and Kiribati were framed on one island with the rest of the chain off screen, and New Zealand on the South Island only).",
+      "**Do** let the map go round the world: panning east past Japan arrives in the Americas (`worldCopyJump`), and markers, routes and pins repeat on each copy. Only latitude is bounded, so there is no grey void above the Arctic or below Antarctica. Rejected: a longitude limit at ±180° (it stopped the map at the date line).",
+      "**Do** show games, not just counts, as early as possible.",
+      "**Do** keep every overlay docked to an edge and never stack two over each other.",
+      "**Do** offer a non-map path (search, place index) to everything on the map.",
+      "**Do** set titles and years in condensed Archivo, and controls and text at normal width."
     ],
     "donts": [
-      "**Don't** use soft drop shadows, floating rounded cards or blurred panels for chrome. The only shadows are the marker halos.",
-      "**Don't** use magenta for genre tags or decoration.",
-      "**Don't** show tiles in full colour.",
-      "**Don't** fabricate screenshots or artwork. The only imagery is IGDB cover art, 64 by 85px in a 2px ink frame, with its credit in the footer.",
-      "**Don't** set controls or running text in the condensed width.",
-      "**Don't** add type sizes outside the ramp."
+      "**Don't** use Newsreader outside the wordmark and tagline, or fall back to a system serif.",
+      "**Don't** use uppercase for headings; only genre tags are uppercase.",
+      "**Don't** put shadows on docked panels, or use heavy shadows anywhere; only floating elements get the one soft shadow.",
+      "**Don't** show raw coordinates or cartographer jargon to readers.",
+      "**Don't** add a game just because a real place is in its title or on its box. The place has to be depicted: a recognisable street, landscape or landmark the player moves through. Chicago 90 (a grid labelled Chicago) and Test Drive II's scenery disks (generic roads labelled with six countries) were added on 30 October 2026 and taken out the same day; Test Drive III stays because its Northern California run from the coast to Yosemite is drawn as that landscape.",
+      "**Don't** open a location note by restating where it is (\"The Italian stop\", \"The Swiss stop\", \"The Greek level\"): the reader is looking at Venice, so the note starts with what happens there. Don't cite the source in the note either (\"named by the publisher\", \"the source identifies\"); the note says what happens, the source field says where we got it.",
+      "**Don't** explain pin placement in a location note when the place is real (\"the pin marks the country\", \"representative anchor\"): the quiet line under the place already says \"pin marks the area\", and the note says what happens there. When the pin is an interpretation, that is, the place is invented and we chose where to put it, the note may say why in a few words (\"pinned on Duloe stone circle, which the designer walked\"), and the fictional place's own record always does. Refined 30 October 2026: the explanation is allowed for invented places, never required, and never for real ones.",
+      "**Don't** place ads before the reader has seen any games.",
+      "**Don't** fabricate imagery; IGDB covers are the only pictures."
     ]
   }
 }

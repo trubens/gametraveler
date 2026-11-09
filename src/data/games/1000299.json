@@ -1,0 +1,70 @@
+{
+  "id": 1000299,
+  "name": "Blazing Angels: Squadrons of WWII",
+  "year": 2006,
+  "developer": "Ubisoft Bucharest",
+  "publisher": "Ubisoft",
+  "genres": [
+    "Shooter"
+  ],
+  "storyYears": [
+    1940,
+    1945
+  ],
+  "source": "https://en.wikipedia.org/wiki/Blazing_Angels:_Squadrons_of_WWII",
+  "route": true,
+  "locations": [
+    {
+      "placeId": "dunkirk-france",
+      "note": "The squadron covers the evacuation of Dunkirk in 1940."
+    },
+    {
+      "placeId": "london-uk",
+      "note": "The Battle of Britain, dogfights over London against a German ace."
+    },
+    {
+      "placeId": "libya",
+      "note": "Desert sorties in support of the British in Libya."
+    },
+    {
+      "placeId": "pearl-harbor-hawaii-usa",
+      "note": "Scrambling into the air as the Japanese strike Pearl Harbor."
+    },
+    {
+      "placeId": "coral-sea",
+      "note": "Hunting a Japanese carrier convoy in the Coral Sea."
+    },
+    {
+      "placeId": "midway-atoll-usa",
+      "note": "Defending the airfield at Midway from Japanese raids."
+    },
+    {
+      "placeId": "guadalcanal-solomon-islands",
+      "note": "Beating off Japanese landings at Guadalcanal."
+    },
+    {
+      "placeId": "rabaul-papua-new-guinea",
+      "note": "The squadron covers the bombers over Rabaul, then wrecks the rest of the Japanese base."
+    },
+    {
+      "placeId": "vemork-rjukan-norway",
+      "note": "A strike on German shipping in Norway and the heavy-water plant in the mountains."
+    },
+    {
+      "placeId": "normandy-france",
+      "note": "Covering the D-Day landings from the air, where Joe is shot down and killed."
+    },
+    {
+      "placeId": "paris-france",
+      "note": "Ground support during the liberation of Paris."
+    },
+    {
+      "placeId": "bastogne-belgium",
+      "note": "Swarms of Luftwaffe fighters over the Ardennes in the Battle of the Bulge."
+    },
+    {
+      "placeId": "berlin-germany",
+      "note": "The final mission over Berlin in 1945 against German jet fighters."
+    }
+  ]
+}

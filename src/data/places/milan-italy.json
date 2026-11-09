@@ -1,0 +1,13 @@
+{
+  "id": "milan-italy",
+  "name": "Milan, Italy",
+  "position": {
+    "lat": 45.464,
+    "lon": 9.19
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Milan",
+  "description": "The capital and largest city of Lombardy."
+}

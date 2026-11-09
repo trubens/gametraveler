@@ -1,0 +1,13 @@
+{
+  "id": "moscow-russia",
+  "name": "Moscow, Russia",
+  "position": {
+    "lat": 55.7558,
+    "lon": 37.6173
+  },
+  "scale": "area",
+  "parentId": "russia",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Moscow",
+  "description": "The capital and largest city of Russia."
+}

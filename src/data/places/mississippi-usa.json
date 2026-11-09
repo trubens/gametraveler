@@ -1,0 +1,15 @@
+{
+  "id": "mississippi-usa",
+  "name": "Mississippi, USA",
+  "position": {
+    "lat": 33.0,
+    "lon": -90.0
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "region",
+  "source": "https://en.wikipedia.org/wiki/Mississippi",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mississippi",
+  "description": "A state in the Deep South of the United States, bordered by Tennessee, Alabama, the Gulf of Mexico, Louisiana and Arkansas; its western edge largely follows the Mississippi River.",
+  "descriptionSource": "wikipedia"
+}

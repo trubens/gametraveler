@@ -1,0 +1,13 @@
+{
+  "id": "cotswolds-england-uk",
+  "name": "Cotswolds, England, UK",
+  "position": {
+    "lat": 51.93,
+    "lon": -1.72
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cotswolds",
+  "description": "A range of rolling hills across south-west and south-central England, rising from the meadows of the upper Thames to the escarpment above the Severn Valley."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "santiago-chile",
+  "name": "Santiago, Chile",
+  "scale": "area",
+  "parentId": "chile",
+  "position": {
+    "lat": -33.4489,
+    "lon": -70.6693
+  },
+  "source": "https://en.wikipedia.org/wiki/Santiago",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Santiago",
+  "description": "Chile's capital and largest city."
+}

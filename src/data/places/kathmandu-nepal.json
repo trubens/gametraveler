@@ -1,0 +1,13 @@
+{
+  "id": "kathmandu-nepal",
+  "name": "Kathmandu, Nepal",
+  "position": {
+    "lat": 27.7172,
+    "lon": 85.324
+  },
+  "scale": "area",
+  "parentId": "nepal",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kathmandu",
+  "description": "Nepal's capital and largest city."
+}

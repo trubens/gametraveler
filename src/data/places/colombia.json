@@ -1,0 +1,12 @@
+{
+  "id": "colombia",
+  "name": "Colombia",
+  "position": {
+    "lat": 4.5709,
+    "lon": -74.2973
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Colombia",
+  "description": "A country of South America whose outlying islands reach across into North America."
+}

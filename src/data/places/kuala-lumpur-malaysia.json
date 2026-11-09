@@ -1,0 +1,13 @@
+{
+  "id": "kuala-lumpur-malaysia",
+  "name": "Kuala Lumpur, Malaysia",
+  "position": {
+    "lat": 3.140853,
+    "lon": 101.693207
+  },
+  "scale": "area",
+  "parentId": "malaysia",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kuala_Lumpur",
+  "description": "Malaysia's capital city."
+}

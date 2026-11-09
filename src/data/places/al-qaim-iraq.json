@@ -1,0 +1,18 @@
+{
+  "id": "al-qaim-iraq",
+  "name": "Al-Qa'im, Iraq",
+  "position": {
+    "lat": 34.3667,
+    "lon": 41.1
+  },
+  "scale": "area",
+  "parentId": "iraq",
+  "placeType": "city",
+  "aliases": [
+    "Al Qaim",
+    "Al-Qa'im"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Al-Qa%27im_(town)",
+  "description": "A town on the Euphrates at the Syrian border in western Iraq.",
+  "descriptionSource": "wikipedia"
+}

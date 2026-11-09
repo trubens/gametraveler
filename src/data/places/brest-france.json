@@ -1,0 +1,14 @@
+{
+  "id": "brest-france",
+  "name": "Brest, France",
+  "position": {
+    "lat": 48.3904,
+    "lon": -4.4861
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Brest,_France",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brest,_France",
+  "description": "A port city at the western tip of Brittany."
+}

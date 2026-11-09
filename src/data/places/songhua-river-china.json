@@ -1,0 +1,17 @@
+{
+  "id": "songhua-river-china",
+  "name": "Songhua River, China",
+  "position": {
+    "lat": 45.78,
+    "lon": 126.65
+  },
+  "scale": "area",
+  "parentId": "china",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Sungari"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Songhua_River",
+  "description": "The longest tributary of the Amur, flowing through Jilin and Harbin across the marshy plain of north-eastern China.",
+  "descriptionSource": "wikipedia"
+}

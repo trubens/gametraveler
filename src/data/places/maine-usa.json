@@ -1,0 +1,12 @@
+{
+  "id": "maine-usa",
+  "name": "Maine, USA",
+  "position": {
+    "lat": 45.2538,
+    "lon": -69.4455
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maine",
+  "description": "The north-easternmost state of the contiguous United States, in the New England region."
+}

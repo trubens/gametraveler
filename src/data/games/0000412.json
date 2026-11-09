@@ -1,0 +1,22 @@
+{
+  "id": 412,
+  "name": "Martian Memorandum",
+  "year": 1991,
+  "series": "Tex Murphy",
+  "developer": "Access Software",
+  "publisher": "Access Software",
+  "locations": [
+    {
+      "placeId": "san-francisco-usa",
+      "note": "Tex Murphy begins his missing-person investigation in future San Francisco."
+    }
+  ],
+  "storyYears": [
+    2039
+  ],
+  "source": "https://en.wikipedia.org/wiki/Martian_Memorandum",
+  "developerUrl": "https://en.wikipedia.org/wiki/Access_Software",
+  "genres": [
+    "Adventure"
+  ]
+}

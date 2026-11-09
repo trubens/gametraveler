@@ -1,0 +1,11 @@
+{
+  "id": "lebanon",
+  "name": "Lebanon",
+  "position": {
+    "lat": 34.13,
+    "lon": 35.99
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/"
+}

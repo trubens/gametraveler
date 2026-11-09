@@ -1,0 +1,91 @@
+{
+  "id": 158,
+  "name": "Fallout 4",
+  "year": 2015,
+  "publisher": "Bethesda Softworks",
+  "series": "Fallout",
+  "developer": "Bethesda Game Studios",
+  "locations": [
+    {
+      "placeId": "boston-usa",
+      "note": "The Commonwealth: a post-nuclear Boston where the Sole Survivor hunts for their kidnapped son."
+    },
+    {
+      "placeId": "fenway-park-boston-usa",
+      "note": "Diamond City, the Commonwealth's biggest settlement, is built on the diamond inside Fenway Park's walls.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "mit-cambridge-massachusetts-usa",
+      "note": "The Institute, the synth-makers hidden underground, grew out of the ruins of MIT, called the Commonwealth Institute of Technology in the game.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "cambridge-massachusetts-usa",
+      "note": "The ruins of Cambridge across the river, with the Institute beneath them.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "old-north-church-boston-usa",
+      "note": "The Freedom Trail ends at the Old North Church, where the Railroad has its headquarters in the crypt.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "bunker-hill-monument-boston-usa",
+      "note": "The caravan settlement of Bunker Hill clusters around the monument, and the factions fight over a synth there.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "uss-constitution-boston-usa",
+      "note": "Old Ironsides sits wedged in a bank building, her robot crew still trying to sail her: The Last Voyage of the USS Constitution.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "massachusetts-state-house-boston-usa",
+      "note": "The gold dome of the State House stands over the ruins, its halls held by mirelurks.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "boston-common-boston-usa",
+      "note": "The Common with Swan's Pond, where a super mutant behemoth waits for anyone who comes too close.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "boston-public-library-boston-usa",
+      "note": "The Public Library, overrun by super mutants, its book-return machines still paying out.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "faneuil-hall-boston-usa",
+      "note": "Faneuil Hall, a super mutant stronghold on the old market square.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "trinity-church-boston-usa",
+      "note": "Trinity Church, a ghoul-haunted ruin on Copley Square.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "scollay-square-boston-usa",
+      "note": "Goodneighbor, Hancock's town of drifters and ghouls, is built on Scollay Square.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "fort-independence-castle-island-boston-usa",
+      "note": "The Castle: Fort Independence, the Minutemen's old headquarters, retaken from the mirelurks in Taking Independence.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "logan-airport-boston-usa",
+      "note": "The Brotherhood of Steel makes its base at the ruined airport, with the airship Prydwen moored above it.",
+      "settingType": "fictionalized"
+    }
+  ],
+  "storyYears": [
+    2287
+  ],
+  "source": "https://en.wikipedia.org/wiki/Fallout_4",
+  "genres": [
+    "RPG"
+  ]
+}

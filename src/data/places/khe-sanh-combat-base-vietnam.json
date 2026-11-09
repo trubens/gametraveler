@@ -1,0 +1,17 @@
+{
+  "id": "khe-sanh-combat-base-vietnam",
+  "name": "Khe Sanh Combat Base, Vietnam",
+  "position": {
+    "lat": 16.6538,
+    "lon": 106.729
+  },
+  "scale": "site",
+  "parentId": "vietnam",
+  "placeType": "landmark",
+  "aliases": [
+    "Khe Sanh"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Khe_Sanh_Combat_Base",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Khe_Sanh_Combat_Base",
+  "description": "A former United States Marine Corps outpost in Quang Tri province, just south of the Demilitarized Zone, used during the Vietnam War."
+}

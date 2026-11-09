@@ -1,0 +1,13 @@
+{
+  "id": "buddh-international-circuit-india",
+  "name": "Buddh International Circuit, India",
+  "position": {
+    "lat": 28.3487,
+    "lon": 77.534
+  },
+  "scale": "site",
+  "parentId": "india",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buddh_International_Circuit",
+  "description": "A motor racing circuit at Jaypee Sports City in Greater Noida, Uttar Pradesh, sharing its name with Gautama Buddha."
+}

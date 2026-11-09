@@ -1,0 +1,12 @@
+{
+  "id": "kazakhstan",
+  "name": "Kazakhstan",
+  "position": {
+    "lat": 48.0196,
+    "lon": 66.9237
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kazakhstan",
+  "description": "A landlocked country spread across Central Asia, with a western corner reaching into Eastern Europe."
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1000170,
+  "name": "Castlevania: Bloodlines",
+  "year": 1994,
+  "developer": "Konami",
+  "publisher": "Konami",
+  "genres": [
+    "Action-Platformer"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Castlevania:_Bloodlines",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "romania",
+      "note": "The hunt for Elizabeth Bartley opens in the crumbling ruins of Castle Dracula.",
+      "source": "https://castlevania.fandom.com/wiki/Bloodlines_Stage_1"
+    },
+    {
+      "placeId": "greece",
+      "note": "John Morris and Eric Lecarde fight through the drowned Shrine of Atlantis, a mythic ruin placed in Greece."
+    },
+    {
+      "placeId": "pisa-italy",
+      "note": "The hunters climb the Leaning Tower of Pisa, its floors tilting as they go."
+    },
+    {
+      "placeId": "germany",
+      "note": "In a German munitions factory the hunters fight through furnaces, gears and machinery."
+    },
+    {
+      "placeId": "versailles-france",
+      "note": "Drolta's monsters overrun the halls and fountain gardens of the Palace of Versailles."
+    },
+    {
+      "placeId": "england-uk",
+      "note": "The hunt ends at Castle Proserpina in England, where Elizabeth Bartley tries to raise Dracula."
+    }
+  ],
+  "storyYears": [
+    1917
+  ],
+  "routes": [
+    {
+      "id": "morris-lecarde",
+      "name": "John Morris and Eric Lecarde",
+      "characters": [
+        "John Morris",
+        "Eric Lecarde"
+      ],
+      "stops": [
+        "romania",
+        "greece",
+        "pisa-italy",
+        "germany",
+        "versailles-france",
+        "england-uk"
+      ],
+      "note": "Two vampire hunters chase Elizabeth Bartley across wartime Europe, from the ruins of Castle Dracula in Romania through a drowned Greek shrine, Pisa's tower, a German arms works and Versailles to Castle Proserpina in England.",
+      "source": "https://castlevania.fandom.com/wiki/Castlevania:_Bloodlines"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "surfers-paradise-australia",
+  "name": "Surfers Paradise, Australia",
+  "position": {
+    "lat": -28.0023,
+    "lon": 153.4145
+  },
+  "scale": "area",
+  "parentId": "australia",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Surfers_Paradise",
+  "description": "The central suburb of Queensland's Gold Coast."
+}

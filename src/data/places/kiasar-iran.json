@@ -1,0 +1,14 @@
+{
+  "id": "kiasar-iran",
+  "name": "Kiasar, Iran",
+  "position": {
+    "lat": 36.2375,
+    "lon": 53.5419
+  },
+  "scale": "area",
+  "parentId": "iran",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kiasar",
+  "description": "A small town in the forested hills of Mazandaran, on the road over the Alborz from Sari.",
+  "descriptionSource": "wikipedia"
+}

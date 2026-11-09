@@ -1,0 +1,14 @@
+{
+  "id": "tyre-lebanon",
+  "name": "Tyre, Lebanon",
+  "position": {
+    "lat": 33.2708,
+    "lon": 35.1961
+  },
+  "scale": "area",
+  "parentId": "lebanon",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tyre,_Lebanon",
+  "description": "One of the oldest cities in the world, the Phoenician island port on the Lebanese coast, a Crusader stronghold in 1190.",
+  "descriptionSource": "wikipedia"
+}

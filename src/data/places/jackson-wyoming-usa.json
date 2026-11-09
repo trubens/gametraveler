@@ -1,0 +1,13 @@
+{
+  "id": "jackson-wyoming-usa",
+  "name": "Jackson, Wyoming, USA",
+  "position": {
+    "lat": 43.4799,
+    "lon": -110.7624
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jackson,_Wyoming",
+  "description": "A small resort town in Wyoming's Teton County."
+}

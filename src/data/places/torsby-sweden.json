@@ -1,0 +1,14 @@
+{
+  "id": "torsby-sweden",
+  "name": "Torsby, Sweden",
+  "position": {
+    "lat": 60.1333,
+    "lon": 13.0
+  },
+  "scale": "area",
+  "parentId": "sweden",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Torsby",
+  "description": "A small town in the forests of northern Värmland, the headquarters of Rally Sweden from 2019.",
+  "descriptionSource": "wikipedia"
+}

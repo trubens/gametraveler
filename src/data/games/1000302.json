@@ -1,0 +1,28 @@
+{
+  "id": 1000302,
+  "name": "Ripper",
+  "year": 1996,
+  "aliases": [
+    "Ripper (1996)"
+  ],
+  "developer": "Take-Two Interactive",
+  "publisher": "Take-Two Interactive",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    2040
+  ],
+  "source": "https://en.wikipedia.org/wiki/Ripper_(video_game)",
+  "locations": [
+    {
+      "placeId": "new-york-city-usa",
+      "note": "In the New York of 2040 reporter Jake Quinlan hunts a killer who works through cyberspace, in an interactive movie with Christopher Walken as the detective on the case."
+    },
+    {
+      "placeId": "tribeca-new-york-city-usa",
+      "note": "Cybersurgeon Clare Burton works at the Tribeca Center Hospital, where the first victim's last memory is pulled from her brain.",
+      "source": "https://en.wikipedia.org/wiki/Ripper_(video_game)"
+    }
+  ]
+}

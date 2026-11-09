@@ -1,0 +1,13 @@
+{
+  "id": "cleveland-ohio-usa",
+  "name": "Cleveland, Ohio, USA",
+  "position": {
+    "lat": 41.4993,
+    "lon": -81.6944
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cleveland",
+  "description": "An Ohio city on the southern shore of Lake Erie."
+}

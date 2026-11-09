@@ -1,0 +1,18 @@
+{
+  "id": "marshall-college-fictional-connecticut-usa",
+  "name": "Marshall College, Connecticut, USA",
+  "position": {
+    "lat": 41.3164,
+    "lon": -72.9222
+  },
+  "scale": "site",
+  "parentId": "united-states",
+  "placeType": "venue",
+  "fictional": true,
+  "aliases": [
+    "Marshall College"
+  ],
+  "source": "https://www.ign.com/wikis/indiana-jones-and-the-great-circle/The_Break-In",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yale_University",
+  "description": "The invented college where Indiana Jones teaches, set in Connecticut in the films. Kingdom of the Crystal Skull filmed its campus at Yale, so the pin in New Haven is a guess."
+}

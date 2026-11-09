@@ -1,0 +1,14 @@
+{
+  "id": "fort-george-new-york-city-usa",
+  "name": "Fort George, New York City, USA",
+  "position": {
+    "lat": 40.7039,
+    "lon": -74.0136
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fort_George_(New_York)",
+  "description": "The British fort at the southern tip of Manhattan, on the site of Fort Amsterdam, demolished after the Revolution; the Battery lies there now.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "liepaja-latvia",
+  "name": "Liepāja, Latvia",
+  "position": {
+    "lat": 56.5117,
+    "lon": 21.0139
+  },
+  "scale": "area",
+  "parentId": "latvia",
+  "placeType": "city",
+  "aliases": [
+    "Liepaja"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Liepāja",
+  "description": "Latvia's Baltic port city, the base of Rally Latvia.",
+  "descriptionSource": "wikipedia"
+}

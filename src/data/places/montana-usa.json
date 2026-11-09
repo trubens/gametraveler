@@ -1,0 +1,14 @@
+{
+  "id": "montana-usa",
+  "name": "Montana, USA",
+  "position": {
+    "lat": 47.0,
+    "lon": -109.6
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Montana",
+  "description": "The big-sky state of the northern Rockies and the Great Plains, along the Canadian border.",
+  "descriptionSource": "wikipedia"
+}

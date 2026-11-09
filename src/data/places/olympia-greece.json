@@ -1,0 +1,14 @@
+{
+  "id": "olympia-greece",
+  "name": "Olympia, Greece",
+  "position": {
+    "lat": 37.6383,
+    "lon": 21.63
+  },
+  "scale": "area",
+  "parentId": "greece",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Olympia,_Greece",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Olympia,_Greece",
+  "description": "A small town in Elis on the Peloponnese, famous for the ancient site of Olympia beside it."
+}

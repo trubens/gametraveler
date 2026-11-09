@@ -1,0 +1,18 @@
+{
+  "id": "talinay-wind-farm-chile",
+  "name": "Talinay Wind Farm, Chile",
+  "position": {
+    "lat": -30.8375,
+    "lon": -71.5934
+  },
+  "scale": "site",
+  "parentId": "chile",
+  "placeType": "landmark",
+  "aliases": [
+    "Parque Eólico Talinay"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Talinay_Wind_Farm",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Talinay_Wind_Farm",
+  "description": "A wind farm in the Coquimbo region of northern Chile, near the city of Ovalle, with an installed capacity of 90 MW.",
+  "descriptionSource": "wikipedia"
+}

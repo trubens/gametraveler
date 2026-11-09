@@ -1,0 +1,14 @@
+{
+  "id": "morwellham-quay-devon-uk",
+  "name": "Morwellham Quay, Devon, UK",
+  "position": {
+    "lat": 50.5053,
+    "lon": -4.1936
+  },
+  "scale": "site",
+  "parentId": "england-uk",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Morwellham_Quay",
+  "description": "A restored Victorian river port on the Tamar, now an open-air museum of its copper-mining years.",
+  "descriptionSource": "wikipedia"
+}

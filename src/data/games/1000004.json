@@ -1,0 +1,34 @@
+{
+  "id": 1000004,
+  "name": "Calluna",
+  "year": 2021,
+  "publisher": "Surrealist AS",
+  "developer": "Surrealist AS",
+  "locations": [
+    {
+      "placeId": "bergen-norway",
+      "note": "Play as the young Ole Bull and explore nineteenth-century Bergen's streets, landmarks, and neighborhoods in a story based on his life."
+    },
+    {
+      "placeId": "valestrand-norway",
+      "note": "A later chapter follows Ole Bull to Valestrand, where he spent time at his estate."
+    },
+    {
+      "placeId": "paris-france",
+      "note": "Bull travels to Paris as a young adult to pursue a career as a violinist."
+    },
+    {
+      "placeId": "cairo-egypt",
+      "note": "The story follows Bull to Cairo after his success, where he is preparing for a concert."
+    }
+  ],
+  "storyYears": [
+    1800
+  ],
+  "source": "https://store.steampowered.com/app/1609070/Calluna/",
+  "developerUrl": "https://surrealist.no/",
+  "publisherUrl": "https://surrealist.no/",
+  "genres": [
+    "Adventure"
+  ]
+}

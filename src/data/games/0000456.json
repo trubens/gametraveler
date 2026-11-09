@@ -1,0 +1,133 @@
+{
+  "id": 456,
+  "name": "Battlefield V",
+  "year": 2018,
+  "series": "Battlefield",
+  "developer": "DICE",
+  "publisher": "Electronic Arts",
+  "locations": [
+    {
+      "placeId": "narvik-norway",
+      "note": "The prologue's night raid on Narvik Docks in 1940, and two multiplayer maps: Narvik, the port and its railway, and Fjell 652, the snowbound peaks above it."
+    },
+    {
+      "placeId": "vemork-rjukan-norway",
+      "note": "The Nordlys War Story: in the spring of 1943 resistance fighter Solveig skis down on the heavy-water plant her mother Astrid is bent on destroying."
+    },
+    {
+      "placeId": "tobruk-libya",
+      "note": "The prologue's tour of the war passes through the siege of Tobruk."
+    },
+    {
+      "placeId": "kasserine-pass-tunisia",
+      "note": "The prologue moves on to the tank fighting at Kasserine Pass."
+    },
+    {
+      "placeId": "hamburg-germany",
+      "note": "The prologue's air battle: a Luftwaffe pilot over Hamburg during the Allied bombing raids, shot down at the end."
+    },
+    {
+      "placeId": "nijmegen-netherlands",
+      "note": "The prologue's last stand: a British machine gunner at the Nijmegen railway bridge in 1944, during Operation Market Garden."
+    },
+    {
+      "placeId": "ruhr-germany",
+      "note": "The Last Tiger: a German Tiger crew in the Ruhr Pocket in the closing days of the war."
+    },
+    {
+      "placeId": "provence-france",
+      "note": "Tirailleur: a Senegalese tirailleur fights inland from the Operation Dragoon beaches in 1944. The Provence multiplayer map is set in the same hills."
+    },
+    {
+      "placeId": "rotterdam-netherlands",
+      "note": "Two multiplayer maps: Rotterdam, the city's streets and canals under the German attack of May 1940, and Devastation, the same centre after the bombing."
+    },
+    {
+      "placeId": "arras-france",
+      "note": "Multiplayer: Arras, a wheat-field village and farmhouse outside the town during the fall of France in 1940."
+    },
+    {
+      "placeId": "france",
+      "note": "Multiplayer: Twisted Steel, a half-collapsed steel bridge over flooded marshland somewhere in northern France in 1940."
+    },
+    {
+      "placeId": "libya",
+      "note": "Under No Flag: in the spring of 1942 convict Billy Bridger and his SBS officer Mason blow up German airfields in the desert and hold out in ruins until help arrives. Hamada, Aerodrome and Al Sundan are multiplayer maps in the Libyan desert of 1941 to 1942."
+    },
+    {
+      "placeId": "al-marj-libya",
+      "note": "Multiplayer: Al Marj Encampment, an Italian camp on the plain outside the town."
+    },
+    {
+      "placeId": "halfaya-pass-egypt",
+      "note": "Multiplayer: Halfaya Pass, the ridge road on the Egyptian side of the border, held by the Axis in 1941."
+    },
+    {
+      "placeId": "belgium",
+      "note": "Multiplayer: Panzerstorm, a tank battle across open Belgian farmland during the German advance of May 1940."
+    },
+    {
+      "placeId": "crete-greece",
+      "note": "Multiplayer: Mercury, German paratroops dropping on the island's north coast in the Battle of Crete, May 1941."
+    },
+    {
+      "placeId": "greece",
+      "note": "Multiplayer: Marita, a Greek mountain village fought over during the German invasion of April 1941."
+    },
+    {
+      "placeId": "lofoten-norway",
+      "note": "Multiplayer: Lofoten Islands, a small-scale map among the fish racks and rocky coves of the archipelago."
+    },
+    {
+      "placeId": "germany",
+      "note": "Multiplayer: Operation Underground, the metro tunnels and bombed streets of a German city in 1945."
+    },
+    {
+      "placeId": "iwo-jima-japan",
+      "note": "Multiplayer: Iwo Jima, the black-sand landing beaches below Mount Suribachi, February 1945."
+    },
+    {
+      "placeId": "wake-island-usa",
+      "note": "Multiplayer: Wake Island, the horseshoe atoll of the Japanese attack in December 1941."
+    },
+    {
+      "placeId": "solomon-islands",
+      "note": "Multiplayer: Solomon Islands, a jungle river island in the 1942 campaign, and Pacific Storm, a landing across the same archipelago."
+    }
+  ],
+  "storyYears": [
+    1940,
+    1941,
+    1942,
+    1943,
+    1944,
+    1945
+  ],
+  "source": "https://en.wikipedia.org/wiki/Battlefield_V",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "my-country-calling",
+      "name": "My Country Calling",
+      "characters": [
+        "British commando",
+        "Peter Müller",
+        "Free French sniper",
+        "\"Yellow-Seven\"",
+        "British machine gunner"
+      ],
+      "stops": [
+        "narvik-norway",
+        "tobruk-libya",
+        "kasserine-pass-tunisia",
+        "hamburg-germany",
+        "nijmegen-netherlands"
+      ],
+      "note": "The prologue passes from soldier to soldier as each falls: a night raid on Narvik's docks, a Tiger at Tobruk, a sniper at Kasserine Pass, a fighter over burning Hamburg and a last stand at Nijmegen's bridge.",
+      "source": "https://en.wikipedia.org/wiki/Battlefield_V"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "marienplatz-munich-germany",
+  "name": "Marienplatz, Munich, Germany",
+  "position": {
+    "lat": 48.1374,
+    "lon": 11.5755
+  },
+  "scale": "site",
+  "parentId": "munich-germany",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Marienplatz",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marienplatz",
+  "description": "Munich's central square, the city's main gathering place since 1158 and the natural starting point for any walk through the old centre."
+}

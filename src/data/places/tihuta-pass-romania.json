@@ -1,0 +1,19 @@
+{
+  "id": "tihuta-pass-romania",
+  "name": "Tihuța Pass (Borgo Pass), Romania",
+  "position": {
+    "lat": 47.28,
+    "lon": 25.025
+  },
+  "scale": "area",
+  "parentId": "transylvania-romania",
+  "placeType": "natural_feature",
+  "aliases": [
+    "Borgo Pass",
+    "Pasul Bârgău"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Tihu%C8%9Ba_Pass",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tihu%C8%9Ba_Pass",
+  "description": "A 1,201 m mountain pass in the Eastern Carpathians of Romania, between the Bârgău and Călimani Mountains, linking Bistrița in Transylvania with Vatra Dornei in Bukovina.",
+  "descriptionSource": "wikipedia"
+}

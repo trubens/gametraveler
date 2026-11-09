@@ -1,0 +1,14 @@
+{
+  "id": "kyrat-fictional-nepal",
+  "name": "Kyrat",
+  "position": {
+    "lat": 28.4,
+    "lon": 84.1
+  },
+  "scale": "area",
+  "placeType": "region",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Far_Cry_4",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Himalayas",
+  "description": "The invented Himalayan kingdom of Far Cry 4, ruled by Pagan Min. The developers merged India, Nepal and Tibet into it and drew on the Nepalese Civil War, so the pin stands in the Nepalese Himalaya."
+}

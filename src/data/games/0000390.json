@@ -1,0 +1,27 @@
+{
+  "id": 390,
+  "name": "Colin McRae: Dirt",
+  "year": 2007,
+  "series": "Dirt",
+  "developer": "Codemasters",
+  "publisher": "Codemasters",
+  "locations": [
+    {
+      "placeId": "pikes-peak-colorado-usa",
+      "note": "The hill-climb events include the recognizable Pikes Peak mountain road."
+    },
+    {
+      "placeId": "england-uk",
+      "note": "The game includes rally stages on English country roads."
+    },
+    {
+      "placeId": "australian-outback",
+      "note": "The off-road roster includes Australian outback terrain."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Colin_McRae:_Dirt",
+  "genres": [
+    "Racing"
+  ]
+}

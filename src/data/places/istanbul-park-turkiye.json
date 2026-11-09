@@ -1,0 +1,12 @@
+{
+  "id": "istanbul-park-turkiye",
+  "name": "Istanbul Park, Türkiye",
+  "position": {
+    "lat": 40.9517,
+    "lon": 29.405
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Istanbul_Park",
+  "description": "A motor racing track in Istanbul's Tuzla district, designed by Hermann Tilke."
+}

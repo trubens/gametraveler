@@ -1,0 +1,43 @@
+{
+  "id": 392,
+  "name": "Dirt 3",
+  "year": 2011,
+  "series": "Dirt",
+  "developer": "Codemasters Southam",
+  "publisher": "Codemasters / Feral Interactive (OS X)",
+  "locations": [
+    {
+      "placeId": "monte-carlo-monaco",
+      "note": "Gymkhana and racing events take place around Monaco's harbor."
+    },
+    {
+      "placeId": "jyvaskyla-finland",
+      "note": "The game includes Rally Finland stages around Jyväskylä."
+    },
+    {
+      "placeId": "michigan-usa",
+      "note": "The rally roster includes forest stages in Michigan."
+    },
+    {
+      "placeId": "norway",
+      "note": "The game includes rally stages in Norway."
+    },
+    {
+      "placeId": "los-angeles-usa",
+      "note": "The rallycross roster includes a Los Angeles venue."
+    },
+    {
+      "placeId": "kenya",
+      "note": "The game includes rallycross events in Kenya."
+    },
+    {
+      "placeId": "battersea-power-station-london-uk",
+      "note": "Gymkhana events use the recognizable Battersea Power Station venue."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Dirt_3",
+  "genres": [
+    "Racing"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "doha-qatar",
+  "name": "Doha, Qatar",
+  "position": {
+    "lat": 25.2854,
+    "lon": 51.531
+  },
+  "scale": "area",
+  "parentId": "qatar",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Doha",
+  "description": "Qatar's capital."
+}

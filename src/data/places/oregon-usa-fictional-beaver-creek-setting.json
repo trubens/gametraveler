@@ -1,0 +1,18 @@
+{
+  "id": "oregon-usa-fictional-beaver-creek-setting",
+  "name": "Beaver Creek, Oregon, USA",
+  "position": {
+    "lat": 44.175,
+    "lon": -122.1639
+  },
+  "scale": "area",
+  "placeType": "region",
+  "fictional": true,
+  "aliases": [
+    "Oregon, USA (fictional Beaver Creek setting)"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/McKenzie_Bridge,_Oregon",
+  "description": "An invented small town in the Oregon Cascades. Sean's map in Life Is Strange 2 puts it in Lane County near McKenzie Bridge and Rainbow, on the McKenzie River; pinned at McKenzie Bridge.",
+  "source": "https://life-is-strange.fandom.com/wiki/Beaver_Creek",
+  "parentId": "oregon-usa"
+}

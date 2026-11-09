@@ -1,0 +1,14 @@
+{
+  "id": "cauldron-lake-fictional-washington",
+  "name": "Cauldron Lake, Washington, USA",
+  "position": {
+    "lat": 47.53,
+    "lon": -121.74
+  },
+  "scale": "area",
+  "parentId": "washington-state-usa",
+  "placeType": "body_of_water",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Alan_Wake",
+  "description": "The volcanic crater lake above Bright Falls where the Dark Presence lies trapped, with the sunken Diver's Isle, Dr. Hartman's lodge and rental cabins around it. The games give it no real location beyond the town, so the pin a few kilometres north-east of the Bright Falls pin is a guess."
+}

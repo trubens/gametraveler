@@ -1,0 +1,13 @@
+{
+  "id": "ribe-denmark",
+  "name": "Ribe, Denmark",
+  "position": {
+    "lat": 55.3267,
+    "lon": 8.7692
+  },
+  "scale": "area",
+  "parentId": "denmark",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ribe",
+  "description": "A small town in south-western Jutland and seat of its diocese."
+}

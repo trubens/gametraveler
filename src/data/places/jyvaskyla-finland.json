@@ -1,0 +1,13 @@
+{
+  "id": "jyvaskyla-finland",
+  "name": "Jyväskylä, Finland",
+  "position": {
+    "lat": 62.24,
+    "lon": 25.75
+  },
+  "scale": "area",
+  "parentId": "finland",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jyv%C3%A4skyl%C3%A4",
+  "description": "The regional capital of Central Finland."
+}

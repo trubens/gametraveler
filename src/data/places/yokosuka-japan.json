@@ -1,0 +1,13 @@
+{
+  "id": "yokosuka-japan",
+  "name": "Yokosuka, Japan",
+  "position": {
+    "lat": 35.2847,
+    "lon": 139.6605
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yokosuka",
+  "description": "A port city in Kanagawa Prefecture at the mouth of Tokyo Bay."
+}

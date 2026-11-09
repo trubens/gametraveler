@@ -1,0 +1,34 @@
+{
+  "id": 1000306,
+  "name": "Battlefield 1943",
+  "year": 2009,
+  "series": "Battlefield",
+  "developer": "DICE",
+  "publisher": "Electronic Arts",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    1943
+  ],
+  "source": "https://en.wikipedia.org/wiki/Battlefield_1943",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "wake-island-usa",
+      "note": "Wake Island: Marines against the Imperial Japanese Navy on the atoll, one of the game's three launch maps."
+    },
+    {
+      "placeId": "guadalcanal-solomon-islands",
+      "note": "Guadalcanal: the jungle and the airfield, a launch map."
+    },
+    {
+      "placeId": "iwo-jima-japan",
+      "note": "Iwo Jima: the landing below Mount Suribachi, a launch map."
+    },
+    {
+      "placeId": "coral-sea",
+      "note": "Coral Sea: an air-only map unlocked once players reached 43 million kills between them."
+    }
+  ]
+}

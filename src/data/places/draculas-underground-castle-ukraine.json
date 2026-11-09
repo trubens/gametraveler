@@ -1,0 +1,18 @@
+{
+  "id": "draculas-underground-castle-ukraine",
+  "name": "Dracula's Underground Castle, Ukraine",
+  "position": {
+    "lat": 51.3,
+    "lon": 30.005
+  },
+  "scale": "site",
+  "parentId": "ukraine",
+  "placeType": "landmark",
+  "fictional": true,
+  "aliases": [
+    "Chernobyl Exclusion Zone"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Dracula_5:_The_Blood_Legacy",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chernobyl_exclusion_zone",
+  "description": "Dracula's invented present-day lair, an underground castle the game hides in the Chernobyl Exclusion Zone. The game gives no exact spot, so it is pinned at the centre of the zone."
+}

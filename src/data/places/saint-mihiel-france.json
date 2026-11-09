@@ -1,0 +1,15 @@
+{
+  "id": "saint-mihiel-france",
+  "name": "Saint-Mihiel, France",
+  "position": {
+    "lat": 48.8892,
+    "lon": 5.5436
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Saint-Mihiel",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Saint-Mihiel",
+  "description": "A commune on the Meuse in the Meuse department of north-eastern France.",
+  "descriptionSource": "wikipedia"
+}

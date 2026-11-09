@@ -1,0 +1,13 @@
+{
+  "id": "cartagena-colombia",
+  "name": "Cartagena, Colombia",
+  "position": {
+    "lat": 10.391,
+    "lon": -75.4794
+  },
+  "scale": "area",
+  "parentId": "colombia",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cartagena,_Colombia",
+  "description": "A major port on Colombia's Caribbean coast."
+}

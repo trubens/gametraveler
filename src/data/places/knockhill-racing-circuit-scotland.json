@@ -1,0 +1,12 @@
+{
+  "id": "knockhill-racing-circuit-scotland",
+  "name": "Knockhill Racing Circuit, Scotland",
+  "position": {
+    "lat": 56.132,
+    "lon": -3.51
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Knockhill",
+  "description": "Scotland's national motorsport centre, a racing circuit in Fife that has run since 1974."
+}

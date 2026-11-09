@@ -11,6 +11,10 @@ node_modules
 dist
 dist-ssr
 *.local
+.env
+.env.*
+!.env.example
+.ftp-deploy.local
 
 # Editor directories and files
 .vscode/*
@@ -28,3 +32,12 @@ dist-ssr
 .impeccable/review
 .impeccable/build
 .playwright-cli
+
+# Nedlastede kildefiler for scripts/build-countries.mjs
+.cache/
+
+# Lokale skjermbilder, revisjonsnotater og npm-mellomlager
+output/
+audit/
+.npm-cache/
+__pycache__/

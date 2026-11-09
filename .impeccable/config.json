@@ -1,0 +1,14 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "design-system-font",
+        "value": "newsreader variable",
+        "createdAt": "2026-10-28T16:37:43.561Z",
+        "reason": "Declared in DESIGN.md Typography (line 228): Newsreader Variable italic is the documented wordmark and tagline face; the new @font-face only self-hosts a subset instance of it"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1000003,
+  "name": "Pirates of the Caribbean: At World's End",
+  "year": 2007,
+  "publisher": "Disney Interactive Studios",
+  "developer": "Eurocom",
+  "locations": [
+    {
+      "placeId": "port-royal-jamaica",
+      "note": "The story begins in Port Royal, where the pirate trials set the film's events in motion."
+    },
+    {
+      "placeId": "tortuga-haiti",
+      "note": "The crew visits the real Caribbean island of Tortuga during the search for Jack Sparrow."
+    }
+  ],
+  "storyYears": [
+    1720
+  ],
+  "source": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_At_World%27s_End_(video_game)",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

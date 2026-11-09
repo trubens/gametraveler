@@ -1,0 +1,15 @@
+{
+  "id": "englewood-chicago-usa",
+  "name": "Englewood, Chicago, USA",
+  "position": {
+    "lat": 41.78,
+    "lon": -87.645
+  },
+  "scale": "site",
+  "parentId": "chicago-usa",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Englewood,_Chicago",
+  "description": "A neighbourhood and community area on the South Side of Chicago.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Englewood,_Chicago"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "el-fahs-tunisia",
+  "name": "El Fahs, Tunisia",
+  "position": {
+    "lat": 36.3667,
+    "lon": 9.9
+  },
+  "scale": "area",
+  "parentId": "tunisia",
+  "placeType": "city",
+  "aliases": [
+    "Pont du Fahs"
+  ],
+  "source": "https://en.wikipedia.org/wiki/El_Fahs",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/El_Fahs",
+  "description": "A town and commune in Zaghouan Governorate, 60 km south-west of Tunis, known in French as Pont du Fahs.",
+  "descriptionSource": "wikipedia"
+}

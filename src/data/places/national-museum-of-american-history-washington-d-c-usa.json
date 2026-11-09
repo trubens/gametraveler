@@ -1,0 +1,18 @@
+{
+  "id": "national-museum-of-american-history-washington-d-c-usa",
+  "name": "National Museum of American History, Washington, D.C., USA",
+  "position": {
+    "lat": 38.8911,
+    "lon": -77.03
+  },
+  "scale": "site",
+  "parentId": "washington-d-c-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "American History Museum"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/National_Museum_of_American_History",
+  "description": "The Smithsonian museum of American social, political, cultural and scientific history on the National Mall.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/National_Museum_of_American_History"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1000128,
+  "name": "Tokyo Dark",
+  "year": 2017,
+  "publisher": "Square Enix Collective",
+  "developer": "Cherrymochi",
+  "genres": [
+    "Adventure",
+    "Visual Novel"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Tokyo_Dark",
+  "locations": [
+    {
+      "placeId": "tokyo-japan",
+      "note": "A detective investigates her partner’s disappearance through Tokyo’s streets and underground locations."
+    }
+  ],
+  "storyYears": [
+    2017
+  ]
+}

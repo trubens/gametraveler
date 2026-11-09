@@ -1,0 +1,12 @@
+{
+  "id": "dunsfold-aerodrome-surrey-uk",
+  "name": "Dunsfold Aerodrome, Surrey, UK",
+  "position": {
+    "lat": 51.117,
+    "lon": -0.536
+  },
+  "scale": "area",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dunsfold_Aerodrome",
+  "description": "An unlicensed airfield in Surrey, England, near Cranleigh, spread across the villages of Dunsfold and Alfold."
+}

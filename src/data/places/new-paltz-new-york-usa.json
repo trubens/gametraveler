@@ -1,0 +1,13 @@
+{
+  "id": "new-paltz-new-york-usa",
+  "name": "New Paltz, New York, USA",
+  "position": {
+    "lat": 41.748,
+    "lon": -74.087
+  },
+  "scale": "area",
+  "parentId": "new-york-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Paltz_(village),_New_York",
+  "description": "A village in Ulster County."
+}

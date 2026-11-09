@@ -1,0 +1,13 @@
+{
+  "id": "belgium",
+  "name": "Belgium",
+  "position": {
+    "lat": 50.79,
+    "lon": 4.8
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Belgium",
+  "description": "A kingdom in north-western Europe, with its capital at Brussels and the wooded Ardennes in its south-east."
+}

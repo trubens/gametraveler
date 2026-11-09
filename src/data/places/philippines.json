@@ -1,0 +1,13 @@
+{
+  "id": "philippines",
+  "name": "Philippines",
+  "position": {
+    "lat": 11.2,
+    "lon": 122.47
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Philippines",
+  "description": "An archipelago of thousands of islands in the western Pacific, at the eastern edge of Southeast Asia."
+}

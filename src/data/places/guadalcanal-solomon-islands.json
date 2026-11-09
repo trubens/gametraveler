@@ -1,0 +1,12 @@
+{
+  "id": "guadalcanal-solomon-islands",
+  "name": "Guadalcanal, Solomon Islands",
+  "position": {
+    "lat": -9.6,
+    "lon": 160.2
+  },
+  "scale": "area",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Guadalcanal",
+  "description": "The main island of the Solomon Islands' Guadalcanal Province, in the south-western Pacific north-east of Australia."
+}

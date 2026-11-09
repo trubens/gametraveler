@@ -1,0 +1,14 @@
+{
+  "id": "arlington-national-cemetery-virginia-usa",
+  "name": "Arlington National Cemetery, Virginia, USA",
+  "position": {
+    "lat": 38.8792,
+    "lon": -77.0722
+  },
+  "scale": "area",
+  "parentId": "virginia-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arlington_National_Cemetery",
+  "description": "The national military cemetery on the Potomac across from Washington, D.C., with more than 400,000 graves.",
+  "descriptionSource": "wikipedia"
+}

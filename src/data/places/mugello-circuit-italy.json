@@ -1,0 +1,13 @@
+{
+  "id": "mugello-circuit-italy",
+  "name": "Mugello Circuit, Italy",
+  "position": {
+    "lat": 43.9975,
+    "lon": 11.3719
+  },
+  "scale": "site",
+  "parentId": "italy",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mugello_Circuit",
+  "description": "A motorsport race track in the Tuscan hills at Scarperia e San Piero, north of Florence."
+}

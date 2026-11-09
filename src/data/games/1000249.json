@@ -1,0 +1,43 @@
+{
+  "id": 1000249,
+  "name": "The Amazon Trail",
+  "year": 1993,
+  "developer": "MECC",
+  "publisher": "MECC",
+  "genres": [
+    "Adventure",
+    "Strategy"
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/The_Amazon_Trail",
+  "locations": [
+    {
+      "placeId": "belem-brazil",
+      "note": "After a dream in Indiana, the player arrives in Belém and begins the journey up the river.",
+      "source": "https://gamefaqs.gamespot.com/pc/581698-the-amazon-trail/faqs/44408"
+    },
+    {
+      "placeId": "amazon-rainforest-south-america",
+      "note": "The main journey follows the Amazon and its tributaries through the rainforest.",
+      "source": "https://en.wikipedia.org/wiki/The_Amazon_Trail"
+    },
+    {
+      "placeId": "vilcabamba-peru",
+      "note": "The goal is to reach the hidden Inca city of Vilcabamba.",
+      "source": "https://gamefaqs.gamespot.com/pc/581698-the-amazon-trail/faqs/44408"
+    }
+  ],
+  "routes": [
+    {
+      "id": "journey-to-vilcabamba",
+      "name": "Journey to Vilcabamba",
+      "stops": [
+        "belem-brazil",
+        "amazon-rainforest-south-america",
+        "vilcabamba-peru"
+      ],
+      "note": "From Belém up the Amazon and its tributaries to the hidden Inca city of Vilcabamba.",
+      "source": "https://gamefaqs.gamespot.com/pc/581698-the-amazon-trail/faqs/44408"
+    }
+  ]
+}

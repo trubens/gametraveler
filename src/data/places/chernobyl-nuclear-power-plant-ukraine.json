@@ -1,0 +1,12 @@
+{
+  "id": "chernobyl-nuclear-power-plant-ukraine",
+  "name": "Chernobyl Nuclear Power Plant, Ukraine",
+  "position": {
+    "lat": 51.389,
+    "lon": 30.099
+  },
+  "scale": "area",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chernobyl_Nuclear_Power_Plant",
+  "description": "The former nuclear power plant in Ukraine, no longer operating and now slowly being decommissioned."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ostankino-tower-moscow-russia",
+  "name": "Ostankino Tower, Moscow, Russia",
+  "position": {
+    "lat": 55.8197,
+    "lon": 37.6117
+  },
+  "scale": "site",
+  "parentId": "moscow-russia",
+  "placeType": "landmark",
+  "aliases": [
+    "Ostankino"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ostankino_Tower",
+  "description": "Moscow's 540-metre television and radio tower, the tallest free-standing structure in Europe.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Ostankino_Tower"
+}

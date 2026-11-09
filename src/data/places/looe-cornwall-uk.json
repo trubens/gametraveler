@@ -1,0 +1,18 @@
+{
+  "id": "looe-cornwall-uk",
+  "name": "Looe, Cornwall, UK",
+  "position": {
+    "lat": 50.354,
+    "lon": -4.454
+  },
+  "scale": "area",
+  "parentId": "cornwall-england",
+  "placeType": "city",
+  "aliases": [
+    "Hannafore",
+    "Banjo Pier"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Looe",
+  "description": "A fishing town on the south-east Cornish coast, split by its river into East and West Looe.",
+  "descriptionSource": "wikipedia"
+}

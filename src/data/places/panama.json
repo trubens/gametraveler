@@ -1,0 +1,12 @@
+{
+  "id": "panama",
+  "name": "Panama",
+  "position": {
+    "lat": 8.538,
+    "lon": -80.7821
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Panama",
+  "description": "A country at the southern end of Central America, the land bridge between North and South America."
+}

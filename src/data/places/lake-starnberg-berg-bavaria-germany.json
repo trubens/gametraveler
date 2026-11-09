@@ -1,0 +1,18 @@
+{
+  "id": "lake-starnberg-berg-bavaria-germany",
+  "name": "Berg, Lake Starnberg, Bavaria, Germany",
+  "position": {
+    "lat": 47.9631,
+    "lon": 11.3533
+  },
+  "scale": "site",
+  "parentId": "bavaria-germany",
+  "placeType": "landmark",
+  "aliases": [
+    "Starnberger See",
+    "Starnberg"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Lake_Starnberg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lake_Starnberg",
+  "description": "Germany's fifth-largest lake by surface, and its second-largest body of fresh water thanks to its great depth; known until 1962 as the Würmsee."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "portland-international-raceway-oregon-usa",
+  "name": "Portland International Raceway, Oregon, USA",
+  "position": {
+    "lat": 45.599,
+    "lon": -122.688
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Portland_International_Raceway",
+  "description": "A motorsport circuit in Delta Park in Portland, Oregon, on the former site of Vanport just south of the Columbia River."
+}

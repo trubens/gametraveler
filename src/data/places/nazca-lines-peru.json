@@ -1,0 +1,14 @@
+{
+  "id": "nazca-lines-peru",
+  "name": "Nazca Lines, Peru",
+  "position": {
+    "lat": -14.739,
+    "lon": -75.13
+  },
+  "scale": "site",
+  "parentId": "peru",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Nazca_Lines",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nazca_Lines",
+  "description": "A group of vast geoglyphs scratched into the soil of the Nazca Desert in southern Peru."
+}

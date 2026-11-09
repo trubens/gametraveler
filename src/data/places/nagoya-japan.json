@@ -1,0 +1,13 @@
+{
+  "id": "nagoya-japan",
+  "name": "Nagoya, Japan",
+  "position": {
+    "lat": 35.1656,
+    "lon": 136.9043
+  },
+  "scale": "area",
+  "parentId": "japan",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nagoya",
+  "description": "The capital and largest city of Aichi Prefecture."
+}

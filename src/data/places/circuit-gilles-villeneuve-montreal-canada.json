@@ -1,0 +1,13 @@
+{
+  "id": "circuit-gilles-villeneuve-montreal-canada",
+  "name": "Circuit Gilles-Villeneuve, Montreal, Canada",
+  "position": {
+    "lat": 45.5,
+    "lon": -73.5228
+  },
+  "scale": "site",
+  "parentId": "montreal-canada",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve",
+  "description": "The motor racing circuit on Notre Dame Island in Montreal, home of the Canadian Grand Prix."
+}

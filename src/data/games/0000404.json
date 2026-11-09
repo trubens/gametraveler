@@ -1,0 +1,20 @@
+{
+  "id": 404,
+  "name": "Nancy Drew: Message in a Haunted Mansion",
+  "year": 2000,
+  "series": "Nancy Drew",
+  "developer": "Her Interactive / Handheld Games (GBA)",
+  "publisher": "DreamCatcher Interactive",
+  "locations": [
+    {
+      "placeId": "san-francisco-usa",
+      "note": "Nancy helps Rose Green turn a creaking Victorian mansion into a bed and breakfast, while 'ghostly' accidents and a secret hidden in the house threaten the work."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Message_in_a_Haunted_Mansion",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

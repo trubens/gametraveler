@@ -1,0 +1,12 @@
+{
+  "id": "japan",
+  "name": "Japan",
+  "position": {
+    "lat": 36.2048,
+    "lon": 138.2529
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Japan",
+  "description": "An island country off the north-east coast of Asia, with the Sea of Japan to its west, the Sea of Okhotsk to the north and the East China Sea to the south."
+}

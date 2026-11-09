@@ -1,0 +1,17 @@
+{
+  "id": "sapieha-palace-vilnius-lithuania",
+  "name": "Sapieha Palace, Vilnius, Lithuania",
+  "position": {
+    "lat": 54.688,
+    "lon": 25.3005
+  },
+  "scale": "site",
+  "parentId": "vilnius-lithuania",
+  "placeType": "landmark",
+  "aliases": [
+    "Sapiega park"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Sapieha_Palace,_Vilnius",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sapieha_Palace,_Vilnius",
+  "description": "A High Baroque palace in the Antakalnis district of Vilnius, the only one of the Sapieha family's several palaces in the city that still stands."
+}

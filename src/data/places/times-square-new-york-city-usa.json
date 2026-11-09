@@ -1,0 +1,14 @@
+{
+  "id": "times-square-new-york-city-usa",
+  "name": "Times Square, New York City, USA",
+  "position": {
+    "lat": 40.758,
+    "lon": -73.9855
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Times_Square",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Times_Square",
+  "description": "The bright junction of Broadway, Seventh Avenue and 42nd Street in Midtown Manhattan, one of the busiest crossings on earth."
+}

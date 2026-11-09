@@ -1,0 +1,14 @@
+{
+  "id": "chinatown-los-angeles-usa",
+  "name": "Chinatown, Los Angeles, USA",
+  "position": {
+    "lat": 34.0629,
+    "lon": -118.2379
+  },
+  "scale": "site",
+  "parentId": "los-angeles-usa",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chinatown,_Los_Angeles",
+  "description": "The neighbourhood north of downtown that became the city's Chinese commercial centre, rebuilt as New Chinatown in 1938.",
+  "descriptionSource": "wikipedia"
+}

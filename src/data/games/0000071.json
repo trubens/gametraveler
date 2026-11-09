@@ -1,0 +1,121 @@
+{
+  "id": 71,
+  "name": "Grand Theft Auto: San Andreas",
+  "aliases": [
+    "GTA",
+    "GTA San Andreas"
+  ],
+  "year": 2004,
+  "publisher": "Rockstar Games",
+  "series": "Grand Theft Auto",
+  "developer": "Rockstar North",
+  "locations": [
+    {
+      "placeId": "los-angeles-usa",
+      "aliases": [
+        "Los Santos"
+      ],
+      "settingType": "fictionalized",
+      "note": "CJ comes home to Los Santos, the game's Los Angeles, after his mother's murder, rebuilds the Grove Street Families and returns at the end to stop Big Smoke and chase Tenpenny through the riot."
+    },
+    {
+      "placeId": "compton-california-usa",
+      "settingType": "fictionalized",
+      "note": "Recreated as Ganton, home of the Johnson house on Grove Street, where CJ comes back for his mother's funeral and where the family celebrates at the end.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas"
+    },
+    {
+      "placeId": "san-andreas-countryside-fictionalized-california-and-nevada",
+      "settingType": "fictionalized",
+      "note": "Exiled by Tenpenny, CJ hides in the small towns of Red County with Catalina and the Truth, and later flies jobs for Toreno from a desert airstrip."
+    },
+    {
+      "placeId": "san-francisco-usa",
+      "aliases": [
+        "San Fierro"
+      ],
+      "settingType": "fictionalized",
+      "note": "In San Fierro, the game's San Francisco, CJ wins a garage in a street race, turns it into a chop shop and, with Wu Zi Mu's Triads, destroys the Loco Syndicate's drug factory and kills Ryder.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas"
+    },
+    {
+      "placeId": "chinatown-san-francisco-usa",
+      "settingType": "fictionalized",
+      "note": "Wu Zi Mu runs his Triads from San Fierro's Chinatown, where CJ joins the blind leader's fight against the Da Nang Boys.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas"
+    },
+    {
+      "placeId": "golden-gate-bridge-california-usa",
+      "settingType": "fictionalized",
+      "note": "Recreated as the Gant Bridge, the red suspension bridge carrying San Fierro's traffic north towards the desert.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas"
+    },
+    {
+      "placeId": "area-51-usa",
+      "settingType": "fictionalized",
+      "note": "Recreated as Area 69, the desert base CJ parachutes into to steal the Black Project jetpack for the Truth.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas"
+    },
+    {
+      "placeId": "hoover-dam-nevada-arizona-usa",
+      "settingType": "fictionalized",
+      "note": "Recreated as the Sherman Dam, where CJ parachutes in to plant explosives on the generators before the casino heist.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas"
+    },
+    {
+      "placeId": "las-vegas-usa",
+      "aliases": [
+        "Las Venturas"
+      ],
+      "settingType": "fictionalized",
+      "note": "In Las Venturas, the game's Las Vegas, CJ becomes co-owner of the Four Dragons casino with Wu Zi Mu, plans the robbery of the Mafia's casino and saves Madd Dogg from a suicide attempt.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas"
+    },
+    {
+      "placeId": "caesars-palace-las-vegas-usa",
+      "settingType": "fictionalized",
+      "note": "Recreated as Caligula's Palace, the Mafia-run casino that CJ and Wu Zi Mu rob in the game's big heist.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas"
+    },
+    {
+      "placeId": "new-york-city-usa",
+      "aliases": [
+        "Liberty City"
+      ],
+      "settingType": "fictionalized",
+      "note": "Salvatore Leone flies CJ to Liberty City, the series' New York, for a single job, shooting up a rival Mafia gathering at a bistro in Portland.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto#Setting"
+    }
+  ],
+  "routes": [
+    {
+      "id": "carl-johnson",
+      "name": "Carl Johnson",
+      "characters": [
+        "Carl Johnson"
+      ],
+      "storyYears": [
+        1992
+      ],
+      "stops": [
+        "los-angeles-usa",
+        "san-andreas-countryside-fictionalized-california-and-nevada",
+        "san-francisco-usa",
+        "san-andreas-countryside-fictionalized-california-and-nevada",
+        "las-vegas-usa",
+        "los-angeles-usa"
+      ],
+      "note": "From Grove Street into exile in the countryside, on to San Fierro and the Las Venturas casinos, and home to Los Santos for the riot.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas"
+    }
+  ],
+  "storyYears": [
+    1992
+  ],
+  "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Rockstar_Games",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

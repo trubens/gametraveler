@@ -1,0 +1,54 @@
+{
+  "id": 1000195,
+  "name": "Chronicle of Innsmouth: Mountains of Madness",
+  "year": 2021,
+  "series": "Chronicle of Innsmouth",
+  "developer": "PsychoDev",
+  "publisher": "AtomicHorde",
+  "locations": [
+    {
+      "placeId": "innsmouth-fictional-massachusetts",
+      "settingType": "fictionalized",
+      "note": "Lone Carter wakes badly wounded on a beach near Innsmouth after a shoggoth attack, recovers changed and must escape the town.",
+      "source": "https://www.atomichorde.com/mom_presskit/"
+    },
+    {
+      "placeId": "arkham-fictional-massachusetts",
+      "settingType": "fictionalized",
+      "note": "Back in Arkham, Carter investigates ritual murders tied to a plot that spans several eras.",
+      "source": "https://www.atomichorde.com/mom_presskit/"
+    },
+    {
+      "placeId": "antarctica",
+      "note": "Carter's investigation leads all the way to the South Pole.",
+      "source": "https://www.atomichorde.com/mom_presskit/"
+    },
+    {
+      "placeId": "yemen",
+      "note": "A separate playable thread follows Abdul Alhazred in ancient Yemen.",
+      "source": "https://www.atomichorde.com/mom_presskit/"
+    }
+  ],
+  "routes": [
+    {
+      "id": "carter-investigation",
+      "name": "Lone Carter's investigation",
+      "characters": [
+        "Lone Carter"
+      ],
+      "stops": [
+        "innsmouth-fictional-massachusetts",
+        "arkham-fictional-massachusetts",
+        "antarctica"
+      ],
+      "note": "Lone Carter escapes Innsmouth, investigates ritual murders in Arkham and follows the plot to the South Pole.",
+      "source": "https://www.atomichorde.com/mom_presskit/"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://store.steampowered.com/app/962700/Chronicle_of_Innsmouth_Mountains_of_Madness/",
+  "genres": [
+    "Adventure",
+    "Survival Horror"
+  ]
+}

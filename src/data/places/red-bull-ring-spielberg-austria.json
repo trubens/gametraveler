@@ -1,0 +1,15 @@
+{
+  "id": "red-bull-ring-spielberg-austria",
+  "name": "Red Bull Ring, Spielberg, Austria",
+  "aliases": [
+    "A1-Ring"
+  ],
+  "position": {
+    "lat": 47.2197,
+    "lon": 14.7647
+  },
+  "scale": "site",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Red_Bull_Ring",
+  "description": "A motorsport circuit at Spielberg in Styria, founded as the Österreichring, which hosted the Austrian Grand Prix for eighteen years running."
+}

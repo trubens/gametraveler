@@ -1,0 +1,14 @@
+{
+  "id": "federal-hall-new-york-city-usa",
+  "name": "Federal Hall, New York City, USA",
+  "position": {
+    "lat": 40.7072,
+    "lon": -74.0103
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Federal_Hall",
+  "description": "The Greek Revival hall on Wall Street on the site of the first capitol, where George Washington took the oath of office in 1789.",
+  "descriptionSource": "wikipedia"
+}

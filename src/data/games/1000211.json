@@ -1,0 +1,21 @@
+{
+  "id": 1000211,
+  "name": "D4: Dark Dreams Don't Die",
+  "year": 2014,
+  "developer": "Access Games",
+  "publisher": "Microsoft Studios",
+  "locations": [
+    {
+      "placeId": "boston-usa",
+      "note": "The story follows Boston detective David Young and his attempts to investigate his wife's murder.",
+      "source": "https://en.wikipedia.org/wiki/D4:_Dark_Dreams_Don%27t_Die"
+    }
+  ],
+  "storyYears": [
+    2013
+  ],
+  "source": "https://en.wikipedia.org/wiki/D4:_Dark_Dreams_Don%27t_Die",
+  "genres": [
+    "Adventure"
+  ]
+}

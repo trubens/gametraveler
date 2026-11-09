@@ -1,0 +1,13 @@
+{
+  "id": "varanasi-india",
+  "name": "Varanasi, India",
+  "position": {
+    "lat": 25.3176,
+    "lon": 82.9739
+  },
+  "scale": "area",
+  "parentId": "india",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Varanasi",
+  "description": "The holy city of Kashi on the Ganges in northern India."
+}

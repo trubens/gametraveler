@@ -1,0 +1,61 @@
+{
+  "id": 475,
+  "name": "Assassin's Creed: Altaïr's Chronicles",
+  "year": 2008,
+  "series": "Assassin's Creed",
+  "developer": "Gameloft Bucharest",
+  "publisher": "Ubisoft",
+  "locations": [
+    {
+      "placeId": "damascus-syria",
+      "note": "Altaïr follows the Chalice through Damascus."
+    },
+    {
+      "placeId": "jerusalem",
+      "note": "Altaïr follows the Chalice through Jerusalem."
+    },
+    {
+      "placeId": "acre-akko-israel",
+      "note": "Altaïr's search for the Chalice runs through Acre."
+    },
+    {
+      "placeId": "tyre-lebanon",
+      "note": "Tyre, new to the series, on the Chalice's trail."
+    },
+    {
+      "placeId": "aleppo-syria",
+      "note": "Aleppo, new to the series, on the Chalice's trail."
+    }
+  ],
+  "storyYears": [
+    1190
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed:_Alta%C3%AFr%27s_Chronicles",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "altair",
+      "name": "Altaïr Ibn-La'Ahad",
+      "characters": [
+        "Altaïr Ibn-La'Ahad"
+      ],
+      "stops": [
+        "aleppo-syria",
+        "damascus-syria",
+        "tyre-lebanon",
+        "jerusalem",
+        "tyre-lebanon",
+        "acre-akko-israel",
+        "jerusalem",
+        "aleppo-syria",
+        "tyre-lebanon"
+      ],
+      "note": "From besieged Aleppo, Altaïr gathers the temple keys in Damascus, Tyre and Jerusalem, chases Basilisk and the Chalice through Tyre, Acre and Jerusalem, saves Aleppo from betrayal and loses Adha at sea off Tyre.",
+      "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed:_Alta%C3%AFr%27s_Chronicles"
+    }
+  ]
+}

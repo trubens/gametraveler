@@ -1,0 +1,15 @@
+{
+  "id": "lincoln-massachusetts-usa",
+  "name": "Lincoln, Massachusetts, USA",
+  "position": {
+    "lat": 42.4258,
+    "lon": -71.3044
+  },
+  "scale": "area",
+  "parentId": "massachusetts-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln,_Massachusetts",
+  "description": "A small town in Middlesex County, Massachusetts, west of Boston.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Lincoln,_Massachusetts"
+}

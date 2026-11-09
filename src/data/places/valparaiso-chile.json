@@ -1,0 +1,17 @@
+{
+  "id": "valparaiso-chile",
+  "name": "Valparaíso, Chile",
+  "position": {
+    "lat": -33.0461,
+    "lon": -71.6197
+  },
+  "scale": "area",
+  "parentId": "chile",
+  "placeType": "city",
+  "aliases": [
+    "Valparaiso"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Valparaíso",
+  "description": "Chile's great port, its painted houses climbing steep hills above the bay, with funiculars between them.",
+  "descriptionSource": "wikipedia"
+}

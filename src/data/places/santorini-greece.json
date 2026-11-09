@@ -1,0 +1,18 @@
+{
+  "id": "santorini-greece",
+  "name": "Santorini, Greece",
+  "position": {
+    "lat": 36.3932,
+    "lon": 25.4615
+  },
+  "scale": "area",
+  "parentId": "greece",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Santorini",
+  "description": "A Greek island in the southern Aegean, the largest of a small circular archipelago formed by a volcanic caldera, with whitewashed villages along its cliffs.",
+  "aliases": [
+    "Thera (Santorini), Greece",
+    "Thera (Santorini)",
+    "Thera"
+  ]
+}

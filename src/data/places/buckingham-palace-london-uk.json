@@ -1,0 +1,14 @@
+{
+  "id": "buckingham-palace-london-uk",
+  "name": "Buckingham Palace, London, UK",
+  "position": {
+    "lat": 51.5014,
+    "lon": -0.1419
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Buckingham_Palace",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buckingham_Palace",
+  "description": "The official London residence and administrative headquarters of the monarch of the United Kingdom."
+}

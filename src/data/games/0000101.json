@@ -1,0 +1,97 @@
+{
+  "id": 101,
+  "name": "Gabriel Knight 2: The Beast Within",
+  "year": 1995,
+  "publisher": "Sierra On-Line",
+  "series": "Gabriel Knight",
+  "developer": "Sierra On-Line",
+  "locations": [
+    {
+      "placeId": "munich-germany",
+      "note": "Gabriel, now living in Bavaria, investigates werewolf-style killings around Munich, and the story ends at the premiere of Wagner's lost opera in the city's Wittelsbacher Theater, where Gabriel hunts Von Glower through the cellars."
+    },
+    {
+      "placeId": "bavaria-germany",
+      "note": "Grace tours Ludwig II's castles, Neuschwanstein among them, chasing the king's and Wagner's secret."
+    },
+    {
+      "placeId": "marienplatz-munich-germany",
+      "note": "Gabriel hears the Glockenspiel chime over Marienplatz while chasing leads in Munich."
+    },
+    {
+      "placeId": "marktplatz-rothenburg-ob-der-tauber-germany",
+      "note": "Grace keeps returning to the market square of Rittersberg, the village below Schloss Ritter; the square is Rothenburg's, and the restaurant on it is really the Marien-Apotheke.",
+      "settingType": "fictionalized",
+      "source": "https://www.reddit.com/r/adventuregames/comments/1gdcc2z/gabriel_knight_2_locations_in_real_life_2024/",
+      "aliases": [
+        "Rittersberg"
+      ]
+    },
+    {
+      "placeId": "neuschwanstein-castle-bavaria-germany",
+      "note": "Grace tours King Ludwig II's Neuschwanstein and reads his story in its halls."
+    },
+    {
+      "placeId": "herrenchiemsee-bavaria-germany",
+      "note": "Ludwig's island palace of Herrenchiemsee is another stop on Grace's research trail."
+    },
+    {
+      "placeId": "burg-rabenstein-bavaria-germany",
+      "settingType": "fictionalized",
+      "note": "The real Burg Rabenstein stands in for Schloss Ritter, the Ritter family seat."
+    },
+    {
+      "placeId": "lake-starnberg-berg-bavaria-germany",
+      "note": "At Berg on Lake Starnberg, where King Ludwig II drowned, a flower on the water's edge brings Grace a vision of his death.",
+      "source": "https://sierrahelp.com/Walkthroughs/GK2Walkthrough.html"
+    },
+    {
+      "placeId": "gnadenkapelle-altotting-bavaria-germany",
+      "note": "In the pilgrimage chapel at Altötting, among the silver offerings, Grace reaches Ludwig's heart urn for the next part of Wagner's lost opera.",
+      "source": "https://sierrahelp.com/Walkthroughs/GK2Walkthrough.html"
+    }
+  ],
+  "storyYears": [
+    1995
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Beast_Within:_A_Gabriel_Knight_Mystery",
+  "reviewed": "2026-11-01",
+  "developerUrl": "https://en.wikipedia.org/wiki/Sierra_Entertainment",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "gabriel-knight",
+      "name": "Gabriel Knight",
+      "characters": [
+        "Gabriel Knight"
+      ],
+      "stops": [
+        "burg-rabenstein-bavaria-germany",
+        "marienplatz-munich-germany"
+      ],
+      "note": "Called out of his ancestral castle by the villagers, Gabriel goes to Munich to hunt the beast behind the killings and is drawn into Baron von Glower's hunting club.",
+      "source": "https://en.wikipedia.org/wiki/The_Beast_Within:_A_Gabriel_Knight_Mystery"
+    },
+    {
+      "id": "grace-nakimura",
+      "name": "Grace Nakimura",
+      "characters": [
+        "Grace Nakimura",
+        "Gerde Hull"
+      ],
+      "stops": [
+        "burg-rabenstein-bavaria-germany",
+        "marktplatz-rothenburg-ob-der-tauber-germany",
+        "herrenchiemsee-bavaria-germany",
+        "neuschwanstein-castle-bavaria-germany",
+        "lake-starnberg-berg-bavaria-germany",
+        "gnadenkapelle-altotting-bavaria-germany",
+        "neuschwanstein-castle-bavaria-germany"
+      ],
+      "note": "From Schloss Ritter and the walled town of Rittersberg, Grace follows King Ludwig II from palace to palace, to the lake where he drowned and the chapel that holds his heart, until Wagner's lost opera turns up again at Neuschwanstein.",
+      "source": "https://gameboomers.com/wtcheats/pcGg/GK2a.htm"
+    }
+  ]
+}

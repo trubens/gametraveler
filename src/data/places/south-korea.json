@@ -1,0 +1,16 @@
+{
+  "id": "south-korea",
+  "name": "South Korea",
+  "aliases": [
+    "Republic of Korea"
+  ],
+  "position": {
+    "lat": 36.38,
+    "lon": 128.13
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/South_Korea",
+  "description": "A country in East Asia covering the southern half of the Korean Peninsula and its nearby islands."
+}

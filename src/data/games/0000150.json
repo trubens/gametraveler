@@ -1,0 +1,47 @@
+{
+  "id": 150,
+  "name": "Driv3r",
+  "series": "Driver",
+  "year": 2004,
+  "publisher": "Atari",
+  "developer": "Reflections Interactive",
+  "locations": [
+    {
+      "placeId": "miami-usa",
+      "note": "Tanner and Jones go undercover in Calita's South Beach car-theft gang, and Tanner is sent to kill The Gator for betraying it."
+    },
+    {
+      "placeId": "nice-france",
+      "note": "Tanner steals cars for Calita, rescues Interpol agent Dubois only to see Jericho kill him with Tanner's gun, and learns the deal will happen in Istanbul."
+    },
+    {
+      "placeId": "istanbul-turkey",
+      "note": "Tanner tracks Jericho's sale of the stolen cars through the Bagman, cuts off his escape train and is shot by him in an alley."
+    }
+  ],
+  "storyYears": [
+    2004
+  ],
+  "source": "https://en.wikipedia.org/wiki/Driver_3",
+  "reviewed": "2026-11-02",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "stolen-car-ring",
+      "name": "The stolen-car ring",
+      "characters": [
+        "John Tanner",
+        "Tobias Jones"
+      ],
+      "stops": [
+        "miami-usa",
+        "nice-france",
+        "istanbul-turkey"
+      ],
+      "note": "Tanner follows the South Beach gang's stolen cars from Miami to the Riviera and on to Istanbul, where Charles Jericho waits.",
+      "source": "https://en.wikipedia.org/wiki/Driver_3"
+    }
+  ]
+}

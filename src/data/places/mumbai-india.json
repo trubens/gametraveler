@@ -1,0 +1,13 @@
+{
+  "id": "mumbai-india",
+  "name": "Mumbai, India",
+  "position": {
+    "lat": 19.076,
+    "lon": 72.8777
+  },
+  "scale": "area",
+  "parentId": "india",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mumbai",
+  "description": "India's financial capital and the chief city of Maharashtra."
+}

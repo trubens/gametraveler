@@ -1,0 +1,18 @@
+{
+  "id": "new-york-city-hall-new-york-city-usa",
+  "name": "New York City Hall, New York City, USA",
+  "position": {
+    "lat": 40.7127,
+    "lon": -74.0059
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "City Hall"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/New_York_City_Hall",
+  "description": "The seat of New York City's government, in City Hall Park in Lower Manhattan, completed in 1812.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/New_York_City_Hall"
+}

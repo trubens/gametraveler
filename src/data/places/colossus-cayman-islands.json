@@ -1,0 +1,14 @@
+{
+  "id": "colossus-cayman-islands",
+  "name": "Colossus, Cayman Islands",
+  "position": {
+    "lat": 19.34,
+    "lon": -81.43
+  },
+  "scale": "area",
+  "placeType": "city",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_II",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cayman_Islands",
+  "description": "An invented floating resort city that Black Ops II places in the Cayman Islands. It has no real model; the pin off Grand Cayman's west coast is a guess, since the game names no exact spot."
+}

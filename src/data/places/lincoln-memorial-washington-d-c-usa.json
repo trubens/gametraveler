@@ -1,0 +1,15 @@
+{
+  "id": "lincoln-memorial-washington-d-c-usa",
+  "name": "Lincoln Memorial, Washington, D.C., USA",
+  "position": {
+    "lat": 38.8893,
+    "lon": -77.0501
+  },
+  "scale": "site",
+  "parentId": "washington-d-c-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln_Memorial",
+  "description": "The national memorial to Abraham Lincoln at the west end of the National Mall.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/Lincoln_Memorial"
+}

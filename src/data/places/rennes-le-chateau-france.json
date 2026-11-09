@@ -1,0 +1,13 @@
+{
+  "id": "rennes-le-chateau-france",
+  "name": "Rennes-le-Château, France",
+  "position": {
+    "lat": 42.9278,
+    "lon": 2.2631
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rennes-le-Ch%C3%A2teau",
+  "description": "A hilltop village in the Aude."
+}

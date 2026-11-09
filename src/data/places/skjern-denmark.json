@@ -1,0 +1,13 @@
+{
+  "id": "skjern-denmark",
+  "name": "Skjern, Denmark",
+  "position": {
+    "lat": 55.95,
+    "lon": 8.493
+  },
+  "scale": "area",
+  "parentId": "denmark",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Skjern,_Denmark",
+  "description": "A railway town just north of the Skjern river in western Jutland."
+}

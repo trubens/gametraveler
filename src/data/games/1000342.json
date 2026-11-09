@@ -1,0 +1,23 @@
+{
+  "id": 1000342,
+  "name": "Far Cry New Dawn",
+  "year": 2019,
+  "series": "Far Cry",
+  "developer": "Ubisoft Montreal",
+  "publisher": "Ubisoft",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    2035
+  ],
+  "source": "https://en.wikipedia.org/wiki/Far_Cry_New_Dawn",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "hope-county-fictional-montana-usa",
+      "note": "Seventeen years after the nuclear Collapse, survivors rebuild Hope County from their base at Prosperity against the raider twins of the Highwaymen.",
+      "settingType": "fictionalized"
+    }
+  ]
+}

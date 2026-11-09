@@ -1,0 +1,21 @@
+{
+  "id": 119,
+  "name": "Ghost of Tsushima",
+  "year": 2020,
+  "publisher": "Sony Interactive Entertainment",
+  "series": "Ghost of Tsushima",
+  "developer": "Sucker Punch Productions",
+  "locations": [
+    {
+      "placeId": "tsushima-island-japan",
+      "note": "Samurai Jin Sakai fights the 1274 Mongol invasion across Tsushima, bending his honor to survive."
+    }
+  ],
+  "storyYears": [
+    1274
+  ],
+  "source": "https://en.wikipedia.org/wiki/Ghost_of_Tsushima",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

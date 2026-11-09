@@ -1,0 +1,13 @@
+{
+  "id": "provence-france",
+  "name": "Provence, France",
+  "position": {
+    "lat": 43.9,
+    "lon": 6
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Provence",
+  "description": "The historic region of south-eastern France that stretches from the lower Rhône east to the Italian border, with the Mediterranean along its southern shore."
+}

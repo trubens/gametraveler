@@ -1,0 +1,13 @@
+{
+  "id": "homestead-miami-speedway-florida-usa",
+  "name": "Homestead-Miami Speedway, Florida, USA",
+  "position": {
+    "lat": 25.4519,
+    "lon": -80.4086
+  },
+  "scale": "site",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Homestead–Miami_Speedway",
+  "description": "A 1.5-mile oval with an infield road course at Homestead, south of Miami, the NASCAR season's old finale.",
+  "descriptionSource": "wikipedia"
+}

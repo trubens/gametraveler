@@ -1,0 +1,52 @@
+{
+  "id": 36,
+  "name": "The Mystery of the Druids",
+  "year": 2001,
+  "publisher": "CDV Software Entertainment",
+  "developer": "House of Tales",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "In 2000 Scotland Yard detective Brent Halligan is handed the ritual 'Skeleton Murders'; his office, the forensics lab and the closed Anthropology Museum are all in London."
+    },
+    {
+      "placeId": "scotland-yard-london-uk",
+      "note": "The case begins in Chief Miller's office and Halligan's own, the room beside the Coke machine.",
+      "source": "https://www.gameboomers.com/wtcheats/pcMm/MotD.htm"
+    },
+    {
+      "placeId": "epping-forest-england-uk",
+      "note": "The first crime scene: a bone and a patch of burnt grass in Epping Forest.",
+      "source": "https://www.gameboomers.com/wtcheats/pcMm/MotD.htm"
+    },
+    {
+      "placeId": "oxford-uk",
+      "note": "Dr Melanie Turner's anthropology museum, and the university library where Halligan hunts a book on Celtic script.",
+      "source": "https://www.gameboomers.com/wtcheats/pcMm/MotD.htm"
+    },
+    {
+      "placeId": "france",
+      "aliases": [
+        "Carmors"
+      ],
+      "settingType": "fictionalized",
+      "note": "The ferry from Portsmouth takes Halligan to the Old Castle de Carmors to find the lost amulet.",
+      "source": "https://www.gameboomers.com/wtcheats/pcMm/MotD.htm"
+    },
+    {
+      "placeId": "stonehenge-uk",
+      "note": "A dark ceremony at Stonehenge in 1000 AD opens the game, and the final ritual must be stopped there; between them the Twelve Bridges gate sends Halligan a thousand years back to a monastery and two temples that exist only in the game."
+    }
+  ],
+  "storyYears": [
+    1000,
+    2000
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Mystery_of_the_Druids",
+  "developerUrl": "https://en.wikipedia.org/wiki/House_of_Tales",
+  "publisherUrl": "https://en.wikipedia.org/wiki/CDV_Software",
+  "genres": [
+    "Adventure"
+  ],
+  "route": true
+}

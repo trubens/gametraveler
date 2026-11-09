@@ -1,0 +1,13 @@
+{
+  "id": "giza-egypt",
+  "name": "Giza, Egypt",
+  "position": {
+    "lat": 29.9792,
+    "lon": 31.1342
+  },
+  "scale": "area",
+  "parentId": "egypt",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Giza",
+  "description": "Egypt's third-largest city."
+}

@@ -1,0 +1,26 @@
+{
+  "id": 196,
+  "name": "Sniper Elite 5",
+  "year": 2022,
+  "publisher": "Rebellion",
+  "series": "Sniper Elite",
+  "developer": "Rebellion",
+  "locations": [
+    {
+      "placeId": "mont-saint-michel-france",
+      "note": "The Spy Academy mission infiltrates a fortified tidal-island abbey modelled on Mont-Saint-Michel."
+    },
+    {
+      "placeId": "saint-nazaire-france",
+      "note": "Karl Fairburne's hunt for Operation Kraken leads to the U-boat pens of Saint-Nazaire."
+    }
+  ],
+  "storyYears": [
+    1944
+  ],
+  "source": "https://en.wikipedia.org/wiki/Sniper_Elite_5",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Stealth"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "herrenchiemsee-bavaria-germany",
+  "name": "Herrenchiemsee, Bavaria, Germany",
+  "position": {
+    "lat": 47.8614,
+    "lon": 12.3961
+  },
+  "scale": "site",
+  "parentId": "bavaria-germany",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Herrenchiemsee",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Herrenchiemsee",
+  "description": "A complex of royal buildings on Herreninsel, the largest island in the Chiemsee lake in southern Bavaria."
+}

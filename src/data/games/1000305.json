@@ -1,0 +1,34 @@
+{
+  "id": 1000305,
+  "name": "Harry Potter and the Deathly Hallows – Part 1",
+  "year": 2010,
+  "aliases": [
+    "Harry Potter and the Deathly Hallows Part 1"
+  ],
+  "developer": "EA Bright Light",
+  "publisher": "Electronic Arts",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "storyYears": [
+    1997
+  ],
+  "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_1_(video_game)",
+  "locations": [
+    {
+      "placeId": "london-uk",
+      "note": "A Bitter Coffee: Harry, Ron and Hermione fight their way out of a London café after Death Eaters find them; Grimmauld Place, the Ministry and Godric's Hollow are invented.",
+      "source": "https://www.harrypotterdatabase.com/video-games/harry-potter-and-the-deathly-hallows-part-1-video-game"
+    },
+    {
+      "placeId": "epping-forest-england-uk",
+      "note": "The trio's first camp in the woods after the Ministry, where the hunt through the forests begins.",
+      "source": "https://harrypotter.fandom.com/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)"
+    },
+    {
+      "placeId": "forest-of-dean-england-uk",
+      "note": "The winter camps: the Snatchers' camp by the abandoned viaduct, and the snow where the sword of Gryffindor waits in the pool.",
+      "source": "https://harrypotter.fandom.com/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)"
+    }
+  ]
+}

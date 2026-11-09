@@ -1,0 +1,36 @@
+{
+  "id": 363,
+  "name": "Need for Speed: ProStreet",
+  "year": 2007,
+  "series": "Need for Speed",
+  "developer": "EA Black Box",
+  "publisher": "Electronic Arts",
+  "locations": [
+    {
+      "placeId": "willow-springs-international-raceway-california-usa",
+      "note": "Hosts Battle Machine, G-Effect and Super Promotion race days in the career."
+    },
+    {
+      "placeId": "texas-world-speedway-texas-usa",
+      "note": "Hosts G-Effect, Super Promotion and the Battle Machine 'Challenge: Texas' race days, on layouts that include the oval, GP circuits and a drag strip."
+    },
+    {
+      "placeId": "portland-international-raceway-oregon-usa",
+      "note": "Hosts Battle Machine, Super Promotion and Rogue Speed race days in the career."
+    },
+    {
+      "placeId": "mondello-park-ireland",
+      "note": "Home to three React Team Sessions race days, plus G-Effect and Super Promotion events."
+    },
+    {
+      "placeId": "autopolis-japan",
+      "note": "Hosts React Team Session race days, including a championship, and two Noise Bomb race days."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Need_for_Speed:_ProStreet",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

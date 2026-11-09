@@ -1,0 +1,17 @@
+{
+  "id": "old-north-bridge-concord-massachusetts-usa",
+  "name": "Old North Bridge, Concord, Massachusetts, USA",
+  "position": {
+    "lat": 42.4689,
+    "lon": -71.3503
+  },
+  "scale": "site",
+  "parentId": "concord-massachusetts-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "North Bridge"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Old_North_Bridge",
+  "description": "The bridge over the Concord River where the militia fired 'the shot heard round the world' on 19 April 1775.",
+  "descriptionSource": "wikipedia"
+}

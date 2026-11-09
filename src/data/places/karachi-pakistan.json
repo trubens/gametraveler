@@ -1,0 +1,15 @@
+{
+  "id": "karachi-pakistan",
+  "name": "Karachi, Pakistan",
+  "position": {
+    "lat": 24.86,
+    "lon": 67.01
+  },
+  "scale": "area",
+  "parentId": "pakistan",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Karachi",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Karachi",
+  "description": "The capital of Sindh and Pakistan's largest city and main seaport, on the Arabian Sea.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "kiyomizu-dera-kyoto-japan",
+  "name": "Kiyomizu-dera, Kyoto, Japan",
+  "position": {
+    "lat": 34.995,
+    "lon": 135.785
+  },
+  "scale": "site",
+  "parentId": "kyoto-japan",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Ry%C5%AB_ga_Gotoku_Kenzan!",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kiyomizu-dera",
+  "description": "A Buddhist temple in eastern Kyoto, famous for its wooden stage jutting out over the hillside.",
+  "descriptionSource": "wikipedia"
+}

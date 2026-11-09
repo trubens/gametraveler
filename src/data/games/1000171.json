@@ -1,0 +1,21 @@
+{
+  "id": 1000171,
+  "name": "Black Dahlia",
+  "year": 1998,
+  "developer": "Take-Two Interactive",
+  "publisher": "Take-Two Interactive",
+  "genres": [
+    "Adventure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Black_Dahlia_(video_game)",
+  "locations": [
+    {
+      "placeId": "cleveland-ohio-usa",
+      "note": "The investigation begins in Cleveland, where the player visits the police office and crime-scene locations."
+    }
+  ],
+  "storyYears": [
+    1941,
+    1948
+  ]
+}

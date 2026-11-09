@@ -1,0 +1,12 @@
+{
+  "id": "north-atlantic",
+  "name": "North Atlantic",
+  "position": {
+    "lat": 45,
+    "lon": -45
+  },
+  "scale": "area",
+  "placeType": "area",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Atlantic_Ocean",
+  "description": "The northern reaches of the Atlantic Ocean, between North America and Europe."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "circuito-de-jerez-spain",
+  "name": "Circuito de Jerez, Spain",
+  "position": {
+    "lat": 36.708,
+    "lon": -6.034
+  },
+  "scale": "site",
+  "parentId": "spain",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Circuito_de_Jerez",
+  "description": "A racing circuit outside Jerez de la Frontera in southern Spain, deep in sherry country south of Seville."
+}

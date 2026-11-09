@@ -1,0 +1,18 @@
+{
+  "id": "yugoslavia-between-vinkovci-and-slavonski-brod",
+  "name": "Slavonia, Croatia",
+  "position": {
+    "lat": 45.22,
+    "lon": 18.41
+  },
+  "scale": "area",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Slavonia",
+  "description": "The flat farmland of eastern Slavonia between Vinkovci and Slavonski Brod, one of Croatia's four historical regions, in what was once Yugoslavia.",
+  "parentId": "croatia",
+  "aliases": [
+    "Yugoslavia",
+    "Vinkovci",
+    "Slavonski Brod"
+  ]
+}

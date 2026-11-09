@@ -1,0 +1,80 @@
+{
+  "id": 175,
+  "name": "Assassin's Creed Shadows",
+  "aliases": [
+    "AC",
+    "AC Shadows"
+  ],
+  "year": 2025,
+  "publisher": "Ubisoft",
+  "series": "Assassin's Creed",
+  "developer": "Ubisoft Quebec",
+  "locations": [
+    {
+      "placeId": "kyoto-japan",
+      "note": "The imperial capital of Sengoku-era Kansai, one of the open world's major cities."
+    },
+    {
+      "placeId": "osaka-japan",
+      "note": "Part of the Kansai map where shinobi Naoe and samurai Yasuke pursue their enemies."
+    },
+    {
+      "placeId": "iga-province-japan",
+      "note": "The ninja story includes the historical Iga region."
+    },
+    {
+      "placeId": "omi-province-japan",
+      "note": "The campaign crosses the historical province around Lake Biwa."
+    },
+    {
+      "placeId": "harima-province-japan",
+      "note": "The western campaign includes the historical Harima region."
+    },
+    {
+      "placeId": "yamato-province-japan",
+      "note": "Naoe travels to Yamato on the trail of the Assassin Tsuyu and the Imperial Regalia the Assassins once guarded there."
+    },
+    {
+      "placeId": "tamba-province-japan",
+      "note": "The mountains of Tamba, with Fukuchiyama castle, on the Kansai map."
+    },
+    {
+      "placeId": "wakasa-province-japan",
+      "note": "In Wakasa Naoe and Yasuke find a strange door, and the Templars hunt the Isu vault hidden on the coast."
+    },
+    {
+      "placeId": "honno-ji-kyoto-japan",
+      "note": "Naoe infiltrates the Honnō-ji temple and confronts Nobunaga."
+    },
+    {
+      "placeId": "sakai-japan",
+      "note": "Sakai is where the protagonists gather allies."
+    },
+    {
+      "placeId": "kobe-japan",
+      "note": "Kobe is one of the cities of the Kansai map, the port below Rokko."
+    },
+    {
+      "placeId": "takeda-castle-japan",
+      "note": "Takeda Castle is one of the real castles in the game, rebuilt as it stood in the 16th century."
+    },
+    {
+      "placeId": "fukuchiyama-castle-japan",
+      "note": "Fukuchiyama Castle is another of the real castles."
+    },
+    {
+      "placeId": "awaji-island-japan",
+      "note": "Claws of Awaji: Naoe follows a lead on Tsuyu to the island, held by the Sanzoku Ippa outlaws, and finds her mother there."
+    }
+  ],
+  "storyYears": [
+    1579
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Shadows",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "route": false,
+  "genres": [
+    "Action RPG"
+  ]
+}

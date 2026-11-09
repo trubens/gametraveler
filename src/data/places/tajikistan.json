@@ -1,0 +1,14 @@
+{
+  "id": "tajikistan",
+  "name": "Tajikistan",
+  "position": {
+    "lat": 39,
+    "lon": 71
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tajikistan",
+  "description": "A landlocked, mountainous country in Central Asia, with the Pamirs in its east and Dushanbe as its capital.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "eritrea",
+  "name": "Eritrea",
+  "scale": "area",
+  "position": {
+    "lat": 15.1794,
+    "lon": 39.7823
+  },
+  "source": "https://en.wikipedia.org/wiki/Eritrea",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eritrea",
+  "placeType": "country",
+  "description": "A country in the Horn of Africa, with Asmara as its capital and largest city."
+}

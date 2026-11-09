@@ -1,0 +1,35 @@
+{
+  "id": 320,
+  "name": "Gran Turismo Sport",
+  "year": 2017,
+  "series": "Gran Turismo",
+  "developer": "Polyphony Digital",
+  "publisher": "Sony Interactive Entertainment",
+  "locations": [
+    {
+      "placeId": "nurburgring-germany",
+      "note": "The Nordschleife, the GP circuit and the combined 24h course, plus a Nordschleife Tourist Layout."
+    },
+    {
+      "placeId": "brands-hatch-uk",
+      "note": "Part of the launch track list in both the Grand Prix and Indy layouts."
+    },
+    {
+      "placeId": "fuji-speedway-japan",
+      "note": "Added in the free September 2018 update in two layouts, both of which can also be driven in reverse."
+    },
+    {
+      "placeId": "red-bull-ring-spielberg-austria",
+      "note": "Added in the free August 2018 update in full and short layouts, returning from GT6, where it had also arrived after release."
+    },
+    {
+      "placeId": "suzuka-international-racing-course-japan",
+      "note": "Part of the launch track list, as the full circuit and the East Course."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Gran_Turismo_Sport",
+  "genres": [
+    "Racing"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "lausanne-switzerland",
+  "name": "Lausanne, Switzerland",
+  "position": {
+    "lat": 46.5197,
+    "lon": 6.6323
+  },
+  "scale": "area",
+  "parentId": "switzerland",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lausanne",
+  "description": "The capital and largest city of Vaud."
+}

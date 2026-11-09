@@ -1,0 +1,22 @@
+{
+  "id": 1000110,
+  "name": "The Awesome Adventures of Captain Spirit",
+  "series": "Life Is Strange",
+  "year": 2018,
+  "publisher": "Square Enix",
+  "developer": "Dontnod Entertainment",
+  "locations": [
+    {
+      "placeId": "oregon-usa-fictional-beaver-creek-setting",
+      "settingType": "fictionalized",
+      "note": "One Saturday morning in Beaver Creek, Oregon, young Chris Eriksen plays the superhero Captain Spirit around the house he shares with his grieving father, and glimpses the two brothers of Life Is Strange 2."
+    }
+  ],
+  "storyYears": [
+    2016
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Awesome_Adventures_of_Captain_Spirit",
+  "genres": [
+    "Adventure"
+  ]
+}

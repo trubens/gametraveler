@@ -1,0 +1,13 @@
+{
+  "id": "toledo-spain",
+  "name": "Toledo, Spain",
+  "scale": "area",
+  "position": {
+    "lat": 39.8628,
+    "lon": -4.0273
+  },
+  "parentId": "spain",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toledo,_Spain",
+  "description": "A hilltop city above a bend of the Tagus."
+}

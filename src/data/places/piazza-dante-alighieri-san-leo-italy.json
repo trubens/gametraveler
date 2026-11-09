@@ -1,0 +1,14 @@
+{
+  "id": "piazza-dante-alighieri-san-leo-italy",
+  "name": "Piazza Dante Alighieri, San Leo, Italy",
+  "position": {
+    "lat": 43.8966,
+    "lon": 12.3432
+  },
+  "scale": "site",
+  "parentId": "san-leo-italy",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/San_Leo",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/San_Leo",
+  "description": "A square in San Leo, a town in Emilia-Romagna south-east of Bologna and a short way south-west of Rimini."
+}

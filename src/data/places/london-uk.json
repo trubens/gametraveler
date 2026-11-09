@@ -1,0 +1,17 @@
+{
+  "id": "london-uk",
+  "name": "London, UK",
+  "position": {
+    "lat": 51.5074,
+    "lon": -0.1278
+  },
+  "scale": "area",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/London",
+  "description": "The capital of the United Kingdom.",
+  "parentId": "england-uk",
+  "aliases": [
+    "London, England, UK",
+    "London, England"
+  ]
+}

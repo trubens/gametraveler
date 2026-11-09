@@ -1,0 +1,13 @@
+{
+  "id": "oxford-uk",
+  "name": "Oxford, UK",
+  "position": {
+    "lat": 51.752,
+    "lon": -1.2577
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oxford",
+  "description": "A cathedral city and the county town of Oxfordshire."
+}

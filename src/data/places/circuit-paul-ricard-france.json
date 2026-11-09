@@ -1,0 +1,13 @@
+{
+  "id": "circuit-paul-ricard-france",
+  "name": "Circuit Paul Ricard, France",
+  "position": {
+    "lat": 43.2506,
+    "lon": 5.7917
+  },
+  "scale": "site",
+  "parentId": "france",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Circuit_Paul_Ricard",
+  "description": "A motorsport track at Le Castellet near Marseille, built in 1969 with money from the pastis magnate Paul Ricard, who wanted a racetrack of his own."
+}

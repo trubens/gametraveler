@@ -1,0 +1,15 @@
+{
+  "id": "ajdabiya-libya",
+  "name": "Ajdabiya, Libya",
+  "position": {
+    "lat": 30.7556,
+    "lon": 20.2253
+  },
+  "scale": "area",
+  "parentId": "libya",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Ajdabiya",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ajdabiya",
+  "description": "A town in north-eastern Libya, some 150 km south of Benghazi, capital of the Al Wahat District.",
+  "descriptionSource": "wikipedia"
+}

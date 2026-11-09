@@ -1,0 +1,67 @@
+{
+  "id": 252,
+  "name": "S.T.A.L.K.E.R.: Call of Pripyat",
+  "aliases": [
+    "STALKER Call of Pripyat",
+    "STALKER Call of Prypiat"
+  ],
+  "year": 2009,
+  "publisher": "GSC World Publishing / Deep Silver / bitComposer Games",
+  "series": "S.T.A.L.K.E.R.",
+  "developer": "GSC Game World",
+  "locations": [
+    {
+      "placeId": "chernobyl-exclusion-zone-ukraine",
+      "settingType": "fictionalized",
+      "note": "SBU Major Degtyarev starts at the Skadovsk, a grounded ship in the Zaton backwater, searching for the helicopters of Operation Fairway that all crashed on the way to the power plant.",
+      "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Call_of_Pripyat",
+      "aliases": [
+        "Zaton",
+        "Skadovsk"
+      ]
+    },
+    {
+      "placeId": "yaniv-railway-station-ukraine",
+      "settingType": "fictionalized",
+      "note": "The abandoned Yanov station is the second stalker base, a cease-fire zone shared by rival factions.",
+      "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Call_of_Pripyat"
+    },
+    {
+      "placeId": "jupiter-factory-pripyat-ukraine",
+      "settingType": "fictionalized",
+      "note": "In the Jupiter area Degtyarev learns that the helicopters were brought down by electrical shocks and finds an underground passage into sealed-off Pripyat.",
+      "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Call_of_Pripyat"
+    },
+    {
+      "placeId": "pripyat-ukraine",
+      "settingType": "fictionalized",
+      "note": "In Pripyat he finds the surviving soldiers and Strelok, and fights with them to the evacuation helicopters, where he can choose to leave the Zone or stay.",
+      "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Call_of_Pripyat"
+    }
+  ],
+  "storyYears": [
+    2012
+  ],
+  "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Call_of_Pripyat",
+  "reviewed": "2026-11-06",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "degtyarev",
+      "name": "Major Degtyarev",
+      "characters": [
+        "Alexander Degtyarev"
+      ],
+      "stops": [
+        "chernobyl-exclusion-zone-ukraine",
+        "yaniv-railway-station-ukraine",
+        "jupiter-factory-pripyat-ukraine",
+        "pripyat-ukraine"
+      ],
+      "note": "From the Skadovsk in Zaton to Yanov station and the Jupiter plant, and through the underground passage into Pripyat for the evacuation.",
+      "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Call_of_Pripyat"
+    }
+  ]
+}

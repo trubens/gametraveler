@@ -1,0 +1,13 @@
+{
+  "id": "dartmoor-devon-uk",
+  "name": "Dartmoor, Devon, UK",
+  "position": {
+    "lat": 50.5719,
+    "lon": -3.9207
+  },
+  "scale": "area",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dartmoor",
+  "description": "A high moorland in southern Devon, south-west England, protected as a national park since 1951.",
+  "parentId": "england-uk"
+}

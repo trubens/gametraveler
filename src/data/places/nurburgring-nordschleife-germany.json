@@ -1,0 +1,13 @@
+{
+  "id": "nurburgring-nordschleife-germany",
+  "name": "Nürburgring Nordschleife, Germany",
+  "position": {
+    "lat": 50.336,
+    "lon": 6.948
+  },
+  "scale": "site",
+  "parentId": "germany",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/N%C3%BCrburgring",
+  "description": "The long northern loop of the Nürburgring complex at Nürburg in Rhineland-Palatinate, Germany."
+}

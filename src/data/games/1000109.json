@@ -1,0 +1,25 @@
+{
+  "id": 1000109,
+  "name": "Life Is Strange: Before the Storm",
+  "year": 2017,
+  "publisher": "Square Enix",
+  "series": "Life Is Strange",
+  "developer": "Deck Nine",
+  "locations": [
+    {
+      "placeId": "arcadia-bay-fictional-oregon-usa",
+      "settingType": "fictionalized",
+      "note": "Chloe Price meets Rachel Amber at a punk show in an abandoned lumber mill, rides a freight train out of town with her, sees the wildfire Rachel starts spread through the hills and helps her find her birth mother; in Farewell, three years earlier, Chloe and Max dig up a pirate treasure on the day Chloe's father dies.",
+      "source": "https://en.wikipedia.org/wiki/Life_Is_Strange:_Before_the_Storm"
+    }
+  ],
+  "storyYears": [
+    2008,
+    2010
+  ],
+  "source": "https://en.wikipedia.org/wiki/Life_Is_Strange:_Before_the_Storm",
+  "reviewed": "2026-11-02",
+  "genres": [
+    "Interactive Drama"
+  ]
+}

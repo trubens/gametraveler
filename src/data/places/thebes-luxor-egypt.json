@@ -1,0 +1,13 @@
+{
+  "id": "thebes-luxor-egypt",
+  "name": "Thebes (Luxor), Egypt",
+  "position": {
+    "lat": 25.7,
+    "lon": 32.65
+  },
+  "scale": "area",
+  "parentId": "egypt",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Thebes,_Egypt",
+  "description": "Ancient Thebes, today's Luxor on the Nile."
+}

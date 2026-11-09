@@ -1,0 +1,25 @@
+{
+  "id": 1000226,
+  "name": "Nancy Drew: The Secret of Shadow Ranch",
+  "year": 2004,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "arizona-usa",
+      "aliases": [
+        "Shadow Ranch",
+        "Dry Creek"
+      ],
+      "settingType": "fictionalized",
+      "note": "Waiting for Bess and George at her uncle Bill's ranch, Nancy chases the phantom horse said to be the outlaw Dirk Valentine's and follows his trail to the ghost town of Dry Creek and his hidden treasure."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_The_Secret_of_Shadow_Ranch",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}

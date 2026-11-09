@@ -1,0 +1,16 @@
+{
+  "id": "russia",
+  "name": "Russia",
+  "aliases": [
+    "Russian Federation"
+  ],
+  "position": {
+    "lat": 58.25,
+    "lon": 44.69
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Russia",
+  "description": "The world's largest country, stretching across Eastern Europe and North Asia through eleven time zones, with land borders to fourteen countries."
+}

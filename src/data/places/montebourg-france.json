@@ -1,0 +1,15 @@
+{
+  "id": "montebourg-france",
+  "name": "Montebourg, France",
+  "position": {
+    "lat": 49.4883,
+    "lon": -1.3783
+  },
+  "scale": "area",
+  "parentId": "france",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Montebourg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Montebourg",
+  "description": "A commune in the Manche department in Normandy, north-western France, on the road from Carentan to Cherbourg.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 1000229,
+  "name": "Nancy Drew: Last Train to Blue Moon Canyon",
+  "year": 2005,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "colorado-usa",
+      "aliases": [
+        "Copper Gorge"
+      ],
+      "settingType": "fictionalized",
+      "note": "At the stop in Copper Gorge, Nancy meets Fatima at the museum and taffy shop and finds her family in Jake Hurley's letters."
+    },
+    {
+      "placeId": "nevada-usa",
+      "aliases": [
+        "Brimstone Canyon",
+        "Blue Moon Canyon"
+      ],
+      "settingType": "fictionalized",
+      "note": "Left at Brimstone Canyon near Blue Moon Canyon, where Jake Hurley's train was found in 1903, Nancy opens his lost mine and finds his skeleton beside a letter from Abraham Lincoln."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Last_Train_to_Blue_Moon_Canyon",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ],
+  "routes": [
+    {
+      "id": "lori-girards-train",
+      "name": "The train west",
+      "characters": [
+        "Nancy Drew"
+      ],
+      "stops": [
+        "colorado-usa",
+        "nevada-usa"
+      ],
+      "note": "Lori Girard's chartered train west to Copper Gorge and on to Blue Moon Canyon.",
+      "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Last_Train_to_Blue_Moon_Canyon"
+    }
+  ]
+}

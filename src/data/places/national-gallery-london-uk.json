@@ -1,0 +1,14 @@
+{
+  "id": "national-gallery-london-uk",
+  "name": "National Gallery, London, UK",
+  "position": {
+    "lat": 51.5089,
+    "lon": -0.1283
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/National_Gallery",
+  "description": "The national collection of European painting on the north side of Trafalgar Square, founded in 1824.",
+  "descriptionSource": "wikipedia"
+}

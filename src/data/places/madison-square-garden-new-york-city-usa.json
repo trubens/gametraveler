@@ -1,0 +1,14 @@
+{
+  "id": "madison-square-garden-new-york-city-usa",
+  "name": "Madison Square Garden, New York City, USA",
+  "position": {
+    "lat": 40.7505,
+    "lon": -73.9934
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "venue",
+  "source": "https://en.wikipedia.org/wiki/Madison_Square_Garden",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Madison_Square_Garden",
+  "description": "The multi-purpose indoor arena in Midtown Manhattan, known to New Yorkers simply as the Garden."
+}

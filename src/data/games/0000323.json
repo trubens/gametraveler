@@ -1,0 +1,37 @@
+{
+  "id": 323,
+  "name": "MotoGP 15",
+  "year": 2015,
+  "series": "MotoGP",
+  "developer": "Milestone srl",
+  "publisher": "Milestone srl / Bandai Namco Entertainment",
+  "locations": [
+    {
+      "placeId": "mugello-circuit-italy",
+      "note": "Raced as the Italian Grand Prix, round 6 of 18 in the 2015 MotoGP season."
+    },
+    {
+      "placeId": "lusail-international-circuit-qatar",
+      "note": "Raced as the Qatar Grand Prix, the opening round of the 2015 MotoGP season."
+    },
+    {
+      "placeId": "circuito-de-jerez-spain",
+      "note": "Raced as the Spanish Grand Prix, round 4 of 18 in the 2015 MotoGP season."
+    },
+    {
+      "placeId": "tt-circuit-assen-netherlands",
+      "note": "Raced as the Motul TT Assen, round 8 of 18 in the 2015 MotoGP season."
+    },
+    {
+      "placeId": "sepang-international-circuit-malaysia",
+      "note": "Raced as the Malaysian Grand Prix, round 17 of 18 in the 2015 MotoGP season."
+    }
+  ],
+  "storyYears": [
+    2015
+  ],
+  "source": "https://en.wikipedia.org/wiki/MotoGP_15",
+  "genres": [
+    "Racing"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "san-francisco-usa",
+  "name": "San Francisco, USA",
+  "position": {
+    "lat": 37.7749,
+    "lon": -122.4194
+  },
+  "scale": "area",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/San_Francisco",
+  "description": "A hilly port city on the bay of the same name.",
+  "parentId": "california-usa",
+  "aliases": [
+    "San Francisco, California, USA"
+  ]
+}

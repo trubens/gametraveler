@@ -1,0 +1,36 @@
+{
+  "id": 1000296,
+  "name": "Barrow Hill: Curse of the Ancient Circle",
+  "year": 2006,
+  "series": "Barrow Hill",
+  "developer": "Shadow Tor Studios",
+  "publisher": "Shadow Tor Studios",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    2006
+  ],
+  "source": "https://en.wikipedia.org/wiki/Barrow_Hill:_Curse_of_the_Ancient_Circle",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "barrow-hill-fictional-cornwall-england",
+      "settingType": "fictionalized",
+      "note": "Stranded at the petrol station on the autumn equinox, the player explores the stone circle, the barrow, the holy well and the swamp of Barrow Hill with a PDA, a GPS and a metal detector.",
+      "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI"
+    },
+    {
+      "placeId": "duloe-stone-circle-cornwall-uk",
+      "settingType": "fictionalized",
+      "note": "The Barrow Hill stone circle is Duloe's circle, which the designer visited many times while dreaming the game up.",
+      "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI"
+    },
+    {
+      "placeId": "st-cubys-well-duloe-cornwall-uk",
+      "settingType": "fictionalized",
+      "note": "St Anneka's Well is St Cuby's Well below Duloe, the first sacred well the designer found; a second well near Sandplace lent its steps and ferns.",
+      "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI"
+    }
+  ]
+}

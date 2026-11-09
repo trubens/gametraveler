@@ -1,0 +1,14 @@
+{
+  "id": "los-angeles-central-library-usa",
+  "name": "Central Library, Los Angeles, USA",
+  "position": {
+    "lat": 34.0503,
+    "lon": -118.255
+  },
+  "scale": "site",
+  "parentId": "los-angeles-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Los_Angeles_Central_Library",
+  "description": "The 1926 pyramid-topped main library downtown, Egyptian and Art Deco at once.",
+  "descriptionSource": "wikipedia"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "iceland",
+  "name": "Iceland",
+  "position": {
+    "lat": 64.9631,
+    "lon": -19.0208
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Iceland",
+  "description": "A Nordic island country astride the Mid-Atlantic Ridge between Europe and North America, the westernmost and most sparsely settled in Europe."
+}

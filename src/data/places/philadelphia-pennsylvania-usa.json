@@ -1,0 +1,16 @@
+{
+  "id": "philadelphia-pennsylvania-usa",
+  "name": "Philadelphia, Pennsylvania, USA",
+  "position": {
+    "lat": 39.9526,
+    "lon": -75.1652
+  },
+  "scale": "area",
+  "parentId": "pennsylvania-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Philadelphia",
+  "description": "Pennsylvania's largest city.",
+  "aliases": [
+    "Philadelphia, USA"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sandhurst-england-uk",
+  "name": "Sandhurst, England, UK",
+  "position": {
+    "lat": 51.3465,
+    "lon": -0.7986
+  },
+  "scale": "area",
+  "parentId": "england-uk",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sandhurst,_Berkshire",
+  "description": "A town in Berkshire in the Bracknell Forest borough."
+}

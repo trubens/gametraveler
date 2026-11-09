@@ -1,0 +1,56 @@
+{
+  "id": 1000344,
+  "name": "Alan Wake",
+  "year": 2010,
+  "series": "Alan Wake",
+  "aliases": [
+    "Alan Wake Remastered"
+  ],
+  "developer": "Remedy Entertainment",
+  "publisher": "Microsoft Game Studios",
+  "genres": [
+    "Action-Adventure",
+    "Third-Person Shooter"
+  ],
+  "storyYears": [
+    2010
+  ],
+  "source": "https://en.wikipedia.org/wiki/Alan_Wake",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "bright-falls-fictional-washington",
+      "settingType": "fictionalized",
+      "note": "Novelist Alan Wake comes on holiday with his wife Alice; after she vanishes he fights the Taken through the woods to a gas station, is taken to the police station, meets a fake kidnapper in the national park, and with Sheriff Breaker's help reaches Cynthia Weaver and the Clicker at the dam."
+    },
+    {
+      "placeId": "oh-deer-diner-bright-falls-fictional",
+      "settingType": "fictionalized",
+      "note": "Alan stops for the keys to the rented cabin and gets them from a mysterious old woman in black instead of the landlord, Carl Stucky."
+    },
+    {
+      "placeId": "cauldron-lake-fictional-washington",
+      "settingType": "fictionalized",
+      "note": "Alice is dragged into the water from the island cabin; Alan later wakes in Dr. Hartman's lodge above the lake, escapes it, and in the end dives in to free Alice from the Dark Place."
+    }
+  ],
+  "routes": [
+    {
+      "id": "alan",
+      "name": "Alan Wake",
+      "characters": [
+        "Alan Wake"
+      ],
+      "stops": [
+        "oh-deer-diner-bright-falls-fictional",
+        "cauldron-lake-fictional-washington",
+        "bright-falls-fictional-washington",
+        "cauldron-lake-fictional-washington",
+        "bright-falls-fictional-washington",
+        "cauldron-lake-fictional-washington"
+      ],
+      "note": "From the diner to the island cabin, back to town after Alice vanishes, to Hartman's lodge on the lake, back to town and the Clicker, and down into the lake.",
+      "source": "https://en.wikipedia.org/wiki/Alan_Wake"
+    }
+  ]
+}

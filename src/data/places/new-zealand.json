@@ -1,0 +1,12 @@
+{
+  "id": "new-zealand",
+  "name": "New Zealand",
+  "position": {
+    "lat": -40.9006,
+    "lon": 174.886
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Zealand",
+  "description": "An island country in the south-western Pacific, made up of the North Island, the South Island and hundreds of smaller islands."
+}

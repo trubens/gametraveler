@@ -1,0 +1,48 @@
+{
+  "id": 264,
+  "name": "Brothers in Arms: Earned in Blood",
+  "year": 2005,
+  "publisher": "Ubisoft",
+  "series": "Brothers in Arms",
+  "developer": "Gearbox Software",
+  "locations": [
+    {
+      "placeId": "carentan-france",
+      "note": "Hartsock's squad takes part in the liberation and defence of Carentan after D-Day."
+    },
+    {
+      "placeId": "baupte-france",
+      "note": "The squad fights toward the link-up between the 82nd and 101st Airborne divisions."
+    },
+    {
+      "placeId": "saint-sauveur-le-vicomte-france",
+      "note": "The closing missions follow Hartsock's men into and around this Normandy town."
+    }
+  ],
+  "storyYears": [
+    1944
+  ],
+  "source": "https://en.wikipedia.org/wiki/Brothers_in_Arms:_Earned_in_Blood",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "routes": [
+    {
+      "id": "hartsock",
+      "name": "Sgt. Joe Hartsock",
+      "characters": [
+        "Joe Hartsock",
+        "Seamus Doyle"
+      ],
+      "stops": [
+        "carentan-france",
+        "baupte-france",
+        "saint-sauveur-le-vicomte-france"
+      ],
+      "note": "Newly given his own squad, Hartsock fights through the liberation and defence of Carentan, the link-up with the 82nd at Baupte, and the closing battles around Saint-Sauveur-le-Vicomte.",
+      "source": "https://en.wikipedia.org/wiki/Brothers_in_Arms:_Earned_in_Blood"
+    }
+  ]
+}

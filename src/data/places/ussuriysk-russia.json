@@ -1,0 +1,17 @@
+{
+  "id": "ussuriysk-russia",
+  "name": "Ussuriysk, Russia",
+  "aliases": [
+    "Nikolsk-Ussuriysky"
+  ],
+  "position": {
+    "lat": 43.8029,
+    "lon": 131.9458
+  },
+  "scale": "area",
+  "parentId": "russia",
+  "source": "https://en.wikipedia.org/wiki/Ussuriysk",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ussuriysk",
+  "placeType": "city",
+  "description": "A city in Primorsky Krai in the Russian Far East."
+}

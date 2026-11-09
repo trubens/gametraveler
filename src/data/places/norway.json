@@ -1,0 +1,12 @@
+{
+  "id": "norway",
+  "name": "Norway",
+  "position": {
+    "lat": 60.472,
+    "lon": 8.4689
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Norway",
+  "description": "A Nordic kingdom along the western and northern edge of the Scandinavian Peninsula, with Svalbard and Jan Mayen far out in the Arctic."
+}

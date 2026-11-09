@@ -1,0 +1,13 @@
+{
+  "id": "himachal-pradesh-india",
+  "name": "Himachal Pradesh, India",
+  "position": {
+    "lat": 31.1048,
+    "lon": 77.1734
+  },
+  "scale": "area",
+  "parentId": "india",
+  "placeType": "region",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
+  "description": "A mountain state in northern India, set in the Western Himalayas among high peaks and far-reaching river systems."
+}

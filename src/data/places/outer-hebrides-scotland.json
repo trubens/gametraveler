@@ -1,0 +1,12 @@
+{
+  "id": "outer-hebrides-scotland",
+  "name": "Outer Hebrides, Scotland",
+  "position": {
+    "lat": 57.76,
+    "lon": -7.02
+  },
+  "scale": "area",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Outer_Hebrides",
+  "description": "An island chain off the west coast of mainland Scotland, also called the Western Isles, the longest archipelago in the British Isles."
+}

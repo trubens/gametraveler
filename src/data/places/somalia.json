@@ -1,0 +1,12 @@
+{
+  "id": "somalia",
+  "name": "Somalia",
+  "position": {
+    "lat": 5.1521,
+    "lon": 46.1996
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Somalia",
+  "description": "The easternmost country of mainland Africa, on the Horn of Africa with a long Indian Ocean coast."
+}

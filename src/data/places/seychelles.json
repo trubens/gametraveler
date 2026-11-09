@@ -1,0 +1,14 @@
+{
+  "id": "seychelles",
+  "name": "Seychelles",
+  "position": {
+    "lat": -4.58,
+    "lon": 55.67
+  },
+  "scale": "area",
+  "placeType": "country",
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Seychelles",
+  "description": "An island nation of 115 granite and coral islands in the western Indian Ocean, north-east of Madagascar.",
+  "descriptionSource": "wikipedia"
+}

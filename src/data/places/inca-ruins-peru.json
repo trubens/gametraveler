@@ -1,0 +1,17 @@
+{
+  "id": "inca-ruins-peru",
+  "name": "Inca ruins, Peru",
+  "position": {
+    "lat": -13.163,
+    "lon": -72.545
+  },
+  "scale": "area",
+  "parentId": "peru",
+  "placeType": "landmark",
+  "aliases": [
+    "Incan ruins"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Inca_Empire",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Inca_Empire",
+  "description": "Ruins of the Inca Empire, the largest of pre-Columbian America, which was governed from the city of Cusco."
+}

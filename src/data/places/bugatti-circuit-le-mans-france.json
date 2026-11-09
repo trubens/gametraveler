@@ -1,0 +1,13 @@
+{
+  "id": "bugatti-circuit-le-mans-france",
+  "name": "Bugatti Circuit, Le Mans, France",
+  "position": {
+    "lat": 47.956,
+    "lon": 0.207
+  },
+  "scale": "site",
+  "parentId": "france",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bugatti_Circuit",
+  "description": "The permanent racing circuit at Le Mans in the Sarthe, part of the course used for the 24 Hours of Le Mans."
+}

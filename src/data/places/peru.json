@@ -1,0 +1,12 @@
+{
+  "id": "peru",
+  "name": "Peru",
+  "position": {
+    "lat": -9.19,
+    "lon": -75.0152
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Peru",
+  "description": "A country on the Pacific side of South America, stretching from the coast over the Andes."
+}

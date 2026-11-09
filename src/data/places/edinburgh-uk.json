@@ -1,0 +1,13 @@
+{
+  "id": "edinburgh-uk",
+  "name": "Edinburgh, UK",
+  "position": {
+    "lat": 55.9533,
+    "lon": -3.1883
+  },
+  "scale": "area",
+  "parentId": "scotland-uk",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edinburgh",
+  "description": "Scotland's capital."
+}

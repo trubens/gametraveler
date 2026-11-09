@@ -1,0 +1,68 @@
+{
+  "id": 379,
+  "name": "WRC 7",
+  "year": 2017,
+  "series": "WRC",
+  "developer": "Kylotonn",
+  "publisher": "Bigben Interactive",
+  "locations": [
+    {
+      "placeId": "monte-carlo-monaco",
+      "note": "The Monte Carlo Rally."
+    },
+    {
+      "placeId": "karlstad-sweden",
+      "note": "Rally Sweden from Karlstad."
+    },
+    {
+      "placeId": "leon-mexico",
+      "note": "Rally Mexico around León."
+    },
+    {
+      "placeId": "ajaccio-corsica-france",
+      "note": "The Tour de Corse, now in April, on the island's tarmac."
+    },
+    {
+      "placeId": "villa-carlos-paz-argentina",
+      "note": "Rally Argentina from Villa Carlos Paz."
+    },
+    {
+      "placeId": "matosinhos-portugal",
+      "note": "Rally de Portugal from Matosinhos."
+    },
+    {
+      "placeId": "alghero-sardinia-italy",
+      "note": "Rally Italia Sardegna from Alghero."
+    },
+    {
+      "placeId": "mikolajki-poland",
+      "note": "Rally Poland from Mikołajki."
+    },
+    {
+      "placeId": "jyvaskyla-finland",
+      "note": "Rally Finland from Jyväskylä."
+    },
+    {
+      "placeId": "trier-germany",
+      "note": "Rallye Deutschland from Trier."
+    },
+    {
+      "placeId": "salou-spain",
+      "note": "RallyRACC Catalunya from Salou."
+    },
+    {
+      "placeId": "deeside-wales-uk",
+      "note": "Wales Rally GB from Deeside."
+    },
+    {
+      "placeId": "australia-coffs-harbour",
+      "note": "Rally Australia from Coffs Harbour, the final round."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/WRC_7",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

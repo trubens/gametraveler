@@ -1,0 +1,36 @@
+{
+  "id": 232,
+  "name": "Midnight Club 3: DUB Edition",
+  "aliases": [
+    "MC",
+    "MC 3 DUB Edition"
+  ],
+  "year": 2005,
+  "publisher": "Rockstar Games",
+  "series": "Midnight Club",
+  "developer": "Rockstar San Diego",
+  "locations": [
+    {
+      "placeId": "san-diego-usa",
+      "note": "The career begins with street races and vehicle customization in a condensed San Diego."
+    },
+    {
+      "placeId": "atlanta-usa",
+      "note": "Atlanta hosts the next group of street racers and a DUB tournament."
+    },
+    {
+      "placeId": "detroit-usa",
+      "note": "Detroit is the third career city, with industrial streets and further racing tournaments."
+    },
+    {
+      "placeId": "tokyo-japan",
+      "note": "The expanded DUB Edition Remix adds a separate Tokyo Challenge using a revised version of the Midnight Club II city."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Midnight_Club_3:_Dub_Edition",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Rockstar_Games",
+  "genres": [
+    "Racing"
+  ]
+}

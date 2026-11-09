@@ -1,0 +1,76 @@
+{
+  "id": 384,
+  "name": "EA Sports WRC",
+  "year": 2023,
+  "series": "WRC",
+  "developer": "Codemasters",
+  "publisher": "EA Sports",
+  "locations": [
+    {
+      "placeId": "monte-carlo-monaco",
+      "note": "The Monte Carlo Rally."
+    },
+    {
+      "placeId": "umea-sweden",
+      "note": "Rally Sweden from Umeå."
+    },
+    {
+      "placeId": "leon-mexico",
+      "note": "Rally Mexico around León."
+    },
+    {
+      "placeId": "zagreb-croatia",
+      "note": "The Croatia Rally around Zagreb."
+    },
+    {
+      "placeId": "matosinhos-portugal",
+      "note": "Rally de Portugal from Matosinhos."
+    },
+    {
+      "placeId": "olbia-sardinia-italy",
+      "note": "Rally Italia Sardegna from Olbia."
+    },
+    {
+      "placeId": "naivasha-kenya",
+      "note": "The Safari Rally around Naivasha."
+    },
+    {
+      "placeId": "tartu-estonia",
+      "note": "Rally Estonia from Tartu."
+    },
+    {
+      "placeId": "jyvaskyla-finland",
+      "note": "Rally Finland from Jyväskylä."
+    },
+    {
+      "placeId": "lamia-greece",
+      "note": "The Acropolis Rally from Lamia."
+    },
+    {
+      "placeId": "concepcion-chile",
+      "note": "Rally Chile from Concepción."
+    },
+    {
+      "placeId": "passau-germany",
+      "note": "The Central European Rally, run from Passau across Germany, Austria and the Czech Republic."
+    },
+    {
+      "placeId": "toyota-aichi-japan",
+      "note": "Rally Japan based at Toyota City."
+    },
+    {
+      "placeId": "liepaja-latvia",
+      "note": "Rally Latvia from Liepāja, added with the 2024 season."
+    },
+    {
+      "placeId": "mikolajki-poland",
+      "note": "Rally Poland from Mikołajki, added with the 2024 season."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/EA_Sports_WRC",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

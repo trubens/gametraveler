@@ -1,0 +1,14 @@
+{
+  "id": "old-north-church-boston-usa",
+  "name": "Old North Church, Boston, USA",
+  "position": {
+    "lat": 42.3664,
+    "lon": -71.0544
+  },
+  "scale": "site",
+  "parentId": "boston-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Old_North_Church",
+  "description": "The 1723 church in the North End whose steeple showed the two lanterns of Paul Revere's ride.",
+  "descriptionSource": "wikipedia"
+}

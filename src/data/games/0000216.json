@@ -1,0 +1,18 @@
+{
+  "id": 216,
+  "name": "Feria d'Arles",
+  "year": 2019,
+  "publisher": "Tom Simpson",
+  "developer": "Tom Simpson",
+  "locations": [
+    {
+      "placeId": "arles-france",
+      "note": "Molly explores Arles and tries to enter its bullfighting festival, uncovering a conspiracy around the tournament."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://store.steampowered.com/app/1181570/Feria_dArles/",
+  "genres": [
+    "Adventure"
+  ]
+}

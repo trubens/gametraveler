@@ -1,0 +1,19 @@
+{
+  "id": "national-air-and-space-museum-washington-d-c-usa",
+  "name": "National Air and Space Museum, Washington, D.C., USA",
+  "position": {
+    "lat": 38.8883,
+    "lon": -77.02
+  },
+  "scale": "site",
+  "parentId": "washington-d-c-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "Air & Space Museum",
+    "Air and Space Museum"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/National_Air_and_Space_Museum",
+  "description": "The Smithsonian's museum of aviation and spaceflight on the National Mall.",
+  "descriptionSource": "wikipedia",
+  "source": "https://en.wikipedia.org/wiki/National_Air_and_Space_Museum"
+}

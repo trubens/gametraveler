@@ -1,0 +1,49 @@
+{
+  "id": 105,
+  "name": "Beyond: Two Souls",
+  "year": 2013,
+  "publisher": "Sony Computer Entertainment",
+  "developer": "Quantic Dream",
+  "locations": [
+    {
+      "placeId": "navajo-nation-region-usa-fictionalized",
+      "settingType": "fictionalized",
+      "note": "Jodie shelters with a Navajo family on a desert ranch and faces the spirit that haunts their land."
+    },
+    {
+      "placeId": "riyadh-saudi-arabia",
+      "note": "The Embassy: Jodie's first CIA field assignment, a diplomatic party at the embassy in Riyadh where Aiden has to get the documents out of Sheik Ahmad's safe."
+    },
+    {
+      "placeId": "somalia",
+      "note": "A CIA mission in Somalia to assassinate a warlord becomes a turning point for Jodie."
+    }
+  ],
+  "storyYears": [
+    2000,
+    2013
+  ],
+  "source": "https://en.wikipedia.org/wiki/Beyond:_Two_Souls",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+  "genres": [
+    "Interactive Drama"
+  ],
+  "routes": [
+    {
+      "id": "jodie-holmes",
+      "name": "Jodie Holmes",
+      "characters": [
+        "Jodie Holmes",
+        "Aiden"
+      ],
+      "stops": [
+        "riyadh-saudi-arabia",
+        "somalia",
+        "navajo-nation-region-usa-fictionalized"
+      ],
+      "note": "Jodie's CIA years run from an embassy job in Riyadh to a killing in Somalia that turns her into a fugitive, who finds shelter with a Navajo family in the desert.",
+      "source": "https://en.wikipedia.org/wiki/Beyond:_Two_Souls"
+    }
+  ]
+}

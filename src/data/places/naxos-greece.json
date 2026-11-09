@@ -1,0 +1,14 @@
+{
+  "id": "naxos-greece",
+  "name": "Naxos, Greece",
+  "position": {
+    "lat": 37.0833,
+    "lon": 25.4167
+  },
+  "scale": "area",
+  "parentId": "greece",
+  "placeType": "island",
+  "source": "https://en.wikipedia.org/wiki/Naxos",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Naxos",
+  "description": "The largest of the Cyclades, a Greek island in the middle of the Aegean Sea."
+}

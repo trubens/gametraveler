@@ -1,0 +1,14 @@
+{
+  "id": "santa-croce-florence-italy",
+  "name": "Santa Croce, Florence, Italy",
+  "position": {
+    "lat": 43.7686,
+    "lon": 11.2623
+  },
+  "scale": "site",
+  "parentId": "florence-italy",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/Basilica_of_Santa_Croce,_Florence",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Basilica_of_Santa_Croce,_Florence",
+  "description": "The principal Franciscan church of Florence, a basilica that holds the tombs of Michelangelo and Galileo."
+}

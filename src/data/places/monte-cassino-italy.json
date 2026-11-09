@@ -1,0 +1,13 @@
+{
+  "id": "monte-cassino-italy",
+  "name": "Monte Cassino, Italy",
+  "position": {
+    "lat": 41.49,
+    "lon": 13.8139
+  },
+  "scale": "area",
+  "parentId": "italy",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Monte_Cassino",
+  "description": "A Benedictine monastery on a rocky hill above the Latin Valley, south-east of Rome."
+}

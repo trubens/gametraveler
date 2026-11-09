@@ -1,0 +1,57 @@
+{
+  "id": 142,
+  "name": "Kingdom Come: Deliverance II",
+  "year": 2025,
+  "publisher": "Deep Silver",
+  "series": "Kingdom Come",
+  "developer": "Warhorse Studios",
+  "locations": [
+    {
+      "placeId": "rataje-nad-sazavou-czech-republic",
+      "note": "Hans Capon, Henry and their escort set out from Rattay for Trosky with a letter for Otto von Bergow."
+    },
+    {
+      "placeId": "bohemian-paradise-czech-republic",
+      "note": "The first of the two maps: the sandstone rocks, villages and castles of the Bohemian Paradise around Trosky."
+    },
+    {
+      "placeId": "trosky-castle-czech-republic",
+      "note": "Otto von Bergow's castle on its twin rock towers, where Henry and Capon question his loyalty to Sigismund."
+    },
+    {
+      "placeId": "kutna-hora-czech-republic",
+      "note": "Kuttenberg, the silver-mining city, the second-largest in Bohemia, recreated as it was in 1403."
+    },
+    {
+      "placeId": "suchdol-czech-republic",
+      "note": "At Suchdol Margrave Jobst warns Henry's group off banditry, having made a truce with Sigismund."
+    }
+  ],
+  "storyYears": [
+    1403
+  ],
+  "source": "https://en.wikipedia.org/wiki/Kingdom_Come:_Deliverance_II",
+  "reviewed": "2026-11-01",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Deep_Silver",
+  "genres": [
+    "RPG"
+  ],
+  "routes": [
+    {
+      "id": "henry-2",
+      "name": "Henry and Capon",
+      "characters": [
+        "Henry of Skalitz",
+        "Hans Capon"
+      ],
+      "stops": [
+        "rataje-nad-sazavou-czech-republic",
+        "trosky-castle-czech-republic",
+        "kutna-hora-czech-republic",
+        "suchdol-czech-republic"
+      ],
+      "note": "From Rattay to Trosky, then south to Kuttenberg and Suchdol.",
+      "source": "https://en.wikipedia.org/wiki/Kingdom_Come:_Deliverance_II"
+    }
+  ]
+}

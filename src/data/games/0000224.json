@@ -1,0 +1,48 @@
+{
+  "id": 224,
+  "name": "The Hand of Glory",
+  "series": "The Hand of Glory",
+  "year": 2020,
+  "publisher": "Daring Touch",
+  "developer": "Madit Entertainment",
+  "locations": [
+    {
+      "placeId": "miami-usa",
+      "note": "Detective Lazarus Bundy investigates Kathrin Mulzberg's disappearance in Miami before following the case to Italy."
+    },
+    {
+      "placeId": "san-leo-italy",
+      "note": "The investigation reaches a recognizable San Leo, including Piazza Dante, the civic tower and the fortress associated with Cagliostro."
+    },
+    {
+      "placeId": "piazza-dante-alighieri-san-leo-italy",
+      "note": "Part 2 opens on Piazza Dante Alighieri in San Leo.",
+      "source": "https://mysterymanor.net/walkthroughs/The_Hand_of_Glory/part_2_1.htm"
+    },
+    {
+      "placeId": "fortress-of-san-leo-italy",
+      "note": "The fortress where Cagliostro died, climbed for the trail of the hand.",
+      "source": "https://mysterymanor.net/walkthroughs/The_Hand_of_Glory/part_2_1.htm"
+    },
+    {
+      "placeId": "chiusi-della-verna-italy",
+      "note": "A visit to the church of St. Francis at La Verna.",
+      "source": "https://mysterymanor.net/walkthroughs/The_Hand_of_Glory/part_2_1.htm"
+    },
+    {
+      "placeId": "rome-italy",
+      "note": "Alice calls on Professor Visconi's house in Rome.",
+      "source": "https://mysterymanor.net/walkthroughs/The_Hand_of_Glory/part_2_1.htm"
+    },
+    {
+      "placeId": "england-uk",
+      "note": "The finale moves to a pub, a cemetery and a crypt in England.",
+      "source": "https://mysterymanor.net/walkthroughs/The_Hand_of_Glory/part_2_1.htm"
+    }
+  ],
+  "storyYears": [],
+  "source": "https://ivipro.it/it/portfolio-item/the-hand-of-glory/",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1000101,
+  "name": "Pepper's Adventures in Time",
+  "year": 1993,
+  "publisher": "Sierra On-Line",
+  "developer": "Sierra On-Line",
+  "locations": [
+    {
+      "placeId": "philadelphia-pennsylvania-usa",
+      "note": "Pepper and her dog Lockjaw travel back to 1764 Philadelphia, where Benjamin Franklin's work and colonial city life anchor the adventure."
+    }
+  ],
+  "storyYears": [
+    1764
+  ],
+  "source": "https://en.wikipedia.org/wiki/Pepper%27s_Adventures_in_Time",
+  "genres": [
+    "Adventure"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "arica-chile",
+  "name": "Arica, Chile",
+  "position": {
+    "lat": -18.4784,
+    "lon": -70.3212
+  },
+  "scale": "area",
+  "parentId": "chile",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arica",
+  "description": "Chile's northernmost city, a port on the edge of the Atacama just south of the Peruvian border.",
+  "descriptionSource": "wikipedia"
+}

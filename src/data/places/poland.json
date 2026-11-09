@@ -1,0 +1,12 @@
+{
+  "id": "poland",
+  "name": "Poland",
+  "position": {
+    "lat": 52.1,
+    "lon": 19.1
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Poland",
+  "description": "A country in Central Europe stretching from the Baltic coast in the north to the Carpathian mountains in the south."
+}

@@ -1,0 +1,90 @@
+{
+  "id": 113,
+  "name": "Yakuza 5",
+  "year": 2012,
+  "publisher": "Sega",
+  "series": "Yakuza / Like a Dragon",
+  "developer": "Ryu Ga Gotoku Studio",
+  "locations": [
+    {
+      "placeId": "nakasu-fukuoka-japan",
+      "aliases": [
+        "Nagasugai"
+      ],
+      "settingType": "fictionalized",
+      "note": "Living in Nagasugai, the game's Nakasu in Fukuoka, as taxi driver Taichi Suzuki, Kiryu stops Aoyama's bid to seize the Tojo Clan, beating his army single-handed.",
+      "source": "https://en.wikipedia.org/wiki/Yakuza_5"
+    },
+    {
+      "placeId": "abashiri-prison-abashiri-japan",
+      "note": "Saejima hears of Majima's death while serving his sentence and breaks out with his cellmate Baba.",
+      "source": "https://en.wikipedia.org/wiki/Yakuza_5"
+    },
+    {
+      "placeId": "susukino-sapporo-japan",
+      "aliases": [
+        "Tsukimino"
+      ],
+      "settingType": "fictionalized",
+      "note": "Lost in the snow and saved by a hunter, Saejima reaches Tsukimino, the game's Susukino in Sapporo, and corners Majima's supposed killer Kitakata.",
+      "source": "https://en.wikipedia.org/wiki/Yakuza_5"
+    },
+    {
+      "placeId": "kabukicho-tokyo-japan",
+      "aliases": [
+        "Kamurocho"
+      ],
+      "settingType": "fictionalized",
+      "note": "The five protagonists converge on Kamurocho, the series' Kabukicho, where Haruka sings at the Princess League final while Kiryu, Saejima, Akiyama and Shinada hold off Kurosawa's men around the Millennium Tower."
+    },
+    {
+      "placeId": "dotonbori-osaka-japan",
+      "aliases": [
+        "Sotenbori"
+      ],
+      "settingType": "fictionalized",
+      "note": "Haruka trains for idol stardom in Sotenbori, the series' Dotonbori, and Akiyama proves her producer's suicide was faked."
+    },
+    {
+      "placeId": "sakae-nagoya-japan",
+      "aliases": [
+        "Kin'eicho"
+      ],
+      "settingType": "fictionalized",
+      "note": "In Kin'eicho the banished baseball player Shinada, hired by a disguised Daigo, digs up the match-fixing plot that ended his career.",
+      "source": "https://en.wikipedia.org/wiki/Yakuza_5"
+    }
+  ],
+  "storyYears": [
+    2012
+  ],
+  "source": "https://en.wikipedia.org/wiki/Yakuza_5",
+  "reviewed": "2026-11-02",
+  "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
+  "genres": [
+    "Action-Adventure"
+  ],
+  "routes": [
+    {
+      "id": "five",
+      "name": "Five cities",
+      "characters": [
+        "Kazuma Kiryu",
+        "Taiga Saejima",
+        "Haruka Sawamura",
+        "Shun Akiyama",
+        "Tatsuo Shinada"
+      ],
+      "stops": [
+        "nakasu-fukuoka-japan",
+        "abashiri-prison-abashiri-japan",
+        "susukino-sapporo-japan",
+        "dotonbori-osaka-japan",
+        "sakae-nagoya-japan",
+        "kabukicho-tokyo-japan"
+      ],
+      "note": "From Kiryu's taxi in Fukuoka through Saejima's prison break in Hokkaido, Haruka's Osaka and Shinada's Nagoya to the finale in Kamurocho.",
+      "source": "https://en.wikipedia.org/wiki/Yakuza_5"
+    }
+  ]
+}

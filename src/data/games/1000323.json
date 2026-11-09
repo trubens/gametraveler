@@ -1,0 +1,24 @@
+{
+  "id": 1000323,
+  "name": "Need for Speed: Underground 2",
+  "year": 2004,
+  "series": "Need for Speed",
+  "developer": "EA Black Box",
+  "publisher": "Electronic Arts",
+  "genres": [
+    "Racing"
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Need_for_Speed:_Underground_2",
+  "reviewed": "2026-11-01",
+  "locations": [
+    {
+      "placeId": "san-francisco-usa",
+      "aliases": [
+        "Bayview"
+      ],
+      "settingType": "fictionalized",
+      "note": "Bayview, the series' first open city, based on San Francisco and Los Angeles: tuner races through its districts, unlocked one by one."
+    }
+  ]
+}

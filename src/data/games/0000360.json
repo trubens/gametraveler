@@ -1,0 +1,19 @@
+{
+  "id": 360,
+  "name": "GTR Evolution",
+  "year": 2008,
+  "series": "GTR",
+  "developer": "SimBin Studios",
+  "publisher": "Atari (Europe) / Viva Media (US)",
+  "locations": [
+    {
+      "placeId": "nurburgring-germany",
+      "note": "Players race on the Nürburgring including its Nordschleife layout."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/GTR_Evolution",
+  "genres": [
+    "Racing"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "lublin-poland",
+  "name": "Lublin, Poland",
+  "position": {
+    "lat": 51.25,
+    "lon": 22.5667
+  },
+  "scale": "area",
+  "parentId": "poland",
+  "placeType": "city",
+  "source": "https://en.wikipedia.org/wiki/Lublin",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lublin",
+  "description": "The eighth-largest city in Poland and the capital of Lublin Voivodeship; the Majdanek camp stood on its outskirts.",
+  "descriptionSource": "wikipedia"
+}

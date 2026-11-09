@@ -1,0 +1,14 @@
+{
+  "id": "panau-fictional-maritime-southeast-asia",
+  "name": "Panau, Maritime Southeast Asia",
+  "position": {
+    "lat": 2.0,
+    "lon": 112.0
+  },
+  "scale": "area",
+  "placeType": "island",
+  "fictional": true,
+  "source": "https://en.wikipedia.org/wiki/Just_Cause_2",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maritime_Southeast_Asia",
+  "description": "An invented island nation drawing on Malaysia, Thailand, Indonesia and Japan. Pinned in the South China Sea off Borneo."
+}

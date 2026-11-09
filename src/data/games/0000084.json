@@ -1,0 +1,53 @@
+{
+  "id": 84,
+  "name": "Uncharted: The Lost Legacy",
+  "year": 2017,
+  "publisher": "Sony Interactive Entertainment",
+  "series": "Uncharted",
+  "developer": "Naughty Dog",
+  "locations": [
+    {
+      "placeId": "western-ghats-india",
+      "note": "Chloe Frazer and Nadine Ross drive across the Western Ghats, following towers marked with Ganesh's trident, Shiva's bow and Parashurama's axe while Asav's insurgents hunt them."
+    },
+    {
+      "placeId": "halebidu-india",
+      "note": "The trail leads to the ruins of Halebidu, the later Hoysala capital, where Chloe and Nadine work out that its last emperor laid a false trail and the tusk lies at the older capital.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "belur-india",
+      "note": "At Belur, Chloe finds the Tusk of Ganesh, but Asav takes it and leaves her, Nadine and Sam to drown; they escape and chase his bomb train towards the capital.",
+      "settingType": "fictionalized"
+    }
+  ],
+  "routes": [
+    {
+      "id": "chloe-nadine",
+      "name": "Chloe Frazer and Nadine Ross",
+      "characters": [
+        "Chloe Frazer",
+        "Nadine Ross"
+      ],
+      "storyYears": [
+        2017
+      ],
+      "stops": [
+        "western-ghats-india",
+        "halebidu-india",
+        "belur-india"
+      ],
+      "note": "Across the Western Ghats to the Hoysala ruins at Halebidu and the tusk at Belur.",
+      "source": "https://en.wikipedia.org/wiki/Uncharted:_The_Lost_Legacy"
+    }
+  ],
+  "storyYears": [
+    2017
+  ],
+  "source": "https://en.wikipedia.org/wiki/Uncharted:_The_Lost_Legacy",
+  "reviewed": "2026-11-06",
+  "developerUrl": "https://en.wikipedia.org/wiki/Naughty_Dog",
+  "genres": [
+    "Action-Adventure"
+  ]
+}

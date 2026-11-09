@@ -1,0 +1,12 @@
+{
+  "id": "spain",
+  "name": "Spain",
+  "position": {
+    "lat": 40.4637,
+    "lon": -3.7492
+  },
+  "scale": "area",
+  "placeType": "country",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Spain",
+  "description": "A country of Southern and Western Europe whose territories also reach across the water to the coast of North Africa."
+}

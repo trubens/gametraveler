@@ -1,0 +1,14 @@
+{
+  "id": "golitha-falls-cornwall-uk",
+  "name": "Golitha Falls, Cornwall, UK",
+  "position": {
+    "lat": 50.4928,
+    "lon": -4.5031
+  },
+  "scale": "site",
+  "parentId": "cornwall-england",
+  "placeType": "natural_feature",
+  "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/River_Fowey",
+  "description": "A mossy wooded gorge where the River Fowey tumbles off the southern edge of Bodmin Moor."
+}

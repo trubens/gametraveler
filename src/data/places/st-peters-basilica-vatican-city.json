@@ -1,0 +1,14 @@
+{
+  "id": "st-peters-basilica-vatican-city",
+  "name": "St. Peter's Basilica, Vatican City",
+  "position": {
+    "lat": 41.9022,
+    "lon": 12.4539
+  },
+  "scale": "site",
+  "parentId": "rome-italy",
+  "placeType": "landmark",
+  "source": "https://en.wikipedia.org/wiki/St._Peter%27s_Basilica",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/St._Peter%27s_Basilica",
+  "description": "The great Renaissance church of the Vatican, the papal basilica at the heart of the tiny independent state enclosed within Rome."
+}

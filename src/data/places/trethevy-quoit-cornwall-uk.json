@@ -1,0 +1,14 @@
+{
+  "id": "trethevy-quoit-cornwall-uk",
+  "name": "Trethevy Quoit, Cornwall, UK",
+  "position": {
+    "lat": 50.4932,
+    "lon": -4.4554
+  },
+  "scale": "site",
+  "parentId": "cornwall-england",
+  "placeType": "landmark",
+  "source": "https://www.google.com/maps/d/viewer?mid=1I5m3NCe54yUmf2sMhW8Ru-CnfbI",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Trethevy_Quoit",
+  "description": "A Neolithic dolmen of giant granite slabs between St Cleer and Darite, a house of the dead on the moor's edge."
+}

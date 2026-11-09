@@ -1,0 +1,18 @@
+{
+  "id": "tower-of-babel-fictional-babylon-iraq",
+  "name": "Tower of Babel, Babylon, Iraq",
+  "position": {
+    "lat": 32.5363,
+    "lon": 44.4209
+  },
+  "scale": "site",
+  "parentId": "iraq",
+  "placeType": "landmark",
+  "fictional": true,
+  "aliases": [
+    "Babel"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Tower_of_Babel",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tower_of_Babel",
+  "description": "The tower of Genesis, which tradition ties to the ziggurat of Etemenanki in Babylon. Pinned at the ruins of Babylon."
+}

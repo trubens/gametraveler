@@ -1,0 +1,124 @@
+{
+  "id": 311,
+  "name": "Forza Motorsport 7",
+  "year": 2017,
+  "series": "Forza Motorsport",
+  "developer": "Turn 10 Studios",
+  "publisher": "Microsoft Studios",
+  "locations": [
+    {
+      "placeId": "laguna-seca-california-usa",
+      "note": "Laguna Seca and its Corkscrew, the series' home circuit."
+    },
+    {
+      "placeId": "brands-hatch-uk",
+      "note": "Brands Hatch, the Kent circuit's Indy and Grand Prix loops."
+    },
+    {
+      "placeId": "circuit-of-the-americas-texas-usa",
+      "note": "Circuit of the Americas outside Austin."
+    },
+    {
+      "placeId": "circuit-de-barcelona-catalunya-spain",
+      "note": "The Catalunya Grand Prix circuit."
+    },
+    {
+      "placeId": "circuit-de-spa-francorchamps-belgium",
+      "note": "Spa-Francorchamps, Eau Rouge and all, in the Ardennes."
+    },
+    {
+      "placeId": "daytona-international-speedway-florida-usa",
+      "note": "Daytona's banked tri-oval and the 24-hour road course."
+    },
+    {
+      "placeId": "hockenheimring-germany",
+      "note": "The Hockenheimring in its modern layout."
+    },
+    {
+      "placeId": "homestead-miami-speedway-florida-usa",
+      "note": "Homestead-Miami's oval and road course."
+    },
+    {
+      "placeId": "indianapolis-motor-speedway-indiana-usa",
+      "note": "Indianapolis, the oval and the Grand Prix road course."
+    },
+    {
+      "placeId": "circuit-de-la-sarthe-le-mans-france",
+      "note": "Le Mans, the full Circuit de la Sarthe with the Mulsanne straight."
+    },
+    {
+      "placeId": "lime-rock-park-connecticut-usa",
+      "note": "Lime Rock Park, the short Connecticut road course."
+    },
+    {
+      "placeId": "long-beach-street-circuit-california-usa",
+      "note": "The Long Beach street circuit along Shoreline Drive."
+    },
+    {
+      "placeId": "mount-panorama-circuit-bathurst-australia",
+      "note": "Mount Panorama at Bathurst, up over the mountain and down Conrod Straight."
+    },
+    {
+      "placeId": "monza-circuit-italy",
+      "note": "Monza, the temple of speed."
+    },
+    {
+      "placeId": "mugello-circuit-italy",
+      "note": "Mugello in the Tuscan hills, back from Forza Motorsport 4."
+    },
+    {
+      "placeId": "nurburgring-gp-circuit-germany",
+      "note": "The Nürburgring Grand Prix circuit."
+    },
+    {
+      "placeId": "nurburgring-nordschleife-germany",
+      "note": "The Nordschleife, all 20.8 kilometres of the Green Hell."
+    },
+    {
+      "placeId": "road-america-wisconsin-usa",
+      "note": "Road America at Elkhart Lake."
+    },
+    {
+      "placeId": "road-atlanta-georgia-usa",
+      "note": "Road Atlanta and its downhill esses."
+    },
+    {
+      "placeId": "sebring-international-raceway-florida-usa",
+      "note": "Sebring's bumpy old airfield circuit."
+    },
+    {
+      "placeId": "silverstone-circuit-uk",
+      "note": "Silverstone, the home of the British Grand Prix."
+    },
+    {
+      "placeId": "sonoma-raceway-california-usa",
+      "note": "Sonoma Raceway in the wine country north of San Francisco."
+    },
+    {
+      "placeId": "suzuka-international-racing-course-japan",
+      "note": "Suzuka's figure-eight, back from Forza Motorsport 4."
+    },
+    {
+      "placeId": "dunsfold-aerodrome-surrey-uk",
+      "note": "The Top Gear test track on the Dunsfold airfield."
+    },
+    {
+      "placeId": "virginia-international-raceway-virginia-usa",
+      "note": "Virginia International Raceway's rolling road course."
+    },
+    {
+      "placeId": "watkins-glen-international-new-york-usa",
+      "note": "Watkins Glen, the Glen's fast road course above Seneca Lake."
+    },
+    {
+      "placeId": "yas-marina-circuit-abu-dhabi-uae",
+      "note": "Yas Marina under the lights in Abu Dhabi."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Forza_Motorsport_7",
+  "reviewed": "2026-11-01",
+  "genres": [
+    "Racing"
+  ]
+}

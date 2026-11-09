@@ -1,0 +1,24 @@
+{
+  "id": 1000221,
+  "name": "Nancy Drew: Secrets Can Kill",
+  "year": 1998,
+  "publisher": "HeR Interactive",
+  "series": "Nancy Drew",
+  "developer": "HeR Interactive",
+  "locations": [
+    {
+      "placeId": "florida-usa",
+      "aliases": [
+        "Paseo del Mar"
+      ],
+      "settingType": "fictionalized",
+      "note": "Undercover as a transfer student, Nancy looks into the death of student Jake Rogers at Paseo del Mar High School, where her Aunt Eloise is librarian, and uncovers the drug-dealing behind it."
+    }
+  ],
+  "storyYears": [],
+  "source": "https://en.wikipedia.org/wiki/Nancy_Drew:_Secrets_Can_Kill",
+  "reviewed": "2026-11-03",
+  "genres": [
+    "Adventure"
+  ]
+}
