@@ -46,10 +46,13 @@ async function copyText(text: string) {
     document.body.appendChild(field);
     field.select();
     field.setSelectionRange(0, text.length);
-    let copied = false;
-    try { copied = document.execCommand('copy'); } catch { copied = false; }
-    field.remove();
-    return copied;
+    try {
+      return document.execCommand('copy');
+    } catch {
+      return false;
+    } finally {
+      field.remove();
+    }
   }
 }
 
@@ -2834,8 +2837,9 @@ function App() {
             countries={countryShapes}
             been={shadedCountries}
             onSelect={(iso, at) => openCountry(iso, false, true, at)}
-            fit={view?.mode === 'country' && panel ? { iso: view.iso, seq: panel.seq, points: [...(countryContent.get(view.iso)?.keys ?? [])].map(key => places.get(key)!.position), at: countryClickRef.current } : undefined}
+            fit={view?.mode === 'country' && panel ? { iso: view.iso, seq: panel.seq, points: [...(countryContent.get(view.iso)?.keys ?? [])].map(key => places.get(key)!.position) } : undefined}
             fitOptions={() => countryPadding(mapRef.current!, countryPeekRef.current)}
+            fitAt={() => countryClickRef.current}
           />
           <ZoomControl position="bottomright" />
           <MapPinchZoom />

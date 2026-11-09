@@ -171,13 +171,15 @@ const beenStyle = (): L.PathOptions => ({ stroke: false, fillColor: INK(), fillO
 
 const escapeHtml = (text: string) => text.replace(/[&<>"']/g, ch => `&#${ch.charCodeAt(0)};`);
 
-export function CountryShapes({ countries, been, onSelect, fit, fitOptions }: {
+export function CountryShapes({ countries, been, onSelect, fit, fitOptions, fitAt }: {
   countries: Map<string, CountryPlace>;
   been: Set<string>;
   onSelect: (iso: string, at?: [number, number]) => void;
   // Når et land åpnes, flyr kartet til flaten og landets steder med spill; seq skiller to åpninger av samme land
-  fit?: { iso: string; seq: number; points: [number, number][]; at?: [number, number] };
+  fit?: { iso: string; seq: number; points: [number, number][] };
   fitOptions: () => L.FitBoundsOptions;
+  // Der landet ble klikket, lest når kartet flyr (en ref i App, så den leses ikke under tegningen)
+  fitAt?: () => [number, number] | undefined;
 }) {
   const map = useMap();
   const gl = useGlMap();
@@ -204,7 +206,7 @@ export function CountryShapes({ countries, been, onSelect, fit, fitOptions }: {
     const feature = features.find(f => f.properties.iso === fit.iso);
     if (!feature) return;
     fitted.current = fit.seq;
-    map.flyToBounds(fitBoundsFor(feature, fit.points, fit.at), { ...fitOptions(), maxZoom: 6, duration: 0.8 });
+    map.flyToBounds(fitBoundsFor(feature, fit.points, fitAt?.()), { ...fitOptions(), maxZoom: 6, duration: 0.8 });
     // fitOptions leser panelets høyde i det øyeblikket; seq er det som skal utløse flyttingen
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [fit?.iso, fit?.seq, features, map]);
