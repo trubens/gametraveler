@@ -7,5 +7,6 @@
   },
   "scale": "area",
   "placeType": "country",
-  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/"
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "description": "A landlocked country in Central Europe, with the Tatra Mountains in the north and Bratislava on the Danube."
 }

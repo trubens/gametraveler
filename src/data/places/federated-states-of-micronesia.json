@@ -10,5 +10,6 @@
   },
   "scale": "area",
   "placeType": "country",
-  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/"
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "description": "An island nation of more than 600 islands spread across the western Pacific."
 }

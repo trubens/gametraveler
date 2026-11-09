@@ -7,5 +7,6 @@
   },
   "scale": "area",
   "placeType": "country",
-  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/"
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "description": "A Baltic country on the eastern shore of the Baltic Sea, with Riga as its capital."
 }

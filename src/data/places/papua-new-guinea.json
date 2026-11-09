@@ -7,5 +7,6 @@
   },
   "scale": "area",
   "placeType": "country",
-  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/"
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "description": "A country on the eastern half of New Guinea and the islands around it."
 }

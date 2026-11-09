@@ -10,5 +10,6 @@
   },
   "scale": "area",
   "placeType": "country",
-  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/"
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "description": "A British Overseas Territory of three islands in the western Caribbean."
 }

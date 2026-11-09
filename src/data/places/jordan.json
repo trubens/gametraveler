@@ -7,5 +7,6 @@
   },
   "scale": "area",
   "placeType": "country",
-  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/"
+  "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+  "description": "A kingdom in the Middle East between Israel, Syria, Iraq and Saudi Arabia, home of Petra."
 }
