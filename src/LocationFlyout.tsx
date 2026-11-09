@@ -323,6 +323,12 @@ export function LocationFlyout({
   const titleParts = variant === 'list' && placeType && !placeTypeVaries ? splitPlaceName(fullTitle) : undefined;
   const shownTitle = titleParts?.name ?? fullTitle;
   const titleSize = shownTitle.length > 36 ? "md:text-[1.9rem]" : "md:text-[2.5rem]";
+  // Arket nede (104 px) viste bare tittelen; én linje under sier hva som ligger der før man drar det opp
+  const peekLine = variant === 'list'
+    ? [placeType && !placeTypeVaries ? (titleParts ? `${placeTypeNoun(placeType)} in ${titleParts.within}` : placeTypeLabel(placeType)) : undefined, count(allGames.length, 'game'), era ? `set in ${era}` : undefined]
+    : variant === 'game' && allGames[0]
+      ? [String(allGames[0].year), count(new Set(allGames[0].locations.map(l => l.placeId)).size, 'place')]
+      : variant === 'series' ? [count(allGames.length, 'game')] : [];
 
   const [openSeries, setOpenSeries] = useState<Map<string, boolean>>(() => new Map());
   const toggleSeries = (key: string, open: boolean) => setOpenSeries(current => {
@@ -618,12 +624,13 @@ export function LocationFlyout({
               id="panel-title"
               ref={headingRef}
               tabIndex={-1}
-              className={`headline line-clamp-2 min-w-0 flex-1 text-[1.25rem] leading-[0.95] focus:outline-none md:line-clamp-none ${titleSize} ${isPeek || variant === 'index' || variant === 'atlas' ? 'pr-12' : 'pr-[6.25rem]'}`}
+              className={`headline ${isPeek ? 'line-clamp-1' : 'line-clamp-2'} min-w-0 flex-1 text-[1.25rem] leading-[0.95] focus:outline-none md:line-clamp-none ${titleSize} ${isPeek || variant === 'index' || variant === 'atlas' ? 'pr-12' : 'pr-[6.25rem]'}`}
             >
               {shownTitle}
               {inventedTag && <span className="sr-only"> ({inventedTag})</span>}
             </Drawer.Title>
           </div>
+          {isPeek && peekLine.length > 0 && <p className="numerals mt-1 truncate pr-12 text-sm text-ink-soft">{peekLine.filter(Boolean).join(' · ')}</p>}
         </div>
         <div className={`gt-panel-actions absolute right-4 flex gap-2 top-[calc(0.76rem-22px)] ${title.length > 36 ? 'md:top-4' : 'md:top-5'}`}>
           {!isPeek && variant !== 'index' && variant !== 'atlas' && <button
