@@ -10,7 +10,7 @@ import { placeLabel, readGames, readPlaces } from './lib/game-data.mjs';
 import { latestReviewed, placeRedirects } from './lib/prerender-helpers.mjs';
 import { getGameRoutes } from '../src/routes.ts';
 import { withArticle } from '../src/placeArticle.ts';
-import { pruneCache, renderCard } from './lib/og-maps.mjs';
+import { pruneCache, renderCard, renderSquare } from './lib/og-maps.mjs';
 
 const dist = 'dist';
 const indexPath = path.join(dist, 'index.html');
@@ -141,15 +141,27 @@ function page({ route, title, description, body, structuredData, lastmod, noinde
   const url = `${siteUrl}${route}`;
   // Kartbildet for siden (scripts/lib/og-maps.mjs): delingsbilde, bilde i teksten og i sitemap.xml
   let imageUrl;
+  let squareUrl;
   if (image) {
-    imageJobs.push({ file: path.join(dist, route, 'map.png'), card: image.card });
+    // Miniatyren i søkeresultatet er kvadratisk (92 × 92), så siden har også et kvadratisk kart med navnet i et bånd
+    // (renderSquare), med et beskrivende filnavn. Det brede bildet (1200 × 630) er delingsbildet.
+    const slug = route.split('/').filter(Boolean).at(-1);
+    const squareName = `${slug}-video-game-map.png`;
+    imageJobs.push({
+      file: path.join(dist, route, 'map.png'),
+      card: image.card,
+      squareFile: path.join(dist, route, squareName),
+      squareCard: { ...image.card, theme: 'rust', font: 'sans', squareSpan: (image.card.minSpan ?? 0) > 14 ? image.card.minSpan : 9 },
+    });
     imageUrl = `${url}map.png`;
-    const img = `<p><img src="${esc(appPath(`${route}map.png`))}" alt="${esc(image.alt)}" width="1200" height="630" loading="lazy" decoding="async" style="max-width:100%;height:auto" /></p>`;
+    squareUrl = `${url}${squareName}`;
+    const img = `<p><img src="${esc(appPath(`${route}map.png`))}" alt="${esc(image.alt)}" width="1200" height="630" loading="lazy" decoding="async" style="max-width:100%;height:auto" /></p>
+      <p><img src="${esc(appPath(`${route}${squareName}`))}" alt="${esc(image.alt)}" width="1000" height="1000" loading="lazy" decoding="async" style="max-width:100%;height:auto" /></p>`;
     body = body.replace('</h1>', () => `</h1>\n      ${img}`);
   }
   const robots = noindex ? '<meta name="robots" content="noindex" />' : '<meta name="robots" content="max-image-preview:large" />';
   const imageAlt = image ? `<meta property="og:image:alt" content="${esc(image.alt)}" />\n  ` : '';
-  const data = imageUrl ? { ...structuredData, image: imageUrl } : structuredData;
+  const data = imageUrl ? { ...structuredData, image: [squareUrl, imageUrl] } : structuredData;
   const head = `${robots}\n  ${imageAlt}<link rel="canonical" href="${esc(url)}" />\n  ${jsonLd(data)}`;
   // Erstatningene er funksjoner, så «$&» eller «$'» i et notat ikke tolkes som mønstre av replace
   const html = template
@@ -165,7 +177,7 @@ function page({ route, title, description, body, structuredData, lastmod, noinde
   const file = path.join(dist, route, 'index.html');
   fs.mkdirSync(path.dirname(file), { recursive: true });
   fs.writeFileSync(file, html);
-  if (!noindex) sitemap.push({ url, lastmod, image: imageUrl });
+  if (!noindex) sitemap.push({ url, lastmod, images: imageUrl ? [squareUrl, imageUrl] : [] });
   return url;
 }
 
@@ -258,6 +270,7 @@ for (const place of places.values()) {
       card: {
         kicker: 'Video games set in',
         title: place.name.split(', ')[0],
+        sub: place.name.split(', ').slice(1).join(', '),
         lines: [
           { text: [place.name.split(', ').slice(1).join(', '), inGameName && `${inGameName} in the games`].filter(Boolean).join(' · ') || 'Real place' },
           { text: sorted.length === 1 ? `${withYear(sorted[0])}` : `${sorted.length} games, ${sorted[0].year}–${sorted.at(-1).year}`, strong: true },
@@ -339,6 +352,7 @@ function gameImage(game, shortNames, countries) {
     card: {
       kicker: ordered ? 'The journey' : 'Where it takes place',
       title: game.name,
+      sub: where,
       lines: [{ text: `${game.year} · ${game.developer}` }, { text: where, strong: true }],
       pins: stops.map(l => lonLat(l.position)),
       names: stops.map(l => l.name),
@@ -385,16 +399,17 @@ for (const [name, list] of bySeries) {
 // lastmod er datoen spillet (eller det nyeste av spillene på siden) sist ble gjennomgått; byggedatoen sa
 // at alt var endret ved hver publisering. Sider uten gjennomgåtte spill står uten lastmod.
 for (let i = 0; i < imageJobs.length; i += 8) {
-  await Promise.all(imageJobs.slice(i, i + 8).map(async ({ file, card }) => {
+  await Promise.all(imageJobs.slice(i, i + 8).map(async ({ file, card, squareFile, squareCard }) => {
     fs.mkdirSync(path.dirname(file), { recursive: true });
     fs.writeFileSync(file, await renderCard(card));
+    fs.writeFileSync(squareFile, await renderSquare(squareCard, 'name'));
   }));
 }
 pruneCache();
 
 fs.writeFileSync(path.join(dist, 'sitemap.xml'),
   `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n` +
-  sitemap.map(({ url, lastmod, image }) => `  <url><loc>${esc(url)}</loc>${lastmod ? `<lastmod>${lastmod}</lastmod>` : ''}${image ? `<image:image><image:loc>${esc(image)}</image:loc></image:image>` : ''}</url>`).join('\n') +
+  sitemap.map(({ url, lastmod, images }) => `  <url><loc>${esc(url)}</loc>${lastmod ? `<lastmod>${lastmod}</lastmod>` : ''}${images.map(image => `<image:image><image:loc>${esc(image)}</image:loc></image:image>`).join('')}</url>`).join('\n') +
   `\n</urlset>\n`);
 
 // Steder som har byttet navn beholder den gamle adressen som én 301 til den nye (Apache, se public/.htaccess)
