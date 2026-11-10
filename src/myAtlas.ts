@@ -2,6 +2,7 @@
 // Alt ligger bare i denne nettleseren (localStorage). Steder lagres på den stabile sted-id-en fra dataene,
 // spill på spill-id-en. Å tømme flytter verdien til en egen nøkkel, så det kan angres.
 import { useSyncExternalStore } from 'react';
+import { trackEvent } from './analytics';
 import redirects from './data/redirects.json';
 // Steds-id-er som er slått sammen eller omdøpt (London fantes tre ganger): et merke satt på den gamle id-en
 // følger med til den nye, så ingen mister «Been here» når katalogen ryddes
@@ -116,6 +117,7 @@ export const gameMark = (atlas: Atlas, id: number | string) => atlas.games[Strin
 export function togglePlace(ids: string[], field: 'been' | 'want') {
   if (ids.length === 0) return;
   const on = placeMark(state, ids)[field];
+  trackEvent('mark_place', { mark: field, marked: !on, place_id: ids[0] });
   const places = { ...state.places };
   for (const id of ids) {
     const next: PlaceMark = { ...(places[id] ?? { at: today() }), at: today() };
@@ -133,6 +135,7 @@ export function togglePlace(ids: string[], field: 'been' | 'want') {
 
 export function toggleGame(id: number | string, field: 'played' | 'want') {
   const key = String(id);
+  trackEvent('mark_game', { mark: field, marked: !state.games[key]?.[field], game_id: key });
   const next: GameMark = { ...(state.games[key] ?? { at: today() }), at: today() };
   if (state.games[key]?.[field]) delete next[field];
   else {
@@ -153,11 +156,13 @@ function moveAside(reason: ClearedAtlas['reason']) {
 }
 
 export function clearAtlas() {
+  trackEvent('atlas_clear', { marks: markCount(state) });
   moveAside('clear');
   persist(emptyAtlas());
 }
 
 export function replaceAtlas(next: Atlas) {
+  trackEvent('atlas_import', { mode: 'replace' });
   moveAside('import-replace');
   persist(normalizeAtlas(next));
 }
@@ -171,6 +176,7 @@ export function mergeAtlas(atlas: Atlas, extra: Atlas): Atlas {
 }
 
 export function addToAtlas(extra: Atlas) {
+  trackEvent('atlas_import', { mode: 'merge' });
   persist(mergeAtlas(state, extra));
 }
 
@@ -178,6 +184,7 @@ export function addToAtlas(extra: Atlas) {
 // «replace» over markeringer som finnes nå, legger dem til side i stedet, så også det kan angres.
 export function restoreCleared(mode: 'replace' | 'merge' = 'replace') {
   if (!cleared) return;
+  trackEvent('atlas_restore', { mode });
   const current = state;
   const restored = mode === 'merge' ? mergeAtlas(cleared.atlas, current) : cleared.atlas;
   // Det som står nå legges til side før atlaset byttes ut: feiler lagringen (full), er ingenting endret,

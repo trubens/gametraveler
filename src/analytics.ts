@@ -43,3 +43,17 @@ export function startAnalytics() {
   if ('requestIdleCallback' in window) window.requestIdleCallback(load, { timeout: 2000 });
   else setTimeout(load, 1500);
 }
+
+type EventValue = string | number | boolean | undefined;
+
+// Egne hendelser for å se hvordan appen brukes. Verdiene er korte og telles, aldri personopplysninger. Før
+// skriptet er lastet legges kommandoene i dataLayer, og i dev og på localhost gjør kallet ingenting.
+export function trackEvent(name: string, params: Record<string, EventValue> = {}) {
+  if (!started || !window.gtag) return;
+  const clean: Record<string, string | number | boolean> = {};
+  for (const [key, value] of Object.entries(params)) {
+    if (value === undefined || value === '') continue;
+    clean[key] = typeof value === 'string' ? value.slice(0, 100) : value;
+  }
+  window.gtag('event', name, clean);
+}

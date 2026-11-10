@@ -16,9 +16,10 @@ import { getGameRoutes, routeStyle, type ResolvedRoute } from './routes';
 import { Basemap } from './Basemap';
 import { AtlasBrand } from './AtlasBrand';
 import { MyAtlasPanel } from './MyAtlasPanel';
-import { type AtlasFilter, type GameFilter, NO_ATLAS_FILTER, type PlaceFilter, ancestorsOf, atlasFilterText, atlasPlaces, atlasTotal, beenCountries, countryBySlug, countryLabel, countryOf, countryRecord, countrySmall, countryTitle, placeMarkFor } from './atlasStats';
+import { type AtlasFilter, type GameFilter, NO_ATLAS_FILTER, type PlaceFilter, ancestorsOf, atlasFilterText, atlasPlaces, atlasTotal, beenCountries, countryBySlug, countryLabel, countryName, countryOf, countryRecord, countrySmall, countryTitle, placeMarkFor } from './atlasStats';
 import { COUNTRY_SHAPES_HIDE_ZOOM, type CountryPlace, CountryShapes } from './CountryShapes';
 import { markCount, restoreCleared, useMyAtlas } from './myAtlas';
+import { trackEvent } from './analytics';
 import { type AtlasCatalog, atlasToCsv, importCsv } from './atlasFiles';
 import { type AtlasDialog, AtlasDialogs, type AtlasToast, AtlasToastMessage } from './MyAtlasDialogs';
 import { IndexPlace, LocationFlyout, NearbyPlace, PanelSection, SHEET_PEEK_HEIGHT } from './LocationFlyout';
@@ -1593,6 +1594,50 @@ function App() {
   const activeFilters = (selectedGenres.length ? 1 : 0) + (yearsFull ? 0 : 1) + (storyFull ? 0 : 1) + (includeVenues ? 1 : 0) + (selectedSettings.length ? 1 : 0) + (selectedPlaceTypes.length ? 1 : 0) + (atlasFilter.place ? 1 : 0) + (atlasFilter.game ? 1 : 0);
   const introVisible = !introDismissed && !panel && !query && activeFilters === 0 && !notice && !filterOpen;
 
+  // Bruksmåling (src/analytics.ts). Filtrene meldes når panelet lukkes, ikke for hvert trykk, og bare om noe er endret
+  const filterState = {
+    genres: selectedGenres.join(','),
+    settings: selectedSettings.join(','),
+    place_types: selectedPlaceTypes.join(','),
+    story_years: storyFull ? '' : `${storyYearRange[0]} to ${storyYearRange[1]}`,
+    released: yearsFull ? '' : `${yearRange[0]} to ${yearRange[1]}`,
+    all_games: includeVenues,
+    my_atlas: atlasFilterText(atlasFilter) ?? '',
+  };
+  const filterStateRef = useRef(filterState);
+  useEffect(() => { filterStateRef.current = filterState; });
+  const filterAtOpen = useRef<string | null>(null);
+  useEffect(() => {
+    if (filterOpen) {
+      filterAtOpen.current = JSON.stringify(filterStateRef.current);
+      trackEvent('open_filters');
+      return;
+    }
+    if (filterAtOpen.current === null) return;
+    const before = filterAtOpen.current;
+    filterAtOpen.current = null;
+    if (JSON.stringify(filterStateRef.current) !== before) trackEvent('apply_filters', { ...filterStateRef.current });
+  }, [filterOpen]);
+  // Hver gang panelet viser noe nytt: et spill, sted, land, en serie eller en liste. from_url er åpningen av en delt lenke,
+  // back er tilbake-knappen (i panelet eller i nettleseren), og from_panel at det ble åpnet fra et annet panel
+  const navigatingBack = useRef(false);
+  useEffect(() => {
+    if (!panel) return;
+    const v = panel.view;
+    const name = v.mode === 'game' ? gameById.get(v.id)?.name : v.mode === 'place' ? v.name : v.mode === 'country' ? countryName(v.iso) : v.mode === 'series' ? v.name : undefined;
+    trackEvent('open_view', {
+      view: v.mode,
+      item_name: name,
+      game_id: v.mode === 'game' ? v.id : undefined,
+      from_url: initial.panel?.seq === panel.seq,
+      from_panel: panel.history.length > 0,
+      back: navigatingBack.current,
+    });
+    navigatingBack.current = false;
+  // Bare et nytt panel teller, ikke at innholdet i samme panel endres
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [panel?.seq]);
+
   const resetFilters = () => {
     setSelectedGenres([]);
     setSelectedSettings([]);
@@ -1786,18 +1831,22 @@ function App() {
     const filtered = playable(filterGames({ query: '', genres: selectedGenres, yearRange, storyYearRange, includeVenues, settings: selectedSettings, placeTypes: selectedPlaceTypes }).map(hit => hit.game));
     const pool = filtered.length >= 2 ? filtered : playable(games.filter(game => includeVenues || !isVenueGame(game)));
     if (pool.length === 0) return;
-    showGame(pool[Math.floor(Math.random() * pool.length)], false);
+    const pick = pool[Math.floor(Math.random() * pool.length)];
+    trackEvent('surprise_me', { item_name: pick.name, game_id: pick.id });
+    showGame(pick, false);
   };
 
   const selectRoute =(routeId: string | undefined) => {
     if (!openGame) return;
     const route = getGameRoutes(openGame).find(route => route.id === routeId);
+    trackEvent('select_route', { item_name: openGame.name, route: route?.name ?? 'all places', game_id: openGame.id });
     setRouteSelections(current => ({ ...current, [openGame.id]: route?.id }));
     moveMap({ kind: 'bounds', ...gameFit(route?.locations ?? openGame.locations) });
   };
 
   const goBack = () => {
     if (!panel || panel.history.length === 0) return;
+    navigatingBack.current = true;
     const back = panel.history[panel.history.length - 1];
     if (back.mode === 'game') {
       const game = gameById.get(back.id);
@@ -1824,6 +1873,7 @@ function App() {
   };
 
   const toggleRoute = (game: Game) => {
+    trackEvent('toggle_journey', { item_name: game.name, game_id: game.id, shown: game.id !== selectedGameId });
     if (game.id === selectedGameId) {
       setSelectedGameId(undefined);
       return;
@@ -1874,6 +1924,7 @@ function App() {
   const handleNearMe = () => {
     rememberIntroDismissal(true);
     if (!('geolocation' in navigator)) {
+      trackEvent('near_me', { result: 'unsupported' });
       setNotice('Your browser cannot share your location');
       return;
     }
@@ -1884,16 +1935,21 @@ function App() {
         setUserPosition(here);
         const near = [...places.values()].filter(p => distanceKm(here, p.position) <= NEAR_ME_KM);
         if (near.length === 0) {
+          trackEvent('near_me', { result: 'none nearby' });
           setNotice(`No games within ${NEAR_ME_KM} km of you yet`);
           moveMap({ kind: 'point', position: here });
           return;
         }
+        trackEvent('near_me', { result: 'found', places: near.length });
         setNotice(null);
         openPanel({ mode: 'near', position: here });
         setSelectedGameId(undefined);
         moveMap({ kind: 'bounds', positions: [here, ...near.map(p => p.position)] });
       },
-      error => setNotice(error.code === error.PERMISSION_DENIED ? 'Location access was denied' : 'Could not find your location'),
+      error => {
+        trackEvent('near_me', { result: error.code === error.PERMISSION_DENIED ? 'denied' : 'error' });
+        setNotice(error.code === error.PERMISSION_DENIED ? 'Location access was denied' : 'Could not find your location');
+      },
       { timeout: 10000, maximumAge: 60000 },
     );
   };
@@ -1906,12 +1962,15 @@ function App() {
     if (mobile && navigator.share) {
       try {
         await navigator.share({ title: document.title, url });
+        trackEvent('share', { method: 'share sheet' });
         return;
       } catch (error) {
         if (error instanceof DOMException && error.name === 'AbortError') return;
       }
     }
-    setNotice((await copyText(url)) ? 'Link copied' : 'Could not copy the link');
+    const copied = await copyText(url);
+    trackEvent('share', { method: copied ? 'copy link' : 'copy failed' });
+    setNotice(copied ? 'Link copied' : 'Could not copy the link');
   };
 
   // Typing filters the map; selecting an autocomplete result opens its details.
@@ -1928,6 +1987,7 @@ function App() {
         return;
       }
       const hits = latest.current;
+      trackEvent('search', { search_term: search.trim().toLowerCase(), result_count: hits.length });
       if (hits.length === 0) {
         setSelectedGameId(undefined);
         setPanel(prev => (prev?.view.mode === 'search' ? null : prev));
@@ -1952,6 +2012,7 @@ function App() {
       const url = readUrl();
       const next = initialFromUrl(url);
       restoringFromHistory.current = true;
+      navigatingBack.current = true;
       // Adressen vi kom tilbake til er den gjeldende siden. Ga tilbake-knappen samme tilstand som før, kjørte
       // ikke adresse-effekten, flagget ble stående, og neste sted som ble åpnet erstattet oppføringen i stedet
       // for å legge til en ny (Seattle → Antarktis, tilbake, endte på forsiden). Flagget slippes uansett.
@@ -2071,6 +2132,7 @@ function App() {
     moreButtonRef.current?.focus({ preventScroll: true });
   };
   const exportAtlasCsv = () => {
+    trackEvent('atlas_export', { marks: markCount(myAtlas) });
     setSiteMenuOpen(false);
     const blob = new Blob([atlasToCsv(myAtlas, atlasCatalog)], { type: 'text/csv;charset=utf-8' });
     const link = document.createElement('a');
@@ -2140,6 +2202,7 @@ function App() {
   };
 
   const openAboutDialog = (tab: 'about' | 'places' = 'about') => {
+    trackEvent('open_dialog', { dialog: tab });
     setSiteMenuOpen(false);
     setFilterOpen(false);
     setInfoTab(tab);
@@ -2804,6 +2867,7 @@ function App() {
                       onClick={() => {
                         setThemeChoice(choice);
                         saveThemeChoice(choice);
+                        trackEvent('change_theme', { theme: choice });
                       }}
                     >
                       {choice === 'system' ? 'System' : choice === 'light' ? 'Light' : 'Dark'}
