@@ -41,7 +41,7 @@ A game:
 }
 ```
 
-- `storyYears`: the years the story is set in; negative for BC. Empty if the game gives none.
+- `storyYears`: the years the story is set in; negative for BC. Empty if the game gives none. The list is a set of points, not a range, so a game that jumps between eras lists one year per era (Timelapse: `[-2500, 800, 1300, 1996]` for Egypt, the Maya, the Anasazi and the present). When the game names a real historical period but no year, give a typical year for that period instead of leaving it empty, and say in the report that the year is the period's, not the game's. Leave it empty only when there is no real period to point at (an invented world, a vague "long ago"). A legendary place such as Atlantis does get a pin, on the traditional location (`atlantis-fictional-atlantic`) or the one the game follows; check `catalog.py place` before saying it is missing.
 - `series`: set it whenever the game belongs to a series in the catalogue (`catalog.py series <name>`), with the exact series name already used. Two games are enough. The series page, the search suggestion and the "Part of the … series" line all come from this field.
 - `aliases`: other titles the game is known by (Circle of Blood for Broken Sword).
 - `settingType` on a location: `real` (the default, leave it out), `fictionalized` (a real place reshaped, or an invented place pinned at its basis), `imaginary` (pure invention like Atlantis).
