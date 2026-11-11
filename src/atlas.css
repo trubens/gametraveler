@@ -261,6 +261,8 @@ section:has(> ins.adsbygoogle[data-ad-status="unfilled"]) { display: none; }
   box-shadow: none;
 }
 :root :is(.atlas-filter-button, .atlas-mark-toggle:not(.is-on)):hover { border-color: transparent; background-color: var(--control-hover); }
+/* Knappen står inne mens filteret er åpent: mørk flate med lys tekst. Uten denne ga den lyse kontrollfargen over lys tekst på lys flate */
+:root button.atlas-filter-button.is-active, :root button.atlas-filter-button.is-active:hover { border-color: transparent; background-color: var(--color-ink); color: var(--color-sheet); }
 :root .atlas-mark-segment:hover { border-color: transparent; }
 :root .atlas-mark-segment > .atlas-mark-toggle + .atlas-mark-toggle { border-left-color: var(--line); }
 :root :is(.atlas-map-button, .leaflet-control-zoom.leaflet-bar) { border-color: transparent; background-color: var(--float); box-shadow: var(--float-shadow); }

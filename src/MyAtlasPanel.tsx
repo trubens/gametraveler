@@ -43,8 +43,13 @@ export function MyAtlasPanel({ games, totals, filter, onFilter, onExport, onImpo
     { ...gameTile('played'), value: played.length, of: share(played.length, totals.games, 'story games'), label: 'Played', icon: <Check size={15} strokeWidth={2.25} aria-hidden="true" /> },
     { ...gameTile('want'), value: wantPlay.length, label: 'Want to play', icon: <Flag size={15} strokeWidth={1.75} aria-hidden="true" /> },
   ];
+  // «Not been yet» og «Not played yet» er de to valgene som ikke har eget tall: det som mangler i atlaset
+  const notBeen = placeTile('not-been');
+  const notPlayed = gameTile('not-played');
   const empty = tiles.every(tile => tile.value === 0);
   const filtering = !!(filter.place || filter.game);
+
+  const notClass = (on: boolean) => `col-span-2 -mt-0.5 min-h-9 cursor-pointer text-left text-sm font-semibold underline-offset-4 ${on ? 'text-ink underline' : 'text-ink-soft hover:text-ink hover:underline'}`;
 
   const tile = (t: (typeof tiles)[number]) => (
     <button
@@ -67,10 +72,12 @@ export function MyAtlasPanel({ games, totals, filter, onFilter, onExport, onImpo
         <div className="grid grid-cols-2 gap-2">
           <h3 className="col-span-2 text-[0.8125rem] font-bold tracking-[0.04em] text-ink-soft uppercase">Places</h3>
           {tiles.slice(0, 2).map(tile)}
+          {!empty && <button type="button" aria-pressed={notBeen.on} onClick={() => onFilter(notBeen.toggle())} className={notClass(notBeen.on)}>Not been yet</button>}
           <h3 className="col-span-2 mt-1.5 text-[0.8125rem] font-bold tracking-[0.04em] text-ink-soft uppercase">Games</h3>
           {tiles.slice(2).map(tile)}
+          {!empty && <button type="button" aria-pressed={notPlayed.on} onClick={() => onFilter(notPlayed.toggle())} className={notClass(notPlayed.on)}>Not played yet</button>}
         </div>
-        {filtering && <p className="mt-3 text-sm text-ink-soft">The map shows only what you chose. Select it again to show everything.</p>}
+        {filtering && <p className="mt-3 text-sm text-ink-soft">The map shows only what you chose.{filter.game && !filter.place ? ' A games choice shows the places of those games.' : ''} Select it again to show everything.</p>}
       </div>
 
       {/* Atlaset ut og inn av nettleseren: egen gruppe like under tallene, så den ikke ligger under alle listene.

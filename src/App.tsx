@@ -16,7 +16,7 @@ import { getGameRoutes, routeStyle, type ResolvedRoute } from './routes';
 import { Basemap } from './Basemap';
 import { AtlasBrand } from './AtlasBrand';
 import { MyAtlasPanel } from './MyAtlasPanel';
-import { type AtlasFilter, type GameFilter, NO_ATLAS_FILTER, type PlaceFilter, ancestorsOf, atlasFilterText, atlasPlaces, atlasTotal, beenCountries, countryBySlug, countryLabel, countryName, countryOf, countryRecord, countrySmall, countryTitle, placeMarkFor } from './atlasStats';
+import { type AtlasFilter, NO_ATLAS_FILTER, ancestorsOf, atlasFilterText, beenCountries, countryBySlug, countryLabel, countryName, countryOf, countryRecord, countrySmall, countryTitle, placeMarkFor } from './atlasStats';
 import { COUNTRY_SHAPES_HIDE_ZOOM, type CountryPlace, CountryShapes } from './CountryShapes';
 import { markCount, restoreCleared, useMyAtlas } from './myAtlas';
 import { trackEvent } from './analytics';
@@ -460,7 +460,7 @@ const isVenueGame = (game: Game) => game.genres.every(genre => VENUE_GENRES.incl
 // Epoker og temaer er ferdige søk (src/data/eras.json og themes.json), ikke noe som ligger på spillene: et historieår i
 // epoken, og for et tema et sted i kartutsnittet. De åpnes fra /era/<slug>/ og /theme/<slug>/ som et panel, som en serie.
 type CollectionKind = 'era' | 'theme';
-type CollectionDef = { slug: string; name: string; heading: string; intro: string; range: number[]; bounds?: number[]; exclude?: string[]; aliases?: string[] };
+type CollectionDef = { slug: string; name: string; heading: string; intro: string; range: number[]; bounds?: number[]; view?: number[]; exclude?: string[]; aliases?: string[] };
 const COLLECTIONS: Record<CollectionKind, CollectionDef[]> = { era: eras, theme: themes };
 const collectionOf = (kind: CollectionKind, slug: string) => COLLECTIONS[kind].find(item => item.slug === slug);
 const inBounds = ([lat, lon]: Position, [south, west, north, east]: number[]) => lat >= south && lat <= north && lon >= west && lon <= east;
@@ -619,8 +619,10 @@ function initialFromUrl(url: UrlState) {
   } else if (collection && collectionDef) {
     // Et tema åpner kartet på temaets utsnitt, en epoke på stedene spillene har
     panel = { view: { mode: 'collection', kind: collection, slug: collectionDef.slug }, seq: 1, autoFocus: false, history: [] };
-    if (collectionDef.bounds) {
-      const [south, west, north, east] = collectionDef.bounds;
+    // Utsnittet kan være videre enn området spillene velges fra (ville vesten vises fra kyst til kyst)
+    const framing = collectionDef.view ?? collectionDef.bounds;
+    if (framing) {
+      const [south, west, north, east] = framing;
       target = { kind: 'bounds', positions: [[south, west], [north, east]], seq: 1, instant: true };
     } else {
       target = { kind: 'bounds', positions: collectionLocations(collectionDef).map(location => location.position), seq: 1, instant: true };
@@ -1332,15 +1334,6 @@ function App() {
   const approximate = query.length > 0 && filteredHits.length > 0 && filteredHits.every(hit => hit.exact === false);
   const allPlaces = useMemo(() => buildPlaces(filteredGames, selectedPlaceTypes), [filteredGames, selectedPlaceTypes]);
   // Det du har markert på hvert kartpunkt; et punkt teller som markert når én av sted-id-ene der er det
-  const atlasCounts = useMemo(() => {
-    const marks = Object.values(myAtlas.games);
-    return {
-      been: atlasPlaces(myAtlas, 'been').length,
-      wantGo: atlasPlaces(myAtlas, 'want').length,
-      played: marks.filter(mark => mark.played).length,
-      wantPlay: marks.filter(mark => mark.want).length,
-    };
-  }, [myAtlas]);
   const pointMarks = useMemo(() => {
     const marks = new Map<string, { been: boolean; want: boolean }>();
     if (Object.keys(myAtlas.places).length === 0) return marks;
@@ -1763,8 +1756,9 @@ function App() {
     resetFilters();
     setStoryYearRange(clampRange(def.range as [number, number], minStoryYear, maxStoryYear));
     openPanel({ mode: 'collection', kind, slug });
-    moveMap(def.bounds
-      ? { kind: 'bounds', positions: [[def.bounds[0], def.bounds[1]], [def.bounds[2], def.bounds[3]]] }
+    const framing = def.view ?? def.bounds;
+    moveMap(framing
+      ? { kind: 'bounds', positions: [[framing[0], framing[1]], [framing[2], framing[3]]] }
       : { kind: 'bounds', positions: collectionLocations(def).map(location => location.position) });
   };
 
@@ -2686,38 +2680,6 @@ function App() {
                       <X size={24} strokeWidth={2} />
                     </button>
                   </div>
-
-                  {(atlasTotal(myAtlas) > 0 || atlasFilterText(atlasFilter)) && (
-                    <section aria-labelledby="filter-my-atlas" className="flex shrink-0 flex-col gap-2 border-b border-rule pb-5">
-                      <h3 id="filter-my-atlas" className="font-semibold text-ink">My atlas</h3>
-                      <p className="-mt-1 text-sm leading-snug text-ink-muted">What you've marked, saved in this browser.</p>
-                      {([
-                        ['Places', 'marked on the place', [['been', 'Been here', atlasCounts.been], ['want', 'Want to go', atlasCounts.wantGo], ['not-been', 'Not been yet', undefined]] as [PlaceFilter, string, number | undefined][], 'place'],
-                        ['Games', 'marked on the game', [['played', 'Played', atlasCounts.played], ['want', 'Want to play', atlasCounts.wantPlay], ['not-played', 'Not played yet', undefined]] as [GameFilter, string, number | undefined][], 'game'],
-                      ] as const).map(([title, hint, options, dimension]) => (
-                        <div key={title} role="group" aria-label={`${title} in My atlas`} className="mt-1">
-                          <div className="flex items-baseline justify-between"><span className="text-sm font-bold">{title}</span><span className="text-[0.8125rem] text-ink-soft">{hint}</span></div>
-                          <div className="mt-2 flex flex-wrap gap-2">
-                            {options.map(([value, label, total]) => {
-                              const on = atlasFilter[dimension] === value;
-                              return (
-                                <button
-                                  key={value}
-                                  type="button"
-                                  aria-pressed={on}
-                                  onClick={() => setAtlasFilter(current => ({ ...current, [dimension]: on ? null : value }))}
-                                  className={`${chipClass} inline-flex items-center gap-1.5 ${on ? 'border-ink bg-ink text-on-ink' : 'border-ink/25 bg-card text-ink hover:border-ink'}`}
-                                >
-                                  {label}{total !== undefined && <span className={`numerals font-normal ${on ? 'text-on-ink/80' : 'text-ink-soft'}`}>{total}</span>}
-                                </button>
-                              );
-                            })}
-                          </div>
-                        </div>
-                      ))}
-                      {atlasFilter.game && <p className="text-[0.8125rem] leading-snug text-ink-soft">A games choice shows the places of those games.</p>}
-                    </section>
-                  )}
 
                   <fieldset className="flex shrink-0 flex-col gap-2">
                     <legend className="mb-2 text-sm font-semibold">Show</legend>
