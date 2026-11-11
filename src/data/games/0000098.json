@@ -7,15 +7,32 @@
   "locations": [
     {
       "placeId": "anacapri-capri-italy",
-      "note": "Set in Anacapri, Capri's upper town, mixing myth, literature and sci-fi over 2,700 photographic screens."
+      "note": "The dream starts in Anacapri's Piazza Vittoria and mixes myth, literature and science fiction in a shifting reality."
+    },
+    {
+      "placeId": "villa-san-michele-anacapri-italy",
+      "note": "A servant says Axel Munthe has walked to Torre La Guardia."
+    },
+    {
+      "placeId": "phoenician-steps-capri-italy",
+      "note": "The player climbs the Phoenician Steps on the way across the island."
+    },
+    {
+      "placeId": "monte-solaro-capri-italy",
+      "note": "The player rides the chairlift up Monte Solaro."
+    },
+    {
+      "placeId": "blue-grotto-capri-italy",
+      "note": "The player reaches the Blue Grotto by way of the Damecuta ruins."
     }
   ],
   "storyYears": [
-    2007
+    2011
   ],
   "source": "https://en.wikipedia.org/wiki/Capri_(series)",
   "publisherUrl": "https://en.wikipedia.org/wiki/Got_Game_Entertainment",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

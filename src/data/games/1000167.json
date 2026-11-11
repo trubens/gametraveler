@@ -10,11 +10,31 @@
   "source": "https://en.wikipedia.org/wiki/David_Wolf:_Secret_Agent",
   "locations": [
     {
+      "placeId": "white-cliffs-of-dover-england-uk",
+      "note": "The story opens with Wolf testing an armed hang glider at the cliffs."
+    },
+    {
       "placeId": "monte-carlo-monaco",
-      "note": "David Wolf follows his first lead to a Monte Carlo casino, where an enemy pilot was spotted with the kidnapped scientist."
+      "note": "David Wolf follows his first lead to a Monte Carlo casino, where an enemy pilot was seen with the kidnapped scientist, then chases the trail from there."
     }
   ],
   "storyYears": [
     1989
-  ]
+  ],
+  "routes": [
+    {
+      "id": "wolf",
+      "name": "David Wolf",
+      "characters": [
+        "David Wolf"
+      ],
+      "stops": [
+        "white-cliffs-of-dover-england-uk",
+        "monte-carlo-monaco"
+      ],
+      "note": "From the hang glider test at Dover to the Monte Carlo casino.",
+      "source": "https://en.wikipedia.org/wiki/David_Wolf:_Secret_Agent"
+    }
+  ],
+  "reviewed": "2026-11-11"
 }

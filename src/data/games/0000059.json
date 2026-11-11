@@ -7,15 +7,15 @@
   "locations": [
     {
       "placeId": "nord-quebec-canada",
-      "note": "In October 1970 detective Carl Faubert finds a Nord-du-Québec village deserted in a snowstorm."
+      "note": "In October 1970 the private investigator Carl Faubert arrives in a snowy Nord-du-Québec town to find it deserted, and travels the surrounding area by truck."
     }
   ],
   "storyYears": [
     1970
   ],
   "source": "https://en.wikipedia.org/wiki/Kona_(video_game)",
-  "developerUrl": "https://en.wikipedia.org/wiki/Parabola_(disambiguation)",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

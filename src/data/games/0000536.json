@@ -12,10 +12,15 @@
   "locations": [
     {
       "placeId": "akihabara-tokyo-japan",
-      "note": "Rintaro Okabe and his friends find a way to send messages into the past from their lab in Akihabara, among its electronics shops and streets."
+      "note": "In the summer of 2010 Rintaro Okabe and his friends send messages into the past from their lab in Akihabara."
+    },
+    {
+      "placeId": "akihabara-radio-kaikan-tokyo-japan",
+      "note": "The Radio Kaikan building is one of the real locales of Akihabara that can be spotted in the game."
     }
   ],
   "genres": [
     "Visual Novel"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

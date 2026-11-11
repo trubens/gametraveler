@@ -8,14 +8,16 @@
     {
       "placeId": "volterra-psychiatric-hospital-tuscany-italy",
       "settingType": "fictionalized",
-      "note": "Renée walks the derelict wards of the Volterra asylum, where she was once a patient, and relives what was done to her there."
+      "note": "Renée walks the derelict wards of the Volterra asylum, where she was once a patient, and uncovers her files and the patient property section, which show that her friend Amara was real and that her mother's letters were withheld."
     }
   ],
   "storyYears": [
-    1938
+    1938,
+    1942
   ],
   "source": "https://en.wikipedia.org/wiki/The_Town_of_Light",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

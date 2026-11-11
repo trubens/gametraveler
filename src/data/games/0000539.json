@@ -5,16 +5,17 @@
   "publisher": "The Adventure Company",
   "developer": "Guppyworks",
   "storyYears": [
-    1820
+    1819
   ],
   "source": "https://kongo.dk/project/hca-the-ugly-prince-duckling/",
   "locations": [
     {
       "placeId": "copenhagen-denmark",
-      "note": "A third-person quest adventure through Golden Age Copenhagen, following the young Hans Christian Andersen as he explores city life and pursues a place at the Royal Theatre."
+      "note": "The young Hans Christian Andersen arrives at the gates of a stylised Golden Age Copenhagen hoping for a theatre career, then rescues the princess and the town from goblins and the Master of Darkness."
     }
   ],
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

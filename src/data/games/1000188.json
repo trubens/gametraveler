@@ -7,12 +7,12 @@
   "locations": [
     {
       "placeId": "buenos-aires-argentina",
-      "note": "Chapter 1 takes place in Buenos Aires in 1934.",
+      "note": "The anthropologist Thomas Farrell begins his investigation in an old boarding house in Buenos Aires in 1934, where an old colleague of his uncle is said to have found a trail to the Ancients.",
       "source": "https://rawg.io/games/hidden-on-the-trail-of-the-ancients"
     },
     {
       "placeId": "patagonia-argentina",
-      "note": "Chapter 2 moves to the expedition's camp in Patagonia.",
+      "note": "The expedition searches the forests of Patagonia for a forbidden city.",
       "source": "https://lubiegrac.pl/poradnik/hidden-on-the-trail-of-the-ancients"
     }
   ],
@@ -36,5 +36,6 @@
   "source": "https://rawg.io/games/hidden-on-the-trail-of-the-ancients",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

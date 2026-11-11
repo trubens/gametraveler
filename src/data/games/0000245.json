@@ -8,7 +8,15 @@
   "locations": [
     {
       "placeId": "london-uk",
-      "note": "A police officer, a boxer and a thief become entangled in a gangland conflict across recreated London streets and Underground locations."
+      "note": "SO19 sergeant Mitch, the ex-boxer Eddie and Sam work through a gang war over a stolen Icon in a recreated London, from a raid in East London to a heist at the Skobel bank."
+    },
+    {
+      "placeId": "shoreditch-london-uk",
+      "note": "Mitch chases a suspect out of a boxing club in Shoreditch."
+    },
+    {
+      "placeId": "holborn-station-london-uk",
+      "note": "Mitch goes to a gun deal on platform four of Holborn Underground station."
     }
   ],
   "storyYears": [
@@ -18,5 +26,6 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
   "genres": [
     "Action-Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

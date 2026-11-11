@@ -11,7 +11,7 @@
   "locations": [
     {
       "placeId": "los-angeles-usa",
-      "note": "Detective John Carey investigates a series of murders in Los Angeles, including South Central and LAPD locations.",
+      "note": "Detective John Carey of the LAPD finds his ex-partner dead in a South Central alley and tracks a serial killer through Los Angeles to a movie theater and the killer's house.",
       "source": "https://en.wikipedia.org/wiki/Police_Quest:_Open_Season"
     }
   ],
@@ -21,5 +21,6 @@
   "source": "https://en.wikipedia.org/wiki/Police_Quest:_Open_Season",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

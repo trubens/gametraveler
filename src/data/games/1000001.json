@@ -7,15 +7,15 @@
   "locations": [
     {
       "placeId": "madagascar",
-      "note": "The story follows the film's escape from New York to Madagascar, where the animals explore the island's jungle and coastline."
+      "note": "The animals land on Madagascar and play through its beach, jungle, the lemur party and the fossa lair."
     },
     {
       "placeId": "new-york-city-usa",
-      "note": "The opening chapters take place at the Central Park Zoo before the characters are shipped to Madagascar."
+      "note": "The police tranquilise the animals and ship them out of New York, and a bonus task has Gloria destroying vehicles in the city."
     },
     {
       "placeId": "central-park-zoo-new-york-city-usa",
-      "note": "Alex, Marty, Gloria and Melman start in their enclosures at the Central Park Zoo."
+      "note": "The game starts with Marty escaping the Central Park Zoo on his tenth birthday, and the others go looking for him."
     }
   ],
   "storyYears": [
@@ -24,5 +24,18 @@
   "source": "https://en.wikipedia.org/wiki/Madagascar_(video_game)",
   "genres": [
     "Action-Adventure"
-  ]
+  ],
+  "routes": [
+    {
+      "id": "zoo",
+      "name": "The zoo animals",
+      "stops": [
+        "central-park-zoo-new-york-city-usa",
+        "madagascar"
+      ],
+      "note": "From the Central Park Zoo to Madagascar.",
+      "source": "https://en.wikipedia.org/wiki/Madagascar_(video_game)"
+    }
+  ],
+  "reviewed": "2026-11-11"
 }

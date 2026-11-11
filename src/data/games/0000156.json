@@ -8,7 +8,25 @@
   "locations": [
     {
       "placeId": "washington-d-c-usa",
-      "note": "The Capital Wasteland: a nuked D.C. where a vault dweller searches for their missing father."
+      "note": "The Lone Wanderer leaves Vault 101 to search the ruins of Washington for their father, James, and the water purifier he was building."
+    },
+    {
+      "placeId": "jefferson-memorial-washington-d-c-usa",
+      "settingType": "fictionalized",
+      "note": "Project Purity's site: the Enclave under Colonel Autumn attacks it, and the Lone Wanderer's group escapes through an underground sewer tunnel."
+    },
+    {
+      "placeId": "the-pentagon-washington-usa",
+      "settingType": "fictionalized",
+      "aliases": [
+        "The Citadel"
+      ],
+      "note": "The former Pentagon is the Citadel, where the group recruits the Brotherhood of Steel."
+    },
+    {
+      "placeId": "raven-rock-mountain-complex-pennsylvania-usa",
+      "settingType": "fictionalized",
+      "note": "Captured after taking the G.E.C.K. from Vault 87, the Lone Wanderer is brought to the Enclave's base and meets President Eden, an artificial intelligence."
     }
   ],
   "storyYears": [
@@ -17,5 +35,6 @@
   "source": "https://en.wikipedia.org/wiki/Fallout_3",
   "genres": [
     "RPG"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

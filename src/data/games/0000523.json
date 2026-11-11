@@ -7,7 +7,19 @@
   "locations": [
     {
       "placeId": "matsue-shimane-japan",
-      "note": "The search for a missing pen pal takes the player around Matsue, visiting recognizable landmarks such as Matsue Castle and Shiroyama Park."
+      "note": "The protagonist searches Matsue for his pen pal Aya Fumino, who vanished 15 years earlier, questioning her classmates and finding an unsent letter."
+    },
+    {
+      "placeId": "shimane-art-museum-matsue-shimane-japan",
+      "note": "The Shimane Art Museum is one of the real places in the search."
+    },
+    {
+      "placeId": "yaegaki-shrine-matsue-shimane-japan",
+      "note": "At Yaegaki Shrine the player draws fortunes and acquires items."
+    },
+    {
+      "placeId": "lake-shinji-shimane-japan",
+      "note": "Lake Shinji appears in important scenes."
     }
   ],
   "storyYears": [
@@ -17,5 +29,6 @@
   "genres": [
     "Visual Novel",
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

@@ -13,12 +13,12 @@
   "locations": [
     {
       "placeId": "belem-brazil",
-      "note": "After a dream in Indiana, the player arrives in Belém and begins the journey up the river.",
+      "note": "After a dream in Indiana, the player arrives in Belém, picks a guide, Isabel or Antonio, and begins the journey up the river.",
       "source": "https://gamefaqs.gamespot.com/pc/581698-the-amazon-trail/faqs/44408"
     },
     {
       "placeId": "amazon-rainforest-south-america",
-      "note": "The main journey follows the Amazon and its tributaries through the rainforest.",
+      "note": "The player steers a boat along the Amazon and its tributaries, dodging logs and whirlpools, photographing wildlife and trading with locals.",
       "source": "https://en.wikipedia.org/wiki/The_Amazon_Trail"
     },
     {
@@ -39,5 +39,6 @@
       "note": "From Belém up the Amazon and its tributaries to the hidden Inca city of Vilcabamba.",
       "source": "https://gamefaqs.gamespot.com/pc/581698-the-amazon-trail/faqs/44408"
     }
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

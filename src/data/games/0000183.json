@@ -7,7 +7,7 @@
   "locations": [
     {
       "placeId": "falmouth-cornwall-uk",
-      "note": "The Obra Dinn sailed from Falmouth in 1802 and drifts back five years later with no one left alive aboard."
+      "note": "The Obra Dinn sailed from Falmouth in 1802 and drifts back five years later with no one left alive aboard; the player boards as an insurance inspector and works out the fates of its 60 crew and passengers."
     }
   ],
   "storyYears": [
@@ -18,5 +18,6 @@
   "source": "https://en.wikipedia.org/wiki/Return_of_the_Obra_Dinn",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

@@ -7,8 +7,8 @@
   "publisher": "Cryo Interactive / Réunion des Musées Nationaux",
   "locations": [
     {
-      "placeId": "versailles-france",
-      "note": "The court adventure takes place inside the Palace of Versailles."
+      "placeId": "palace-of-versailles-france",
+      "note": "Charles-Louis de Faverolles arrives at the court of Louis XIV in 1700 hoping to be sent to Spain as a diplomat, works for François Mansart in the palace gardens and is drawn into intrigue over a stolen diamond and a secret treaty."
     }
   ],
   "storyYears": [
@@ -17,5 +17,6 @@
   "source": "https://en.wikipedia.org/wiki/Versailles_II:_Testament_of_the_King",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

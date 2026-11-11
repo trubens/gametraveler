@@ -1,0 +1,14 @@
+{
+  "id": "soda-springs-idaho-usa",
+  "name": "Soda Springs, Idaho, USA",
+  "position": {
+    "lat": 42.6589,
+    "lon": -111.5878
+  },
+  "scale": "site",
+  "parentId": "united-states",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Soda_Springs,_Idaho",
+  "description": "A city in southeast Idaho named for the natural carbonated springs that emigrants found on the trail.",
+  "descriptionSource": "wikipedia"
+}

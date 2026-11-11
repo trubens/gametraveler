@@ -9,7 +9,7 @@
     {
       "placeId": "sicily-italy",
       "settingType": "fictionalized",
-      "note": "In 1904 Enzo Favara flees the sulfur mines and goes to work for Don Bernardo Torrisi's crime family in Sicily."
+      "note": "Enzo Favara escapes the sulfur mines after a collapse, is taken in by Don Bernardo Torrisi and rises in his family around the fictional town of San Celeste, until a war with the Spadaro family ends in assassinations in Palermo and a showdown during an eruption of Mount Etna."
     }
   ],
   "storyYears": [
@@ -19,5 +19,6 @@
   "source": "https://en.wikipedia.org/wiki/Mafia:_The_Old_Country",
   "genres": [
     "Action-Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

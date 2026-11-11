@@ -7,7 +7,7 @@
   "locations": [
     {
       "placeId": "greenland",
-      "note": "A Norwegian biologist at a Greenland research station faces an ancient evil woken by an ion storm."
+      "note": "Over four days at the fictional oil exploration station Alpha Polaris, a Norwegian biologist faces an ancient evil woken by an ion storm."
     }
   ],
   "storyYears": [
@@ -16,5 +16,6 @@
   "source": "https://en.wikipedia.org/wiki/Alpha_Polaris",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

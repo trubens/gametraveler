@@ -15,7 +15,7 @@
   "locations": [
     {
       "placeId": "barcelona-spain",
-      "note": "In 1514 the inventor Feodor Morales tests a flying machine on the roofs of Barcelona; when the Inquisition drags his brother Ramon away, he escapes by balloon.",
+      "note": "In 1514 the inventor Feodor Morales escapes the Inquisition, which seizes his brother Ramon, by balloon.",
       "source": "https://www.gameboomers.com/wtcheats/pcLl/Zerzura/LostChroniclesZerzura.htm"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "placeId": "tripoli-libya",
-      "note": "Sold as a slave into the palace at Tripoli, Feodor frees Ramon and the Emir from its prison and learns the way to Zerzura.",
+      "note": "Sold as a slave into the palace at Tripoli, Feodor frees Ramon and the Emir from its prison.",
       "source": "https://www.gameboomers.com/wtcheats/pcLl/Zerzura/LostChroniclesZerzura.htm"
     },
     {
@@ -39,5 +39,6 @@
       "note": "Across the desert, past a mountain monastery held by the Inquisitor, Feodor opens the gate of the white city and restores its healing fountain.",
       "source": "https://www.gameboomers.com/wtcheats/pcLl/Zerzura/LostChroniclesZerzura.htm"
     }
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

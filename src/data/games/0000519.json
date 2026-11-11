@@ -7,7 +7,7 @@
   "locations": [
     {
       "placeId": "tower-of-london-london-uk",
-      "note": "A first-person adventure through a painstaking recreation of the Tower of London, explored room by room while planning a break-in."
+      "note": "The agent Raven hides in the White Tower after a tour and must secretly swap the Crown Jewels for forgeries fitted with tracking units, then escape within twelve hours without being caught."
     }
   ],
   "storyYears": [
@@ -16,5 +16,6 @@
   "source": "https://en.wikipedia.org/wiki/Traitors_Gate_(video_game)",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

@@ -8,7 +8,7 @@
   "locations": [
     {
       "placeId": "tsushima-island-japan",
-      "note": "Samurai Jin Sakai fights the 1274 Mongol invasion across Tsushima, bending his honor to survive."
+      "note": "Samurai Jin Sakai fights the 1274 Mongol invasion of Tsushima, which begins with the disastrous battle at the Komoda Beach landing; the story is fictional, the invasion is historical."
     }
   ],
   "storyYears": [
@@ -17,5 +17,6 @@
   "source": "https://en.wikipedia.org/wiki/Ghost_of_Tsushima",
   "genres": [
     "Action-Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

@@ -8,11 +8,11 @@
   "locations": [
     {
       "placeId": "sacramento-california-usa",
-      "note": "After 20 years mining California's Mother Lode, Jake and Jerrod sell up in 1869 to head home."
+      "note": "After twenty years mining in California, the brothers Jake and Jerrod Wilson sell their mine in 1869 and head home."
     },
     {
       "placeId": "brooklyn-new-york-usa",
-      "note": "The brothers ride the new Transcontinental Railroad home to Brooklyn, where Boss Tweed's gang waits."
+      "note": "Back in Brooklyn the brothers face William 'Boss' Tweed, whose gang and corrupt police they must outwit using evidence that could send him to prison."
     }
   ],
   "storyYears": [
@@ -22,5 +22,6 @@
   "developerUrl": "https://en.wikipedia.org/wiki/Sunlight_Games",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

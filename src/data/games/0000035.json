@@ -16,10 +16,21 @@
     {
       "placeId": "spain",
       "note": "The historical opening takes place in Spain during the Inquisition."
+    },
+    {
+      "placeId": "catacombs-of-paris-france",
+      "note": "Chapter 5 is spent searching for a hidden book in the Paris catacombs."
+    },
+    {
+      "placeId": "central-park-new-york-city-usa",
+      "note": "John meets his contact near the lake in Central Park."
+    },
+    {
+      "placeId": "amsterdam-netherlands",
+      "note": "The sixth chapter, 'Amsterdam and Paris', takes the story to Amsterdam."
     }
   ],
   "storyYears": [
-    1481,
     2016
   ],
   "source": "https://en.wikipedia.org/wiki/Yesterday_Origins",
@@ -28,5 +39,6 @@
   "route": false,
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

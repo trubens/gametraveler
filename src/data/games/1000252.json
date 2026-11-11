@@ -46,13 +46,17 @@
     },
     {
       "placeId": "washington-d-c-usa",
-      "note": "Malachi questions Senator Markham and visits Dominique's condo in Washington, D.C.",
+      "note": "Malachi visits Markham's office and Dominique's condo in Washington, D.C., and learns Markham's password.",
       "source": "https://www.gamezebo.com/walkthroughs/moebius-empire-rising-walkthrough/"
     },
     {
       "placeId": "qatar",
       "note": "The final rescue takes place at a fortress somewhere in Qatar.",
       "source": "https://www.gamezebo.com/walkthroughs/moebius-empire-rising-walkthrough/"
+    },
+    {
+      "placeId": "bethesda-terrace-central-park-new-york-city-usa",
+      "note": "Malachi meets Senator Markham at the Bethesda Fountain rally."
     }
   ],
   "routes": [
@@ -67,11 +71,11 @@
         "venice-italy",
         "new-york-city-usa",
         "cairo-egypt",
+        "bethesda-terrace-central-park-new-york-city-usa",
         "new-york-city-usa",
         "paris-france",
+        "catacombs-of-paris-france",
         "zurich-switzerland",
-        "new-york-city-usa",
-        "washington-d-c-usa",
         "new-york-city-usa",
         "washington-d-c-usa",
         "new-york-city-usa",
@@ -96,5 +100,6 @@
       "note": "David joins in Cairo; his final journey to Qatar is an abduction.",
       "source": "https://www.gamezebo.com/walkthroughs/moebius-empire-rising-walkthrough/"
     }
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

@@ -1,7 +1,7 @@
 {
   "id": 1000143,
   "name": "Papo & Yo",
-  "year": 2013,
+  "year": 2012,
   "publisher": "Minority Media",
   "developer": "Minority Media",
   "genres": [
@@ -11,10 +11,11 @@
   "source": "https://store.steampowered.com/app/227080/Papo__Yo/",
   "locations": [
     {
-      "placeId": "brazil",
+      "placeId": "colombia",
       "settingType": "fictionalized",
-      "note": "Quico escapes his alcoholic father into a dreamlike favela, where his friend Monster turns violent whenever he eats a frog."
+      "note": "Quico escapes his alcoholic father into a dream favela, where his friend Monster turns violent whenever he eats a frog; the creator drew the slums on his childhood in Bogotá."
     }
   ],
-  "storyYears": []
+  "storyYears": [],
+  "reviewed": "2026-11-11"
 }

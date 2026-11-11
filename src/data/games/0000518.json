@@ -7,7 +7,7 @@
   "locations": [
     {
       "placeId": "london-uk",
-      "note": "Much of the game is spent travelling around a London city map, meeting contacts and scouting places before planning heists."
+      "note": "Matt Stuvysant arrives at Victoria station in 1953, settles into the Ugly Dog hotel and is drawn into London's underworld by Herbert Briggs, buying cars and tools, recruiting accomplices and scouting buildings before each heist."
     }
   ],
   "storyYears": [
@@ -18,5 +18,6 @@
   "genres": [
     "Adventure",
     "Strategy"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

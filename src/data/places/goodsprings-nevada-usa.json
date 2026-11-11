@@ -1,0 +1,14 @@
+{
+  "id": "goodsprings-nevada-usa",
+  "name": "Goodsprings, Nevada, USA",
+  "position": {
+    "lat": 35.8319,
+    "lon": -115.4353
+  },
+  "scale": "area",
+  "parentId": "nevada-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Goodsprings,_Nevada",
+  "description": "A small unincorporated community in Clark County, Nevada, known for the Pioneer Saloon and the Goodsprings Schoolhouse.",
+  "descriptionSource": "wikipedia"
+}

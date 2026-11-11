@@ -8,12 +8,12 @@
   "locations": [
     {
       "placeId": "eritrea",
-      "note": "Most of the eight-mission campaign takes place in Eritrea, including the opening coastal operations and the final missions.",
+      "note": "The Ghosts help Eritrea repel an invasion by Ethiopian forces, from a beach camp and an oil refinery to the final fight against Colonel Tesfaye Wolde.",
       "source": "https://gamefaqs.gamespot.com/pc/548600-tom-clancys-ghost-recon-desert-siege/faqs/22913"
     },
     {
       "placeId": "ethiopia",
-      "note": "Two middle campaign missions move across the border into Ethiopia, including the Denakil Desert.",
+      "note": "Two missions cross the border into Ethiopia, including a train depot held by the Ethiopians.",
       "source": "https://gamefaqs.gamespot.com/pc/548600-tom-clancys-ghost-recon-desert-siege/faqs/22913"
     }
   ],
@@ -42,5 +42,6 @@
   "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13620/manuals/GRDS_PC_MNL.pdf?t=1764697924",
   "genres": [
     "Tactical Shooter"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

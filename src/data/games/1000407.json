@@ -1,0 +1,25 @@
+{
+  "id": 1000407,
+  "name": "Outlaws",
+  "year": 1997,
+  "developer": "LucasArts",
+  "publisher": "LucasArts",
+  "genres": [
+    "First-Person Shooter"
+  ],
+  "storyYears": [
+    1880
+  ],
+  "source": "https://en.wikipedia.org/wiki/Outlaws_(1997_video_game)",
+  "reviewed": "2026-11-11",
+  "locations": [
+    {
+      "placeId": "united-states",
+      "settingType": "fictionalized",
+      "aliases": [
+        "American Old West"
+      ],
+      "note": "Retired marshal James Anderson rides across an invented Old West after outlaws hired by the railroad baron Bob Graham kill his wife and kidnap his daughter Sarah, from a mine and an Indian cliff village to Graham's ranch."
+    }
+  ]
+}

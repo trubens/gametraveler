@@ -14,33 +14,57 @@
   "locations": [
     {
       "placeId": "independence-missouri-usa",
-      "note": "The wagon party sets out from Independence, Missouri, on its westward journey.",
+      "note": "The wagon party buys supplies and sets out from Independence, Missouri, on the trail west.",
       "source": "https://en.wikipedia.org/wiki/The_Oregon_Trail_(1985_video_game)"
     },
     {
       "placeId": "fort-kearny-nebraska-usa",
-      "note": "Fort Kearny is one of the trail's resupply landmarks.",
+      "note": "Fort Kearney is in the game only because the setting year was moved to 1848, the year the fort opened.",
       "source": "https://gamefaqs.gamespot.com/pc/577345-the-oregon-trail-1985/faqs/9660"
     },
     {
       "placeId": "chimney-rock-nebraska-usa",
-      "note": "Chimney Rock is a landmark on the route west.",
+      "note": "Chimney Rock stands for its area on the trail, while the nearby Scotts Bluff and Courthouse Rock were left out.",
       "source": "https://gamefaqs.gamespot.com/pc/577345-the-oregon-trail-1985/faqs/9660"
     },
     {
       "placeId": "fort-laramie-wyoming-usa",
-      "note": "Fort Laramie is a trail landmark and supply stop.",
+      "note": "Fort Laramie is a supply stop on the way across the plains.",
       "source": "https://gamefaqs.gamespot.com/pc/577345-the-oregon-trail-1985/faqs/9660"
     },
     {
       "placeId": "the-dalles-oregon-usa",
-      "note": "At The Dalles, players choose how to complete the final leg.",
+      "note": "At The Dalles the party chooses between rafting the Columbia River, dodging rocks, and paying the toll to take the Barlow Road.",
       "source": "https://gamefaqs.gamespot.com/pc/577345-the-oregon-trail-1985/faqs/30964"
     },
     {
       "placeId": "willamette-valley-oregon-usa",
       "note": "The journey's destination is the Willamette Valley in Oregon.",
       "source": "https://en.wikipedia.org/wiki/The_Oregon_Trail_(1985_video_game)"
+    },
+    {
+      "placeId": "independence-rock-wyoming-usa",
+      "note": "Independence Rock is a landmark on the trail between Fort Laramie and South Pass."
+    },
+    {
+      "placeId": "south-pass-wyoming-usa",
+      "note": "The party crosses the Continental Divide at South Pass."
+    },
+    {
+      "placeId": "fort-bridger-wyoming-usa",
+      "note": "Fort Bridger is one of the forts where the party can stop to trade and rest."
+    },
+    {
+      "placeId": "soda-springs-idaho-usa",
+      "note": "Soda Springs is a landmark on the way to Fort Hall."
+    },
+    {
+      "placeId": "fort-hall-idaho-usa",
+      "note": "Fort Hall is a fort where the party can stop for supplies before the final stretch."
+    },
+    {
+      "placeId": "fort-boise-idaho-usa",
+      "note": "Fort Boise is one of the forts where the party can stop for supplies on the way to the Blue Mountains."
     }
   ],
   "routes": [
@@ -52,6 +76,12 @@
         "fort-kearny-nebraska-usa",
         "chimney-rock-nebraska-usa",
         "fort-laramie-wyoming-usa",
+        "independence-rock-wyoming-usa",
+        "south-pass-wyoming-usa",
+        "fort-bridger-wyoming-usa",
+        "soda-springs-idaho-usa",
+        "fort-hall-idaho-usa",
+        "fort-boise-idaho-usa",
         "the-dalles-oregon-usa",
         "willamette-valley-oregon-usa"
       ],
@@ -61,5 +91,6 @@
       "note": "The wagon party travels from Independence, Missouri, past Fort Kearny, Chimney Rock and Fort Laramie to The Dalles and the Willamette Valley.",
       "source": "https://gamefaqs.gamespot.com/pc/577345-the-oregon-trail-1985/faqs/9660"
     }
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

@@ -7,7 +7,7 @@
   "locations": [
     {
       "placeId": "yuanmingyuan-old-summer-palace-beijing-china",
-      "note": "The historical adventure explores the real Garden of Perfect Brightness during the Qing dynasty."
+      "note": "As Emperor Xian Feng the player moves through the gardens of the Old Summer Palace in the Qing dynasty, solving puzzles in nearly every area while searching for the missing Lotus Spring."
     }
   ],
   "storyYears": [
@@ -16,5 +16,6 @@
   "source": "https://en.wikipedia.org/wiki/The_Legend_of_Lotus_Spring",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

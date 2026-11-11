@@ -8,7 +8,7 @@
   "locations": [
     {
       "placeId": "new-york-city-usa",
-      "note": "Prophet fights through an overgrown New York enclosed by CELL's Liberty Dome, including the ruined city streets and landmarks."
+      "note": "Prophet returns to New York in 2047, a ruin sealed under CELL's Liberty Dome and overgrown by jungle, in seven environments known as the Seven Wonders."
     }
   ],
   "storyYears": [
@@ -17,5 +17,6 @@
   "source": "https://en.wikipedia.org/wiki/Crysis_3",
   "genres": [
     "First-Person Shooter"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

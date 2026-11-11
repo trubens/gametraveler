@@ -1,0 +1,14 @@
+{
+  "id": "coarsegold-california-usa",
+  "name": "Coarsegold, California, USA",
+  "position": {
+    "lat": 37.2622,
+    "lon": -119.7011
+  },
+  "scale": "area",
+  "parentId": "california-usa",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Coarsegold,_California",
+  "description": "A census-designated place in Madera County in the Sierra Nevada foothills, home to Sierra On-Line's headquarters in the 1990s.",
+  "descriptionSource": "wikipedia"
+}

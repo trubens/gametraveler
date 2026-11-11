@@ -12,22 +12,22 @@
   "locations": [
     {
       "placeId": "debrecen-hungary",
-      "note": "Jonathan Hunt comes to Debrecen for a long weekend and ends up chasing a missing boy and a meteorite with a secret, the kind that fell at Kaba in 1857; the trail runs through the downtown streets and squares, all filmed on location.",
+      "note": "Jonathan Hunt comes to Debrecen for a long weekend and ends up chasing a missing boy and a meteorite; the story is based on the 2012 novel Az ördög köve.",
       "source": "https://atomki.hu/en/miasma"
     },
     {
       "placeId": "atomki-debrecen-hungary",
-      "note": "Jonathan's friend Vera works at the nuclear research institute, where he gets a water sample analysed and pokes around its laboratories.",
+      "note": "The nuclear research institute Atomki is at the centre of the game's locations.",
       "source": "https://atomki.hu/en/miasma"
     },
     {
       "placeId": "heliophysical-observatory-debrecen-hungary",
-      "note": "The old solar observatory in the botanical garden, with the benches by the turtles' pond outside, is one of the places the meteorite trail leads.",
+      "note": "The Heliophysical Observatory is one of the places the investigation leads to.",
       "source": "https://atomki.hu/en/miasma"
     },
     {
       "placeId": "reformed-college-debrecen-hungary",
-      "note": "Jonathan searches the Great Library of the Reformed College for the professor's papers.",
+      "note": "The Reformed College is one of the places the investigation leads to.",
       "source": "https://atomki.hu/en/miasma"
     }
   ],
@@ -38,5 +38,6 @@
   "developerUrl": "https://en.wikipedia.org/wiki/Private_Moon_Studios",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

@@ -1,0 +1,14 @@
+{
+  "id": "westminster-bridge-london-uk",
+  "name": "Westminster Bridge, London, UK",
+  "position": {
+    "lat": 51.5008,
+    "lon": -0.1219
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Westminster_Bridge",
+  "description": "The bridge across the Thames beside the Palace of Westminster.",
+  "descriptionSource": "wikipedia"
+}

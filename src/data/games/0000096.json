@@ -7,15 +7,15 @@
   "locations": [
     {
       "placeId": "easter-island-rapa-nui-chile",
-      "note": "The game begins at an archaeologist's camp on Easter Island, where a moai hides the first time portal."
+      "note": "The player is called to Easter Island, where the Professor's abandoned camp and a cave hold the Timegate."
     },
     {
       "placeId": "egypt",
-      "note": "A portal leads into an Ancient Egyptian temple complex with tomb puzzles."
+      "note": "A portal leads into an Ancient Egyptian temple complex, one of the lost civilizations the player visits."
     },
     {
       "placeId": "maya",
-      "note": "A Maya jungle city with ball-court and pyramid puzzles is one of the lost civilizations visited."
+      "note": "A portal leads to a Maya jungle city, one of the lost civilizations the player visits."
     },
     {
       "placeId": "puebloan-usa",
@@ -28,10 +28,10 @@
     }
   ],
   "storyYears": [
-    1996,
-    -3100,
-    -250,
-    1150
+    -2500,
+    800,
+    1300,
+    1996
   ],
   "source": "https://en.wikipedia.org/wiki/Timelapse_(video_game)",
   "publisherUrl": "https://en.wikipedia.org/wiki/GTE_Interactive_Media",
@@ -39,5 +39,6 @@
   "route": false,
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

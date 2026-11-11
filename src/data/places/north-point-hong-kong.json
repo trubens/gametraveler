@@ -1,0 +1,14 @@
+{
+  "id": "north-point-hong-kong",
+  "name": "North Point, Hong Kong",
+  "position": {
+    "lat": 22.2872,
+    "lon": 114.1917
+  },
+  "scale": "site",
+  "parentId": "hong-kong-china",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/North_Point",
+  "description": "A mixed-use urban neighbourhood on the north shore of Hong Kong Island.",
+  "descriptionSource": "wikipedia"
+}

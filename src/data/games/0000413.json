@@ -12,8 +12,12 @@
         "Chandler Avenue",
         "Old San Francisco"
       ],
-      "note": "Tex Murphy investigates a conspiracy from his office on Chandler Avenue in Old San Francisco, newly cleaned up by the city in 2043.",
+      "note": "Gordon Fitzpatrick hires Tex to find his friend Thomas Malloy; the trail runs through the Ritz, the Fuchsia Flamingo club and NSA headquarters Autotech to a warehouse where Malloy is killed.",
       "source": "https://en.wikipedia.org/wiki/The_Pandora_Directive"
+    },
+    {
+      "placeId": "walker-air-force-base-roswell-new-mexico-usa",
+      "note": "Following Malloy's clues, Tex enters the deserted Roswell research complex, seals the alien entity still lurking there in a containment pod and takes the alien power cell from the security room."
     }
   ],
   "storyYears": [
@@ -23,5 +27,22 @@
   "developerUrl": "https://en.wikipedia.org/wiki/Access_Software",
   "genres": [
     "Adventure"
+  ],
+  "reviewed": "2026-11-10",
+  "routes": [
+    {
+      "id": "tex",
+      "name": "Tex Murphy",
+      "characters": [
+        "Tex Murphy"
+      ],
+      "stops": [
+        "san-francisco-usa",
+        "walker-air-force-base-roswell-new-mexico-usa",
+        "san-francisco-usa"
+      ],
+      "note": "From the hunt for Malloy in San Francisco to Roswell and back to the office where the Pandora Device is assembled.",
+      "source": "https://en.wikipedia.org/wiki/The_Pandora_Directive"
+    }
   ]
 }

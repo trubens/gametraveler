@@ -7,30 +7,42 @@
   "developer": "SEGA AM2",
   "locations": [
     {
-      "placeId": "hong-kong-china",
-      "note": "Ryo Hazuki arrives in Hong Kong in 1987 pursuing his father's killer, Lan Di."
-    },
-    {
       "placeId": "guilin-china",
-      "note": "Ryo's journey ends among the karst hills of Guilin, in the village of Bailu."
+      "note": "Ryo rescues Shenhua Ling in the Guilin mountains and finds her father missing at a stone quarry, where the sword and phoenix mirror reveal a mural."
     },
     {
       "placeId": "wan-chai-hong-kong",
-      "note": "Ryo lands in Wan Chai in 1987 and starts his search among its markets and martial-arts halls."
+      "note": "Ryo arrives in 1987 in search of Master Lishao Tao, who refuses to help him, and starts among the markets and martial-arts halls."
     },
     {
       "placeId": "kowloon-walled-city-hong-kong",
-      "note": "Zhu Yuanda hides from the Chi You Men inside the Walled City, where Ryo and Ren go looking for him."
+      "note": "Ren tells Ryo that Yuanda Zhu is hiding in the Walled City, where the Yellow Head gang kidnaps Zhu and Ryo goes after him."
     }
   ],
   "storyYears": [
     1987
   ],
   "source": "https://en.wikipedia.org/wiki/Shenmue_II",
-  "route": true,
   "developerUrl": "https://en.wikipedia.org/wiki/Sega_AM2",
   "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "routes": [
+    {
+      "id": "ryo",
+      "name": "Ryo Hazuki",
+      "characters": [
+        "Ryo Hazuki"
+      ],
+      "stops": [
+        "wan-chai-hong-kong",
+        "kowloon-walled-city-hong-kong",
+        "guilin-china"
+      ],
+      "note": "From Wan Chai through the Walled City to the Guilin mountains.",
+      "source": "https://en.wikipedia.org/wiki/Shenmue_II"
+    }
+  ],
+  "reviewed": "2026-11-10"
 }

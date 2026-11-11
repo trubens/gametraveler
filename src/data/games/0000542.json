@@ -11,15 +11,16 @@
   "locations": [
     {
       "placeId": "new-york-city-usa",
-      "note": "The open-world crime story follows a player-created character through 1940s–50s New York and the Corleone family's neighborhoods."
+      "note": "Aldo Trapani rises from outsider to Don across Little Italy, Hell's Kitchen, Brooklyn, New Jersey and Midtown, each held by a rival family: Barzini in Midtown, Tattaglia in Brooklyn, Cuneo in Hell's Kitchen and Stracci in New Jersey."
     }
   ],
   "storyYears": [
-    1945,
+    1936,
     1955
   ],
   "source": "https://en.wikipedia.org/wiki/The_Godfather_(2006_video_game)",
   "genres": [
     "Action-Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

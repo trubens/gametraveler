@@ -1,0 +1,14 @@
+{
+  "id": "deir-el-medina-egypt",
+  "name": "Deir el-Medina, Egypt",
+  "position": {
+    "lat": 25.7283,
+    "lon": 32.6014
+  },
+  "scale": "site",
+  "parentId": "thebes-luxor-egypt",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Deir_el-Medina",
+  "description": "The ancient workmen's village that housed the artisans who built the tombs in the Valley of the Kings.",
+  "descriptionSource": "wikipedia"
+}

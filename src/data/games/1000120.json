@@ -8,15 +8,16 @@
   "locations": [
     {
       "placeId": "zagros-mountains-iraq",
-      "note": "In 2003, a military unit searches for weapons and uncovers a buried Sumerian temple in the Zagros Mountains."
+      "note": "In 2003 US Marines and an Iraqi squad fall through sinkholes from a desert village into a buried Akkadian temple, where they fight vampires."
     }
   ],
   "storyYears": [
-    2000,
+    -2231,
     2003
   ],
   "source": "https://en.wikipedia.org/wiki/The_Dark_Pictures_Anthology:_House_of_Ashes",
   "genres": [
     "Interactive Drama"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

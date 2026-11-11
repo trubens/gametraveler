@@ -8,11 +8,11 @@
   "locations": [
     {
       "placeId": "manchester-uk",
-      "note": "The alternate-history campaign fights an alien invasion through Manchester and London."
+      "note": "British forces launch an offensive here to recover a missing convoy."
     },
     {
       "placeId": "london-uk",
-      "note": "The alternate-history campaign fights an alien invasion through Manchester and London."
+      "note": "Hale's tunnel mission leads to a nexus point, and the final assault on the central tower takes place here."
     }
   ],
   "storyYears": [
@@ -22,5 +22,6 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
   "genres": [
     "Action-Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

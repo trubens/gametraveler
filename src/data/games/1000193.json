@@ -8,13 +8,13 @@
   "locations": [
     {
       "placeId": "boston-usa",
-      "note": "The story includes Jack Walters's earlier Boston history and investigation.",
+      "note": "On 6 September 1915 detective Jack Walters is called to the siege of a manor, where a mass suicide and a portal leave him with amnesia.",
       "source": "https://en.wikipedia.org/wiki/Call_of_Cthulhu:_Dark_Corners_of_the_Earth"
     },
     {
       "placeId": "innsmouth-fictional-massachusetts",
       "settingType": "fictionalized",
-      "note": "In 1922 Jack Walters comes to the decaying fishing town of Innsmouth to find a missing grocery clerk, and has to sneak past its cultists and corrupt police to get out.",
+      "note": "In February 1922 Jack Walters takes a missing-person case in Innsmouth, escapes a mob and corrupt police, then joins the FBI raid on the Marsh Gold Refinery and the assault on the Order of Dagon's headquarters.",
       "source": "https://en.wikipedia.org/wiki/Call_of_Cthulhu:_Dark_Corners_of_the_Earth"
     }
   ],
@@ -41,5 +41,6 @@
   "genres": [
     "Adventure",
     "Survival Horror"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

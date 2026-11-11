@@ -8,11 +8,11 @@
   "locations": [
     {
       "placeId": "south-pacific-ocean-near-french-polynesia",
-      "note": "The main story follows a diving trip and ghost-ship mystery in the South Pacific."
+      "note": "Friends on a chartered dive trip come across the drifting ghost ship Ourang Medan, reimagined here as a vessel from the 1947 prologue."
     },
     {
       "placeId": "manchuria-china",
-      "note": "The WWII prologue begins aboard an American ship near Manchuria."
+      "note": "The 1947 prologue follows the American freighter that left Manchuria for San Francisco and became the drifting ghost ship."
     }
   ],
   "storyYears": [
@@ -22,5 +22,6 @@
   "source": "https://en.wikipedia.org/wiki/The_Dark_Pictures_Anthology:_Man_of_Medan",
   "genres": [
     "Interactive Drama"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

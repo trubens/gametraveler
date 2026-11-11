@@ -7,7 +7,7 @@
   "locations": [
     {
       "placeId": "tehran-iran",
-      "note": "The story follows a young photographer through Tehran during the 1978 Iranian Revolution."
+      "note": "The story follows the aspiring photojournalist Reza Shirazi through Tehran during the 1978 Iranian Revolution, framed by a 1980 interrogation."
     },
     {
       "placeId": "jaleh-square-now-shohada-square-tehran-iran",
@@ -15,14 +15,32 @@
     },
     {
       "placeId": "evin-prison-tehran-iran",
-      "note": "The game references political prisoners held at Evin during the period."
+      "note": "In 1980 Reza is taken to Evin, where the warden Asadollah Lajevardi interrogates him, and the story returns to Evin in flashforwards."
     }
   ],
   "storyYears": [
-    1978
+    1978,
+    1980
   ],
   "source": "https://en.wikipedia.org/wiki/1979_Revolution:_Black_Friday",
   "genres": [
     "Interactive Drama"
-  ]
+  ],
+  "routes": [
+    {
+      "id": "reza",
+      "name": "Reza Shirazi",
+      "characters": [
+        "Reza Shirazi"
+      ],
+      "stops": [
+        "evin-prison-tehran-iran",
+        "tehran-iran",
+        "jaleh-square-now-shohada-square-tehran-iran"
+      ],
+      "note": "From the Evin interrogation back to the 1978 streets and the Black Friday protest.",
+      "source": "https://en.wikipedia.org/wiki/1979_Revolution:_Black_Friday"
+    }
+  ],
+  "reviewed": "2026-11-11"
 }

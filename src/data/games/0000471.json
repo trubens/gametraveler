@@ -8,7 +8,15 @@
   "locations": [
     {
       "placeId": "milan-italy",
-      "note": "The campaign starts around a zombie-infested Milan railway station."
+      "note": "The campaign opens around a zombie-infested railway station in Milan."
+    },
+    {
+      "placeId": "venice-italy",
+      "note": "The second mission, Death Canal, is a fight along the canals and gondolas of Venice."
+    },
+    {
+      "placeId": "rome-italy",
+      "note": "The final battle against Hitler's Hell Machine takes place in Rome."
     }
   ],
   "storyYears": [
@@ -17,5 +25,19 @@
   "source": "https://en.wikipedia.org/wiki/Zombie_Army_4:_Dead_War",
   "genres": [
     "Third-Person Shooter"
+  ],
+  "reviewed": "2026-11-10",
+  "routes": [
+    {
+      "id": "survivors",
+      "name": "The survivors",
+      "stops": [
+        "milan-italy",
+        "venice-italy",
+        "rome-italy"
+      ],
+      "note": "From the Milan railway station through Venice's canals to the final battle in Rome.",
+      "source": "https://en.wikipedia.org/wiki/Zombie_Army_4:_Dead_War"
+    }
   ]
 }

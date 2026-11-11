@@ -9,17 +9,17 @@
     {
       "placeId": "arkham-fictional-massachusetts",
       "settingType": "fictionalized",
-      "note": "The sequel's standalone story takes place in a flood-stricken 1920s Arkham.",
+      "note": "Calvin Rafferty investigates a supernatural flood in Lovecraft's Arkham in 1929, visiting Miskatonic University, the Devil's Reef Hotel, Akeley Hospital, the fish market and Holloway Manor.",
       "source": "https://news.xbox.com/en-us/2026/08/18/the-sinking-city-2-survival-horror/"
     }
   ],
   "storyYears": [
-    1920,
     1929
   ],
   "source": "https://news.xbox.com/en-us/2026/08/18/the-sinking-city-2-survival-horror/",
   "genres": [
     "Adventure",
     "Survival Horror"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

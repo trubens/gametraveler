@@ -7,7 +7,7 @@
   "locations": [
     {
       "placeId": "new-york-city-usa",
-      "note": "A possessed man kills a stranger in a New York diner; players control both the fugitive and the detectives."
+      "note": "One night in 2009 the possessed Lucas Kane kills a stranger in a New York diner restroom, and players control both him and the detectives who hunt him."
     }
   ],
   "storyYears": [
@@ -16,5 +16,6 @@
   "source": "https://en.wikipedia.org/wiki/Fahrenheit_(2005_video_game)",
   "genres": [
     "Interactive Drama"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

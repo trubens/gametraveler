@@ -1,0 +1,17 @@
+{
+  "id": "fort-boise-idaho-usa",
+  "name": "Fort Boise, Idaho, USA",
+  "position": {
+    "lat": 43.8236,
+    "lon": -117.0204
+  },
+  "scale": "site",
+  "parentId": "united-states",
+  "placeType": "landmark",
+  "aliases": [
+    "Old Fort Boise"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fort_Boise",
+  "description": "A Hudson's Bay Company trading post of 1834 near the Snake River on what is now the Oregon border, northwest of Parma.",
+  "descriptionSource": "wikipedia"
+}

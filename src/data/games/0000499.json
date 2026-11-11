@@ -6,16 +6,20 @@
   "publisher": "Sega",
   "locations": [
     {
+      "placeId": "saudi-arabia",
+      "note": "The opening mission is the assassination of Sheikh Ali Shaheed, with an arc that takes in the Jizan weapon stockpile and the arms dealer Nasri."
+    },
+    {
       "placeId": "rome-italy",
-      "note": "The espionage campaign includes playable operations in Rome, Taipei and Moscow."
+      "note": "Marburg's Veteran Combat Initiative plots a false-flag bombing of a museum, and Marburg kidnaps Madison Saint James."
     },
     {
       "placeId": "taipei-taiwan",
-      "note": "The espionage campaign includes playable operations in Rome, Taipei and Moscow."
+      "note": "Omen Deng plots to assassinate President Sung."
     },
     {
       "placeId": "moscow-russia",
-      "note": "The espionage campaign includes playable operations in Rome, Taipei and Moscow."
+      "note": "The Russian mafia underboss Brayko and Surkov are hunted from Lazo's yacht to the US Embassy and Brayko's mansion."
     }
   ],
   "storyYears": [
@@ -26,5 +30,6 @@
   "developerUrl": "https://en.wikipedia.org/wiki/Obsidian_Entertainment",
   "genres": [
     "Action-Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

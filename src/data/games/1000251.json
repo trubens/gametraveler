@@ -23,7 +23,7 @@
     },
     {
       "placeId": "prague-czech-republic",
-      "note": "The investigation continues through an apartment, archives and government offices in Prague.",
+      "note": "Martin finds Barbora Kanska's apartment, where she is dead, then the Center City Archive and a bureau building where the President approves the trip.",
       "source": "https://www.justadventure.com/walkthrough/ni-bi-ru/"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "placeId": "france",
-      "note": "The French chapter: a hotel, the docks and his uncle's mansion.",
+      "note": "A hotel, the docks and the mansion of Professor Francois de Vilde.",
       "source": "https://www.justadventure.com/walkthrough/ni-bi-ru/"
     },
     {
       "placeId": "mexico",
-      "note": "Martin visits the invented town of Tecolut and explores Maya temples that are not tied to real sites.",
+      "note": "Martin visits the invented town of Tecolut and a Mayan village, and explores the Temple of Dawn and the Lost Temple of the Gods.",
       "source": "https://www.justadventure.com/walkthrough/ni-bi-ru/"
     }
   ],
@@ -59,5 +59,6 @@
       "note": "Martin Holan's search runs from Charles Bridge and Prague to a wartime mine in western Bohemia, then to France and the Maya temples of Mexico.",
       "source": "https://www.justadventure.com/walkthrough/ni-bi-ru/"
     }
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

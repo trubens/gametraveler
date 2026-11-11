@@ -8,27 +8,27 @@
   "locations": [
     {
       "placeId": "brooklyn-new-york-usa",
-      "note": "Newspaperman Jerrod Wilson leaves Brooklyn Heights in 1848 to seek his brother in California."
+      "note": "Jerrod Wilson, a newspaperman in Brooklyn Heights in 1848, gets a letter from his estranged brother Jake in California and has fourteen minutes to quit his job, sell up and buy supplies."
     },
     {
       "placeId": "sacramento-california-usa",
-      "note": "All routes west converge on Sacramento, Sutter's Fort and nearby Coloma, where the gold is."
+      "note": "All three routes end at Sacramento, where clues at Sutter's Fort lead Jerrod toward Jake's mine."
     },
     {
       "placeId": "panama",
-      "note": "The Panama route: by ship to the isthmus, then on foot through a jungle of snakes, quicksand and hostile tribes to the Pacific side."
+      "note": "The Panama route: by ship to the isthmus, then on foot through a jungle of snakes, quicksand and natives who take possessions to the Pacific side."
     },
     {
       "placeId": "cape-horn-chile-alternative-route",
-      "note": "A playable sea route to California rounds Cape Horn."
+      "note": "A long voyage around the southern tip of South America, with a storm that forces the crew to jettison cargo and scurvy a threat."
     },
     {
       "placeId": "sierra-nevada-usa-overland-route",
-      "note": "The overland route crosses the Sierra Nevada."
+      "note": "The overland route goes by stagecoach, with winter storms in the Sierra Nevada among the dangers."
     },
     {
       "placeId": "coloma-california-usa",
-      "note": "The journey ends at the gold fields near Coloma."
+      "note": "Clues from a gravestone and a hotel in Coloma lead Jerrod to Jake's mine."
     }
   ],
   "routes": [
@@ -85,5 +85,6 @@
   "developerUrl": "https://en.wikipedia.org/wiki/Sierra_Entertainment",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

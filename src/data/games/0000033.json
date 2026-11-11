@@ -7,7 +7,11 @@
   "locations": [
     {
       "placeId": "oxford-uk",
-      "note": "Street magician Sam Everett becomes assistant to a reclusive Oxford neurobiologist probing the paranormal."
+      "note": "Street magician Sam Everett poses as an Oxford student to become the assistant of the reclusive Dr. David Styles, who is probing the paranormal."
+    },
+    {
+      "placeId": "carfax-tower-oxford-uk",
+      "note": "The game includes a representation of Carfax Tower, with a comparison photo of the real one."
     }
   ],
   "storyYears": [
@@ -18,5 +22,6 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/DTP_Entertainment",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

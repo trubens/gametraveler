@@ -1,0 +1,14 @@
+{
+  "id": "raven-rock-mountain-complex-pennsylvania-usa",
+  "name": "Raven Rock Mountain Complex, Pennsylvania, USA",
+  "position": {
+    "lat": 39.7342,
+    "lon": -77.4197
+  },
+  "scale": "site",
+  "parentId": "pennsylvania-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Raven_Rock_Mountain_Complex",
+  "description": "A US military installation dug into a mountain near the Maryland border, also known as Site R and simply The Rock.",
+  "descriptionSource": "wikipedia"
+}

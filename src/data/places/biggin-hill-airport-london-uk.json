@@ -1,0 +1,17 @@
+{
+  "id": "biggin-hill-airport-london-uk",
+  "name": "London Biggin Hill Airport, London, UK",
+  "position": {
+    "lat": 51.3308,
+    "lon": 0.0325
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "venue",
+  "aliases": [
+    "Biggin Hill"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/London_Biggin_Hill_Airport",
+  "description": "A general aviation airport on the south-eastern edge of Greater London.",
+  "descriptionSource": "wikipedia"
+}

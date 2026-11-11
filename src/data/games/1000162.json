@@ -12,18 +12,19 @@
   "locations": [
     {
       "placeId": "philadelphia-pennsylvania-usa",
-      "note": "Explore occupied Philadelphia as an open-world resistance fighter."
+      "note": "Four years into a North Korean occupation, Ben Walker fights as a resistance fighter in a city split into Green, Yellow and Red Zones."
     },
     {
       "placeId": "independence-hall-philadelphia-usa",
-      "note": "The player infiltrates Independence Hall, renamed the Hall of Justice by the occupying forces."
+      "note": "Site of Ben Walker's trial and of a KPA trap that kills Heather Cortez; in the finale the resistance shuts down the KPA drones from here."
     },
     {
       "placeId": "philadelphia-city-hall-pennsylvania-usa",
-      "note": "Philadelphia City Hall is one of the city's recognizable landmarks represented in the game."
+      "note": "The final target: the resistance storms City Hall and captures Mayor Simpson, who is executed after refusing to read the message."
     }
   ],
   "storyYears": [
     2029
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

@@ -16,12 +16,12 @@
     },
     {
       "placeId": "saint-sulpice-paris-france",
-      "note": "Langdon reaches the church after Silas has been there, and finds a nun who saw the monk search beneath the gnomon.",
+      "note": "Langdon reaches the church after Silas, knocks out a monk attacking the nun Marguerite and finds the tablet with Job 38:11 under the gnomon.",
       "source": "https://en.wikipedia.org/wiki/The_Da_Vinci_Code_(video_game)"
     },
     {
       "placeId": "chateau-de-villette-france",
-      "note": "Langdon and Neveu take refuge with the Grail historian Sir Leigh Teabing at his château outside Paris.",
+      "note": "Langdon and Neveu take refuge at the home of the Grail historian Sir Leigh Teabing, where Silas is subdued.",
       "source": "https://en.wikipedia.org/wiki/The_Da_Vinci_Code_(video_game)"
     },
     {
@@ -35,32 +35,42 @@
     },
     {
       "placeId": "westminster-abbey-london-uk",
-      "note": "Teabing is held in the abbey, where the riddle of the knight a pope interred is solved.",
+      "note": "Remy captures Langdon and Neveu and takes them to Teabing, the Teacher; Teabing shoots Remy, Langdon destroys the cryptex and Teabing is arrested.",
       "source": "https://en.wikipedia.org/wiki/The_Da_Vinci_Code_(video_game)"
     },
     {
       "placeId": "rosslyn-chapel-roslin-scotland-uk",
-      "note": "Rosslyn Chapel near Edinburgh is the final stop in the hunt for the Grail."
+      "note": "Neveu's grandmother tells them at Rosslyn that the Grail is in France, and the clue points back to the Rose Line in Paris."
+    },
+    {
+      "placeId": "zurich-switzerland",
+      "note": "A key leads Neveu to the Depository Bank of Zurich."
+    },
+    {
+      "placeId": "biggin-hill-airport-london-uk",
+      "note": "They land at Biggin Hill and head for Temple Church."
     }
   ],
   "routes": [
     {
-      "id": "langdon-neveu",
+      "id": "langdon",
       "name": "Langdon and Neveu",
       "characters": [
         "Robert Langdon",
         "Sophie Neveu"
       ],
-      "storyYears": [
-        2006
-      ],
       "stops": [
-        "paris-france",
-        "london-uk",
+        "louvre-paris-france",
+        "saint-sulpice-paris-france",
+        "zurich-switzerland",
+        "chateau-de-villette-france",
+        "biggin-hill-airport-london-uk",
+        "temple-church-london-uk",
+        "westminster-abbey-london-uk",
         "rosslyn-chapel-roslin-scotland-uk",
-        "paris-france"
+        "louvre-paris-france"
       ],
-      "note": "From the murder in the Louvre to Temple Church and Westminster Abbey in London, then Rosslyn Chapel and back to Paris.",
+      "note": "From the Louvre murder to the Rose Line under the Louvre Pyramid.",
       "source": "https://en.wikipedia.org/wiki/The_Da_Vinci_Code_(video_game)"
     }
   ],
@@ -72,5 +82,6 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/2K_(company)",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

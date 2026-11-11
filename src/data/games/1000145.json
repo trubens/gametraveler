@@ -10,10 +10,11 @@
   "source": "https://en.wikipedia.org/wiki/This_War_of_Mine",
   "locations": [
     {
-      "placeId": "sarajevo-bosnia-and-herzegovina",
+      "placeId": "pogoren-fictional-bosnia-and-herzegovina",
       "settingType": "fictionalized",
-      "note": "Civilians scavenge and hide to survive in Pogoren, an invented besieged city modelled on Sarajevo and other sieges."
+      "note": "Civilians scavenge and hide to survive in a damaged house in the besieged city of Pogoren, venturing out at night to houses, a supermarket and a hospital."
     }
   ],
-  "storyYears": []
+  "storyYears": [],
+  "reviewed": "2026-11-11"
 }

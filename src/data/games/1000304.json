@@ -65,6 +65,11 @@
       "placeId": "camden-town-london-uk",
       "note": "Camden and its Underground station are one of the fifteen boroughs.",
       "source": "https://falloutlondonmod.com/regions/"
+    },
+    {
+      "placeId": "palace-of-westminster-london-uk",
+      "note": "Whichever faction the player sides with, they reach the Palace of Westminster and debate a parliament made up of copies of the player's own character."
     }
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

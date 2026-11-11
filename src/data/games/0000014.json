@@ -6,15 +6,38 @@
   "developer": "Faravid Interactive",
   "locations": [
     {
-      "placeId": "sweden",
-      "note": "A 1980s Swedish mystery: a dead author, a hidden manuscript and a town that keeps its secrets."
+      "placeId": "gothenburg-sweden",
+      "note": "In 1984 Ord Salomon investigates a dead author's hidden manuscript from his base in Gothenburg, choosing destinations from a map of the city."
+    },
+    {
+      "placeId": "fardo-fictional-gothenburg-archipelago-sweden",
+      "settingType": "fictionalized",
+      "note": "The author Bergwall died on a boat off the island of Fardo, where an import/export company, his working cabin, a church and wartime bunkers are part of the investigation."
     }
   ],
-  "storyYears": [],
+  "storyYears": [
+    1984
+  ],
   "source": "https://store.steampowered.com/app/283180/The_Samaritan_Paradox/",
   "developerUrl": "https://en.wikipedia.org/wiki/Faravid_Interactive",
   "publisherUrl": "https://en.wikipedia.org/wiki/Martech",
   "genres": [
     "Adventure"
+  ],
+  "reviewed": "2026-11-11",
+  "routes": [
+    {
+      "id": "ord",
+      "name": "Ord Salomon",
+      "characters": [
+        "Ord Salomon"
+      ],
+      "stops": [
+        "gothenburg-sweden",
+        "fardo-fictional-gothenburg-archipelago-sweden"
+      ],
+      "note": "From Gothenburg to the island of Fardo.",
+      "source": "https://adventuregamers.com/games/samaritan-paradox"
+    }
   ]
 }

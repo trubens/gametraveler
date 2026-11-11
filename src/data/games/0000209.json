@@ -8,7 +8,15 @@
   "locations": [
     {
       "placeId": "new-york-city-usa",
-      "note": "Rosa and Joey follow connected deaths through New York's art galleries, offices and neighborhood haunts."
+      "note": "Rosa and Joey follow the deaths connected to Lazarus Technologies through a film studio, an art gallery and the Meltzer Foundation."
+    },
+    {
+      "placeId": "minetta-tavern-new-york-city-usa",
+      "note": "Rosa meets the ghost Frank Lyons here, hears the bartender explain Joe Gould and the Gould fund, and returns later."
+    },
+    {
+      "placeId": "blackwell-island-lighthouse-new-york-city-usa",
+      "note": "Rosa questions Marty Goldwater, whose son John was killed nearby and who suspects Lazarus Technologies."
     }
   ],
   "storyYears": [
@@ -18,5 +26,22 @@
   "developerUrl": "https://en.wikipedia.org/wiki/Wadjet_Eye_Games",
   "genres": [
     "Adventure"
+  ],
+  "reviewed": "2026-11-10",
+  "routes": [
+    {
+      "id": "rosa",
+      "name": "Rosa Blackwell",
+      "characters": [
+        "Rosa Blackwell",
+        "Joey Mallone"
+      ],
+      "stops": [
+        "minetta-tavern-new-york-city-usa",
+        "blackwell-island-lighthouse-new-york-city-usa"
+      ],
+      "note": "From the Greenwich Village tavern to the lighthouse on Roosevelt Island.",
+      "source": "https://www.cyberly.org/game-cheats/pc-walkthroughs/the-blackwell-convergence.html"
+    }
   ]
 }

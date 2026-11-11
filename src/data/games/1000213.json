@@ -17,17 +17,17 @@
     },
     {
       "placeId": "gozo-malta",
-      "note": "The investigation visits an archaeological temple site on Gozo.",
+      "note": "On Gozo Sylvie uses a fake ID, drugs a police officer with coffee and finds the temple generator, and in the finale sets four stone pillars in the order of the planets.",
       "source": "https://www.bigfishgames.com/blog/walkthroughs/chronicles-of-mystery-the-scorpio-ritual.html"
     },
     {
       "placeId": "istanbul-turkey",
-      "note": "Sylvie follows the stones from Malta to an art gallery in Istanbul, and is thrown out by its director.",
+      "note": "Sylvie sends the owner's car rolling into a crash to distract the guards, takes four stone cubes from an art gallery, and is knocked out and thrown out.",
       "source": "https://www.bigfishgames.com/blog/walkthroughs/chronicles-of-mystery-the-scorpio-ritual.html"
     },
     {
       "placeId": "vatican-city",
-      "note": "The finale in the Vatican, where Sylvie's uncle dies breaking up the fight between James and Inspector Gronc.",
+      "note": "Sylvie reaches the Vatican by a hidden passage dressed as a nun, breaks into the Cardinal's study and opens a safe behind a painting, finding a ring and papers.",
       "source": "https://en.wikipedia.org/wiki/Chronicles_of_Mystery:_The_Scorpio_Ritual"
     }
   ],
@@ -42,10 +42,17 @@
         "paris-france",
         "valletta-malta",
         "gozo-malta",
+        "valletta-malta",
+        "gozo-malta",
         "istanbul-turkey",
-        "vatican-city"
+        "valletta-malta",
+        "gozo-malta",
+        "vatican-city",
+        "valletta-malta",
+        "gozo-malta"
       ],
-      "source": "https://www.bigfishgames.com/blog/walkthroughs/chronicles-of-mystery-the-scorpio-ritual.html"
+      "source": "https://www.bigfishgames.com/blog/walkthroughs/chronicles-of-mystery-the-scorpio-ritual.html",
+      "note": "From Paris to Malta and Gozo, with trips to Istanbul and the Vatican between visits."
     }
   ],
   "storyYears": [
@@ -54,5 +61,6 @@
   "source": "https://en.wikipedia.org/wiki/Chronicles_of_Mystery:_The_Scorpio_Ritual",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

@@ -15,15 +15,15 @@
   "locations": [
     {
       "placeId": "roswell-new-mexico-usa",
-      "note": "B.J. walks through occupied Roswell to plant a bomb in the Oberkommando base beneath the town."
+      "note": "B.J. carries a portable nuclear warhead to Roswell, plants it in the reactor of the Oberkommando and detonates it after escaping."
     },
     {
       "placeId": "mesquite-texas-usa",
-      "note": "B.J. returns to the family farm outside Mesquite to confront his father."
+      "note": "B.J. detours to his hometown to recover an heirloom ring, kills his father Rip and is captured by Engel."
     },
     {
       "placeId": "new-york-city-usa",
-      "note": "Manhattan lies in ruins after the atomic bomb; the resistance hides in the Empire State Building."
+      "note": "B.J. breaks into a Nazi bunker under New York to steal a file on New Orleans, after the resistance has hidden in the ruins of Manhattan."
     },
     {
       "placeId": "new-orleans-usa",
@@ -31,15 +31,15 @@
     },
     {
       "placeId": "hollywood-california-usa",
-      "note": "The final fight takes place on a propaganda film set in occupied Hollywood."
-    },
-    {
-      "placeId": "washington-d-c-usa",
-      "note": "B.J. is put on trial and taken to the Lincoln Memorial for a televised execution."
+      "note": "The resistance assaults a studio complex where Engel is on national television, and B.J. kills her."
     },
     {
       "placeId": "empire-state-building-new-york-city-usa",
       "note": "A resistance cell hides in the Empire State Building amid the atomic ruins of Manhattan."
+    },
+    {
+      "placeId": "lincoln-memorial-washington-d-c-usa",
+      "note": "Sentenced in a kangaroo court, B.J. is beheaded on international television at the Lincoln Memorial."
     }
   ],
   "routes": [
@@ -50,15 +50,17 @@
         "B.J. Blazkowicz"
       ],
       "stops": [
+        "empire-state-building-new-york-city-usa",
         "roswell-new-mexico-usa",
         "mesquite-texas-usa",
+        "lincoln-memorial-washington-d-c-usa",
         "new-york-city-usa",
         "new-orleans-usa",
-        "washington-d-c-usa",
         "hollywood-california-usa"
       ],
       "note": "B.J. goes from Roswell to his family farm in Mesquite, the ruins of Manhattan and walled-off New Orleans, is put on trial in Washington and fights the last battle in Hollywood.",
       "source": "https://en.wikipedia.org/wiki/Wolfenstein_II:_The_New_Colossus"
     }
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

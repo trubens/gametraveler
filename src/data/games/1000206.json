@@ -7,13 +7,16 @@
   "locations": [
     {
       "placeId": "toledo-spain",
-      "note": "Professor Hunt travels to Toledo in this episode of the AGON series.",
+      "note": "The British Museum historian Professor Hunt comes to Toledo to find the Candelas family and a lost board game, and learns that Francisco Candelas, loved by the dead painter Diez's daughter Carmen, is jailed for stealing a family heirloom sword.",
       "source": "https://www.adventureclassicgaming.com/index.php/site/previews/303/"
     }
   ],
-  "storyYears": [],
+  "storyYears": [
+    1903
+  ],
   "source": "https://www.adventureclassicgaming.com/index.php/site/previews/303/",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

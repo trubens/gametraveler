@@ -11,10 +11,11 @@
   "locations": [
     {
       "placeId": "tehran-iran",
-      "note": "The player retraces Prime Minister Mohammad Mosaddegh’s political downfall during the 1953 coup in Iran."
+      "note": "The player is the cat of Prime Minister Mohammad Mosaddegh, and the game flashes back through his rule and his downfall in the 1953 coup."
     }
   ],
   "storyYears": [
     1953
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

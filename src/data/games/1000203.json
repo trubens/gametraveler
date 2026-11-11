@@ -8,12 +8,12 @@
   "locations": [
     {
       "placeId": "rome-italy",
-      "note": "The episode is set in Rome and includes sites around the historic centre.",
+      "note": "James Murphy investigates the Vatican bank's finances after his friend Cristoforo falls into a coma, moving around the city by a map interface; the opening attack is beside the church of Santa Brigida on Piazza Farnese.",
       "source": "https://www.italyformovies.it/film-serie-tv-games/detail/6384/shadows-on-the-vatican-atto-i-avarizia-game"
     },
     {
       "placeId": "capena-italy",
-      "note": "James travels to Capena to investigate a church connected to the case.",
+      "note": "James searches for clues in a recreation of the Chiesa di San Leone Magno in Capena.",
       "source": "https://www.italyformovies.it/film-serie-tv-games/detail/6384/shadows-on-the-vatican-atto-i-avarizia-game"
     }
   ],
@@ -35,5 +35,6 @@
   "source": "https://www.italyformovies.it/film-serie-tv-games/detail/6384/shadows-on-the-vatican-atto-i-avarizia-game",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

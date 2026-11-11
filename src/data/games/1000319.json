@@ -18,12 +18,13 @@
   "locations": [
     {
       "placeId": "blackwood-manor-fictional-rothbury-england-uk",
-      "note": "In 1976 the writer Michael Arthate moves into Blackwood Manor outside Rothbury and spends three days uncovering a death from 1963 and a disappearance from 1970. The Director's Cut adds The Last Visit, a reporter's walk through the manor before its demolition.",
+      "note": "In 1976 the writer Michael Arthate moves into Blackwood Manor outside Rothbury and uncovers a death from 1963 and a disappearance from 1970. The Director's Cut adds The Last Visit, a reporter's walk through the manor before its demolition.",
       "settingType": "fictionalized"
     },
     {
       "placeId": "rothbury-england-uk",
-      "note": "The town whose outskirts hold the manor, and whose vicar and doctor Michael calls."
+      "note": "The manor stands on the outskirts of the town."
     }
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

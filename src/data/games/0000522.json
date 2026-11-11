@@ -8,6 +8,30 @@
     {
       "placeId": "sydney-australia",
       "note": "A retired detective is kidnapped and his niece hunts for leads in scenes filmed at around 17 real Sydney locations."
+    },
+    {
+      "placeId": "sydney-opera-house-sydney-australia",
+      "note": "The Opera House is the first landmark of Act One and the target of the bombings."
+    },
+    {
+      "placeId": "sydney-town-hall-sydney-australia",
+      "note": "A silver key is found under a seat at the Town Hall."
+    },
+    {
+      "placeId": "the-rocks-sydney-australia",
+      "note": "The player talks to Reg in The Rocks."
+    },
+    {
+      "placeId": "hyde-park-sydney-australia",
+      "note": "The player meets Michael Iden on a bench near the fountain in Hyde Park."
+    },
+    {
+      "placeId": "kings-cross-sydney-australia",
+      "note": "The player gives cash to Snakey in Kings Cross, who mentions Jessica Doe."
+    },
+    {
+      "placeId": "sydney-harbour-bridge-sydney-australia",
+      "note": "The Act Four climax is a bomb case under the Harbour Bridge and a final meeting there."
     }
   ],
   "storyYears": [
@@ -16,5 +40,22 @@
   "source": "https://en.wikipedia.org/wiki/The_Sydney_Mystery",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "routes": [
+    {
+      "id": "niece",
+      "name": "The niece",
+      "stops": [
+        "sydney-opera-house-sydney-australia",
+        "sydney-town-hall-sydney-australia",
+        "the-rocks-sydney-australia",
+        "hyde-park-sydney-australia",
+        "kings-cross-sydney-australia",
+        "sydney-harbour-bridge-sydney-australia"
+      ],
+      "note": "From the Opera House to the Harbour Bridge.",
+      "source": "https://gameboomers.com/wtcheats/pcSs/SydneyMystery.htm"
+    }
+  ],
+  "reviewed": "2026-11-11"
 }

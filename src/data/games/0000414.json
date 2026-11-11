@@ -8,15 +8,17 @@
   "locations": [
     {
       "placeId": "san-francisco-usa",
-      "note": "Tex recounts a murder investigation set in a future San Francisco."
+      "note": "Over dinner with Chelsee, Tex tells the story of his first case: in 2037 Sylvia Linsky hires him to find out whether her father's suicide was murder, and he uncovers a plot of implants and mind control."
     }
   ],
   "storyYears": [
-    2039
+    2037,
+    2043
   ],
   "source": "https://en.wikipedia.org/wiki/Tex_Murphy:_Overseer",
   "developerUrl": "https://en.wikipedia.org/wiki/Access_Software",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

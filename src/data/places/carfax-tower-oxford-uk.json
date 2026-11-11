@@ -1,0 +1,14 @@
+{
+  "id": "carfax-tower-oxford-uk",
+  "name": "Carfax Tower, Oxford, UK",
+  "position": {
+    "lat": 51.752,
+    "lon": -1.2577
+  },
+  "scale": "site",
+  "parentId": "oxford-uk",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carfax_Tower",
+  "description": "The medieval tower at the crossroads in the centre of Oxford.",
+  "descriptionSource": "wikipedia"
+}

@@ -8,24 +8,28 @@
   "locations": [
     {
       "placeId": "new-york-city-usa",
-      "note": "Dominic takes charge of the Corleone family's New York operations after the previous Don is killed."
+      "note": "After Aldo Trapani is killed in Havana, Michael makes Dominic underboss of the New York family, and he takes over Carmine Rosato's and Tony Rosato's operations."
     },
     {
       "placeId": "miami-usa",
-      "note": "The crime campaign expands into Miami, where Dominic fights the Granados family and builds the Corleones' Florida business."
+      "note": "Dominic bombs the Granados compound and kills Don Rico Granados, takes over Tony's Florida businesses and assassinates Hyman Roth."
     },
     {
       "placeId": "havana-cuba",
-      "note": "The story reaches Havana during the Cuban Revolution, where the family has a major stake in the city."
+      "note": "The game opens at a meeting of the families in Havana during the Cuban Revolution under Batista."
+    },
+    {
+      "placeId": "miami-international-airport-miami-usa",
+      "note": "In the finale Dominic kills Hyman Roth at Miami International Airport."
     }
   ],
   "storyYears": [
-    1958,
-    1961
+    1958
   ],
   "source": "https://en.wikipedia.org/wiki/The_Godfather_II_(video_game)",
   "genres": [
     "Action-Adventure",
     "Strategy"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

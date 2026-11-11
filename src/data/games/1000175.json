@@ -12,19 +12,36 @@
     {
       "placeId": "southern-louisiana-bayou-usa",
       "settingType": "fictionalized",
-      "note": "On her first mission, in 1933, Rayne is sent to the bayou town of Mortton, where a plague is turning residents into mutants."
+      "note": "On her first mission, in 1933, Rayne investigates the bayou town of Mortton, where a plague is turning residents into mutants, and kills the Maraisreq queen."
     },
     {
       "placeId": "argentina",
-      "note": "A substantial chapter sends Rayne to a Nazi mining facility in Argentina."
+      "note": "In 1938 Rayne enters a Nazi mining facility overrun by Daemites guarding Beliar's skull, takes the crystal skull holding Beliar's eye, and the Nazis later collapse the mine."
     },
     {
       "placeId": "germany",
-      "note": "Rayne fights through Castle Gaustadt, home to feral ancient vampires, to stop Jürgen Wulf digging up the relic buried beneath it."
+      "note": "Rayne fights through Castle Gaustadt, home to feral vampires, where Hedrox holds Beliar's heart, and beheads Wulf in the cathedral before banishing Beliar."
     }
   ],
   "storyYears": [
-    1932,
+    1933,
     1938
-  ]
+  ],
+  "routes": [
+    {
+      "id": "rayne",
+      "name": "Rayne",
+      "characters": [
+        "Rayne"
+      ],
+      "stops": [
+        "southern-louisiana-bayou-usa",
+        "argentina",
+        "germany"
+      ],
+      "note": "From the Louisiana plague town to Castle Gaustadt.",
+      "source": "https://en.wikipedia.org/wiki/BloodRayne_(video_game)"
+    }
+  ],
+  "reviewed": "2026-11-11"
 }

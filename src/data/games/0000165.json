@@ -8,7 +8,15 @@
   "locations": [
     {
       "placeId": "mexico-city-mexico",
-      "note": "The Ghosts counter a coup during a North American summit in Mexico City in 2013."
+      "note": "The Ghosts counter a coup in Mexico City in 2013, after militants attack the summit where the presidents sign the North American security agreement; they defeat anti-air emplacements at the airport and stop an assassination attempt at the U.S. embassy."
+    },
+    {
+      "placeId": "chapultepec-castle-mexico-city",
+      "note": "The Ghosts assault the castle and secure M1A2 Abrams tanks for the Mexican Army."
+    },
+    {
+      "placeId": "zocalo-mexico-city",
+      "note": "The team supports a joint advance into the plaza and rescues Major General Martin from a helicopter crash."
     }
   ],
   "storyYears": [
@@ -18,5 +26,21 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
   "genres": [
     "Third-Person Shooter"
-  ]
+  ],
+  "routes": [
+    {
+      "id": "ghosts",
+      "name": "The Ghosts",
+      "characters": [
+        "Scott Mitchell"
+      ],
+      "stops": [
+        "chapultepec-castle-mexico-city",
+        "zocalo-mexico-city"
+      ],
+      "note": "From the assault on Chapultepec Castle to the advance into the Zócalo.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_Ghost_Recon_Advanced_Warfighter"
+    }
+  ],
+  "reviewed": "2026-11-10"
 }

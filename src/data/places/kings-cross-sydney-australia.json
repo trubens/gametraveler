@@ -1,0 +1,14 @@
+{
+  "id": "kings-cross-sydney-australia",
+  "name": "Kings Cross, Sydney, Australia",
+  "position": {
+    "lat": -33.8737,
+    "lon": 151.2236
+  },
+  "scale": "site",
+  "parentId": "sydney-australia",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kings_Cross,_New_South_Wales",
+  "description": "An inner-city suburb known for its nightlife.",
+  "descriptionSource": "wikipedia"
+}

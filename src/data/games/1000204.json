@@ -8,13 +8,18 @@
   "locations": [
     {
       "placeId": "rome-italy",
-      "note": "This episode continues the investigation in Rome, including locations by Vatican City and central Rome.",
+      "note": "James investigates Porta Sant'Anna, an entrance to Vatican City, and revisits Piazza Farnese from Act I.",
       "source": "https://www.italyformovies.it/film-serie-tv-games/detail/6385/shadows-on-the-vatican-atto-ii-ira-game"
+    },
+    {
+      "placeId": "galleria-alberto-sordi-rome-italy",
+      "note": "Late in the game James must find a secret entrance to a crypt here."
     }
   ],
   "storyYears": [],
   "source": "https://www.italyformovies.it/film-serie-tv-games/detail/6385/shadows-on-the-vatican-atto-ii-ira-game",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

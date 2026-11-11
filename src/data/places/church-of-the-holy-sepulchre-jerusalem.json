@@ -1,0 +1,14 @@
+{
+  "id": "church-of-the-holy-sepulchre-jerusalem",
+  "name": "Church of the Holy Sepulchre, Jerusalem",
+  "position": {
+    "lat": 31.7783,
+    "lon": 35.2297
+  },
+  "scale": "site",
+  "parentId": "jerusalem",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Church_of_the_Holy_Sepulchre",
+  "description": "The church in the Christian Quarter of the Old City, held to be the site of the crucifixion and tomb of Jesus.",
+  "descriptionSource": "wikipedia"
+}

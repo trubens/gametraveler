@@ -8,7 +8,7 @@
   "locations": [
     {
       "placeId": "yokosuka-japan",
-      "note": "In 1986 Yokosuka, Ryo Hazuki hunts the man who killed his father in the family dojo."
+      "note": "Ryo Hazuki's father is killed by Lan Di in the family dojo in Yokosuka; Ryo searches the town, including Dobuita and the harbor, for the killer, and ends the game boarding a boat to Hong Kong."
     }
   ],
   "storyYears": [
@@ -18,5 +18,6 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/Sega",
   "genres": [
     "Action-Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

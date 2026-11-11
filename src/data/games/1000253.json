@@ -1,7 +1,7 @@
 {
   "id": 1000253,
   "name": "Face Noir",
-  "year": 2012,
+  "year": 2013,
   "developer": "Mad Orange",
   "publisher": "Daedalic Entertainment / Phoenix Online Publishing",
   "genres": [
@@ -17,5 +17,6 @@
       "note": "Private detective Jack Del Nero investigates a murder and protects a young girl in Depression-era New York, in 1934.",
       "source": "https://store.postudios.com/products/face-noir"
     }
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

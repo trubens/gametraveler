@@ -7,7 +7,7 @@
   "locations": [
     {
       "placeId": "morimiya-fictional-tokyo-japan",
-      "note": "The Morimiya setting is modeled on Tachikawa, a city in western Tokyo.",
+      "note": "The fictional Morimiya City is modeled on Tachikawa, where Nihon Falcom has its offices, and its station plaza resembles the north exit of Tachikawa Station.",
       "settingType": "imaginary"
     }
   ],
@@ -17,5 +17,6 @@
   "source": "https://en.wikipedia.org/wiki/Tokyo_Xanadu",
   "genres": [
     "Action RPG"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

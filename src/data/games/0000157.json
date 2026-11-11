@@ -8,7 +8,7 @@
   "locations": [
     {
       "placeId": "las-vegas-usa",
-      "note": "A Courier shot and left for dead gets caught in the fight for New Vegas and Hoover Dam."
+      "note": "The Courier's hunt for the man who shot them leads to New Vegas, a version of the 1950s Strip in Googie-styled neon, run from its casinos."
     },
     {
       "placeId": "mojave-wasteland-usa-fictionalized-mojave-desert",
@@ -17,7 +17,12 @@
     },
     {
       "placeId": "hoover-dam-nevada-arizona-usa",
-      "note": "The real Hoover Dam is a major story location and battle site."
+      "note": "The game ends in the war between the NCR and Caesar's Legion for control of Hoover Dam and the Mojave."
+    },
+    {
+      "placeId": "goodsprings-nevada-usa",
+      "settingType": "fictionalized",
+      "note": "The Courier, shot and left for dead, starts here, and the hunt for the assailant begins."
     }
   ],
   "storyYears": [
@@ -28,5 +33,6 @@
   "route": false,
   "genres": [
     "RPG"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

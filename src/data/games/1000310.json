@@ -14,15 +14,15 @@
   "locations": [
     {
       "placeId": "berlin-germany",
-      "note": "Aliens have landed in Germany's big cities; Berlin's levels run from the Brandenburg Gate to the Reichstag's plenary chamber."
+      "note": "Aliens have settled in Germany's big cities; Berlin's levels are the Brandenburg Gate, the Reichstag's plenary chamber and the Unter den Linden station."
     },
     {
       "placeId": "brandenburg-gate-berlin-germany",
-      "note": "The fight at the gate on Pariser Platz."
+      "note": "One level is set at the Brandenburg Gate."
     },
     {
       "placeId": "reichstag-berlin-germany",
-      "note": "Clearing the aliens out of the Reichstag's plenary chamber."
+      "note": "One level is set in the Reichstag's plenary chamber."
     },
     {
       "placeId": "unter-den-linden-berlin-germany",
@@ -34,15 +34,15 @@
     },
     {
       "placeId": "speicherstadt-hamburg-germany",
-      "note": "A level through the canal-side warehouses."
+      "note": "One level is set in the Speicherstadt, Hamburg's warehouse district."
     },
     {
       "placeId": "reeperbahn-hamburg-germany",
-      "note": "A level down St. Pauli's nightlife street."
+      "note": "One level is set on the Reeperbahn."
     },
     {
       "placeId": "hamburg-city-hall-germany",
-      "note": "A level inside the Rathaus."
+      "note": "One level is set in the Rathaus."
     },
     {
       "placeId": "munich-germany",
@@ -50,11 +50,11 @@
     },
     {
       "placeId": "hofbrauhaus-munich-germany",
-      "note": "A level through the beer hall."
+      "note": "One level is set in the Hofbräuhaus."
     },
     {
       "placeId": "marienplatz-munich-germany",
-      "note": "A level in the New Town Hall on Marienplatz."
+      "note": "One level is set in the New Town Hall on Marienplatz."
     },
     {
       "placeId": "cologne-germany",
@@ -62,15 +62,15 @@
     },
     {
       "placeId": "cologne-cathedral-germany",
-      "note": "A level in and around the cathedral."
+      "note": "One level is set at the cathedral."
     },
     {
       "placeId": "alter-markt-cologne-germany",
-      "note": "A level across the old market square."
+      "note": "One level is set on the Alter Markt."
     },
     {
       "placeId": "wallraf-richartz-museum-cologne-germany",
-      "note": "A level through the art museum."
+      "note": "One level is set in the Wallraf-Richartz Museum."
     },
     {
       "placeId": "frankfurt-germany",
@@ -78,7 +78,8 @@
     },
     {
       "placeId": "romerberg-frankfurt-germany",
-      "note": "The last stand on the square in front of the Römer."
+      "note": "The Frankfurt level is set on the Römerberg."
     }
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

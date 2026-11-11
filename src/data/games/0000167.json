@@ -7,7 +7,19 @@
   "locations": [
     {
       "placeId": "shibuya-tokyo-japan",
-      "note": "Neku wakes at Shibuya's Scramble Crossing, forced to play the Reapers' Game across the district."
+      "note": "Neku is forced to play the Reapers' Game, a three-week contest across a fictionalised Shibuya.",
+      "settingType": "fictionalized"
+    },
+    {
+      "placeId": "shibuya-crossing-tokyo-japan",
+      "note": "Neku wakes at the Scramble Crossing at the start of the Reapers' Game."
+    },
+    {
+      "placeId": "shibuya-109-tokyo-japan",
+      "note": "The 109 department store appears in the game as '104'.",
+      "aliases": [
+        "104"
+      ]
     }
   ],
   "storyYears": [
@@ -17,5 +29,6 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/Square_Enix",
   "genres": [
     "Action RPG"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

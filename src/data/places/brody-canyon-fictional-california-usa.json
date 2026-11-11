@@ -1,0 +1,17 @@
+{
+  "id": "brody-canyon-fictional-california-usa",
+  "name": "Brody Canyon, California, USA",
+  "position": {
+    "lat": 36.78,
+    "lon": -119.42
+  },
+  "scale": "area",
+  "parentId": "california-usa",
+  "placeType": "region",
+  "fictional": true,
+  "description": "An invented canyon in California where the writer Ed Miller crashes his car. No source places it in a real part of the state, so it is pinned at the centre of California.",
+  "aliases": [
+    "Brody Canyon"
+  ],
+  "source": "https://adventuregamehotspot.com/review/19/alfred-hitchcock-vertigo"
+}

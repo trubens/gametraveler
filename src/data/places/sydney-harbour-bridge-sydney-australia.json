@@ -1,0 +1,14 @@
+{
+  "id": "sydney-harbour-bridge-sydney-australia",
+  "name": "Sydney Harbour Bridge, Sydney, Australia",
+  "position": {
+    "lat": -33.8522,
+    "lon": 151.2106
+  },
+  "scale": "site",
+  "parentId": "sydney-australia",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge",
+  "description": "The steel arch bridge across the harbour between the city centre and the North Shore.",
+  "descriptionSource": "wikipedia"
+}

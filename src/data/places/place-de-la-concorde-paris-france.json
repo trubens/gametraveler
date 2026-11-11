@@ -1,0 +1,14 @@
+{
+  "id": "place-de-la-concorde-paris-france",
+  "name": "Place de la Concorde, Paris, France",
+  "position": {
+    "lat": 48.8656,
+    "lon": 2.3212
+  },
+  "scale": "site",
+  "parentId": "paris-france",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Place_de_la_Concorde",
+  "description": "One of the major public squares of Paris.",
+  "descriptionSource": "wikipedia"
+}

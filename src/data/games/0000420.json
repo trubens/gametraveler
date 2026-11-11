@@ -7,8 +7,8 @@
   "publisher": "Cryo Interactive Entertainment / Canal+ Multimedia / Réunion des Musées Nationaux",
   "locations": [
     {
-      "placeId": "versailles-france",
-      "note": "Players explore the Palace of Versailles while investigating a threat against Louis XIV."
+      "placeId": "palace-of-versailles-france",
+      "note": "Lalande, a young valet de chambre, has until nightfall on the summer solstice of 1685 to search the palace and grounds for clues and keys after a pamphlet threatens to burn the castle, and he defuses a bomb in the attic passageway."
     }
   ],
   "storyYears": [
@@ -17,5 +17,6 @@
   "source": "https://en.wikipedia.org/wiki/Versailles_1685",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

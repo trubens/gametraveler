@@ -7,15 +7,23 @@
   "locations": [
     {
       "placeId": "new-york-city-usa",
-      "note": "A rookie joins the original Ghostbusters in 1991 to chase ghosts across Manhattan landmarks."
+      "note": "In November 1991, two years after Ghostbusters II, a rookie joins the original team to chase ghosts across Manhattan."
+    },
+    {
+      "placeId": "times-square-new-york-city-usa",
+      "note": "A level through Times Square."
     },
     {
       "placeId": "new-york-public-library-new-york-city-usa",
-      "note": "The restless librarian haunts the stacks of the Public Library."
+      "note": "The ghost is Dr. Eleanor Twitty, murdered by Edmund Hoover over the Gozerian Codex; capturing her opens a portal to the Ghost World, where the team fights Hoover as Azetlor the Destroyer."
+    },
+    {
+      "placeId": "american-museum-of-natural-history-new-york-city-usa",
+      "note": "The game opens at the Gozer exhibit, and a full level cleanses the museum."
     },
     {
       "placeId": "central-park-new-york-city-usa",
-      "note": "Shandor's mausoleum rises in Central Park for the finale."
+      "note": "A mausoleum rises in Central Park as a gateway between dimensions; the team rescues Ilyssa and Peck, finds Mayor Mulligan possessed by Shandor and defeats Shandor's Architect form."
     }
   ],
   "storyYears": [
@@ -24,5 +32,20 @@
   "source": "https://en.wikipedia.org/wiki/Ghostbusters:_The_Video_Game",
   "genres": [
     "Action-Adventure"
-  ]
+  ],
+  "routes": [
+    {
+      "id": "ghostbusters",
+      "name": "The Ghostbusters",
+      "stops": [
+        "times-square-new-york-city-usa",
+        "new-york-public-library-new-york-city-usa",
+        "american-museum-of-natural-history-new-york-city-usa",
+        "central-park-new-york-city-usa"
+      ],
+      "note": "From Times Square through the Library and the Museum to the Central Park finale.",
+      "source": "https://strategywiki.org/wiki/Ghostbusters:_The_Video_Game/Table_of_Contents"
+    }
+  ],
+  "reviewed": "2026-11-11"
 }

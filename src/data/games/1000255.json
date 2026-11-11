@@ -24,7 +24,7 @@
     },
     {
       "placeId": "berlin-germany",
-      "note": "Eisenwald Prison and the Kreisau Circle's hideout in the capital of the victorious Reich."
+      "note": "Eisenwald Prison and the Berlin catacombs, where B.J. finds the Kreisau Circle's hideout in the capital of the victorious Reich."
     },
     {
       "placeId": "london-uk",
@@ -32,7 +32,7 @@
     },
     {
       "placeId": "croatia",
-      "note": "Camp Belica, an invented forced-labour camp in northern Croatia."
+      "note": "Camp Belica, an invented extermination camp in northern Croatia."
     },
     {
       "placeId": "gibraltar",
@@ -57,5 +57,6 @@
       "note": "After fourteen years in a Polish asylum, B.J. fights through the Stettin checkpoint to Berlin, London, Camp Belica in Croatia and the Gibraltar Bridge.",
       "source": "https://en.wikipedia.org/wiki/Wolfenstein:_The_New_Order"
     }
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

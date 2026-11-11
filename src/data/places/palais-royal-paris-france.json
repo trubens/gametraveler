@@ -1,0 +1,14 @@
+{
+  "id": "palais-royal-paris-france",
+  "name": "Palais-Royal, Paris, France",
+  "position": {
+    "lat": 48.8633,
+    "lon": 2.3369
+  },
+  "scale": "site",
+  "parentId": "paris-france",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Palais-Royal",
+  "description": "A former royal palace in the centre of Paris, across from the Louvre.",
+  "descriptionSource": "wikipedia"
+}

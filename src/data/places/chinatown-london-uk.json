@@ -1,0 +1,14 @@
+{
+  "id": "chinatown-london-uk",
+  "name": "Chinatown, London, UK",
+  "position": {
+    "lat": 51.5111,
+    "lon": -0.1314
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chinatown,_London",
+  "description": "An ethnic enclave in the City of Westminster, in the West End of London.",
+  "descriptionSource": "wikipedia"
+}

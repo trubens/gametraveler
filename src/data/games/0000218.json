@@ -7,10 +7,12 @@
   "locations": [
     {
       "placeId": "vienna-austria",
-      "note": "The interconnected stories follow artists and a mathematician through Vienna's cultural and intellectual life before World War I."
+      "note": "Painter Franz Markert makes the rounds of cafés, salons and markets, meeting Gustav Klimt and Sigmund Freud; mathematician Emma Recniczek passes as \"Emil Schell\" to be let into the city's circle of mathematicians."
     }
   ],
-  "storyYears": [],
+  "storyYears": [
+    1914
+  ],
   "source": "https://store.steampowered.com/app/437160/",
   "genres": [
     "Adventure"

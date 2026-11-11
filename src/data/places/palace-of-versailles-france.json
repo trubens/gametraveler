@@ -1,0 +1,17 @@
+{
+  "id": "palace-of-versailles-france",
+  "name": "Palace of Versailles, France",
+  "position": {
+    "lat": 48.8047,
+    "lon": 2.1203
+  },
+  "scale": "site",
+  "parentId": "versailles-france",
+  "placeType": "landmark",
+  "aliases": [
+    "Château de Versailles"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Palace_of_Versailles",
+  "description": "The royal château of Louis XIV and his successors, with its gardens, west of Paris.",
+  "descriptionSource": "wikipedia"
+}

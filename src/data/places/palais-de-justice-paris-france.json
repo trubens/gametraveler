@@ -1,0 +1,14 @@
+{
+  "id": "palais-de-justice-paris-france",
+  "name": "Palais de Justice, Paris, France",
+  "position": {
+    "lat": 48.8557,
+    "lon": 2.3451
+  },
+  "scale": "site",
+  "parentId": "paris-france",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Palais_de_Justice,_Paris",
+  "description": "The law courts of Paris on the Île de la Cité.",
+  "descriptionSource": "wikipedia"
+}

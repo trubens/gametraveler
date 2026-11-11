@@ -7,7 +7,35 @@
   "locations": [
     {
       "placeId": "london-uk",
-      "note": "An alternate steampunk Victorian London where Knights of the Round Table fight half-breeds."
+      "note": "In an alternate steampunk 1886 London, Galahad and the Knights of the Round Table fight half-breeds and meet the Lycans in the Underground."
+    },
+    {
+      "placeId": "mayfair-london-uk",
+      "note": "The opening fight is in Mayfair, and the United India Company's headquarters is here later."
+    },
+    {
+      "placeId": "whitechapel-london-uk",
+      "note": "The rebel headquarters is raided in Whitechapel, which the game visits twice."
+    },
+    {
+      "placeId": "royal-london-hospital-london-uk",
+      "note": "The abandoned Royal London Hospital serves as the rebels' headquarters."
+    },
+    {
+      "placeId": "hyde-park-london-uk",
+      "note": "The airship Agamemnon crashes in Hyde Park, destroying the Crystal Palace, which the game places there."
+    },
+    {
+      "placeId": "palace-of-westminster-london-uk",
+      "note": "The council chambers are in the Palace of Westminster."
+    },
+    {
+      "placeId": "westminster-bridge-london-uk",
+      "note": "The rebels attack on Westminster Bridge."
+    },
+    {
+      "placeId": "blackwall-london-uk",
+      "note": "Vampires are shipped out from the United India Company warehouses at Blackwall."
     }
   ],
   "storyYears": [
@@ -17,5 +45,6 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
   "genres": [
     "Third-Person Shooter"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

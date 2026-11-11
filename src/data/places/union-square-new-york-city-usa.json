@@ -1,0 +1,14 @@
+{
+  "id": "union-square-new-york-city-usa",
+  "name": "Union Square, New York City, USA",
+  "position": {
+    "lat": 40.7356,
+    "lon": -73.9906
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Union_Square,_Manhattan",
+  "description": "A public square in Manhattan at the meeting of Broadway and Park Avenue South.",
+  "descriptionSource": "wikipedia"
+}

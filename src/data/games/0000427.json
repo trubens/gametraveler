@@ -7,14 +7,18 @@
   "locations": [
     {
       "placeId": "louvre-paris-france",
-      "note": "The whole game plays inside the Louvre, through its halls in four eras, to recover the artifacts of a curse."
+      "note": "Secret Service agent Morgane Sinclair goes back through the Louvre of Charles V, Henry IV and Louis XV to retrieve the four Satan's Keys before a cult of Black Templars can unite them."
     }
   ],
   "storyYears": [
+    1377,
+    1610,
+    1770,
     2000
   ],
   "source": "https://en.wikipedia.org/wiki/The_Messenger_(2000_video_game)",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

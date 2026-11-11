@@ -1,0 +1,14 @@
+{
+  "id": "royal-london-hospital-london-uk",
+  "name": "Royal London Hospital, London, UK",
+  "position": {
+    "lat": 51.518,
+    "lon": -0.0588
+  },
+  "scale": "site",
+  "parentId": "whitechapel-london-uk",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Royal_London_Hospital",
+  "description": "A large teaching hospital in Whitechapel.",
+  "descriptionSource": "wikipedia"
+}

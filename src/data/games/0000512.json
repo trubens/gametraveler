@@ -7,7 +7,7 @@
   "locations": [
     {
       "placeId": "norrkoping-sweden",
-      "note": "Carol investigates the murder of a vagrant found in a friend's apartment, moving scene by scene through photographs of real Norrköping."
+      "note": "A letter from a friend leads Carol to investigate the murder of a vagrant found in a friend's apartment, moving scene by scene through photographs of real Norrköping."
     }
   ],
   "storyYears": [
@@ -16,5 +16,6 @@
   "source": "https://en.wikipedia.org/wiki/Carol_Reed_Mysteries",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

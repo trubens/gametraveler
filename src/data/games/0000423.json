@@ -8,14 +8,15 @@
   "locations": [
     {
       "placeId": "heliopolis-egypt",
-      "note": "A priestess investigates an epidemic in ancient Heliopolis."
+      "note": "Tifet, a doctor, is summoned to Heliopolis, where a plague has struck and her father is infected, and works through the Temple of Re, its library and school and the Governor's Villa to find a cure."
     }
   ],
   "storyYears": [
-    -1350
+    -1360
   ],
   "source": "https://en.wikipedia.org/wiki/Egypt_II:_The_Heliopolis_Prophecy",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

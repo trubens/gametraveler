@@ -7,19 +7,19 @@
   "locations": [
     {
       "placeId": "swiss-alps-switzerland",
-      "note": "Constable Zellner boards the Orient Express guarding a ruby as it crosses the Swiss Alps."
+      "note": "Constable Zellner is already aboard the Orient Express guarding a ruby when a tunnel explosion stops it in the Swiss Alps."
     },
     {
-      "placeId": "london-uk",
-      "note": "The Raven's return is announced by a ruby stolen from the British Museum in 1964."
-    },
-    {
-      "placeId": "cairo-egypt",
-      "note": "The chase ends at the Cairo Museum, where the second Sphinx ruby is displayed."
+      "placeId": "venice-italy",
+      "note": "The story continues from the Venice dock to the MS Lydia."
     },
     {
       "placeId": "egyptian-museum-cairo-egypt",
-      "note": "The chase ends in the Cairo museum where the two eyes of the Sphinx are to be displayed."
+      "note": "The Raven steals the single displayed ruby in the Cairo museum, and Zellner catches him and learns his identity."
+    },
+    {
+      "placeId": "zurich-switzerland",
+      "note": "Part 2 replays events from Adil's side at Zurich main station and on the Orient Express."
     }
   ],
   "storyYears": [
@@ -30,5 +30,21 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/Nordic_Games",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "routes": [
+    {
+      "id": "raven",
+      "name": "Constable Zellner",
+      "stops": [
+        "swiss-alps-switzerland",
+        "venice-italy",
+        "egyptian-museum-cairo-egypt",
+        "zurich-switzerland",
+        "egyptian-museum-cairo-egypt"
+      ],
+      "note": "From the Orient Express in the Alps by ship to Cairo and back to Zurich.",
+      "source": "https://www.gamepressure.com/raven-remastered-game-guide-walkthrough"
+    }
+  ],
+  "reviewed": "2026-11-11"
 }

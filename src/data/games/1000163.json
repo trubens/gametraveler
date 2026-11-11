@@ -11,8 +11,10 @@
   "locations": [
     {
       "placeId": "babylon-iraq",
-      "note": "The Prince returns to Babylon, and the game unfolds across its streets, rooftops, canals, and palace district."
+      "note": "The Prince returns to Babylon, and the game unfolds across its streets, rooftops, sewers, palace and hanging gardens.",
+      "settingType": "fictionalized"
     }
   ],
-  "storyYears": []
+  "storyYears": [],
+  "reviewed": "2026-11-11"
 }

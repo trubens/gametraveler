@@ -16,7 +16,7 @@
   "locations": [
     {
       "placeId": "dunkirk-france",
-      "note": "The squadron covers the evacuation of Dunkirk in 1940."
+      "note": "The squadron helps defend the Allied forces at Dunkirk in 1940."
     },
     {
       "placeId": "london-uk",
@@ -24,23 +24,27 @@
     },
     {
       "placeId": "libya",
-      "note": "Desert sorties in support of the British in Libya."
+      "note": "A reconnaissance mission over German positions in the Libyan desert, then cover for a British assault."
     },
     {
       "placeId": "pearl-harbor-hawaii-usa",
-      "note": "Scrambling into the air as the Japanese strike Pearl Harbor."
+      "note": "The squadron helps repel the Japanese attack on Pearl Harbor."
     },
     {
       "placeId": "coral-sea",
-      "note": "Hunting a Japanese carrier convoy in the Coral Sea."
+      "note": "The squadron destroys a Japanese convoy that includes a carrier."
     },
     {
       "placeId": "midway-atoll-usa",
-      "note": "Defending the airfield at Midway from Japanese raids."
+      "note": "The squadron defends Midway and covers the bombers that destroy a large Japanese fleet."
     },
     {
       "placeId": "guadalcanal-solomon-islands",
-      "note": "Beating off Japanese landings at Guadalcanal."
+      "note": "The squadron beats off Japanese landings and destroys a Japanese battleship."
+    },
+    {
+      "placeId": "new-georgia-islands-solomon-islands",
+      "note": "US landings are supported, and tanks and bunkers are destroyed."
     },
     {
       "placeId": "rabaul-papua-new-guinea",
@@ -48,7 +52,7 @@
     },
     {
       "placeId": "vemork-rjukan-norway",
-      "note": "A strike on German shipping in Norway and the heavy-water plant in the mountains."
+      "note": "A strike on German shipping in Norway and a secret German heavy water base found through a fjord passage."
     },
     {
       "placeId": "normandy-france",
@@ -64,7 +68,8 @@
     },
     {
       "placeId": "berlin-germany",
-      "note": "The final mission over Berlin in 1945 against German jet fighters."
+      "note": "The final mission over Berlin in 1945 against the German jet fighters of the Nowotny squadron, led by the ace from London, who is shot down."
     }
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

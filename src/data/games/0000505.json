@@ -7,16 +7,17 @@
   "locations": [
     {
       "placeId": "nevada-usa",
-      "note": "Kyle Hyde checks into the isolated Hotel Dusk in rural Nevada; the game never names the town."
+      "note": "On a December night in 1979 Kyle Hyde checks into the rural Nevada Hotel Dusk, which the game never places in a named town."
     }
   ],
   "storyYears": [
-    1980
+    1979
   ],
   "source": "https://en.wikipedia.org/wiki/Hotel_Dusk:_Room_215",
   "developerUrl": "https://en.wikipedia.org/wiki/Cing",
   "publisherUrl": "https://en.wikipedia.org/wiki/Nintendo",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

@@ -1,0 +1,14 @@
+{
+  "id": "shoreditch-london-uk",
+  "name": "Shoreditch, London, UK",
+  "position": {
+    "lat": 51.526,
+    "lon": -0.078
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shoreditch",
+  "description": "An area of the London Borough of Hackney in east London.",
+  "descriptionSource": "wikipedia"
+}

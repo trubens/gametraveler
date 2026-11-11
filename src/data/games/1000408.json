@@ -1,0 +1,22 @@
+{
+  "id": 1000408,
+  "name": "Freddy Pharkas: Frontier Pharmacist",
+  "year": 1993,
+  "developer": "Sierra On-Line",
+  "publisher": "Sierra On-Line",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    1880
+  ],
+  "source": "https://en.wikipedia.org/wiki/Freddy_Pharkas:_Frontier_Pharmacist",
+  "reviewed": "2026-11-11",
+  "locations": [
+    {
+      "placeId": "coarsegold-california-usa",
+      "settingType": "fictionalized",
+      "note": "Freddy Pharkas, a former gunslinger turned pharmacist, finds out who is buying or scaring out the town's businesses for the oil rights, and ends up in a duel with Kenny the Kid and a fight with the schoolmarm Penelope Primm in the schoolhouse."
+    }
+  ]
+}

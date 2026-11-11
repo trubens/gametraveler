@@ -12,12 +12,13 @@
   "locations": [
     {
       "placeId": "mumbai-india",
-      "note": "Pink explores Bombay’s streets, markets and palace while following the case."
+      "note": "Pink visits Bombay while gathering clues about a camper's home country."
     },
     {
       "placeId": "varanasi-india",
-      "note": "Pink travels by train to Varanasi and visits the Ganges during the investigation."
+      "note": "Pink visits Varanasi and the Ganges, then parachutes into the Pacific."
     }
   ],
-  "storyYears": []
+  "storyYears": [],
+  "reviewed": "2026-11-11"
 }

@@ -8,7 +8,7 @@
   "locations": [
     {
       "placeId": "maine-usa",
-      "note": "FBI agent Victoria McPherson hunts the East Coast Killer at an isolated house in rural Maine."
+      "note": "FBI agent Victoria McPherson hunts the East Coast Killer in Maine, where a body is found on Highway 201 near Jackman, while the journalist Paloma Hernandez wakes up in the killer's dilapidated house."
     }
   ],
   "storyYears": [
@@ -19,5 +19,6 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/Microids",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

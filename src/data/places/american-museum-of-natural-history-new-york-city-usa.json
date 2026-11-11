@@ -1,0 +1,14 @@
+{
+  "id": "american-museum-of-natural-history-new-york-city-usa",
+  "name": "American Museum of Natural History, New York City, USA",
+  "position": {
+    "lat": 40.7808,
+    "lon": -73.9744
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/American_Museum_of_Natural_History",
+  "description": "The large natural history museum on the Upper West Side of Manhattan.",
+  "descriptionSource": "wikipedia"
+}

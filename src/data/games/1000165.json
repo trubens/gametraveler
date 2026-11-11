@@ -20,19 +20,20 @@
     },
     {
       "placeId": "ascalon-ashkelon-israel",
-      "note": "The player fights through the City of Ascalon and its citadel, based on the historic coastal city."
+      "note": "The player fights through the City of Ascalon and its citadel."
     },
     {
       "placeId": "la-rochelle-france",
-      "note": "A playable night mission takes place in La Rochelle."
+      "note": "A mission takes place in La Rochelle."
     },
     {
       "placeId": "montsegur-france",
-      "note": "The final chapters explore Montségur's outskirts and castle, Celian's home."
+      "note": "The final chapters explore Montségur's outskirts and castle."
     }
   ],
   "storyYears": [
     1291,
     1307
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

@@ -1,0 +1,14 @@
+{
+  "id": "dam-square-amsterdam-netherlands",
+  "name": "Dam Square, Amsterdam, Netherlands",
+  "position": {
+    "lat": 52.3731,
+    "lon": 4.8928
+  },
+  "scale": "site",
+  "parentId": "amsterdam-netherlands",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dam_Square",
+  "description": "The main square of Amsterdam, with the Royal Palace and the National Monument.",
+  "descriptionSource": "wikipedia"
+}

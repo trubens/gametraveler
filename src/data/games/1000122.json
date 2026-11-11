@@ -8,7 +8,7 @@
   "locations": [
     {
       "placeId": "chicago-usa",
-      "note": "The prologue takes place during the 1893 World's Fair; the story draws on the real history of H. H. Holmes and his Chicago hotel."
+      "note": "The prologue is set in H. H. Holmes's original World's Fair Hotel in Chicago during the 1893 World's Fair, where the newlyweds Jeff and Marie Whitman are murdered."
     },
     {
       "placeId": "lake-michigan-usa",
@@ -16,7 +16,7 @@
         "Hunter's Island"
       ],
       "settingType": "fictionalized",
-      "note": "A documentary crew is lured to Hunter's Island to film a replica of H. H. Holmes's murder hotel, and is hunted through it."
+      "note": "A film crew accepts an invitation to the island estate of Granthem Du'Met, which holds a replica of Holmes's Murder Castle; the hotel locks down and they are hunted through it until they escape by boat."
     }
   ],
   "storyYears": [
@@ -26,5 +26,6 @@
   "source": "https://en.wikipedia.org/wiki/The_Dark_Pictures_Anthology:_The_Devil_in_Me",
   "genres": [
     "Interactive Drama"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

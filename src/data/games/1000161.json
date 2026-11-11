@@ -12,7 +12,7 @@
   "locations": [
     {
       "placeId": "montrose-colorado-usa",
-      "note": "The campaign begins in occupied Montrose, where Jacobs and the resistance fight through the town."
+      "note": "Jacobs is woken in his apartment in occupied Montrose and put on a bus to a re-education camp; resistance fighters ambush it, and most of the campaign is fought in and around the walled town."
     },
     {
       "placeId": "san-francisco-usa",
@@ -20,10 +20,26 @@
     },
     {
       "placeId": "golden-gate-bridge-california-usa",
-      "note": "In the final chapter, the player fights across the recognizable Golden Gate Bridge."
+      "note": "The finale is a ground, anti-aircraft and air assault to retake the bridge, where Connor Morgan calls an airstrike on the enemy convoy and sacrifices himself."
     }
   ],
   "storyYears": [
     2027
+  ],
+  "reviewed": "2026-11-10",
+  "routes": [
+    {
+      "id": "resistance",
+      "name": "The resistance",
+      "characters": [
+        "Robert Jacobs"
+      ],
+      "stops": [
+        "montrose-colorado-usa",
+        "golden-gate-bridge-california-usa"
+      ],
+      "note": "From occupied Montrose to the assault on the Golden Gate Bridge.",
+      "source": "https://en.wikipedia.org/wiki/Homefront_(video_game)"
+    }
   ]
 }

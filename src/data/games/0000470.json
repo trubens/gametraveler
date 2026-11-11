@@ -8,7 +8,12 @@
   "locations": [
     {
       "placeId": "berlin-germany",
-      "note": "The supernatural wartime campaign takes players through a ruined Berlin."
+      "note": "In April 1945 the player fights undead through a ruined Berlin, to Hitler's bunker, the Berlin Central Library and the Brandenburg Gate where the first Relic piece waits."
+    },
+    {
+      "placeId": "brandenburg-gate-berlin-germany",
+      "settingType": "fictionalized",
+      "note": "The group goes to the gate to find the first piece of the Relic."
     }
   ],
   "storyYears": [
@@ -17,5 +22,6 @@
   "source": "https://en.wikipedia.org/wiki/Zombie_Army_Trilogy",
   "genres": [
     "Third-Person Shooter"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

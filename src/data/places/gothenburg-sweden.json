@@ -1,0 +1,17 @@
+{
+  "id": "gothenburg-sweden",
+  "name": "Gothenburg, Sweden",
+  "position": {
+    "lat": 57.7075,
+    "lon": 11.9675
+  },
+  "scale": "area",
+  "parentId": "sweden",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gothenburg",
+  "description": "Sweden's second-largest city, a port on the west coast.",
+  "descriptionSource": "wikipedia",
+  "aliases": [
+    "Göteborg"
+  ]
+}

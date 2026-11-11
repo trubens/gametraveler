@@ -1,0 +1,14 @@
+{
+  "id": "miami-international-airport-miami-usa",
+  "name": "Miami International Airport, Miami, USA",
+  "position": {
+    "lat": 25.7933,
+    "lon": -80.2906
+  },
+  "scale": "site",
+  "parentId": "miami-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Miami_International_Airport",
+  "description": "The main international airport of Miami, Florida.",
+  "descriptionSource": "wikipedia"
+}

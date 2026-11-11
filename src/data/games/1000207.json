@@ -8,17 +8,17 @@
   "locations": [
     {
       "placeId": "new-york-city-usa",
-      "note": "The investigation begins in New York.",
+      "note": "Nicole Bonnet investigates ritual murders of wealthy New Yorkers, from the FBI office to a museum of pre-Columbian art.",
       "source": "https://www.worthplaying.com/article/2007/10/9/news/45687-art-of-murder-fbi-confidential-visits-peru-screens/"
     },
     {
       "placeId": "cusco-peru",
-      "note": "Nicole Bonnet follows the clues to Cusco, Peru.",
+      "note": "Nicole follows the clues to Cusco and Alvarado's house, then drives into the Andes toward the legendary city of Akakor.",
       "source": "https://www.worthplaying.com/article/2007/10/9/news/45687-art-of-murder-fbi-confidential-visits-peru-screens/"
     },
     {
       "placeId": "peru",
-      "note": "The investigation leads into the Peruvian Amazon.",
+      "note": "The trail leads over a rope bridge and through the jungle at the edge of the Amazon to Akakor.",
       "source": "https://www.clubic.com/actualite-89458-art-murder-fbi-confidential.html"
     }
   ],
@@ -37,11 +37,13 @@
       "source": "https://www.worthplaying.com/article/2007/10/9/news/45687-art-murder-fbi-confidential-visits-peru-screens/"
     }
   ],
-  "storyYears": [
-    2007
-  ],
   "source": "https://www.mobygames.com/game/30234/art-of-murder-fbi-confidential/",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "storyYears": [
+    1986,
+    2008
+  ],
+  "reviewed": "2026-11-10"
 }

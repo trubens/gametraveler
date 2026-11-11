@@ -11,15 +11,17 @@
       "aliases": [
         "New Bordeaux"
       ],
-      "note": "Lincoln Clay fights the mob in New Bordeaux, a reimagined New Orleans with a French Ward, docks and surrounding bayous."
+      "note": "Vietnam veteran Lincoln Clay returns to New Bordeaux, a fictional city modeled on New Orleans, and after the Marcano family betrays him during a Federal Reserve heist at Mardi Gras he takes over their rackets district by district with three allied crime bosses."
     }
   ],
   "storyYears": [
-    1968
+    1968,
+    1971
   ],
   "source": "https://en.wikipedia.org/wiki/Mafia_III",
   "publisherUrl": "https://en.wikipedia.org/wiki/2K_(company)",
   "genres": [
     "Action-Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

@@ -8,7 +8,7 @@
   "locations": [
     {
       "placeId": "newburyport-massachusetts-usa",
-      "note": "The journey begins with arrival at the Newburyport train station.",
+      "note": "The story begins at Newburyport station, where the traveller first hears of Innsmouth.",
       "source": "https://store.steampowered.com/app/420180/Chronicle_of_Innsmouth/"
     },
     {
@@ -34,5 +34,6 @@
   "genres": [
     "Adventure",
     "Survival Horror"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

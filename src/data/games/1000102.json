@@ -8,7 +8,7 @@
     {
       "placeId": "southern-louisiana-bayou-usa",
       "settingType": "fictionalized",
-      "note": "In 1925 Laura Bow is stranded at Colonel Dijon's decaying sugar plantation on a bayou island, where the reading of his will leads to murder."
+      "note": "In 1925 Laura Bow, a Tulane student, spends a weekend at Colonel Dijon's decaying Louisiana sugar plantation, where the reading of his will is followed by murders she investigates."
     }
   ],
   "storyYears": [
@@ -17,5 +17,6 @@
   "source": "https://en.wikipedia.org/wiki/The_Colonel%27s_Bequest",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

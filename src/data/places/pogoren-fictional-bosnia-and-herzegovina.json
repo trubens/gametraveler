@@ -1,0 +1,18 @@
+{
+  "id": "pogoren-fictional-bosnia-and-herzegovina",
+  "name": "Pogoren, Graznavia",
+  "position": {
+    "lat": 43.8563,
+    "lon": 18.4131
+  },
+  "scale": "area",
+  "parentId": "bosnia-and-herzegovina",
+  "placeType": "city",
+  "aliases": [
+    "Pogoren"
+  ],
+  "fictional": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Siege_of_Sarajevo",
+  "description": "An invented besieged city in the invented country of Graznavia. The game was inspired by the Siege of Sarajevo, so it is pinned there, though it also draws on Ypres, Warsaw, Mogadishu, Fallujah and Syria.",
+  "descriptionSource": "wikipedia"
+}

@@ -8,17 +8,17 @@
   "locations": [
     {
       "placeId": "new-orleans-usa",
-      "note": "The investigation opens with a crime scene in New Orleans.",
+      "note": "A SWAT team finds a bloodless body hanging in a hangar, and Detective Nicole Bonnet flies to Paris.",
       "source": "https://en.wikipedia.org/wiki/Art_of_Murder:_Hunt_for_the_Puppeteer"
     },
     {
       "placeId": "paris-france",
-      "note": "Nicole Bonnet travels to Paris as the investigation continues.",
+      "note": "Bonnet investigates a drained ballet dancer and a second murder in a Montmartre apartment, and is shot at on the Pont des Invalides while meeting Jack Dupree.",
       "source": "https://en.wikipedia.org/wiki/Art_of_Murder:_Hunt_for_the_Puppeteer"
     },
     {
       "placeId": "havana-cuba",
-      "note": "Nick sends Bonnet to Havana, where Marc Taine's family came from, to meet an archivist.",
+      "note": "Bonnet meets an archivist and researches the Montoute family, which points her to an estate in Las Tunas.",
       "source": "https://en.wikipedia.org/wiki/Art_of_Murder:_Hunt_for_the_Puppeteer"
     }
   ],
@@ -43,5 +43,6 @@
   "source": "https://en.wikipedia.org/wiki/Art_of_Murder:_Hunt_for_the_Puppeteer",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

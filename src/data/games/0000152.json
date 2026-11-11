@@ -8,7 +8,23 @@
   "locations": [
     {
       "placeId": "london-uk",
-      "note": "Ex-gangster Mark Hammond is forced through London's underworld after his son is kidnapped."
+      "note": "Over one day Mark Hammond fights through the London underworld to rescue his kidnapped son Alex, while the Flying Squad officer Frank Carter plays the parallel story."
+    },
+    {
+      "placeId": "soho-london-uk",
+      "note": "The Collins Gang's headquarters, where Mark's day begins."
+    },
+    {
+      "placeId": "chinatown-london-uk",
+      "note": "Mark follows the kidnappers' trail to a Triad stronghold in Chinatown."
+    },
+    {
+      "placeId": "mayfair-london-uk",
+      "note": "Mark reaches Charlie Jolson's mansion in Mayfair in the hunt for his son."
+    },
+    {
+      "placeId": "st-saviours-dock-london-uk",
+      "note": "The finale takes place on the container ship Sol Vita."
     }
   ],
   "storyYears": [
@@ -18,5 +34,23 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
   "genres": [
     "Action-Adventure"
-  ]
+  ],
+  "routes": [
+    {
+      "id": "mark",
+      "name": "Mark Hammond",
+      "characters": [
+        "Mark Hammond"
+      ],
+      "stops": [
+        "soho-london-uk",
+        "chinatown-london-uk",
+        "mayfair-london-uk",
+        "st-saviours-dock-london-uk"
+      ],
+      "note": "From the Collins Gang's Soho headquarters to the ship at St Saviour's Dock.",
+      "source": "https://en.wikipedia.org/wiki/The_Getaway_(video_game)"
+    }
+  ],
+  "reviewed": "2026-11-10"
 }

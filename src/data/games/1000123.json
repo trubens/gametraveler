@@ -8,7 +8,7 @@
     {
       "placeId": "indian-ocean-fictional-maupiti-island",
       "settingType": "imaginary",
-      "note": "In 1954 a hurricane forces Jérôme Lange's boat, bound from Madagascar to Japan, to anchor at Maupiti, an invented colonial outpost, where a woman named Marie vanishes in the night."
+      "note": "In 1954 a hurricane forces Jérôme Lange's boat, bound from Madagascar to Japan, to anchor at Maupiti, a tiny invented colonial outpost where Marie vanishes in the night and the characters move between 28 locations in pseudo-real time."
     }
   ],
   "storyYears": [
@@ -17,5 +17,6 @@
   "source": "https://en.wikipedia.org/wiki/Maupiti_Island_(video_game)",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

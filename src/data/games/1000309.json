@@ -17,23 +17,32 @@
   "locations": [
     {
       "placeId": "amsterdam-netherlands",
-      "note": "Purple aliens, the Grøbbers, have taken over Amsterdam, and the player shoots a way through the city's real landmarks with five weapons."
+      "note": "Purple aliens, the Grøbbers, have taken over Amsterdam, which the UN has evacuated and sealed in with a powerfield, and the player shoots a way through the city's real landmarks with five weapons."
     },
     {
       "placeId": "amsterdam-centraal-station-netherlands",
-      "note": "The invasion is fought through the halls and platforms of Centraal Station."
+      "note": "One level is set in Centraal Station."
     },
     {
       "placeId": "de-wallen-amsterdam-netherlands",
-      "note": "A level through the alleys of the red-light district."
+      "note": "One level is set in De Wallen, the red-light district."
     },
     {
       "placeId": "madame-tussauds-amsterdam-netherlands",
-      "note": "A level among the wax figures on Dam Square."
+      "note": "One level is set in Madame Tussauds, on Dam Square."
     },
     {
       "placeId": "rijksmuseum-amsterdam-netherlands",
-      "note": "A level through the galleries of the Rijksmuseum."
+      "note": "One level is set in the Rijksmuseum."
+    },
+    {
+      "placeId": "dam-square-amsterdam-netherlands",
+      "note": "One level is set on the Dam, the square at the heart of Amsterdam."
+    },
+    {
+      "placeId": "schiphol-airport-netherlands",
+      "note": "One level is set at Schiphol airport."
     }
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

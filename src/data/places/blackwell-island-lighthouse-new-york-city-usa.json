@@ -1,0 +1,17 @@
+{
+  "id": "blackwell-island-lighthouse-new-york-city-usa",
+  "name": "Blackwell Island Lighthouse, New York City, USA",
+  "position": {
+    "lat": 40.7728,
+    "lon": -73.9402
+  },
+  "scale": "site",
+  "parentId": "roosevelt-island-new-york-city-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "Roosevelt Island Lighthouse"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Roosevelt_Island_Lighthouse",
+  "description": "A stone lighthouse of 1872 in Lighthouse Park at the northern tip of Roosevelt Island.",
+  "descriptionSource": "wikipedia"
+}

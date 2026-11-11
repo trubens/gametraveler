@@ -1,0 +1,14 @@
+{
+  "id": "ivdel-sverdlovsk-oblast-russia",
+  "name": "Ivdel, Russia",
+  "position": {
+    "lat": 60.6833,
+    "lon": 60.4167
+  },
+  "scale": "site",
+  "parentId": "russia",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivdel",
+  "description": "A town in Sverdlovsk Oblast on the railway to the northern Urals.",
+  "descriptionSource": "wikipedia"
+}

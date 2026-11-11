@@ -7,11 +7,11 @@
   "locations": [
     {
       "placeId": "hong-kong-china",
-      "note": "Jake Masters is recruited in 1930s Hong Kong for a rescue mission in China."
+      "note": "Lucky Masters, a former WWI pilot, is hired by E.A. Lomax to rescue his daughter Kate, with the reward shrinking by $20,000 for each day of delay, and he recruits the ninja Zhao Chi."
     },
     {
       "placeId": "chengdu-china",
-      "note": "The rescue target is held in warlord Li Deng's fortress near Chengdu."
+      "note": "Lucky and Chi sneak into the fortress of the warlord Li Deng in Chengdu to rescue Kate."
     },
     {
       "placeId": "kathmandu-nepal",
@@ -27,11 +27,13 @@
     }
   ],
   "storyYears": [
-    1930
+    1930,
+    1939
   ],
   "route": true,
   "source": "https://en.wikipedia.org/wiki/Heart_of_China",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

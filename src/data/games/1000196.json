@@ -8,7 +8,7 @@
   "locations": [
     {
       "placeId": "boston-usa",
-      "note": "Private investigator Charles Reed comes from Boston to investigate Oakmont.",
+      "note": "Charles Reed's home city, from where he travels to Oakmont; in one ending he returns here with the Seal of Cthygonnaar.",
       "source": "https://en.wikipedia.org/wiki/The_Sinking_City"
     },
     {
@@ -17,7 +17,7 @@
         "Oakmont"
       ],
       "settingType": "fictionalized",
-      "note": "Private investigator Charles Reed comes to the flooded city of Oakmont in the 1920s, looking for the source of his visions.",
+      "note": "Oakmont is a fictional Massachusetts city cut off from the mainland by a supernatural flood, where Charles Reed is invited by Professor Johannes van der Berg to look into his visions.",
       "source": "https://blog.playstation.com/2019/06/24/5-ways-the-sinking-city-will-drain-your-sanity/"
     }
   ],
@@ -43,5 +43,6 @@
   "genres": [
     "Adventure",
     "Survival Horror"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

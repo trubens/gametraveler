@@ -7,7 +7,7 @@
   "locations": [
     {
       "placeId": "norrkoping-sweden",
-      "note": "Carol's neighbour Oscar sees a dead body on his morning walk that is gone when the police arrive, and Carol takes the case through photographed Norrköping."
+      "note": "Carol's neighbour Oscar sees a dead body on a walk that is gone when the police arrive, and Carol takes the case through photographed Norrköping."
     }
   ],
   "storyYears": [
@@ -16,5 +16,6 @@
   "source": "https://en.wikipedia.org/wiki/Carol_Reed_Mysteries",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

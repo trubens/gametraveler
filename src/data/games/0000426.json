@@ -7,7 +7,7 @@
   "locations": [
     {
       "placeId": "pompeii-italy",
-      "note": "A time traveler explores Pompeii shortly before the eruption of Vesuvius."
+      "note": "Adrien Blake, an explorer and cartographer under a curse from the goddess Ishtar, comes to Pompeii four days before the eruption of Vesuvius to find his missing fiancée Sophia."
     }
   ],
   "storyYears": [
@@ -16,5 +16,6 @@
   "source": "https://en.wikipedia.org/wiki/Pompei:_The_Legend_of_Vesuvius",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

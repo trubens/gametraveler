@@ -1,0 +1,14 @@
+{
+  "id": "zocalo-mexico-city",
+  "name": "Zócalo, Mexico City",
+  "position": {
+    "lat": 19.4328,
+    "lon": -99.1331
+  },
+  "scale": "site",
+  "parentId": "mexico-city-mexico",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Z%C3%B3calo",
+  "description": "The main square of central Mexico City.",
+  "descriptionSource": "wikipedia"
+}

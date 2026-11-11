@@ -17,18 +17,14 @@
   "locations": [
     {
       "placeId": "london-uk",
-      "note": "A Bitter Coffee: Harry, Ron and Hermione fight their way out of a London café after Death Eaters find them; Grimmauld Place, the Ministry and Godric's Hollow are invented.",
+      "note": "In 'A Bitter Coffee' Harry, Ron and Hermione fight their way out of a London café after Death Eaters find them, and later return for the Polyjuice mission.",
       "source": "https://www.harrypotterdatabase.com/video-games/harry-potter-and-the-deathly-hallows-part-1-video-game"
     },
     {
-      "placeId": "epping-forest-england-uk",
-      "note": "The trio's first camp in the woods after the Ministry, where the hunt through the forests begins.",
-      "source": "https://harrypotter.fandom.com/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)"
-    },
-    {
       "placeId": "forest-of-dean-england-uk",
-      "note": "The winter camps: the Snatchers' camp by the abandoned viaduct, and the snow where the sword of Gryffindor waits in the pool.",
+      "note": "The winter camp, where the sword of Gryffindor waits in a frozen pool and Ron destroys the Horcrux with it.",
       "source": "https://harrypotter.fandom.com/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)"
     }
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

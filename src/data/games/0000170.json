@@ -8,6 +8,11 @@
     {
       "placeId": "dubai-uae",
       "note": "A Delta team enters a Dubai buried by sandstorms to find Col. Konrad's lost battalion."
+    },
+    {
+      "placeId": "burj-khalifa-dubai-uae",
+      "note": "In the game's final location, a fictionalised Dubai tower, Walker finds Konrad's corpse in the penthouse after Adams dies.",
+      "settingType": "fictionalized"
     }
   ],
   "storyYears": [
@@ -17,5 +22,6 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/2K_(company)",
   "genres": [
     "Third-Person Shooter"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

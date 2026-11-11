@@ -1,0 +1,14 @@
+{
+  "id": "the-rocks-sydney-australia",
+  "name": "The Rocks, Sydney, Australia",
+  "position": {
+    "lat": -33.8599,
+    "lon": 151.209
+  },
+  "scale": "site",
+  "parentId": "sydney-australia",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Rocks,_New_South_Wales",
+  "description": "The oldest part of Sydney, on the south shore of the harbour beside the Harbour Bridge.",
+  "descriptionSource": "wikipedia"
+}

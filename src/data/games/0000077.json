@@ -7,7 +7,7 @@
   "locations": [
     {
       "placeId": "alaska-usa",
-      "note": "A week in the life of Blake in a small mountain town, upended when a body turns up on the airstrip."
+      "note": "A week in the life of Blake in a small remote town, upended when a body turns up on the airstrip."
     }
   ],
   "storyYears": [
@@ -16,5 +16,6 @@
   "source": "https://store.steampowered.com/app/800490/ALASKA/",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

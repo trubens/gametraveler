@@ -1,0 +1,14 @@
+{
+  "id": "chapultepec-castle-mexico-city",
+  "name": "Chapultepec Castle, Mexico City",
+  "position": {
+    "lat": 19.4206,
+    "lon": -99.1817
+  },
+  "scale": "site",
+  "parentId": "mexico-city-mexico",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chapultepec_Castle",
+  "description": "A castle on top of Chapultepec Hill in Mexico City.",
+  "descriptionSource": "wikipedia"
+}

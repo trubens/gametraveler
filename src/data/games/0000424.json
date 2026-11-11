@@ -7,7 +7,7 @@
   "locations": [
     {
       "placeId": "beijing-forbidden-city-china",
-      "note": "An imperial investigator solves a murder inside Beijing's Forbidden City."
+      "note": "In 1775 Superintendent Anjing is summoned by the Qianlong Emperor to investigate the death of the chief eunuch Wang and uncovers a conspiracy to kill and replace the emperor."
     }
   ],
   "storyYears": [
@@ -16,5 +16,6 @@
   "source": "https://en.wikipedia.org/wiki/China:_The_Forbidden_City",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

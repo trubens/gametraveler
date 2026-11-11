@@ -7,7 +7,15 @@
   "locations": [
     {
       "placeId": "st-petersburg-russia",
-      "note": "The investigation begins with missing paintings at the Hermitage Museum."
+      "note": "The investigation begins with missing paintings at the Hermitage Museum, where several acts take place, including one beneath the museum."
+    },
+    {
+      "placeId": "scotland-uk",
+      "note": "The trail leads to a residence in Scotland, with a castle, a cellar and a meeting room."
+    },
+    {
+      "placeId": "finland",
+      "note": "The story ends at a Finnish cloister, where André is found."
     }
   ],
   "storyYears": [
@@ -16,5 +24,23 @@
   "source": "https://en.wikipedia.org/wiki/Memento_Mori_(video_game)",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "routes": [
+    {
+      "id": "max-lara",
+      "name": "Max and Lara",
+      "characters": [
+        "Max",
+        "Lara"
+      ],
+      "stops": [
+        "st-petersburg-russia",
+        "scotland-uk",
+        "finland"
+      ],
+      "note": "From the Hermitage to a Scottish castle and a Finnish cloister.",
+      "source": "https://en.wikipedia.org/wiki/Memento_Mori_(video_game)"
+    }
+  ],
+  "reviewed": "2026-11-11"
 }

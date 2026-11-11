@@ -11,7 +11,11 @@
     },
     {
       "placeId": "paris-france",
-      "note": "Amnesiac John Yesterday pieces together his lost past from his home in Paris."
+      "note": "Amnesiac John Yesterday goes to Paris to resume an interrupted search, with a hotel and an antiques shop among the stops."
+    },
+    {
+      "placeId": "scotland-uk",
+      "note": "The finale is at the ruins of St. Fergus Church in Inverloch Woods, with an underground chamber."
     }
   ],
   "storyYears": [
@@ -22,5 +26,19 @@
   "developerUrl": "https://en.wikipedia.org/wiki/Pendulo_Studios",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "routes": [
+    {
+      "id": "yesterday",
+      "name": "Yesterday",
+      "stops": [
+        "new-york-city-usa",
+        "paris-france",
+        "scotland-uk"
+      ],
+      "note": "From the New York subway station to Paris and the Scottish ruins.",
+      "source": "https://gameboomers.com/wtcheats/pcYy/Yesterday/Yesterday.htm"
+    }
+  ],
+  "reviewed": "2026-11-11"
 }

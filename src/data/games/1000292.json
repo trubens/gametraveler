@@ -13,18 +13,19 @@
   "locations": [
     {
       "placeId": "rome-italy",
-      "note": "Lars Bundy, now working incognito for a security agency in Italy, investigates the murder of his client from his Rome apartment.",
+      "note": "Lars Bundy works incognito for a security agency in Italy and investigates the murder of his client, with Rome as the first location.",
       "source": "https://amigamaster.github.io/Simple-Game-Solutions/solutions/R/Roots%20in%20the%20Sky%20-%20The%20Hand%20of%20Glory%202-EN.html"
     },
     {
       "placeId": "villa-borghese-rome-italy",
-      "note": "The Villa Borghese gardens are a recurring scene.",
+      "note": "Lars examines a corpse in the park, takes the man's ID and camera, and later talks to Beniamino and a policeman on the viewing balcony.",
       "source": "https://amigamaster.github.io/Simple-Game-Solutions/solutions/R/Roots%20in%20the%20Sky%20-%20The%20Hand%20of%20Glory%202-EN.html"
     },
     {
       "placeId": "spanish-steps-rome-italy",
-      "note": "The Spanish Steps are another recurring Rome location.",
+      "note": "In the street and café by the steps Lars talks to Edgardo, Malcolm and Miranda, and later returns for Miranda's notebook.",
       "source": "https://amigamaster.github.io/Simple-Game-Solutions/solutions/R/Roots%20in%20the%20Sky%20-%20The%20Hand%20of%20Glory%202-EN.html"
     }
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

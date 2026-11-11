@@ -8,7 +8,7 @@
   "locations": [
     {
       "placeId": "mount-yotei-hokkaido-japan",
-      "note": "Mercenary Atsu returns to Ezo (Hokkaido) in 1603 to hunt the Yōtei Six who killed her family."
+      "note": "In 1603 on Ezo (Hokkaido), around Mount Yōtei, the mercenary Atsu hunts the Yōtei Six, who killed her family."
     }
   ],
   "storyYears": [
@@ -17,5 +17,6 @@
   "source": "https://en.wikipedia.org/wiki/Ghost_of_Y%C5%8Dtei",
   "genres": [
     "Action-Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

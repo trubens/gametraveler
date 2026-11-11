@@ -1,0 +1,14 @@
+{
+  "id": "south-pass-wyoming-usa",
+  "name": "South Pass, Wyoming, USA",
+  "position": {
+    "lat": 42.3303,
+    "lon": -108.9738
+  },
+  "scale": "site",
+  "parentId": "united-states",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/South_Pass_(Wyoming)",
+  "description": "A broad pass across the Continental Divide that carried the emigrant trails west.",
+  "descriptionSource": "wikipedia"
+}

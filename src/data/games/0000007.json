@@ -12,7 +12,7 @@
         "Chandler Avenue",
         "Old San Francisco"
       ],
-      "note": "PI Tex Murphy works a stolen-statuette case in post-war San Francisco in 2042, from his office on Chandler Avenue in the run-down Old San Francisco where the Mutants live.",
+      "note": "Tex Murphy, broke and recently divorced in run-down Old San Francisco, solves a burglary at the pawnshop across the street, then takes Countess Renier's job to find a missing statuette and uncovers the Brotherhood of Purity's doomsday plot.",
       "source": "https://en.wikipedia.org/wiki/Under_a_Killing_Moon"
     }
   ],
@@ -23,5 +23,6 @@
   "developerUrl": "https://en.wikipedia.org/wiki/Access_Software",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

@@ -1,0 +1,14 @@
+{
+  "id": "lake-shinji-shimane-japan",
+  "name": "Lake Shinji, Shimane, Japan",
+  "position": {
+    "lat": 35.45,
+    "lon": 132.9667
+  },
+  "scale": "area",
+  "parentId": "matsue-shimane-japan",
+  "placeType": "body_of_water",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lake_Shinji",
+  "description": "A brackish coastal lake beside Matsue.",
+  "descriptionSource": "wikipedia"
+}

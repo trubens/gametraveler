@@ -11,11 +11,30 @@
   "locations": [
     {
       "placeId": "cleveland-ohio-usa",
-      "note": "The investigation begins in Cleveland, where the player visits the police office and crime-scene locations."
+      "note": "In 1941 the new COI agent Pearson links the Brotherhood of Thule to the Cleveland torso murders and leads a local detective to the killer's lair."
+    },
+    {
+      "placeId": "los-angeles-usa",
+      "note": "The chase ends in a California home, where Winslow completes the final ritual murders of the Black Dahlia rite."
     }
   ],
   "storyYears": [
-    1941,
-    1948
-  ]
+    1941
+  ],
+  "routes": [
+    {
+      "id": "pearson",
+      "name": "Pearson",
+      "characters": [
+        "Pearson"
+      ],
+      "stops": [
+        "cleveland-ohio-usa",
+        "los-angeles-usa"
+      ],
+      "note": "From the Cleveland torso murders to the final ritual in California.",
+      "source": "https://en.wikipedia.org/wiki/Black_Dahlia_(video_game)"
+    }
+  ],
+  "reviewed": "2026-11-11"
 }

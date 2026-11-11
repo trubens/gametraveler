@@ -17,7 +17,7 @@
     },
     {
       "placeId": "coral-gables-florida-usa",
-      "note": "Alfie works in Coral Gables during its real estate boom, around the sales office, the Venetian Pool and the Biltmore Hotel.",
+      "note": "Alfie works in Coral Gables during its real estate boom, around the sales office, the Bank of Coral Gables and the Merrick House.",
       "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=865115208"
     },
     {
@@ -27,8 +27,16 @@
     },
     {
       "placeId": "tamiami-trail-florida-usa",
-      "note": "In 1929 Alfie follows Tamiami Trail into the Everglades, where the moonshine-running sequence takes place.",
+      "note": "Alfie follows the Tamiami Trail into the Everglades, where he finds a distillery at a hut.",
       "source": "https://amigamaster.github.io/Simple-Game-Solutions/solutions/A/A%20Golden%20Wake-EN.html"
+    },
+    {
+      "placeId": "miami-biltmore-hotel-coral-gables-florida-usa",
+      "note": "The Biltmore is the location the story returns to most, with a 13th-floor suite and a secret room."
+    },
+    {
+      "placeId": "venetian-pool-coral-gables-florida-usa",
+      "note": "William Jennings Bryan speaks at the Venetian Pool."
     }
   ],
   "routes": [
@@ -59,13 +67,11 @@
   ],
   "storyYears": [
     1921,
-    1922,
-    1925,
-    1926,
-    1929
+    1926
   ],
   "source": "https://en.wikipedia.org/wiki/A_Golden_Wake",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

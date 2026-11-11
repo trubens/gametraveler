@@ -1,0 +1,17 @@
+{
+  "id": "miami-biltmore-hotel-coral-gables-florida-usa",
+  "name": "Miami Biltmore Hotel, Coral Gables, Florida, USA",
+  "position": {
+    "lat": 25.7411,
+    "lon": -80.2792
+  },
+  "scale": "site",
+  "parentId": "coral-gables-florida-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "Biltmore Hotel"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Miami_Biltmore_Hotel",
+  "description": "The 1926 hotel in Coral Gables, commonly called the Biltmore.",
+  "descriptionSource": "wikipedia"
+}

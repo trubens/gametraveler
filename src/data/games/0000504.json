@@ -7,7 +7,7 @@
   "locations": [
     {
       "placeId": "los-angeles-usa",
-      "note": "The game follows a 1980s Los Angeles mystery in Cape West, with the city and its neighborhoods at the center of the story."
+      "note": "In December 1980 Kyle Hyde's story is played out in the fictional Cape West Apartments, a block due for demolition in Los Angeles."
     }
   ],
   "storyYears": [
@@ -18,5 +18,6 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/Nintendo",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

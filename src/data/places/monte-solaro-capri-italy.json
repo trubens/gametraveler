@@ -1,0 +1,14 @@
+{
+  "id": "monte-solaro-capri-italy",
+  "name": "Monte Solaro, Capri, Italy",
+  "position": {
+    "lat": 40.5444,
+    "lon": 14.2239
+  },
+  "scale": "site",
+  "parentId": "anacapri-capri-italy",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Monte_Solaro",
+  "description": "The highest mountain on Capri, reached by chairlift from Anacapri.",
+  "descriptionSource": "wikipedia"
+}

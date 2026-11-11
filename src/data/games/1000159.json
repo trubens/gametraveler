@@ -10,22 +10,44 @@
   "source": "https://en.wikipedia.org/wiki/80_Days_(2005_video_game)",
   "locations": [
     {
+      "placeId": "london-uk",
+      "note": "The journey starts and ends in London, from 2 October 1899."
+    },
+    {
       "placeId": "cairo-egypt",
-      "note": "Oliver begins his journey in Cairo while searching for the scattered documents."
+      "note": "In Cairo Oliver fights tomb robbers in the catacombs, enters the harem and finds the first trinket."
     },
     {
       "placeId": "mumbai-india",
-      "note": "Bombay is one of the four major cities Oliver must explore to find the documents."
+      "note": "In Bombay Oliver finds the snake temple and rescues Ravish."
     },
     {
       "placeId": "yokohama-japan",
-      "note": "Oliver travels to Yokohama as part of his worldwide search."
+      "note": "In Yokohama Oliver reaches the Shogun's palace and the Emperor."
     },
     {
       "placeId": "san-francisco-usa",
-      "note": "San Francisco is the final city in the document hunt."
+      "note": "San Francisco holds the fourth trinket, at the City Archives and Fix's office."
     }
   ],
-  "storyYears": [],
-  "route": true
+  "storyYears": [
+    1899
+  ],
+  "routes": [
+    {
+      "id": "oliver",
+      "name": "Oliver",
+      "stops": [
+        "london-uk",
+        "cairo-egypt",
+        "mumbai-india",
+        "yokohama-japan",
+        "san-francisco-usa",
+        "london-uk"
+      ],
+      "note": "Around the world from London and back.",
+      "source": "https://www.gameboomers.com/wtcheats/pc0-9/80days.htm"
+    }
+  ],
+  "reviewed": "2026-11-11"
 }

@@ -11,7 +11,7 @@
     },
     {
       "placeId": "union-station-los-angeles-usa",
-      "note": "Phelps can drive past Union Station and log it as one of the city's landmarks.",
+      "note": "Union Station is one of the thirty landmarks the player can find and log.",
       "source": "https://strategywiki.org/wiki/L.A._Noire/Landmarks"
     },
     {
@@ -31,7 +31,7 @@
     },
     {
       "placeId": "graumans-chinese-theatre-los-angeles-usa",
-      "note": "Grauman's Chinese Theatre anchors the Hollywood cases.",
+      "note": "Grauman's Chinese Theatre is one of the Hollywood landmarks of the recreated city.",
       "source": "https://strategywiki.org/wiki/L.A._Noire/Landmarks"
     },
     {
@@ -48,5 +48,6 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/Rockstar_Games",
   "genres": [
     "Action-Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

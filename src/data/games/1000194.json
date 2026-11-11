@@ -11,7 +11,7 @@
         "Illsmouth"
       ],
       "settingType": "fictionalized",
-      "note": "In 1910 the photographer John T. Parker comes to Illsmouth to photograph Halley's Comet and finds the town preparing a ritual for its return.",
+      "note": "In 1910 the British photographer John Parker travels to the town of Illsmouth, an allusion to Lovecraft's Innsmouth, to photograph Halley's Comet and has three days to uncover a conspiracy tied to what happened to Lord Boleskine in 1834.",
       "source": "https://www.mocagh.org/ea/aitd-shadowcomet-shadowcomet-manual.pdf"
     }
   ],
@@ -21,5 +21,6 @@
   "source": "https://www.mocagh.org/ea/aitd-shadowcomet-shadowcomet-manual.pdf",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

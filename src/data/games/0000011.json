@@ -12,22 +12,28 @@
         "Shangri-La"
       ],
       "settingType": "fictionalized",
-      "note": "Shangri-La, hidden in the Tibetan Himalayas, is one of three lost cities agent Gage Blackwood visits."
+      "note": "Shangri-La is one of three lost civilizations the player visits, reached through the Himalayas in AD 1219."
     },
     {
       "placeId": "south-america-el-dorado",
-      "note": "El Dorado, the legendary golden city of South America, holds a piece of the Legacy."
+      "note": "The legendary golden city of El Dorado is one of the three lost civilizations the player visits, in the Andes in AD 524."
+    },
+    {
+      "placeId": "atlantis-fictional-mediterranean",
+      "settingType": "imaginary",
+      "note": "Atlantis is one of three lost civilizations the player visits, reached in 1262 BC under the Mediterranean."
     }
   ],
   "storyYears": [
-    1342,
-    -645,
-    -443
+    -1262,
+    524,
+    1219
   ],
   "source": "https://en.wikipedia.org/wiki/The_Journeyman_Project_3:_Legacy_of_Time",
   "developerUrl": "https://en.wikipedia.org/wiki/Presto_Studios",
   "publisherUrl": "https://en.wikipedia.org/wiki/Red_Orb_Entertainment",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

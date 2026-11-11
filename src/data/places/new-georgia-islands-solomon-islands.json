@@ -1,0 +1,14 @@
+{
+  "id": "new-georgia-islands-solomon-islands",
+  "name": "New Georgia Islands, Solomon Islands",
+  "position": {
+    "lat": -8.5,
+    "lon": 157.3333
+  },
+  "scale": "area",
+  "parentId": "solomon-islands",
+  "placeType": "island",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Georgia_Islands",
+  "description": "A group of islands in the Solomon Islands, fought over in 1943.",
+  "descriptionSource": "wikipedia"
+}

@@ -8,7 +8,7 @@
   "locations": [
     {
       "placeId": "new-york-city-usa",
-      "note": "Gina investigates Brian's apparent death and a conspiracy centered on New York."
+      "note": "The game ends in New York, where Brian infiltrates Dr. Bennett's apartment, Gina presents the hypnotherapy recordings to a judge and the volcanic rock is sold for ten million dollars."
     }
   ],
   "storyYears": [
@@ -19,5 +19,6 @@
   "developerUrl": "https://en.wikipedia.org/wiki/Pendulo_Studios",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

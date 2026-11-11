@@ -1,0 +1,14 @@
+{
+  "id": "independence-rock-wyoming-usa",
+  "name": "Independence Rock, Wyoming, USA",
+  "position": {
+    "lat": 42.494,
+    "lon": -107.133
+  },
+  "scale": "site",
+  "parentId": "united-states",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Independence_Rock",
+  "description": "A large granite rock on the Oregon Trail in Wyoming, where emigrants carved their names.",
+  "descriptionSource": "wikipedia"
+}

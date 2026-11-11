@@ -7,11 +7,15 @@
   "locations": [
     {
       "placeId": "port-royal-jamaica",
-      "note": "The story begins in Port Royal, where the pirate trials set the film's events in motion."
+      "note": "Jack escapes the Fortress Prison and goes to Port Royal to find Tia Dalma, and returns there at the end."
     },
     {
       "placeId": "tortuga-haiti",
-      "note": "The crew visits the real Caribbean island of Tortuga during the search for Jack Sparrow."
+      "note": "The crew visits the real Caribbean island of Tortuga on the way to the Pirate Lords."
+    },
+    {
+      "placeId": "singapore",
+      "note": "Will makes a pact with Sao Feng in Singapore, and British forces attack the city."
     }
   ],
   "storyYears": [
@@ -20,5 +24,20 @@
   "source": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_At_World%27s_End_(video_game)",
   "genres": [
     "Action-Adventure"
-  ]
+  ],
+  "routes": [
+    {
+      "id": "jack",
+      "name": "Jack Sparrow",
+      "stops": [
+        "port-royal-jamaica",
+        "tortuga-haiti",
+        "singapore",
+        "port-royal-jamaica"
+      ],
+      "note": "From Port Royal through Tortuga to Singapore and back.",
+      "source": "https://gamepressure.com/piratesofthecaribbeanatworldsend"
+    }
+  ],
+  "reviewed": "2026-11-11"
 }

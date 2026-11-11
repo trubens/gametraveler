@@ -1,0 +1,14 @@
+{
+  "id": "blue-grotto-capri-italy",
+  "name": "Blue Grotto, Capri, Italy",
+  "position": {
+    "lat": 40.561,
+    "lon": 14.2057
+  },
+  "scale": "site",
+  "parentId": "capri-italy",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Blue_Grotto_(Capri)",
+  "description": "A sea cave on the coast of Capri, lit blue by sunlight through an underwater opening.",
+  "descriptionSource": "wikipedia"
+}

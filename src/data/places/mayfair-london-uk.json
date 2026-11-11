@@ -1,0 +1,14 @@
+{
+  "id": "mayfair-london-uk",
+  "name": "Mayfair, London, UK",
+  "position": {
+    "lat": 51.51,
+    "lon": -0.147
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mayfair",
+  "description": "An affluent area of Westminster in central London.",
+  "descriptionSource": "wikipedia"
+}

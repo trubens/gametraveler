@@ -7,15 +7,14 @@
   "locations": [
     {
       "placeId": "alaska-usa",
-      "note": "An Iñupiat girl, Nuna, and an Arctic fox seek the source of an endless blizzard in Arctic Alaska."
+      "note": "An Iñupiat girl, Nuna, and an Arctic fox seek the source of an endless blizzard, in a game based on the Iñupiaq tale of Kunuuksaayuka."
     }
   ],
-  "storyYears": [
-    2014
-  ],
+  "storyYears": [],
   "source": "https://en.wikipedia.org/wiki/Never_Alone_(video_game)",
   "genres": [
     "Puzzle-Platformer",
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

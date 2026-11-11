@@ -7,7 +7,7 @@
   "locations": [
     {
       "placeId": "capri-italy",
-      "note": "A tourist's relaxing weekend on Capri turns strange, explored through 4,500 photos of the real island."
+      "note": "A tourist's weekend turns strange when the island empties of people and the player works through an island scientist's inventions to find 'The Code'."
     }
   ],
   "storyYears": [
@@ -17,5 +17,6 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/Got_Game_Entertainment",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

@@ -7,25 +7,25 @@
   "locations": [
     {
       "placeId": "london-uk",
-      "note": "The interactive journey starts in London and can visit Paris on its branching route around the world."
+      "note": "The journey starts in London, where Fogg makes his bet at the Reform Club, and the player chooses whether to leave by underwater train to Paris or mail carriage to Cambridge."
     },
     {
       "placeId": "paris-france",
-      "note": "The interactive journey starts in London and can visit Paris on its branching route around the world."
+      "note": "Paris is one of the two starting options out of London, by underwater train."
     },
     {
       "placeId": "buenos-aires-argentina",
-      "note": "Buenos Aires is a visitable city with its own story content and onward routes, including a ship to Rio de Janeiro.",
+      "note": "Buenos Aires is a visitable city with its own story content.",
       "source": "https://gamefaqs.gamespot.com/switch/272474-80-days/faqs/71567"
     },
     {
       "placeId": "santiago-chile",
-      "note": "Santiago connects to Buenos Aires by train in the game's branching travel network.",
+      "note": "Santiago is a visitable city on the branching route.",
       "source": "https://gamefaqs.gamespot.com/switch/272474-80-days/faqs/71567"
     },
     {
       "placeId": "rio-de-janeiro-brazil",
-      "note": "A ship route connects Buenos Aires to Rio de Janeiro.",
+      "note": "Rio de Janeiro is a visitable city on the branching route.",
       "source": "https://gamefaqs.gamespot.com/switch/272474-80-days/faqs/71567"
     },
     {
@@ -49,28 +49,12 @@
       "note": "Madras is a visitable city on the route through India."
     }
   ],
-  "routes": [
-    {
-      "id": "south-america-via-buenos-aires",
-      "name": "South America via Buenos Aires",
-      "characters": [
-        "Passepartout",
-        "Phileas Fogg"
-      ],
-      "stops": [
-        "santiago-chile",
-        "buenos-aires-argentina",
-        "rio-de-janeiro-brazil"
-      ],
-      "note": "Across South America by train from Santiago to Buenos Aires, then by ship to Rio de Janeiro.",
-      "source": "https://gamefaqs.gamespot.com/switch/272474-80-days/faqs/71567"
-    }
-  ],
   "storyYears": [
     1872
   ],
   "source": "https://en.wikipedia.org/wiki/80_Days_(2014_video_game)",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

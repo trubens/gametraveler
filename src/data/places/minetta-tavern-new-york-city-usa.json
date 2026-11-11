@@ -1,0 +1,14 @@
+{
+  "id": "minetta-tavern-new-york-city-usa",
+  "name": "Minetta Tavern, New York City, USA",
+  "position": {
+    "lat": 40.73,
+    "lon": -74.0007
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "venue",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Minetta_Tavern",
+  "description": "A restaurant and former literary haunt on MacDougal Street in Greenwich Village.",
+  "descriptionSource": "wikipedia"
+}

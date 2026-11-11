@@ -8,7 +8,11 @@
   "locations": [
     {
       "placeId": "new-york-city-usa",
-      "note": "During a New York blizzard, Rosa and Joey investigate deaths linked to a force that destroys ghosts."
+      "note": "Rosa traces the ghosts of the Grace Group, a church-based self-help group whose members are being torn apart by an unknown force, and the story ends with Joey scattering her ashes at the docks."
+    },
+    {
+      "placeId": "bellevue-hospital-new-york-city-usa",
+      "note": "Rosa is held in solitary confinement here, and with Joey and the ghost of her late aunt she gains temporary control over her immense knowledge."
     }
   ],
   "storyYears": [
@@ -18,5 +22,6 @@
   "developerUrl": "https://en.wikipedia.org/wiki/Wadjet_Eye_Games",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

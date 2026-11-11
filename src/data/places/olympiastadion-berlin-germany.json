@@ -1,0 +1,17 @@
+{
+  "id": "olympiastadion-berlin-germany",
+  "name": "Olympiastadion, Berlin, Germany",
+  "position": {
+    "lat": 52.5147,
+    "lon": 13.2394
+  },
+  "scale": "site",
+  "parentId": "berlin-germany",
+  "placeType": "landmark",
+  "aliases": [
+    "Berlin Olympic Stadium"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Olympiastadion_(Berlin)",
+  "description": "The sports stadium built for the 1936 Summer Olympics in Berlin.",
+  "descriptionSource": "wikipedia"
+}

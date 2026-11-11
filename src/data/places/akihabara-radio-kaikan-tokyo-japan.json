@@ -1,0 +1,17 @@
+{
+  "id": "akihabara-radio-kaikan-tokyo-japan",
+  "name": "Akihabara Radio Kaikan, Tokyo, Japan",
+  "position": {
+    "lat": 35.6978,
+    "lon": 139.7717
+  },
+  "scale": "site",
+  "parentId": "akihabara-tokyo-japan",
+  "placeType": "landmark",
+  "aliases": [
+    "Radio Kaikan"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Akihabara_Radio_Kaikan",
+  "description": "A commercial building in Akihabara and one of the best-known landmarks of the district.",
+  "descriptionSource": "wikipedia"
+}

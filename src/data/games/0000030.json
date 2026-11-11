@@ -8,11 +8,11 @@
   "locations": [
     {
       "placeId": "chicago-usa",
-      "note": "FBI agent Victoria McPherson hunts a serial killer in 2004 Chicago."
+      "note": "FBI agent Victoria McPherson finds her grandfather's notebook at Christmas and hunts a serial killer in 2004 Chicago, where the killer falls into the Chicago River at the end."
     },
     {
       "placeId": "prague-czech-republic",
-      "note": "Her grandfather Gus investigates a parallel series of murders in Prague in 1929."
+      "note": "Her grandfather Gus, a private investigator, hunts the killer of Prague street prostitutes in the 1920s."
     }
   ],
   "storyYears": [
@@ -23,5 +23,6 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/Microids",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

@@ -8,7 +8,7 @@
   "locations": [
     {
       "placeId": "buenos-aires-argentina",
-      "note": "Christian navigates the ruins and streets of Buenos Aires in 2035.",
+      "note": "Christian searches the ruins of Buenos Aires in 2035 for the man in a photograph.",
       "source": "https://store.steampowered.com/app/281060/Reversion__The_Meeting_2nd_Chapter/"
     }
   ],
@@ -18,5 +18,6 @@
   "source": "https://store.steampowered.com/app/281060/Reversion__The_Meeting_2nd_Chapter/",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

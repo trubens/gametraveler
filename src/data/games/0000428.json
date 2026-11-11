@@ -7,7 +7,15 @@
   "locations": [
     {
       "placeId": "jerusalem",
-      "note": "A historical investigation brings the player to Jerusalem."
+      "note": "In 1552 Adrian Blake comes to Ottoman Jerusalem to find his missing fiancée Sophia."
+    },
+    {
+      "placeId": "church-of-the-holy-sepulchre-jerusalem",
+      "note": "The player comes back to the church several times to follow clues and talk to the priest Palamede."
+    },
+    {
+      "placeId": "western-wall-jerusalem",
+      "note": "The talith is handed over to Kalonymus at the Wailing Wall."
     }
   ],
   "storyYears": [
@@ -16,5 +24,6 @@
   "source": "https://en.wikipedia.org/wiki/Jerusalem:_The_Three_Roads_to_the_Holy_Land",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

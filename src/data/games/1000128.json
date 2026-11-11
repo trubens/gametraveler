@@ -13,9 +13,18 @@
     {
       "placeId": "tokyo-japan",
       "note": "A detective investigates her partner’s disappearance through Tokyo’s streets and underground locations."
+    },
+    {
+      "placeId": "akihabara-tokyo-japan",
+      "note": "The investigation passes through Akihabara."
+    },
+    {
+      "placeId": "shinjuku-tokyo-japan",
+      "note": "Shinjuku, with its sewers, is one of the key areas."
     }
   ],
   "storyYears": [
     2017
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

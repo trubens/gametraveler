@@ -8,7 +8,15 @@
   "locations": [
     {
       "placeId": "thebes-luxor-egypt",
-      "note": "A young Egyptian investigates tomb robbery in the necropolis near Thebes."
+      "note": "Ramosé, a young Theban, tries to clear his father of accusations of robbing the tomb of Seti I."
+    },
+    {
+      "placeId": "deir-el-medina-egypt",
+      "note": "Ramosé finds the former draughtsman Hori dead in his cellar, with clues pointing to the embalmers."
+    },
+    {
+      "placeId": "karnak-egypt",
+      "note": "At the Festival Hall of Thutmose III he finds part of the loot and documents that implicate Ptahnéfer, a relative of the pharaoh."
     }
   ],
   "storyYears": [
@@ -17,5 +25,21 @@
   "source": "https://en.wikipedia.org/wiki/Egypt_1156_B.C.",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "routes": [
+    {
+      "id": "ramose",
+      "name": "Ramosé",
+      "characters": [
+        "Ramosé"
+      ],
+      "stops": [
+        "deir-el-medina-egypt",
+        "karnak-egypt"
+      ],
+      "note": "From the workmen's village to the Festival Hall at Karnak.",
+      "source": "https://en.wikipedia.org/wiki/Egypt_1156_B.C."
+    }
+  ],
+  "reviewed": "2026-11-10"
 }

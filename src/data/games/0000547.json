@@ -13,7 +13,7 @@
     {
       "placeId": "bradbury-building-los-angeles-usa",
       "settingType": "fictionalized",
-      "note": "McCoy's trail leads into the Bradbury Building, the film's famous atrium, rebuilt for the game's 2019."
+      "note": "McCoy enters the Bradbury Building, reproduced from the film as a hotel in DNA Row, on a visit in Act 2 and again in Act 3."
     }
   ],
   "storyYears": [
@@ -22,5 +22,6 @@
   "source": "https://en.wikipedia.org/wiki/Blade_Runner_(1997_video_game)",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

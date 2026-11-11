@@ -1,0 +1,14 @@
+{
+  "id": "hama-syria",
+  "name": "Hama, Syria",
+  "position": {
+    "lat": 35.1318,
+    "lon": 36.7578
+  },
+  "scale": "area",
+  "parentId": "syria",
+  "placeType": "city",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hama",
+  "description": "A city on the Orontes River in western Syria.",
+  "descriptionSource": "wikipedia"
+}

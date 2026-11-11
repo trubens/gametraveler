@@ -1,0 +1,17 @@
+{
+  "id": "western-wall-jerusalem",
+  "name": "Western Wall, Jerusalem",
+  "position": {
+    "lat": 31.7767,
+    "lon": 35.2345
+  },
+  "scale": "site",
+  "parentId": "jerusalem",
+  "placeType": "landmark",
+  "aliases": [
+    "Wailing Wall"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Western_Wall",
+  "description": "The ancient retaining wall of the Temple Mount, the holiest place where Jews may pray.",
+  "descriptionSource": "wikipedia"
+}

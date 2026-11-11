@@ -1,0 +1,14 @@
+{
+  "id": "soho-london-uk",
+  "name": "Soho, London, UK",
+  "position": {
+    "lat": 51.5128,
+    "lon": -0.1311
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Soho",
+  "description": "A district of Westminster in the West End of London.",
+  "descriptionSource": "wikipedia"
+}

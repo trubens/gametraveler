@@ -1,0 +1,17 @@
+{
+  "id": "schiphol-airport-netherlands",
+  "name": "Amsterdam Airport Schiphol, Netherlands",
+  "position": {
+    "lat": 52.3,
+    "lon": 4.765
+  },
+  "scale": "site",
+  "parentId": "netherlands",
+  "placeType": "venue",
+  "aliases": [
+    "Schiphol Airport"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol",
+  "description": "The main international airport of the Netherlands, southwest of Amsterdam.",
+  "descriptionSource": "wikipedia"
+}

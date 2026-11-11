@@ -1,0 +1,17 @@
+{
+  "id": "walker-air-force-base-roswell-new-mexico-usa",
+  "name": "Walker Air Force Base, Roswell, New Mexico, USA",
+  "position": {
+    "lat": 33.3017,
+    "lon": -104.5306
+  },
+  "scale": "site",
+  "parentId": "roswell-new-mexico-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "Roswell Army Air Field"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Walker_Air_Force_Base",
+  "description": "A former US Air Force base three miles south of Roswell's business district, linked in popular lore to the 1947 Roswell crash.",
+  "descriptionSource": "wikipedia"
+}

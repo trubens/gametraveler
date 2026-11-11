@@ -1,0 +1,14 @@
+{
+  "id": "shimane-art-museum-matsue-shimane-japan",
+  "name": "Shimane Art Museum, Matsue, Japan",
+  "position": {
+    "lat": 35.4595,
+    "lon": 133.0525
+  },
+  "scale": "site",
+  "parentId": "matsue-shimane-japan",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shimane_Art_Museum",
+  "description": "An art museum on the shore of Lake Shinji in Matsue.",
+  "descriptionSource": "wikipedia"
+}

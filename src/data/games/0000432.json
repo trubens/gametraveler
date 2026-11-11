@@ -24,11 +24,11 @@
     },
     {
       "placeId": "moscow-russia",
-      "note": "Anna and Fenton infiltrate the Moscow mausoleum and a Soviet underground facility."
+      "note": "Anna and Fenton tour the mausoleum, then find a hidden base under a sarcophagus where Gwen is held."
     },
     {
       "placeId": "sandhurst-england-uk",
-      "note": "The characters travel to Sandhurst as they follow the trail of the Viking artefact."
+      "note": "The characters travel to Sandhurst on the trail of the Viking artefact."
     },
     {
       "placeId": "jersey",
@@ -74,5 +74,6 @@
       "note": "A 1942 prologue in Dresden, then 1956 from Port Said through Bavaria, Berlin, Moscow, Sandhurst, Jersey and Gotland to Iceland, and back to Dresden at the end.",
       "source": "https://www.walkthroughking.com/text/losthorizon2.aspx"
     }
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

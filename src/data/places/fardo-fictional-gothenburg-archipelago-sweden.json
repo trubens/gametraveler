@@ -1,0 +1,19 @@
+{
+  "id": "fardo-fictional-gothenburg-archipelago-sweden",
+  "name": "Fardo, Gothenburg archipelago, Sweden",
+  "position": {
+    "lat": 57.6167,
+    "lon": 11.7833
+  },
+  "scale": "site",
+  "parentId": "gothenburg-sweden",
+  "placeType": "island",
+  "fictional": true,
+  "aliases": [
+    "Fardo"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gothenburg_archipelago",
+  "description": "An invented island in the game, where the author Bergwall died on a boat offshore. Sources place it near Gothenburg, so it is pinned in the Gothenburg archipelago as a guess; the game names no real model.",
+  "descriptionSource": "wikipedia",
+  "source": "https://adventuregamers.com/games/samaritan-paradox"
+}

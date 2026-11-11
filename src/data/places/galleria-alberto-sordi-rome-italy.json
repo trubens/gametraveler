@@ -1,0 +1,17 @@
+{
+  "id": "galleria-alberto-sordi-rome-italy",
+  "name": "Galleria Alberto Sordi, Rome, Italy",
+  "position": {
+    "lat": 41.9011,
+    "lon": 12.4812
+  },
+  "scale": "site",
+  "parentId": "rome-italy",
+  "placeType": "landmark",
+  "aliases": [
+    "Galleria Colonna"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Galleria_Alberto_Sordi",
+  "description": "A shopping arcade in central Rome, named until 2003 Galleria Colonna.",
+  "descriptionSource": "wikipedia"
+}

@@ -79,6 +79,11 @@
       "placeId": "logan-airport-boston-usa",
       "note": "The Brotherhood of Steel makes its base at the ruined airport, with the airship Prydwen moored above it.",
       "settingType": "fictionalized"
+    },
+    {
+      "placeId": "concord-massachusetts-usa",
+      "settingType": "fictionalized",
+      "note": "The Sole Survivor's first town after leaving the vault, where they befriend Dogmeat and meet Minutemen member Preston Garvey."
     }
   ],
   "storyYears": [
@@ -87,5 +92,6 @@
   "source": "https://en.wikipedia.org/wiki/Fallout_4",
   "genres": [
     "RPG"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

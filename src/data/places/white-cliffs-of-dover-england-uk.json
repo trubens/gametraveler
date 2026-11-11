@@ -1,0 +1,14 @@
+{
+  "id": "white-cliffs-of-dover-england-uk",
+  "name": "White Cliffs of Dover, England, UK",
+  "position": {
+    "lat": 51.1078,
+    "lon": 1.2786
+  },
+  "scale": "site",
+  "parentId": "england-uk",
+  "placeType": "natural_feature",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/White_Cliffs_of_Dover",
+  "description": "The chalk cliffs on the Kent coast facing France across the Strait of Dover.",
+  "descriptionSource": "wikipedia"
+}

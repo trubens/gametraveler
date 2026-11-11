@@ -7,7 +7,7 @@
   "locations": [
     {
       "placeId": "gare-de-l-est-paris-france",
-      "note": "The Orient Express leaves the Gare de l'Est on 24 July 1914 with fugitive Robert Cath jumping aboard from a motorcycle."
+      "note": "Robert Cath boards the Orient Express as it leaves the Gare de l'Est on 24 July 1914 and finds Tyler Whitney dead."
     },
     {
       "placeId": "munich-germany",
@@ -31,5 +31,6 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/Broderbund",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

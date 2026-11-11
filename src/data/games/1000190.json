@@ -8,7 +8,7 @@
   "locations": [
     {
       "placeId": "greenvale-fictional-washington",
-      "note": "FBI agent Francis York Morgan investigates the murder of 18-year-old Anna Graham in Greenvale, an invented rural town in Washington.",
+      "note": "FBI agent Francis York Morgan investigates the murder of Anna Graham in Greenvale, a fictional rural town in Washington, while a supernatural Other World overlaps the town between midnight and 6 a.m.",
       "settingType": "fictionalized",
       "source": "https://www.gamedeveloper.com/design/classic-postmortem-i-deadly-premonition-i-"
     }
@@ -19,5 +19,6 @@
   "source": "https://www.toybox-games.jp/dpo/index_en.html",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

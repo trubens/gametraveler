@@ -1,0 +1,14 @@
+{
+  "id": "venetian-pool-coral-gables-florida-usa",
+  "name": "Venetian Pool, Coral Gables, Florida, USA",
+  "position": {
+    "lat": 25.7461,
+    "lon": -80.2742
+  },
+  "scale": "site",
+  "parentId": "coral-gables-florida-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Venetian_Pool",
+  "description": "A historic public swimming pool in Coral Gables, made from a coral rock quarry.",
+  "descriptionSource": "wikipedia"
+}

@@ -7,31 +7,30 @@
   "locations": [
     {
       "placeId": "eger-hungary",
-      "note": "American journalist Jonathan Hunt comes to Eger to visit a friend and stumbles on the 1898 letters of the scientist Ábray, which send him through the town's streets on the trail of a time machine."
+      "note": "The American journalist Jonathan Hunt comes to Eger because of Gárdonyi's novel and his mother's birthplace, finds the 1898 letters of the scientist Ábray, and searches for his descendants and for a time machine."
     },
     {
       "placeId": "eger-castle-hungary",
-      "note": "Jonathan climbs the castle on Ábray's trail, and in the time-travel scenes he stands on its walls during the 1552 siege."
+      "note": "Jonathan visits Heroes Hall and Dobó's tomb, finds a talisman in the Castle Museum and breaks into the renovation workshop."
     },
     {
       "placeId": "eger-minaret-hungary",
-      "note": "Jonathan climbs the minaret for a view over the town and a clue hidden at the top."
+      "note": "Jonathan climbs the minaret's 97 steps, buys a model and binoculars, and later uses the model with a candle to find a shadow pointing to 'Török 4'."
     },
     {
       "placeId": "lyceum-eger-hungary",
-      "note": "In the Lyceum's observatory Jonathan uses the camera obscura to watch the streets below and spot where to go next."
+      "note": "In the Lyceum the Bishop's Library holds a librarian who decodes Gárdonyi's script, the observatory is part of the search, and the camera obscura comes later."
     },
     {
       "placeId": "gardonyi-house-eger-hungary",
-      "note": "Jonathan visits the house to learn how Gárdonyi's novel of the siege ties in with Ábray's letters."
+      "note": "Jonathan visits Auntie Iza and solves a Mercury puzzle in the study, which reveals a message from Yoomurjak."
     },
     {
       "placeId": "turkish-bath-eger-hungary",
-      "note": "Jonathan calls at the Turkish bath while working his way through Ábray's clues around the town."
+      "note": "Jonathan talks to the historian Czifra at the Turkish bath, who translates the talisman and gives him leads."
     }
   ],
   "storyYears": [
-    1552,
     1898,
     2006
   ],
@@ -40,5 +39,21 @@
   "developerUrl": "https://en.wikipedia.org/wiki/Private_Moon_Studios",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "routes": [
+    {
+      "id": "jonathan",
+      "name": "Jonathan Hunt",
+      "stops": [
+        "lyceum-eger-hungary",
+        "gardonyi-house-eger-hungary",
+        "eger-minaret-hungary",
+        "eger-castle-hungary",
+        "turkish-bath-eger-hungary"
+      ],
+      "note": "From the Lyceum library through Eger's towers and castle to the Turkish bath.",
+      "source": "https://www.gameboomers.com/wtcheats/pcYy/Yoomurjaksring/yoomurjaksring.htm"
+    }
+  ],
+  "reviewed": "2026-11-11"
 }

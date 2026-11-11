@@ -8,7 +8,7 @@
   "locations": [
     {
       "placeId": "san-francisco-usa",
-      "note": "Hale evacuates an underwater SRPA outpost in San Francisco as the Chimeran armada hits the US coast."
+      "note": "Hale oversees the evacuation of an underwater SRPA outpost and retrieves samples as the Chimeran invasion of the US coast begins on 15 May 1953."
     },
     {
       "placeId": "chicago-usa",
@@ -22,5 +22,6 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
   "genres": [
     "Action-Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

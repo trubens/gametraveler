@@ -11,14 +11,16 @@
   "locations": [
     {
       "placeId": "syria",
-      "note": "An autobiographical adventure based on Syrian developer Jack Gutmann’s experience of fleeing home."
+      "note": "The player escapes through a northern Syrian forest in 2014, past landmines and armed patrolmen, in an autobiographical game based on the creator Abdullah Karam's flight from home."
     },
     {
-      "placeId": "austria",
-      "note": "The journey’s destination reflects Gutmann’s eventual resettlement in Austria."
+      "placeId": "hama-syria",
+      "note": "A flashback shows Karam at home in Hama in 2011, with a power cut and a farewell to his parents."
     }
   ],
   "storyYears": [
+    2011,
     2014
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

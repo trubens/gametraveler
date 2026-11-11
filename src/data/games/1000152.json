@@ -10,12 +10,29 @@
   "source": "https://en.wikipedia.org/wiki/Kholat_(video_game)",
   "locations": [
     {
+      "placeId": "ivdel-sverdlovsk-oblast-russia",
+      "note": "The retracing begins with the arrival by train at Ivdel."
+    },
+    {
       "placeId": "kholat-syakhl-russia",
       "settingType": "fictionalized",
-      "note": "Retracing the Dyatlov party's steps, the player hikes into the snowy valley below Kholat Syakhl, collecting notes on a paranormal anomaly while avoiding shadow-like creatures."
+      "note": "Retracing the Dyatlov party's steps, the player hikes into the snowy valley below Kholat Syakhl, collecting notes on a paranormal anomaly while avoiding glowing humanoid figures."
     }
   ],
   "storyYears": [
     1959
-  ]
+  ],
+  "routes": [
+    {
+      "id": "retrace",
+      "name": "The Dyatlov party's trail",
+      "stops": [
+        "ivdel-sverdlovsk-oblast-russia",
+        "kholat-syakhl-russia"
+      ],
+      "note": "From the train to Ivdel up to Kholat Syakhl.",
+      "source": "https://en.wikipedia.org/wiki/Kholat_(video_game)"
+    }
+  ],
+  "reviewed": "2026-11-11"
 }

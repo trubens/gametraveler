@@ -9,7 +9,7 @@
     {
       "placeId": "little-hope-massachusetts-usa-fictional-town",
       "settingType": "fictionalized",
-      "note": "After their bus crashes, four college students and their professor are trapped by fog in Little Hope and pulled into visions of its colonial witch trials."
+      "note": "After their bus detours through the fog-bound, abandoned town and crashes, the group is repeatedly pulled into visions of the 1692 witch trials, and finally into the Clarke family house, where the 1972 fire that left only Anthony alive is revealed."
     }
   ],
   "storyYears": [
@@ -20,5 +20,6 @@
   "source": "https://en.wikipedia.org/wiki/The_Dark_Pictures_Anthology:_Little_Hope",
   "genres": [
     "Interactive Drama"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

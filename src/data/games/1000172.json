@@ -12,24 +12,44 @@
   "locations": [
     {
       "placeId": "germany",
-      "note": "The first act sends the Stranger to Germany on a vampire investigation."
-    },
-    {
-      "placeId": "chicago-usa",
-      "note": "Act two, 1933: the Stranger takes on gangsters and the undead in Chicago."
-    },
-    {
-      "placeId": "france",
-      "note": "The last act: Killian Hammond's graveyard and mansion in France, where the Stranger finds who is raising the dead."
+      "note": "In 1927 the Stranger and the dhampir Svetlana infiltrate a village and its castle to recover a relic that would make a vampire immune to its weaknesses."
     },
     {
       "placeId": "texas-usa",
       "settingType": "fictionalized",
-      "note": "Another case takes the Stranger to the fictional town of Redeye, Texas."
+      "note": "A train ambushed by werewolves leads the Stranger to the invented town of Redeye, where the dead return from an abandoned mine."
+    },
+    {
+      "placeId": "chicago-usa",
+      "note": "In 1933 the Stranger destroys the factory where Al Capone's gang makes undead gangsters, fighting the enforcer Smiley in a movie theater and the factory."
+    },
+    {
+      "placeId": "france",
+      "note": "The last mission: Killian Hammond asks the Stranger to clear his graveyard of zombies and demons, but Killian turns out to be the one summoning them from his mansion."
     }
   ],
   "storyYears": [
     1927,
+    1931,
+    1933,
     1935
-  ]
+  ],
+  "routes": [
+    {
+      "id": "stranger",
+      "name": "The Stranger",
+      "characters": [
+        "The Stranger"
+      ],
+      "stops": [
+        "germany",
+        "texas-usa",
+        "chicago-usa",
+        "france"
+      ],
+      "note": "From a German village to a graveyard in France.",
+      "source": "https://en.wikipedia.org/wiki/Nocturne_(video_game)"
+    }
+  ],
+  "reviewed": "2026-11-11"
 }

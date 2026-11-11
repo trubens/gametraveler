@@ -8,7 +8,7 @@
   "locations": [
     {
       "placeId": "san-francisco-usa",
-      "note": "Tex Murphy investigates a scientist's death in a future San Francisco."
+      "note": "Tex Murphy takes the case of Sylvia Linsky, whose father, a University of San Francisco professor, was seen falling from the Golden Gate Bridge days after starting a secret project."
     }
   ],
   "storyYears": [
@@ -17,5 +17,6 @@
   "source": "https://en.wikipedia.org/wiki/Mean_Streets_(video_game)",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

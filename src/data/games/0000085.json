@@ -7,7 +7,7 @@
   "locations": [
     {
       "placeId": "rome-italy",
-      "note": "Play a sleuth in Rome of 205 AD, racing to stop the saboteur Calamitus from destroying the city."
+      "note": "In 205 AD the player uses the Navitor from Cornelius's workshop to explore the Roman Forum, with the Arch of Severus, the Golden Milestone and the Temple of Saturn among the places where clues are found."
     }
   ],
   "storyYears": [
@@ -16,5 +16,6 @@
   "source": "https://en.wikipedia.org/wiki/SPQR:_The_Empire%27s_Darkest_Hour",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

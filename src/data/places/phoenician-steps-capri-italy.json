@@ -1,0 +1,17 @@
+{
+  "id": "phoenician-steps-capri-italy",
+  "name": "Phoenician Steps, Capri, Italy",
+  "position": {
+    "lat": 40.5564,
+    "lon": 14.2281
+  },
+  "scale": "site",
+  "parentId": "anacapri-capri-italy",
+  "placeType": "landmark",
+  "aliases": [
+    "Scala Fenicia"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Phoenician_Steps",
+  "description": "The ancient stairway of 921 steps between Capri town and Anacapri.",
+  "descriptionSource": "wikipedia"
+}

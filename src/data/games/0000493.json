@@ -11,7 +11,18 @@
     },
     {
       "placeId": "shibuya-tokyo-japan",
-      "note": "Shibuya's streets and the 109 building are the idols' home ground."
+      "note": "Shibuya is the story's main district."
+    },
+    {
+      "placeId": "harajuku-tokyo-japan",
+      "note": "The story visits Harajuku."
+    },
+    {
+      "placeId": "shibuya-109-tokyo-japan",
+      "note": "The 109 building inspires a fashion-themed dungeon, and the game calls it '106'.",
+      "aliases": [
+        "106"
+      ]
     }
   ],
   "storyYears": [
@@ -20,5 +31,6 @@
   "source": "https://en.wikipedia.org/wiki/Tokyo_Mirage_Sessions_%E2%99%AFFE",
   "genres": [
     "Action RPG"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

@@ -7,11 +7,11 @@
   "locations": [
     {
       "placeId": "tokyo-japan",
-      "note": "Animals survive in an abandoned Tokyo, including recognizable Shibuya streets."
+      "note": "Animals survive in an abandoned Tokyo, with the Yamanote Line and Yoyogi Park among its areas."
     },
     {
       "placeId": "shibuya-tokyo-japan",
-      "note": "The overgrown Shibuya crossing and station are the game's best-known ground."
+      "note": "A stage outside Shibuya Station is among the game's best-known ground."
     }
   ],
   "storyYears": [],
@@ -19,5 +19,6 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
   "genres": [
     "Action-Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

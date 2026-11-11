@@ -1,0 +1,14 @@
+{
+  "id": "burj-khalifa-dubai-uae",
+  "name": "Burj Khalifa, Dubai, UAE",
+  "position": {
+    "lat": 25.1972,
+    "lon": 55.2742
+  },
+  "scale": "site",
+  "parentId": "dubai-uae",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Burj_Khalifa",
+  "description": "The megatall skyscraper in Dubai, the tallest building in the world.",
+  "descriptionSource": "wikipedia"
+}

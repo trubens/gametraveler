@@ -7,7 +7,7 @@
   "locations": [
     {
       "placeId": "norrkoping-sweden",
-      "note": "A first-person point-and-click mystery played through photographs of real Norrköping streets and interiors; the city is the series’ central landscape."
+      "note": "Carol Reed investigates the death of her detective friend Conrad around Norrköping, in a game built from photographs of the real city."
     }
   ],
   "storyYears": [
@@ -16,5 +16,6 @@
   "source": "https://en.wikipedia.org/wiki/Carol_Reed_Mysteries",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

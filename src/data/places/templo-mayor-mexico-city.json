@@ -1,0 +1,14 @@
+{
+  "id": "templo-mayor-mexico-city",
+  "name": "Templo Mayor, Mexico City",
+  "position": {
+    "lat": 19.4333,
+    "lon": -99.1328
+  },
+  "scale": "site",
+  "parentId": "mexico-city-mexico",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Templo_Mayor",
+  "description": "The main temple of the Mexica in their capital Tenochtitlan, now ruins in the centre of Mexico City.",
+  "descriptionSource": "wikipedia"
+}

@@ -7,7 +7,7 @@
   "locations": [
     {
       "placeId": "akihabara-tokyo-japan",
-      "note": "Players explore a detailed recreation of Akihabara and battle disguised vampires."
+      "note": "Players explore a recreation of Akihabara's real shops and fight Synthisters, who feed on shoppers' social energy, by stripping their clothes to expose them to sunlight."
     }
   ],
   "storyYears": [
@@ -16,5 +16,6 @@
   "source": "https://en.wikipedia.org/wiki/Akiba%27s_Trip:_Undead_%26_Undressed",
   "genres": [
     "Action RPG"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

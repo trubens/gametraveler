@@ -8,15 +8,15 @@
   "locations": [
     {
       "placeId": "hawaii-usa",
-      "note": "Brian and Gina's Hawaiian holiday goes wrong when their small plane crashes."
+      "note": "Brian and Gina's Hawaiian holiday goes wrong when Brian pushes Gina out of the plane with the only parachute and crash-lands in the jungle."
     },
     {
       "placeId": "alaska-usa",
-      "note": "The hunt for the missing Gina leads Brian to a snowbound military base in Alaska."
+      "note": "Brian and Joshua reach Professor Simon's walled compound, where the assassin Tarantula attacks."
     },
     {
       "placeId": "palenque-mexico",
-      "note": "The Maya ruins of Palenque in Mexico are the game's final destination."
+      "note": "The Maya ruins of Palenque, where a cache of Trantonite was hidden, are one stop in the hunt for the mineral."
     }
   ],
   "storyYears": [
@@ -28,5 +28,6 @@
   "developerUrl": "https://en.wikipedia.org/wiki/Pendulo_Studios",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

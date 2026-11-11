@@ -7,7 +7,7 @@
   "locations": [
     {
       "placeId": "new-york-city-usa",
-      "note": "Laura Bow investigates a theft and murders at the Leyendecker Museum in 1920s New York."
+      "note": "Laura Bow, a new reporter, is sent to the fictional Leyendecker Museum in 1926 New York to cover the theft of the Dagger of Amon Ra, and is locked in overnight after a gala murder."
     }
   ],
   "storyYears": [
@@ -16,5 +16,6 @@
   "source": "https://en.wikipedia.org/wiki/The_Dagger_of_Amon_Ra",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

@@ -1,0 +1,14 @@
+{
+  "id": "blackwall-london-uk",
+  "name": "Blackwall, London, UK",
+  "position": {
+    "lat": 51.5063,
+    "lon": -0.0034
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Blackwall,_London",
+  "description": "An area of east London on the Thames, long a dockyard district.",
+  "descriptionSource": "wikipedia"
+}

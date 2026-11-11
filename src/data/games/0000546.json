@@ -6,16 +6,24 @@
   "developer": "Rockstar Toronto",
   "locations": [
     {
+      "placeId": "coney-island-brooklyn-nyc-usa",
+      "note": "The game begins and ends at the Warriors' home turf, where the Rogues wait and the Riffs arrive to punish them and call off the hit."
+    },
+    {
       "placeId": "van-cortlandt-park-bronx-nyc-usa",
-      "note": "After a gang conclave in the Bronx, the Warriors are framed for a murder and begin their journey home."
+      "note": "After Cyrus calls a gang conclave in the Bronx, Luther shoots him, the police raid the meeting and the Warriors are framed for the murder."
+    },
+    {
+      "placeId": "tremont-bronx-nyc-usa",
+      "note": "A fire stops the train, and the Warriors go on foot into the Orphans' territory."
     },
     {
       "placeId": "riverside-park-manhattan-nyc-usa",
-      "note": "The gang crosses Manhattan and enters the Baseball Furies' territory around Riverside Park."
+      "note": "Swan, Snow, Ajax and Cowboy defeat the Baseball Furies here, and Ajax is arrested by an undercover cop."
     },
     {
-      "placeId": "coney-island-brooklyn-nyc-usa",
-      "note": "Coney Island is the Warriors' home territory and the destination of their trip across New York."
+      "placeId": "union-square-new-york-city-usa",
+      "note": "The Lizzies lure Rembrandt, Vermin and Cochise into a trap, and Swan and Mercy walk here to reunite with the others."
     }
   ],
   "storyYears": [
@@ -23,8 +31,24 @@
     1979
   ],
   "source": "https://en.wikipedia.org/wiki/The_Warriors_(video_game)",
-  "route": true,
   "genres": [
     "Action-Adventure"
-  ]
+  ],
+  "routes": [
+    {
+      "id": "warriors",
+      "name": "The Warriors",
+      "stops": [
+        "coney-island-brooklyn-nyc-usa",
+        "van-cortlandt-park-bronx-nyc-usa",
+        "tremont-bronx-nyc-usa",
+        "riverside-park-manhattan-nyc-usa",
+        "union-square-new-york-city-usa",
+        "coney-island-brooklyn-nyc-usa"
+      ],
+      "note": "From Coney Island to the Bronx conclave and back across the city.",
+      "source": "https://en.wikipedia.org/wiki/The_Warriors_(video_game)"
+    }
+  ],
+  "reviewed": "2026-11-11"
 }

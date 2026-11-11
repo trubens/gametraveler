@@ -1,0 +1,14 @@
+{
+  "id": "fort-hall-idaho-usa",
+  "name": "Fort Hall, Idaho, USA",
+  "position": {
+    "lat": 43.0201,
+    "lon": -112.6347
+  },
+  "scale": "site",
+  "parentId": "united-states",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fort_Hall",
+  "description": "A fur trading fort of the western United States that became a stop on the Oregon Trail.",
+  "descriptionSource": "wikipedia"
+}

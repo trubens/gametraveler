@@ -1,0 +1,14 @@
+{
+  "id": "villa-san-michele-anacapri-italy",
+  "name": "Villa San Michele, Anacapri, Italy",
+  "position": {
+    "lat": 40.5572,
+    "lon": 14.225
+  },
+  "scale": "site",
+  "parentId": "anacapri-capri-italy",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Villa_San_Michele",
+  "description": "The villa on Capri built by the Swedish physician and writer Axel Munthe.",
+  "descriptionSource": "wikipedia"
+}

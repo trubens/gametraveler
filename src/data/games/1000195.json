@@ -20,12 +20,12 @@
     },
     {
       "placeId": "antarctica",
-      "note": "Carter's investigation leads all the way to the South Pole.",
+      "note": "The investigation reaches the Antarctic, the setting of Lovecraft's At the Mountains of Madness, which the game draws on.",
       "source": "https://www.atomichorde.com/mom_presskit/"
     },
     {
       "placeId": "yemen",
-      "note": "A separate playable thread follows Abdul Alhazred in ancient Yemen.",
+      "note": "A separate thread plays Abdul Alhazred, the author of the Necronomicon, in ancient Yemen.",
       "source": "https://www.atomichorde.com/mom_presskit/"
     }
   ],
@@ -50,5 +50,6 @@
   "genres": [
     "Adventure",
     "Survival Horror"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

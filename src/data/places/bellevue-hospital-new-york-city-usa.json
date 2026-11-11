@@ -1,0 +1,14 @@
+{
+  "id": "bellevue-hospital-new-york-city-usa",
+  "name": "Bellevue Hospital, New York City, USA",
+  "position": {
+    "lat": 40.7393,
+    "lon": -73.9753
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bellevue_Hospital",
+  "description": "The oldest public hospital in the United States, on the east side of Manhattan in Kips Bay.",
+  "descriptionSource": "wikipedia"
+}

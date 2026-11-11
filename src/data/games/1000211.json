@@ -7,7 +7,7 @@
   "locations": [
     {
       "placeId": "boston-usa",
-      "note": "The story follows Boston detective David Young and his attempts to investigate his wife's murder.",
+      "note": "The former narcotics officer turned private investigator David Young tries to find his wife's murderer, using mementos that take him to past events.",
       "source": "https://en.wikipedia.org/wiki/D4:_Dark_Dreams_Don%27t_Die"
     }
   ],
@@ -17,5 +17,6 @@
   "source": "https://en.wikipedia.org/wiki/D4:_Dark_Dreams_Don%27t_Die",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

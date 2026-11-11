@@ -10,16 +10,49 @@
   "source": "https://en.wikipedia.org/wiki/Second_Sight_(video_game)",
   "locations": [
     {
+      "placeId": "virginia-usa",
+      "note": "The game opens in a medical facility in Virginia, which Vattic escapes."
+    },
+    {
+      "placeId": "vermont-usa",
+      "note": "Vattic breaks Jayne Wilde out of the mental asylum where she is held in Vermont."
+    },
+    {
       "placeId": "queens-new-york-usa",
       "note": "Jayne Wilde leads Vattic to Starke's hideout in Queens, where Starke tells him what really happened in Siberia."
     },
     {
+      "placeId": "new-jersey-usa",
+      "note": "At the headquarters of Hanson's National Security Executive in New Jersey Vattic finds evidence and confronts Hanson."
+    },
+    {
       "placeId": "siberia-russia",
       "settingType": "fictionalized",
-      "note": "In flashbacks Vattic goes with Colonel Starke's Marine taskforce to Siberia to recover the defecting scientist Victor Grienko."
+      "note": "In flashbacks Vattic goes with the Marine taskforce WinterICE to Siberia to recover the defecting scientist Victor Grienko."
     }
   ],
   "storyYears": [
     1999
-  ]
+  ],
+  "routes": [
+    {
+      "id": "vattic",
+      "name": "Vattic",
+      "characters": [
+        "Vattic"
+      ],
+      "stops": [
+        "virginia-usa",
+        "siberia-russia",
+        "vermont-usa",
+        "siberia-russia",
+        "queens-new-york-usa",
+        "new-jersey-usa",
+        "siberia-russia"
+      ],
+      "note": "From the Virginia facility through Vermont, Queens and New Jersey, with flashbacks to Siberia.",
+      "source": "https://en.wikipedia.org/wiki/Second_Sight_(video_game)"
+    }
+  ],
+  "reviewed": "2026-11-11"
 }

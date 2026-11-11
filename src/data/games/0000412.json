@@ -8,7 +8,7 @@
   "locations": [
     {
       "placeId": "san-francisco-usa",
-      "note": "Tex Murphy begins his missing-person investigation in future San Francisco."
+      "note": "Marshall Alexander of TerraForm hires Tex to find his missing daughter Alexis, a trail that leads from San Francisco to Mars and a stolen Oracle Stone."
     }
   ],
   "storyYears": [
@@ -18,5 +18,6 @@
   "developerUrl": "https://en.wikipedia.org/wiki/Access_Software",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

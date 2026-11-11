@@ -29,7 +29,15 @@
     {
       "placeId": "india",
       "settingType": "fictionalized",
-      "note": "Fenton searches an Indian village, the jungle and a temple for another artifact."
+      "note": "Fenton goes through a village and a swamp to a temple, where a central stone opens to reveal an artefact."
+    },
+    {
+      "placeId": "brandenburg-gate-berlin-germany",
+      "note": "Fenton's Berlin chapter takes him to Pariser Platz by the gate."
+    },
+    {
+      "placeId": "olympiastadion-berlin-germany",
+      "note": "Fenton's Berlin chapter leads on to the Olympic Stadium built for the 1936 Games."
     }
   ],
   "storyYears": [
@@ -59,5 +67,6 @@
       "note": "From the Hong Kong airport over Tibet, Marrakesh, Berlin and Wewelsburg to India, and back into the mountains for Shambala.",
       "source": "https://www.walkthroughking.com/text/losthorizon.aspx"
     }
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

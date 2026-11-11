@@ -8,7 +8,7 @@
   "locations": [
     {
       "placeId": "boston-usa",
-      "note": "Edward Pierce is a Boston private investigator before the case takes him to Darkwater Island.",
+      "note": "Edward Pierce, a Boston private investigator, begins his investigation here and later returns to Algernon Drake's bookstore.",
       "source": "https://www.chaosium.com/blogcall-of-cthulhu-the-official-video-game-is-out-now-on-nintendo-switch/"
     },
     {
@@ -42,5 +42,6 @@
   "genres": [
     "Adventure",
     "Survival Horror"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

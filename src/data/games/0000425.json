@@ -7,7 +7,11 @@
   "locations": [
     {
       "placeId": "mexico-city-mexico",
-      "note": "The protagonist travels to Tenochtitlan while seeking a cure for a mysterious disease."
+      "note": "Little Serpent, a young hunter from a village near Tenochtitlan, is accused of a nobleman's murder and races to learn what causes the plague before his parents are sacrificed, searching Tlatelolco and Moctezuma's palace."
+    },
+    {
+      "placeId": "templo-mayor-mexico-city",
+      "note": "The cult behind the disease, led by Black Flower, is found at the temple of the Ceremonial Center."
     }
   ],
   "storyYears": [
@@ -16,5 +20,6 @@
   "source": "https://en.wikipedia.org/wiki/Aztec:_The_Curse_in_the_Heart_of_the_City_of_Gold",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

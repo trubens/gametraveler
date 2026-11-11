@@ -13,18 +13,19 @@
   "locations": [
     {
       "placeId": "andover-england-uk",
-      "note": "Poirot investigates the first ABC murder and explores its crime scene in Andover."
+      "note": "Poirot inspects the tobacconist's shop where Mrs. Ascher was killed and questions her niece Mary Drower and her husband Franz Ascher."
     },
     {
       "placeId": "bexhill-on-sea-england-uk",
-      "note": "The second murder investigation takes the player to Bexhill-on-Sea."
+      "note": "Poirot investigates the death of Betty Barnard, visiting the Ginger Cat café where she worked and her family home."
     },
     {
       "placeId": "churston-devon-england-uk",
-      "note": "The third murder brings Poirot to Churston in Devon."
+      "note": "Poirot investigates Combeside, a mansion in Churston, and recovers burned patient files that reveal the next victim."
     }
   ],
   "storyYears": [
     1935
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

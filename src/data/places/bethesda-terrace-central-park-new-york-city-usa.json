@@ -1,0 +1,17 @@
+{
+  "id": "bethesda-terrace-central-park-new-york-city-usa",
+  "name": "Bethesda Terrace, Central Park, New York City, USA",
+  "position": {
+    "lat": 40.7741,
+    "lon": -73.9711
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "Bethesda Fountain"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bethesda_Terrace_and_Fountain",
+  "description": "The terrace and fountain at the heart of Central Park.",
+  "descriptionSource": "wikipedia"
+}

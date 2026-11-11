@@ -1,0 +1,14 @@
+{
+  "id": "fort-bridger-wyoming-usa",
+  "name": "Fort Bridger, Wyoming, USA",
+  "position": {
+    "lat": 41.3178,
+    "lon": -110.3919
+  },
+  "scale": "site",
+  "parentId": "united-states",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fort_Bridger",
+  "description": "A 19th-century trading post and fort on the Oregon and Mormon Trails.",
+  "descriptionSource": "wikipedia"
+}

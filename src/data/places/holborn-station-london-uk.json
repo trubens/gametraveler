@@ -1,0 +1,14 @@
+{
+  "id": "holborn-station-london-uk",
+  "name": "Holborn Station, London, UK",
+  "position": {
+    "lat": 51.5174,
+    "lon": -0.1201
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Holborn_tube_station",
+  "description": "A London Underground station in Holborn, central London.",
+  "descriptionSource": "wikipedia"
+}

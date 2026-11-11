@@ -12,11 +12,31 @@
   "locations": [
     {
       "placeId": "london-uk",
-      "note": "Captain Jack Keane takes on a secret mission in Victorian London: ferry a British agent to Tooth Island to stop Dr T and his tea-eating plants."
+      "note": "Jack is beaten and tied up by Mr. Lee's thugs, then the Royal Secret Service sends him to ferry an agent to Tooth Island for 10,000 pounds."
+    },
+    {
+      "placeId": "big-ben-london-uk",
+      "note": "Jack escapes by fetching his knife from a raven's nest at Big Ben."
     },
     {
       "placeId": "cape-town-south-africa",
-      "note": "The voyage calls at Cape Town, where Jack finds a crew and a ship before the last leg to the island."
+      "note": "In Cape Town harbour Jack gets rum for the deckhands, mails a parcel for Montgomery and sails with him on the Charming Princess."
     }
-  ]
+  ],
+  "routes": [
+    {
+      "id": "jack",
+      "name": "Jack Keane",
+      "characters": [
+        "Jack Keane"
+      ],
+      "stops": [
+        "big-ben-london-uk",
+        "cape-town-south-africa"
+      ],
+      "note": "From the escape at Big Ben to the voyage out of Cape Town.",
+      "source": "https://gameboomers.com/wtcheats/pcJj/jackkeane.htm"
+    }
+  ],
+  "reviewed": "2026-11-11"
 }

@@ -1,0 +1,14 @@
+{
+  "id": "st-saviours-dock-london-uk",
+  "name": "St Saviour's Dock, London, UK",
+  "position": {
+    "lat": 51.5022,
+    "lon": -0.071
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/St_Saviour%27s_Dock",
+  "description": "An inlet-style dock off the Thames in Bermondsey.",
+  "descriptionSource": "wikipedia"
+}

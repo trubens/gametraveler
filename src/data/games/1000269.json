@@ -10,13 +10,16 @@
   "genres": [
     "Action RPG"
   ],
-  "storyYears": [],
+  "storyYears": [
+    1500,
+    1599
+  ],
   "source": "https://en.wikipedia.org/wiki/Illusion_of_Gaia",
   "locations": [
     {
       "placeId": "inca-ruins-peru",
       "settingType": "fictionalized",
-      "note": "Will's journey leaves South Cape for Incan ruins and a golden ship, in a world that mirrors ours without naming its countries."
+      "note": "Incan ruins hold the first Mystic Statue, on a journey that leaves South Cape in a world mirroring ours."
     },
     {
       "placeId": "nazca-lines-peru",
@@ -26,12 +29,12 @@
     {
       "placeId": "angkor-wat-cambodia",
       "settingType": "fictionalized",
-      "note": "Angkor Wat appears as a flooded temple of the vampires."
+      "note": "Angkor Wat is the dungeon where Will finds the Gorgon Flower and where the comet's past visits are revealed."
     },
     {
       "placeId": "great-wall-china",
       "settingType": "fictionalized",
-      "note": "The Great Wall is a long dungeon crossed on foot."
+      "note": "The Great Wall is one of the real landmarks that inspire a level."
     },
     {
       "placeId": "giza-egypt",
@@ -55,13 +58,14 @@
       "stops": [
         "inca-ruins-peru",
         "nazca-lines-peru",
-        "angkor-wat-cambodia",
         "great-wall-china",
+        "angkor-wat-cambodia",
         "giza-egypt",
         "tower-of-babel-fictional-babylon-iraq"
       ],
       "note": "Will's journey from the Incan ruins and the Nazca Lines to Angkor Wat, the Great Wall and the pyramids, ending at the Tower of Babel.",
       "source": "https://en.wikipedia.org/wiki/Illusion_of_Gaia"
     }
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

@@ -7,12 +7,13 @@
   "locations": [
     {
       "placeId": "outer-hebrides-scotland",
-      "note": "A narrator reads letters to Esther while you wander an unnamed, deserted Hebridean island."
+      "note": "A narrator reads letters to his dead wife Esther while you wander an unnamed, deserted island in the Hebrides."
     }
   ],
   "storyYears": [],
   "source": "https://en.wikipedia.org/wiki/Dear_Esther",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

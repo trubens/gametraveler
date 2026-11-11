@@ -7,7 +7,7 @@
   "locations": [
     {
       "placeId": "london-uk",
-      "note": "In 2000 Scotland Yard detective Brent Halligan is handed the ritual 'Skeleton Murders'; his office, the forensics lab and the closed Anthropology Museum are all in London."
+      "note": "In 2000 the Scotland Yard detective Brent Halligan is handed the ritual 'Skeleton Murders'."
     },
     {
       "placeId": "scotland-yard-london-uk",
@@ -21,7 +21,7 @@
     },
     {
       "placeId": "oxford-uk",
-      "note": "Dr Melanie Turner's anthropology museum, and the university library where Halligan hunts a book on Celtic script.",
+      "note": "The investigation leads to Dr Melanie Turner and the Oxford Anthropological Museum.",
       "source": "https://www.gameboomers.com/wtcheats/pcMm/MotD.htm"
     },
     {
@@ -48,5 +48,6 @@
   "genres": [
     "Adventure"
   ],
-  "route": true
+  "route": true,
+  "reviewed": "2026-11-11"
 }

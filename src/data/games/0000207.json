@@ -8,7 +8,19 @@
   "locations": [
     {
       "placeId": "new-york-city-usa",
-      "note": "Rosa Blackwell investigates a series of student deaths in New York, visiting apartments, a hospital and a haunted dog park."
+      "note": "Rosa and Joey trace the deaths of university students haunted by the Deacon, a spirit raised with a ouija board."
+    },
+    {
+      "placeId": "queensboro-bridge-new-york-city-usa",
+      "note": "Rosa scatters the ashes of her aunt Lauren off the bridge at the start."
+    },
+    {
+      "placeId": "bellevue-hospital-new-york-city-usa",
+      "note": "A doctor from the hospital where Lauren was a patient for decades calls Rosa to collect letters, which set her on the trail of the Deacon."
+    },
+    {
+      "placeId": "washington-square-park-new-york-city-usa",
+      "note": "Joey makes Rosa take him to the park, where they find the ghost of student Alli Montego."
     }
   ],
   "storyYears": [
@@ -18,5 +30,23 @@
   "developerUrl": "https://en.wikipedia.org/wiki/Wadjet_Eye_Games",
   "genres": [
     "Adventure"
+  ],
+  "reviewed": "2026-11-10",
+  "routes": [
+    {
+      "id": "rosa",
+      "name": "Rosa Blackwell",
+      "characters": [
+        "Rosa Blackwell",
+        "Joey Mallone"
+      ],
+      "stops": [
+        "queensboro-bridge-new-york-city-usa",
+        "bellevue-hospital-new-york-city-usa",
+        "washington-square-park-new-york-city-usa"
+      ],
+      "note": "From scattering her aunt's ashes to the ghost in Washington Square Park.",
+      "source": "https://en.wikipedia.org/wiki/The_Blackwell_Legacy"
+    }
   ]
 }

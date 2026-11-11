@@ -1,0 +1,14 @@
+{
+  "id": "yaegaki-shrine-matsue-shimane-japan",
+  "name": "Yaegaki Shrine, Matsue, Japan",
+  "position": {
+    "lat": 35.429,
+    "lon": 133.0737
+  },
+  "scale": "site",
+  "parentId": "matsue-shimane-japan",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yaegaki_Shrine",
+  "description": "A Shinto shrine in Matsue, known for matchmaking and its Mirror Pond.",
+  "descriptionSource": "wikipedia"
+}

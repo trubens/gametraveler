@@ -8,7 +8,7 @@
   "locations": [
     {
       "placeId": "guilin-china",
-      "note": "Ryo Hazuki follows his father's killer to Bailu Village in the Guilin mountains in 1987."
+      "note": "Ryo Hazuki follows his father's killer to the Guilin mountains in 1987, starting in Bailu Village, Shenhua's home, then continues by boat to the riverside town of Niaowu and a castle across the river."
     }
   ],
   "storyYears": [
@@ -18,5 +18,6 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/Deep_Silver",
   "genres": [
     "Action-Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

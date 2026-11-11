@@ -8,15 +8,15 @@
   "locations": [
     {
       "placeId": "new-york-city-usa",
-      "note": "Student Brian Basco's ordeal starts in New York after he runs into Gina with his car."
+      "note": "Brian hits Gina with his car, takes her to a hospital, then sets a fire in her room so they can escape."
     },
     {
       "placeId": "chicago-usa",
-      "note": "Brian and Gina head to a Chicago museum to learn what the mysterious crucifix means."
+      "note": "Brian and Gina reach a museum, where its database identifies the crucifix as Hopi; the killers Gustav and Feodor then kill Clive and take them away."
     },
     {
       "placeId": "arizona-usa",
-      "note": "The road trip ends in the Arizona desert, among Hopi land and a ghost town."
+      "note": "In Hopi country they visit an abandoned mine shaft, a Hopi village with a sacred crypt and Mama Dorita's healing place, where a séance is held."
     }
   ],
   "storyYears": [
@@ -28,5 +28,6 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/Dinamic_Multimedia",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

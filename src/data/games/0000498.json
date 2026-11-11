@@ -6,8 +6,24 @@
   "publisher": "Fox Interactive",
   "locations": [
     {
+      "placeId": "morocco",
+      "note": "The first mission, to Morocco, turns out to be a trap set by Volkov, and Cate's mentor Bruno is shot."
+    },
+    {
       "placeId": "berlin-germany",
-      "note": "Cate Archer's spy missions include operations in divided Berlin."
+      "note": "Cate Archer infiltrates a guarded compound by night and a research facility in Berlin to find the East German biochemist Dr. Otto Schenker."
+    },
+    {
+      "placeId": "hamburg-germany",
+      "note": "The leads to the kidnapped Dr. Schenker take Cate and Tom to a nightclub owned by Igne Wagner, who is revealed as an agent of H.A.R.M."
+    },
+    {
+      "placeId": "washington-d-c-usa",
+      "note": "Cate travels to Washington to secure Dr. Schenker from H.A.R.M. agents and takes him to a secret Unity base."
+    },
+    {
+      "placeId": "swiss-alps-switzerland",
+      "note": "At the Dumas château Cate is captured by Armstrong, escapes, and ends a gun duel with Volkov in an avalanche before the Baroness is defeated in the village below."
     }
   ],
   "storyYears": [
@@ -16,5 +32,24 @@
   "source": "https://en.wikipedia.org/wiki/The_Operative:_No_One_Lives_Forever",
   "genres": [
     "Action-Adventure"
-  ]
+  ],
+  "routes": [
+    {
+      "id": "cate-archer",
+      "name": "Cate Archer",
+      "characters": [
+        "Cate Archer"
+      ],
+      "stops": [
+        "morocco",
+        "berlin-germany",
+        "hamburg-germany",
+        "washington-d-c-usa",
+        "swiss-alps-switzerland"
+      ],
+      "note": "From the trap in Morocco to the final showdown in the Swiss Alps.",
+      "source": "https://en.wikipedia.org/wiki/The_Operative:_No_One_Lives_Forever"
+    }
+  ],
+  "reviewed": "2026-11-11"
 }

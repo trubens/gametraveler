@@ -15,17 +15,17 @@
   "locations": [
     {
       "placeId": "seattle-usa",
-      "note": "The journey starts in Seattle before players choose a route north.",
+      "note": "The player picks one of four partners and buys two ship tickets to Skagway or Dyea, and earlier departures cost more.",
       "source": "https://gamefaqs.gamespot.com/pc/582080-the-yukon-trail/faqs/12185"
     },
     {
       "placeId": "skagway-alaska-usa",
-      "note": "One playable approach to the Klondike starts from Skagway; Dyea is an alternative trailhead.",
+      "note": "The longer, easier White Pass Trail starts here, where the player can buy supplies, gather information or gamble on rigged games.",
       "source": "https://en.wikipedia.org/wiki/The_Yukon_Trail"
     },
     {
       "placeId": "dyea-alaska-usa",
-      "note": "Players can choose the shorter, harder Chilkoot Trail from Dyea instead of the Skagway route.",
+      "note": "The shorter, harder Chilkoot Trail starts here.",
       "source": "https://gamefaqs.gamespot.com/pc/582080-the-yukon-trail/faqs/12185"
     },
     {
@@ -70,5 +70,6 @@
       "note": "The shorter, more difficult branch crosses the Chilkoot Trail from Dyea before joining the route at Bennett Lake.",
       "source": "https://gamefaqs.gamespot.com/pc/582080-the-yukon-trail/faqs/12185"
     }
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

@@ -12,18 +12,31 @@
   "locations": [
     {
       "placeId": "paris-france",
-      "note": "Investigate cases across a stylized 1848 Paris, visiting real landmarks including Notre-Dame and the Louvre."
-    },
-    {
-      "placeId": "notre-dame-de-paris-france",
-      "note": "Notre-Dame, one of the lithographed Paris landmarks where Falcon and Sparrowson look for witnesses."
+      "note": "Investigate cases across a stylized 1848 Paris, as the cases build up to the end of Louis-Philippe's reign and the start of the Second Republic."
     },
     {
       "placeId": "louvre-paris-france",
-      "note": "The Louvre, drawn from Grandville's lithographs, where a case's clues are gathered."
+      "note": "The Louvre is the scene of the assassination attempt on the king, with the Salle du Tibre, the Grande Galerie and the gardens."
+    },
+    {
+      "placeId": "palais-royal-paris-france",
+      "note": "The king is found at the Palais-Royal in the final case."
+    },
+    {
+      "placeId": "place-de-la-concorde-paris-france",
+      "note": "A protest forms on the Place de la Concorde in the final case."
+    },
+    {
+      "placeId": "palais-de-justice-paris-france",
+      "note": "The final trial is held at the Palais de Justice."
+    },
+    {
+      "placeId": "catacombs-of-paris-france",
+      "note": "A trial is held in the catacombs."
     }
   ],
   "storyYears": [
     1848
-  ]
+  ],
+  "reviewed": "2026-11-11"
 }

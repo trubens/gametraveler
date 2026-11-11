@@ -8,7 +8,7 @@
   "locations": [
     {
       "placeId": "new-york-city-usa",
-      "note": "Lauren and Joey investigate a ghost on the Roosevelt Island promenade and a haunted Midtown construction site."
+      "note": "Lauren and Joey's second case leads through a Greenwich Village jazz club, The New Yorker's offices and a haunted Midtown construction site, and ends with the Countess's attack in Lauren's apartment."
     },
     {
       "placeId": "roosevelt-island-new-york-city-usa",
@@ -22,5 +22,6 @@
   "developerUrl": "https://en.wikipedia.org/wiki/Wadjet_Eye_Games",
   "genres": [
     "Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

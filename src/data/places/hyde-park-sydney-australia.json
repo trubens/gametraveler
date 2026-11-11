@@ -1,0 +1,14 @@
+{
+  "id": "hyde-park-sydney-australia",
+  "name": "Hyde Park, Sydney, Australia",
+  "position": {
+    "lat": -33.8733,
+    "lon": 151.2114
+  },
+  "scale": "site",
+  "parentId": "sydney-australia",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyde_Park,_Sydney",
+  "description": "The oldest public parkland in Australia, on the eastern edge of the city centre.",
+  "descriptionSource": "wikipedia"
+}

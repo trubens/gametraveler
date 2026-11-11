@@ -1,0 +1,14 @@
+{
+  "id": "sydney-opera-house-sydney-australia",
+  "name": "Sydney Opera House, Sydney, Australia",
+  "position": {
+    "lat": -33.8568,
+    "lon": 151.2151
+  },
+  "scale": "site",
+  "parentId": "sydney-australia",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+  "description": "The performing arts centre on Bennelong Point in Sydney Harbour, with its sail-shaped roofs.",
+  "descriptionSource": "wikipedia"
+}

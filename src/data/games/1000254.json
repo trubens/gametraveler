@@ -28,7 +28,7 @@
     },
     {
       "placeId": "paderborn-germany",
-      "note": "Operation Resurrection begins with a parachute drop at Paderborn and the nearby Bramburg dam."
+      "note": "B.J. is parachuted in near the fictional Bramburg Dam and fights his way to the town of Paderborn."
     }
   ],
   "routes": [
@@ -48,5 +48,6 @@
       "note": "The story returns to Castle Wolfenstein for the finale.",
       "source": "https://en.wikipedia.org/wiki/Return_to_Castle_Wolfenstein"
     }
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

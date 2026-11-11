@@ -8,7 +8,7 @@
   "locations": [
     {
       "placeId": "las-vegas-usa",
-      "note": "Team Rainbow battles terrorist Irena Morales's forces through the casinos and landmarks of the Strip."
+      "note": "Logan Keller's Team Rainbow fights terrorists led by Irena Morales through invented casinos and the Vertigo Spire hotel, then stops a bomb at a dam."
     }
   ],
   "storyYears": [
@@ -19,5 +19,6 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
   "genres": [
     "Tactical Shooter"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

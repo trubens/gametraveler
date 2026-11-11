@@ -1,0 +1,14 @@
+{
+  "id": "harajuku-tokyo-japan",
+  "name": "Harajuku, Tokyo, Japan",
+  "position": {
+    "lat": 35.6685,
+    "lon": 139.7054
+  },
+  "scale": "site",
+  "parentId": "tokyo-japan",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Harajuku",
+  "description": "A district in Shibuya known for its youth fashion.",
+  "descriptionSource": "wikipedia"
+}

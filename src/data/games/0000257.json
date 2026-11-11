@@ -8,7 +8,7 @@
   "locations": [
     {
       "placeId": "las-vegas-usa",
-      "note": "Bishop's team hunts terrorists through Las Vegas, including the Convention Center, monorail and Neon Boneyard."
+      "note": "Bishop leads Bravo Team through Las Vegas in 2010: a chemical-weapons warehouse, the Neon Boneyard, a bomb at the Convention Center, a monorail bomb, a penthouse and a casino theatre, then on into the Nevada desert."
     }
   ],
   "storyYears": [
@@ -20,5 +20,6 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/Ubisoft",
   "genres": [
     "Tactical Shooter"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

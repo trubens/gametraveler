@@ -1,0 +1,14 @@
+{
+  "id": "tremont-bronx-nyc-usa",
+  "name": "Tremont, Bronx, New York City, USA",
+  "position": {
+    "lat": 40.85,
+    "lon": -73.906
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "neighborhood",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tremont,_Bronx",
+  "description": "A residential neighbourhood in the west Bronx.",
+  "descriptionSource": "wikipedia"
+}

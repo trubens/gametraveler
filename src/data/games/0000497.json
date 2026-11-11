@@ -8,7 +8,7 @@
   "locations": [
     {
       "placeId": "new-york-city-usa",
-      "note": "The journey east culminates in combat in New York City."
+      "note": "Capelli and Susan reach New York, sabotage a terraforming platform and crash it into the central tower to seal the wormhole in the middle of the city."
     }
   ],
   "storyYears": [
@@ -18,5 +18,6 @@
   "publisherUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
   "genres": [
     "Action-Adventure"
-  ]
+  ],
+  "reviewed": "2026-11-10"
 }

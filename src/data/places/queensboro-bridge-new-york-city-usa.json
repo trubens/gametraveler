@@ -1,0 +1,18 @@
+{
+  "id": "queensboro-bridge-new-york-city-usa",
+  "name": "Queensboro Bridge, New York City, USA",
+  "position": {
+    "lat": 40.7569,
+    "lon": -73.9547
+  },
+  "scale": "site",
+  "parentId": "new-york-city-usa",
+  "placeType": "landmark",
+  "aliases": [
+    "Ed Koch Queensboro Bridge",
+    "59th Street Bridge"
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Queensboro_Bridge",
+  "description": "The cantilever bridge over the East River linking Manhattan and Queens by way of Roosevelt Island.",
+  "descriptionSource": "wikipedia"
+}

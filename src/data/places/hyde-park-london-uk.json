@@ -1,0 +1,14 @@
+{
+  "id": "hyde-park-london-uk",
+  "name": "Hyde Park, London, UK",
+  "position": {
+    "lat": 51.5086,
+    "lon": -0.1636
+  },
+  "scale": "site",
+  "parentId": "london-uk",
+  "placeType": "landmark",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyde_Park,_London",
+  "description": "One of the largest parks in central London.",
+  "descriptionSource": "wikipedia"
+}
