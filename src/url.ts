@@ -14,6 +14,8 @@ export type UrlState = {
   country?: string;
   // En spillserie: /series/broken-sword
   series?: string;
+  // En epoke med navn (andre verdenskrig, den kalde krigen): /era/world-war-2/. Setter «Story set in» til epokens år.
+  era?: string;
   game?: string;
   route?: string;
   // Stedslista og My atlas har egne adresser, så tilbake-knappen går til dem og de kan deles
@@ -50,6 +52,7 @@ export function readUrl(): UrlState {
     place: kind === 'place' && slug ? slug : params.get('place') || undefined,
     game: kind === 'game' && slug ? slug : params.get('game') || undefined,
     series: kind === 'series' && slug ? slug : params.get('series') || undefined,
+    era: kind === 'era' && slug ? slug : undefined,
     country: params.get('country') || undefined,
     route: params.get('route') || undefined,
     journey: params.get('journey') || undefined,
@@ -59,7 +62,7 @@ export function readUrl(): UrlState {
 }
 
 export function buildUrl(state: UrlState): string {
-  const path = state.game ? `${BASE}/game/${state.game}/` : state.place ? `${BASE}/place/${state.place}/` : state.series ? `${BASE}/series/${state.series}/` : state.panel ? `${BASE}/${state.panel}/` : `${BASE}/`;
+  const path = state.game ? `${BASE}/game/${state.game}/` : state.place ? `${BASE}/place/${state.place}/` : state.series ? `${BASE}/series/${state.series}/` : state.era ? `${BASE}/era/${state.era}/` : state.panel ? `${BASE}/${state.panel}/` : `${BASE}/`;
   const params = new URLSearchParams();
   if (state.q) params.set('q', state.q);
   if (state.country && !state.game && !state.place) params.set('country', state.country);

@@ -1,0 +1,15 @@
+[
+  { "slug": "ancient-world", "name": "The ancient world", "heading": "Video games set in the ancient world", "range": [-10000, 499], "intro": "Egypt, Greece, Rome and the cities before them. Many of the places from this era can still be visited as ruins and in museums." },
+  { "slug": "middle-ages", "name": "The Middle Ages", "heading": "Video games set in the Middle Ages", "range": [500, 1499], "intro": "Castles, cathedrals, crusades and plague years, between the fall of Rome and the age of exploration." },
+  { "slug": "early-modern", "name": "The early modern era", "heading": "Video games set in the Renaissance and early modern era", "range": [1500, 1836], "intro": "From the Italian Renaissance to the age of sail and the revolutions that followed, between 1500 and 1836." },
+  { "slug": "victorian-era", "name": "The Victorian era", "heading": "Video games set in the Victorian era", "range": [1837, 1901], "intro": "Industrial cities, empire and the American frontier, from 1837 to 1901." },
+  { "slug": "world-war-1", "name": "World War I", "heading": "Video games set in World War I", "range": [1914, 1918], "intro": "The war of 1914 to 1918: trenches in France and Belgium, the Eastern Front and the railways of Europe." },
+  { "slug": "interwar", "name": "The 1920s and 1930s", "heading": "Video games set in the 1920s and 1930s", "range": [1919, 1938], "intro": "Jazz-age cities, Prohibition, the Depression and the years before the next war." },
+  { "slug": "world-war-2", "name": "World War II", "heading": "Video games set in World War II", "range": [1939, 1945], "intro": "The war from 1939 to 1945, from Normandy and Stalingrad to the Pacific and the occupied cities of Europe." },
+  { "slug": "cold-war", "name": "The Cold War", "heading": "Video games set in the Cold War", "range": [1946, 1991], "intro": "The decades from 1946 to 1991 when the United States and the Soviet Union stood against each other, from Berlin and Moscow to Havana and Vietnam." },
+  { "slug": "1990s", "name": "The 1990s", "heading": "Video games set in the 1990s", "range": [1990, 1999], "intro": "The decade after the Berlin Wall fell, and the years the internet reached ordinary homes." },
+  { "slug": "2000s", "name": "The 2000s", "heading": "Video games set in the 2000s", "range": [2000, 2009], "intro": "The years from 2000 to 2009: the war on terror, the first smartphones and the financial crisis." },
+  { "slug": "2010s", "name": "The 2010s", "heading": "Video games set in the 2010s", "range": [2010, 2019], "intro": "The decade from 2010 to 2019, with smartphones in every pocket, streaming and the Arab Spring." },
+  { "slug": "2020s", "name": "The 2020s", "heading": "Video games set in the 2020s", "range": [2020, 2026], "intro": "The years we are living in now, from 2020." },
+  { "slug": "future", "name": "The future", "heading": "Video games set in the future", "range": [2027, 10000], "intro": "Games set after 2026: near-future cities and worlds far beyond." }
+]

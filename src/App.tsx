@@ -20,6 +20,7 @@ import { type AtlasFilter, type GameFilter, NO_ATLAS_FILTER, type PlaceFilter, a
 import { COUNTRY_SHAPES_HIDE_ZOOM, type CountryPlace, CountryShapes } from './CountryShapes';
 import { markCount, restoreCleared, useMyAtlas } from './myAtlas';
 import { trackEvent } from './analytics';
+import eras from './data/eras.json';
 import { type AtlasCatalog, atlasToCsv, importCsv } from './atlasFiles';
 import { type AtlasDialog, AtlasDialogs, type AtlasToast, AtlasToastMessage } from './MyAtlasDialogs';
 import { IndexPlace, LocationFlyout, NearbyPlace, PanelSection, SHEET_PEEK_HEIGHT } from './LocationFlyout';
@@ -546,7 +547,7 @@ function initialFromUrl(url: UrlState) {
     query: effectiveQuery(url.q ?? ''),
     genres: [...new Set((url.genre ?? []).map(genre => familyOfGenre.get(genre) ?? (familyCount.has(genre) ? genre : undefined)).filter((genre): genre is string => !!genre))],
     yearRange: clampRange(url.released, minYear, maxYear),
-    storyYearRange: clampRange(url.set, minStoryYear, maxStoryYear),
+    storyYearRange: clampRange(url.set ?? eras.find(era => era.slug === url.era)?.range as [number, number] | undefined, minStoryYear, maxStoryYear),
     includeVenues: !!url.all,
     settings: url.setting ?? [],
     placeTypes: [...new Set((url.placeType ?? []).filter((type): type is PlaceType => PLACE_TYPES.some(item => item.value === type)))],
@@ -2045,6 +2046,11 @@ function App() {
 
   // Lenken og fanetittelen følger det som vises; et nytt sted, spill, land eller søk blir en ny oppføring
   useEffect(() => {
+    // Når «Story set in» er nøyaktig en epoke og ingenting annet er åpent, er adressen epokesiden (/era/world-war-2/)
+    const eraNow = !storyFull && !openGame && !view ? eras.find(era => {
+      const [from, to] = clampRange(era.range as [number, number], minStoryYear, maxStoryYear);
+      return storyYearRange[0] === from && storyYearRange[1] === to;
+    }) : undefined;
     const placeName = view?.mode === 'place' ? (places.get(posKey(view.position))?.name ?? view.name) : undefined;
     const state: UrlState = {
       q: search.trim() || undefined,
@@ -2052,7 +2058,8 @@ function App() {
       setting: selectedSettings.length ? selectedSettings as Array<'real' | 'fictionalized' | 'imaginary'> : undefined,
       placeType: selectedPlaceTypes.length ? selectedPlaceTypes : undefined,
       released: yearsFull ? undefined : yearRange,
-      set: storyFull ? undefined : storyYearRange,
+      set: storyFull || eraNow ? undefined : storyYearRange,
+      era: eraNow?.slug,
       all: includeVenues || undefined,
       game: openGame ? gameSlugById.get(openGame.id) : undefined,
       route: openGame ? routeSelections[openGame.id] : undefined,
@@ -2067,7 +2074,7 @@ function App() {
     restoringFromHistory.current = false;
     lastPageKey.current = key;
     writeUrl(state, { push });
-    document.title = panelTitle && (panelGames > 0 || view?.mode === 'index') ? `${panelTitle} – Game Traveler` : DEFAULT_TITLE;
+    document.title = panelTitle && (panelGames > 0 || view?.mode === 'index') ? `${panelTitle} – Game Traveler` : eraNow ? `${eraNow.heading} – Game Traveler` : DEFAULT_TITLE;
   }, [search, selectedGenres, selectedSettings, selectedPlaceTypes, yearRange, storyYearRange, yearsFull, storyFull, includeVenues, openGame, view, places, panelTitle, panelGames, routeSelections, selectedGameId]);
 
   // Et filter eller My atlas kan la kartet stå zoomet inn et sted uten ett eneste treff igjen (gatekart av Lhasa,
