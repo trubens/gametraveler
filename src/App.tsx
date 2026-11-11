@@ -21,6 +21,7 @@ import { COUNTRY_SHAPES_HIDE_ZOOM, type CountryPlace, CountryShapes } from './Co
 import { markCount, restoreCleared, useMyAtlas } from './myAtlas';
 import { trackEvent } from './analytics';
 import eras from './data/eras.json';
+import themes from './data/themes.json';
 import { type AtlasCatalog, atlasToCsv, importCsv } from './atlasFiles';
 import { type AtlasDialog, AtlasDialogs, type AtlasToast, AtlasToastMessage } from './MyAtlasDialogs';
 import { IndexPlace, LocationFlyout, NearbyPlace, PanelSection, SHEET_PEEK_HEIGHT } from './LocationFlyout';
@@ -379,7 +380,8 @@ type Panel =
   | { mode: 'atlas' }
   // Et helt land: alle spill med et sted i landet
   | { mode: 'country'; iso: string }
-  | { mode: 'series'; name: string };
+  | { mode: 'series'; name: string }
+  | { mode: 'collection'; kind: CollectionKind; slug: string };
 // scrolls: rulleposisjonen i hvert panel i history, så «Back to …» åpner det der leseren slapp det
 type PanelState = { view: Panel; seq: number; autoFocus: boolean; history: Panel[]; scrolls?: number[] };
 type SearchSuggestion = {
@@ -459,6 +461,22 @@ type Filters = { query: string; genres: string[]; yearRange: [number, number]; s
 // men vises når man søker, velger sjangeren selv eller slår på «All games».
 const VENUE_GENRES = ['Racing', 'Sports'];
 const isVenueGame = (game: Game) => game.genres.every(genre => VENUE_GENRES.includes(genre));
+
+// Epoker og temaer er ferdige søk (src/data/eras.json og themes.json), ikke noe som ligger på spillene: et historieår i
+// epoken, og for et tema et sted i kartutsnittet. De åpnes fra /era/<slug>/ og /theme/<slug>/ som et panel, som en serie.
+type CollectionKind = 'era' | 'theme';
+type CollectionDef = { slug: string; name: string; heading: string; intro: string; range: number[]; bounds?: number[]; exclude?: string[] };
+const COLLECTIONS: Record<CollectionKind, CollectionDef[]> = { era: eras, theme: themes };
+const collectionOf = (kind: CollectionKind, slug: string) => COLLECTIONS[kind].find(item => item.slug === slug);
+const inBounds = ([lat, lon]: Position, [south, west, north, east]: number[]) => lat >= south && lat <= north && lon >= west && lon <= east;
+const collectionGames = (def: CollectionDef): Game[] => games
+  .filter(game => !isVenueGame(game) && !def.exclude?.includes(game.name)
+    && game.storyYears.some(year => year >= def.range[0] && year <= def.range[1])
+    && (!def.bounds || game.locations.some(location => isValidPosition(location.position) && inBounds(location.position, def.bounds!))))
+  .sort((a, b) => a.year - b.year || a.name.localeCompare(b.name));
+// Stedene som nåles for en samling: i et tema bare de i utsnittet
+const collectionLocations = (def: CollectionDef) => collectionGames(def)
+  .flatMap(game => game.locations.filter(location => isValidPosition(location.position) && (!def.bounds || inBounds(location.position, def.bounds))));
 const venueGameCount = games.filter(isVenueGame).length;
 
 function filterGames({ query, genres, yearRange, storyYearRange, includeVenues, settings, placeTypes }: Filters): SearchHit[] {
@@ -547,7 +565,7 @@ function initialFromUrl(url: UrlState) {
     query: effectiveQuery(url.q ?? ''),
     genres: [...new Set((url.genre ?? []).map(genre => familyOfGenre.get(genre) ?? (familyCount.has(genre) ? genre : undefined)).filter((genre): genre is string => !!genre))],
     yearRange: clampRange(url.released, minYear, maxYear),
-    storyYearRange: clampRange(url.set ?? eras.find(era => era.slug === url.era)?.range as [number, number] | undefined, minStoryYear, maxStoryYear),
+    storyYearRange: clampRange(url.set ?? (themes.find(theme => theme.slug === url.theme) ?? eras.find(era => era.slug === url.era))?.range as [number, number] | undefined, minStoryYear, maxStoryYear),
     includeVenues: !!url.all,
     settings: url.setting ?? [],
     placeTypes: [...new Set((url.placeType ?? []).filter((type): type is PlaceType => PLACE_TYPES.some(item => item.value === type)))],
@@ -575,6 +593,8 @@ function initialFromUrl(url: UrlState) {
     places = buildPlaces(hits.map(hit => hit.game), filters.placeTypes);
   }
   const seriesName = url.series ? seriesBySlug.get(url.series) : undefined;
+  const collection: CollectionKind | undefined = url.theme ? 'theme' : url.era ? 'era' : undefined;
+  const collectionDef = collection ? collectionOf(collection, (collection === 'theme' ? url.theme : url.era)!) : undefined;
   if (seriesName && !filters.includeVenues && seriesGames.get(seriesName)!.every(isVenueGame)) {
     filters.includeVenues = true;
     hits = filterGames(filters);
@@ -601,6 +621,15 @@ function initialFromUrl(url: UrlState) {
     target = { kind: 'bounds', ...gameFit(journey?.locations ?? seriesGames.get(seriesName)!.flatMap(g => g.locations)), seq: 1, instant: true };
   } else if (url.panel) {
     panel = { view: { mode: url.panel === 'places' ? 'index' : 'atlas' }, seq: 1, autoFocus: false, history: [] };
+  } else if (collection && collectionDef) {
+    // Et tema åpner kartet på temaets utsnitt, en epoke på stedene spillene har
+    panel = { view: { mode: 'collection', kind: collection, slug: collectionDef.slug }, seq: 1, autoFocus: false, history: [] };
+    if (collectionDef.bounds) {
+      const [south, west, north, east] = collectionDef.bounds;
+      target = { kind: 'bounds', positions: [[south, west], [north, east]], seq: 1, instant: true };
+    } else {
+      target = { kind: 'bounds', positions: collectionLocations(collectionDef).map(location => location.position), seq: 1, instant: true };
+    }
   } else if (filters.query && places.size > 0) {
     panel = { view: { mode: 'search', query: (url.q ?? '').trim() }, seq: 1, autoFocus: false, history: [] };
     selectedGameId = hits.length === 1 ? hits[0].game.id : undefined;
@@ -1434,6 +1463,11 @@ function App() {
     // Seriens spill i årsrekkefølge, ett avsnitt; stedene nåles alle på kartet
     panelTitle = view.name;
     sections = [{ games: seriesGames.get(view.name) ?? [] }];
+  } else if (view?.mode === 'collection') {
+    // Spillene i epoken eller temaet i årsrekkefølge; stedene nåles på kartet
+    const def = collectionOf(view.kind, view.slug);
+    panelTitle = def?.name ?? '';
+    sections = [{ games: def ? collectionGames(def) : [] }];
   } else if (view?.mode === 'index') {
     panelTitle = 'All places';
   } else if (view?.mode === 'atlas') {
@@ -1499,10 +1533,13 @@ function App() {
   // Klyngene dempes når et spill er valgt, slik at reisestoppene står ut, og når et land er åpent,
   // slik at landets egne steder står ut: en klynge dempes da når ingen av stedene i den ligger i landet
   const clusterGroupRef = useRef<L.MarkerClusterGroup>(null);
-  const openSeriesKeys = view?.mode === 'series' ? new Set((seriesGames.get(view.name) ?? []).flatMap(g => g.locations.filter(l => isValidPosition(l.position)).map(l => posKey(l.position)))) : undefined;
+  const openCollectionDef = view?.mode === 'collection' ? collectionOf(view.kind, view.slug) : undefined;
+  const openSeriesKeys = view?.mode === 'series'
+    ? new Set((seriesGames.get(view.name) ?? []).flatMap(g => g.locations.filter(l => isValidPosition(l.position)).map(l => posKey(l.position))))
+    : openCollectionDef ? new Set(collectionLocations(openCollectionDef).map(l => posKey(l.position))) : undefined;
   const countryKeysOpen = openCountryIso ? countryContent.get(openCountryIso)?.keys : openSeriesKeys;
   const dimClustersRef = useRef<{ all: boolean; inside?: Set<string> }>({ all: !!focusGame, inside: countryKeysOpen });
-  const dimSignature = `${focusGame ? 'g' : ''}|${openCountryIso ?? ''}|${view?.mode === 'series' ? view.name : ''}|${countryKeysOpen?.size ?? ''}`;
+  const dimSignature = `${focusGame ? 'g' : ''}|${openCountryIso ?? ''}|${view?.mode === 'series' ? view.name : view?.mode === 'collection' ? view.slug : ''}|${countryKeysOpen?.size ?? ''}`;
   useEffect(() => {
     dimClustersRef.current = { all: !!focusGame, inside: countryKeysOpen };
     clusterGroupRef.current?.refreshClusters();
@@ -1625,7 +1662,7 @@ function App() {
   useEffect(() => {
     if (!panel) return;
     const v = panel.view;
-    const name = v.mode === 'game' ? gameById.get(v.id)?.name : v.mode === 'place' ? v.name : v.mode === 'country' ? countryName(v.iso) : v.mode === 'series' ? v.name : undefined;
+    const name = v.mode === 'game' ? gameById.get(v.id)?.name : v.mode === 'place' ? v.name : v.mode === 'country' ? countryName(v.iso) : v.mode === 'series' ? v.name : v.mode === 'collection' ? collectionOf(v.kind, v.slug)?.name : undefined;
     trackEvent('open_view', {
       view: v.mode,
       item_name: name,
@@ -2046,11 +2083,16 @@ function App() {
 
   // Lenken og fanetittelen følger det som vises; et nytt sted, spill, land eller søk blir en ny oppføring
   useEffect(() => {
-    // Når «Story set in» er nøyaktig en epoke og ingenting annet er åpent, er adressen epokesiden (/era/world-war-2/)
+    // Er «Story set in» nøyaktig en epoke og ingenting annet er åpent, er adressen epokesiden (/era/world-war-2/)
     const eraNow = !storyFull && !openGame && !view ? eras.find(era => {
       const [from, to] = clampRange(era.range as [number, number], minStoryYear, maxStoryYear);
       return storyYearRange[0] === from && storyYearRange[1] === to;
     }) : undefined;
+    // Et åpent panel for en epoke eller et tema har samme år som filteret; endres de, står de i adressen (?set=)
+    const openCollection = view?.mode === 'collection' ? view : undefined;
+    const openDef = openCollection ? collectionOf(openCollection.kind, openCollection.slug) : undefined;
+    const collectionRange = openDef ? clampRange(openDef.range as [number, number], minStoryYear, maxStoryYear) : undefined;
+    const collectionYears = !!collectionRange && storyYearRange[0] === collectionRange[0] && storyYearRange[1] === collectionRange[1];
     const placeName = view?.mode === 'place' ? (places.get(posKey(view.position))?.name ?? view.name) : undefined;
     const state: UrlState = {
       q: search.trim() || undefined,
@@ -2058,8 +2100,9 @@ function App() {
       setting: selectedSettings.length ? selectedSettings as Array<'real' | 'fictionalized' | 'imaginary'> : undefined,
       placeType: selectedPlaceTypes.length ? selectedPlaceTypes : undefined,
       released: yearsFull ? undefined : yearRange,
-      set: storyFull || eraNow ? undefined : storyYearRange,
-      era: eraNow?.slug,
+      set: storyFull || eraNow || collectionYears ? undefined : storyYearRange,
+      era: openCollection?.kind === 'era' ? openCollection.slug : eraNow?.slug,
+      theme: openCollection?.kind === 'theme' ? openCollection.slug : undefined,
       all: includeVenues || undefined,
       game: openGame ? gameSlugById.get(openGame.id) : undefined,
       route: openGame ? routeSelections[openGame.id] : undefined,
@@ -2074,7 +2117,7 @@ function App() {
     restoringFromHistory.current = false;
     lastPageKey.current = key;
     writeUrl(state, { push });
-    document.title = panelTitle && (panelGames > 0 || view?.mode === 'index') ? `${panelTitle} – Game Traveler` : eraNow ? `${eraNow.heading} – Game Traveler` : DEFAULT_TITLE;
+    document.title = openDef ? `${openDef.heading} – Game Traveler` : panelTitle && (panelGames > 0 || view?.mode === 'index') ? `${panelTitle} – Game Traveler` : eraNow ? `${eraNow.heading} – Game Traveler` : DEFAULT_TITLE;
   }, [search, selectedGenres, selectedSettings, selectedPlaceTypes, yearRange, storyYearRange, yearsFull, storyFull, includeVenues, openGame, view, places, panelTitle, panelGames, routeSelections, selectedGameId]);
 
   // Et filter eller My atlas kan la kartet stå zoomet inn et sted uten ett eneste treff igjen (gatekart av Lhasa,
@@ -2092,7 +2135,7 @@ function App() {
     // Kort pause, så ikke hver avkrysning i filteret flytter kartet
     fitTimer.current = window.setTimeout(() => {
       const { places: shown, view: current } = fitInputs.current;
-      if (current && ['game', 'place', 'series', 'country', 'cluster', 'near'].includes(current.mode)) return;
+      if (current && ['game', 'place', 'series', 'collection', 'country', 'cluster', 'near'].includes(current.mode)) return;
       const map = mapRef.current;
       if (!map || shown.size === 0) return;
       const bounds = map.getBounds();
@@ -3057,7 +3100,7 @@ function App() {
             title={panelTitle}
           placeType={panelPlaceType}
           placeTypeVaries={!!panelPlace && panelPlace.placeTypes.size > 1}
-            variant={view?.mode === 'game' ? 'game' : view?.mode === 'index' ? 'index' : view?.mode === 'atlas' ? 'atlas' : view?.mode === 'series' ? 'series' : 'list'}
+            variant={view?.mode === 'game' ? 'game' : view?.mode === 'index' ? 'index' : view?.mode === 'atlas' ? 'atlas' : view?.mode === 'series' || view?.mode === 'collection' ? 'series' : 'list'}
             onOpenSeries={showSeries}
             atlasContent={view?.mode === 'atlas' ? (
               <MyAtlasPanel
@@ -3077,7 +3120,7 @@ function App() {
             placeIds={panelPlaceIds}
             wikipediaUrl={canonicalPlaces.find(p => p.id === panelRecordIds[0])?.wikipediaUrl}
             mapsUrl={(() => { const record = canonicalPlaces.find(p => p.id === panelRecordIds[0]); return record ? googleMapsUrl(record) : undefined; })()}
-            description={canonicalPlaces.find(p => p.id === panelRecordIds[0])?.description}
+            description={openCollectionDef?.intro ?? canonicalPlaces.find(p => p.id === panelRecordIds[0])?.description}
             autoFocus={panel.autoFocus}
             focusRequest={panel.seq}
             restoreScrollTop={scrollRestore?.seq === panel.seq ? scrollRestore.top : undefined}
@@ -3212,6 +3255,7 @@ function backTitle(view: Panel, places: Map<string, Place>): string {
   if (view.mode === 'atlas') return 'My atlas';
   if (view.mode === 'country') return shortName(countryTitle(view.iso));
   if (view.mode === 'series') return `the ${view.name} series`;
+  if (view.mode === 'collection') return collectionOf(view.kind, view.slug)?.name ?? 'the list';
   return 'the list';
 }
 

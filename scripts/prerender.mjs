@@ -56,6 +56,18 @@ const eras = JSON.parse(fs.readFileSync('src/data/eras.json', 'utf8'));
 const VENUE_GENRES = new Set(['Racing', 'Sports']);
 const inEra = (game, era) => game.storyYears?.some(year => year >= era.range[0] && year <= era.range[1]);
 const eraRoute = era => `/era/${era.slug}/`;
+// Temaer (src/data/themes.json): et ferdig søk, en epoke og et kartutsnitt. Et spill hører til når det har et sted
+// innenfor utsnittet og et historieår i epoken, og ikke står i «exclude».
+const themes = JSON.parse(fs.readFileSync('src/data/themes.json', 'utf8'));
+const themeRoute = theme => `/theme/${theme.slug}/`;
+const inBounds = (location, [south, west, north, east]) => {
+  const [lat, lon] = Array.isArray(location.position) ? location.position : [location.position.lat, location.position.lon];
+  return lat >= south && lat <= north && lon >= west && lon <= east;
+};
+const inTheme = (game, theme) => !game.genres.some(genre => VENUE_GENRES.has(genre))
+  && !theme.exclude.includes(game.name)
+  && inEra(game, theme)
+  && game.locations.some(location => inBounds(location, theme.bounds));
 
 // Holdes i synk med slugify i src/format.ts
 const slugify = text => text
@@ -204,6 +216,8 @@ const homeBody = `
         <p><a href="${esc(appPath('/places/'))}">All ${places.size} places</a></p>
         <h2>Browse by era</h2>
         <ul>${eras.map(era => `<li><a href="${esc(appPath(eraRoute(era)))}">${esc(era.heading)}</a></li>`).join('')}</ul>
+        <h2>Browse by theme</h2>
+        <ul>${themes.map(theme => `<li><a href="${esc(appPath(themeRoute(theme)))}">${esc(theme.heading)}</a></li>`).join('')}</ul>
         <h2>Browse the game atlas</h2>
         <ul>${[...games].sort((a, b) => a.name.localeCompare(b.name)).map(game => `<li><a href="${esc(appPath(gameRoute(game)))}">${esc(game.name)}</a>${game.name.endsWith(` (${game.year})`) ? '' : ` (${game.year})`} – set in ${esc(listNames(game.locations.map(location => location.name)))}</li>`).join('')}</ul>
       </main>`;
@@ -321,6 +335,7 @@ for (const game of games) {
       <p>${esc(withYear(game))}, ${esc(game.genres.join(', '))} by ${esc(game.developer)}, published by ${esc(game.publisher)}.${game.storyYears.length ? ` Set in ${game.storyYears.map(formatYear).join(', ')}.` : ''}${game.aliases?.length ? ` Also known as ${esc(game.aliases.join(', '))}.` : ''}</p>
       <ol>${game.locations.map(l => `<li><a href="${esc(appPath(placeRoute(l.name)))}">${esc(l.name)}</a>${l.note ? ` – ${esc(l.note)}` : ''}${l.source ? ` <a href="${esc(l.source)}" target="_blank" rel="noopener noreferrer">Location source</a>` : ''}</li>`).join('')}</ol>
       ${routeBody}
+      ${themes.some(theme => inTheme(game, theme)) ? `<p>Part of: ${themes.filter(theme => inTheme(game, theme)).map(theme => `<a href="${esc(appPath(themeRoute(theme)))}">${esc(theme.name)}</a>`).join(', ')}</p>` : ''}
       ${eras.some(era => inEra(game, era)) ? `<p>Set in: ${eras.filter(era => inEra(game, era)).map(era => `<a href="${esc(appPath(eraRoute(era)))}">${esc(era.name)}</a>`).join(', ')}</p>` : ''}
       ${game.source ? `<p><a href="${esc(game.source)}" target="_blank" rel="noopener noreferrer">${game.source.includes('wikipedia.org/wiki/') ? 'Wikipedia' : 'About this game'}</a></p>` : ''}`;
   page({
@@ -432,6 +447,32 @@ for (const era of eras) {
     description,
     body,
     structuredData: { '@context': 'https://schema.org', '@type': 'CollectionPage', name: title, description, url: `${siteUrl}${eraRoute(era)}`, hasPart: list.map(game => ({ '@type': 'VideoGame', name: game.name, url: `${siteUrl}${gameRoute(game)}` })) },
+    lastmod: latestReviewed(list),
+  });
+}
+
+// Temasider: «Video games set in the Wild West». Bare temaer med minst fem spill får side.
+for (const theme of themes) {
+  const list = games.filter(game => inTheme(game, theme)).sort((a, b) => a.year - b.year || a.name.localeCompare(b.name));
+  if (list.length < 5) { console.warn(`Warning: theme ${theme.slug} has ${list.length} games and gets no page`); continue; }
+  const placesIn = game => [...new Set(game.locations.filter(location => inBounds(location, theme.bounds)).map(location => location.name))];
+  const placeCount = new Set(list.flatMap(game => game.locations.filter(location => inBounds(location, theme.bounds)).map(location => location.placeId))).size;
+  const title = `${theme.heading} – Game Traveler`;
+  const description = truncate(`${list.length} video games are set in ${theme.name.replace(/^The /, 'the ')}, from ${list[0].name} to ${list.at(-1).name}. See the real places they take place in, on the map.`);
+  const body = `
+      ${siteLine}
+      <h1>${esc(theme.heading)}</h1>
+      <p>${esc(theme.intro)}</p>
+      <p>${list.length} games in this atlas fit this theme, with ${placeCount} places on the map.</p>
+      <ol>${list.map(game => `<li><a href="${esc(appPath(gameRoute(game)))}">${esc(game.name)}</a> (${game.year}) – ${esc(listNames(placesIn(game)))}${placesIn(game).length > 4 ? ' and more' : ''}</li>`).join('')}</ol>
+      <h2>More themes</h2>
+      <ul>${themes.filter(other => other !== theme).map(other => `<li><a href="${esc(appPath(themeRoute(other)))}">${esc(other.heading)}</a></li>`).join('')}</ul>`;
+  page({
+    route: themeRoute(theme),
+    title,
+    description,
+    body,
+    structuredData: { '@context': 'https://schema.org', '@type': 'CollectionPage', name: title, description, url: `${siteUrl}${themeRoute(theme)}`, hasPart: list.map(game => ({ '@type': 'VideoGame', name: game.name, url: `${siteUrl}${gameRoute(game)}` })) },
     lastmod: latestReviewed(list),
   });
 }

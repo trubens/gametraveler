@@ -712,7 +712,7 @@ export function LocationFlyout({
           {!isPeek && variant === 'game' && allGames[0] && <GameAliases game={allGames[0]} />}
           {!isPeek && variant === 'game' && allGames[0] && <GameSeriesLine game={allGames[0]} onOpenSeries={onOpenSeries} />}
           {/* Beskrivelsen står også når stedet ikke kan merkes (oppdiktede og imaginære steder) */}
-          {!isPeek && variant === 'list' && description && (
+          {!isPeek && (variant === 'list' || variant === 'series') && description && (
             <p className="mt-1.5 text-sm leading-snug text-ink md:mt-2 md:text-[0.95rem]">
               {description}
             </p>
