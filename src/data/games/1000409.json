@@ -1,0 +1,27 @@
+{
+  "id": 1000409,
+  "name": "Rosewater",
+  "year": 2025,
+  "developer": "Grundislav Games",
+  "publisher": "Application Systems Heidelberg",
+  "genres": [
+    "Adventure"
+  ],
+  "storyYears": [
+    1880
+  ],
+  "source": "https://en.wikipedia.org/wiki/Rosewater_(video_game)",
+  "reviewed": "2026-11-11",
+  "locations": [
+    {
+      "placeId": "vespuccia-fictional-usa",
+      "settingType": "fictionalized",
+      "aliases": [
+        "Rosewater",
+        "El Presidio",
+        "Gannet Island"
+      ],
+      "note": "In the alternate American West of Lamplight City's world, the freelance writer Harley Leger arrives in the frontier town of Rosewater to interview the legend Gentleman Jake, then crosses the desert with him and the sharpshooter Danny Luo, past a fort and the O'odham, to El Presidio and Dr Clark's hidden lab on Gannet Island just offshore."
+    }
+  ]
+}

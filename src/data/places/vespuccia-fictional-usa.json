@@ -1,0 +1,18 @@
+{
+  "id": "vespuccia-fictional-usa",
+  "name": "Vespuccia, USA",
+  "position": {
+    "lat": 37.0,
+    "lon": -111.0
+  },
+  "scale": "area",
+  "parentId": "united-states",
+  "placeType": "region",
+  "fictional": true,
+  "aliases": [
+    "Vespuccia"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Lamplight_City",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Southwestern_United_States",
+  "description": "The invented country of Grundislav Games' alternate 19th century, what the North American colonies became after staying in the British Empire. It is pinned on the American Southwest, where Rosewater is set; the games name no real region, so the placement is a guess."
+}
