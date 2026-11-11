@@ -541,7 +541,7 @@ export function LocationFlyout({
                       Follow one route at a time
                     </button>
                   </div>
-                ) : placeChips(game.locations, section.position))}
+                ) : placeChips(getGameRoutes(game)[0]?.locations ?? game.locations, section.position))}
                 {!hasRoute && !section.position && game.locations[0] && (
                   <button
                     type="button"

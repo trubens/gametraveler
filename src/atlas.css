@@ -137,8 +137,8 @@
   .leaflet-control-zoom { display: none !important; }
   /* På mobil står kartknappene øverst til høyre, klar av velkomstkortet og arket */
   .atlas-map-tools { top: 12px; right: 12px; bottom: auto; }
-  /* Meldinger over kartet holder seg til venstre for kartknappene */
-  .atlas-map-notices { top: 12px; left: 12px; right: 68px; }
+  /* Meldinger over kartet står midt på skjermen og holder seg samtidig klar av kartknappene til høyre */
+  .atlas-map-notices { top: 12px; left: 68px; right: 68px; }
   /* To rader: navn og snarveier øverst, søk og filter under */
   .atlas-toolbar { flex-wrap: wrap; min-height: 0; padding: 4px 4px 8px 14px; gap: 0 2px; }
   .atlas-brand { margin-right: auto; font-size: 1.1875rem; }
