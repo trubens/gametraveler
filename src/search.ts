@@ -112,6 +112,8 @@ export function createGameSearch(games: Game[]) {
     return { ...doc, text, words: text.split(' ') };
   });
   // Built once for the static catalogue, not on each keystroke.
+  // Notatene søkes ordrett i første runde, men ikke uklart: de er lange, og det uklare søket over dem tok mer enn en halv sekund
+  // når katalogen vokste. Uklart søk gjelder titler, steder og sjanger.
   const index = new Fuse(documents, {
     useTokenSearch: true,
     tokenMatch: 'all',
@@ -122,12 +124,11 @@ export function createGameSearch(games: Game[]) {
     keys: [
       { name: 'titles', weight: 0.45 },
       { name: 'places', weight: 0.4 },
-      { name: 'notes', weight: 0.1 },
       { name: 'genres', weight: 0.05 },
     ],
   });
 
-  return (query: string): SearchHit[] => {
+  const run = (query: string): SearchHit[] => {
     if (!query.trim()) return games.map(game => ({ game, matchedLocations: [] }));
     const normalized = normalizeQuery(query);
     if (!normalized) return [];
@@ -198,6 +199,18 @@ export function createGameSearch(games: Game[]) {
     return [...grouped.values()]
       .sort((a, b) => a.rank - b.rank || a.score - b.score || a.game.year - b.game.year || a.game.name.localeCompare(b.game.name))
       .map(({ game, matchedLocations, exact }) => ({ game, matchedLocations, exact }));
+  };
+
+  // Samme søk kjøres flere ganger for hvert tastetrykk (treffene, tellingene per sjanger og stedstype, kartet), og det uklare
+  // søket går over alle notatene. Svaret huskes per søketekst; treffene leses bare, de endres aldri etterpå.
+  const cache = new Map<string, SearchHit[]>();
+  return (query: string): SearchHit[] => {
+    const cached = cache.get(query);
+    if (cached) return cached;
+    const result = run(query);
+    if (cache.size >= 60) cache.delete(cache.keys().next().value as string);
+    cache.set(query, result);
+    return result;
   };
 }
 
