@@ -7,7 +7,7 @@ import { Autocomplete } from '@base-ui/react/autocomplete';
 import { useState, useEffect, useLayoutEffect, useMemo, useRef, useCallback, useSyncExternalStore } from 'react';
 import { NIGHT, WATER, toneColorText } from './basemapTone';
 import { type ThemeChoice, getIsDark, readThemeChoice, saveThemeChoice, useIsDark } from './theme';
-import { ArrowUpRight, BookMarked, Check, Coffee, Compass, Gamepad2, Layers, Shuffle, Info, List, LocateFixed, MapPin, MoreHorizontal, RotateCcw, Search, ShieldCheck, SlidersHorizontal, X } from 'lucide-react';
+import { ArrowUpRight, BookMarked, Check, Coffee, Compass, Gamepad2, History, Layers, Shuffle, Info, List, LocateFixed, MapPin, MoreHorizontal, RotateCcw, Search, ShieldCheck, SlidersHorizontal, X } from 'lucide-react';
 import './App.css';
 import './atlas.css';
 
@@ -269,17 +269,11 @@ const chipClass = 'min-h-11 cursor-pointer rounded-[10px] border px-3 text-[0.95
 // Tidsskalaen gir mest plass til epokene der de fleste spillene foregår
 const STORY_SCALE: Scale = [[0, 0.12], [1000, 0.24], [1500, 0.34], [1800, 0.44], [1900, 0.54], [2000, 0.8], [2030, 0.88]];
 
-const thisYear = new Date().getFullYear();
 type Era = { label: string; range: [number, number] };
-const ERAS: Era[] = ([
-  { label: 'Ancient', range: [minStoryYear, 499] },
-  { label: 'Medieval', range: [500, 1499] },
-  { label: '1500s–1700s', range: [1500, 1799] },
-  { label: '1800s', range: [1800, 1899] },
-  { label: '1900s', range: [1900, 1999] },
-  { label: 'Today', range: [2000, thisYear] },
-  { label: 'Future', range: [thisYear + 1, maxStoryYear] },
-] satisfies Era[]).filter(e => e.range[0] <= e.range[1]);
+// Knappene under «Story set in» er de samme epokene som får egne sider (src/data/eras.json)
+const ERAS: Era[] = eras
+  .map(era => ({ label: era.chip, range: [Math.max(era.range[0], minStoryYear), Math.min(era.range[1], maxStoryYear)] as [number, number] }))
+  .filter(era => era.range[0] <= era.range[1]);
 
 // Klynger åpner lista når stedene ligger så tett at kartet ikke kan skille dem, eller når det er få nok spill til å lese
 const LIST_ZOOM = 10;
@@ -386,12 +380,13 @@ type Panel =
 type PanelState = { view: Panel; seq: number; autoFocus: boolean; history: Panel[]; scrolls?: number[] };
 type SearchSuggestion = {
   id: string;
-  kind: 'game' | 'place' | 'series' | 'all' | 'browse';
+  kind: 'game' | 'place' | 'series' | 'collection' | 'all' | 'browse';
   label: string;
   detail: string;
   game?: Game;
   position?: Position;
   series?: string;
+  collection?: { kind: CollectionKind; slug: string };
 };
 
 // Overkanten av arket på mobil, i vindus-koordinater; undefined når det ikke er noe ark
@@ -465,7 +460,7 @@ const isVenueGame = (game: Game) => game.genres.every(genre => VENUE_GENRES.incl
 // Epoker og temaer er ferdige søk (src/data/eras.json og themes.json), ikke noe som ligger på spillene: et historieår i
 // epoken, og for et tema et sted i kartutsnittet. De åpnes fra /era/<slug>/ og /theme/<slug>/ som et panel, som en serie.
 type CollectionKind = 'era' | 'theme';
-type CollectionDef = { slug: string; name: string; heading: string; intro: string; range: number[]; bounds?: number[]; exclude?: string[] };
+type CollectionDef = { slug: string; name: string; heading: string; intro: string; range: number[]; bounds?: number[]; exclude?: string[]; aliases?: string[] };
 const COLLECTIONS: Record<CollectionKind, CollectionDef[]> = { era: eras, theme: themes };
 const collectionOf = (kind: CollectionKind, slug: string) => COLLECTIONS[kind].find(item => item.slug === slug);
 const inBounds = ([lat, lon]: Position, [south, west, north, east]: number[]) => lat >= south && lat <= north && lon >= west && lon <= east;
@@ -1753,6 +1748,26 @@ function App() {
     moveMap({ kind: 'bounds', ...gameFit(list.flatMap(g => g.locations)) });
   };
 
+  // En epoke eller et tema er et ferdig søk: årene settes som «Story set in», andre filtre nullstilles, panelet viser spillene,
+  // og kartet panorerer til temaets utsnitt (en epoke: stedene spillene har). Samme som adressene /era/ og /theme/.
+  const showCollection = (kind: CollectionKind, slug: string, via: 'search' | 'filter') => {
+    const def = collectionOf(kind, slug);
+    if (!def) return;
+    trackEvent('open_collection', { kind, item_name: def.name, via });
+    setSiteMenuOpen(false);
+    setFilterOpen(false);
+    setSearchListOpen(false);
+    setSelectedGameId(undefined);
+    searchTouched.current = false;
+    setSearch('');
+    resetFilters();
+    setStoryYearRange(clampRange(def.range as [number, number], minStoryYear, maxStoryYear));
+    openPanel({ mode: 'collection', kind, slug });
+    moveMap(def.bounds
+      ? { kind: 'bounds', positions: [[def.bounds[0], def.bounds[1]], [def.bounds[2], def.bounds[3]]] }
+      : { kind: 'bounds', positions: collectionLocations(def).map(location => location.position) });
+  };
+
   // Arket følger det man trykket på: landflaten på kartet åpner landet med arket nede, så landet ses; en prikk
   // eller en lenke (et spills stedsliste, søket) åpner det som et sted, med arket oppe og spillene synlige.
   // Før åpnet også landprikkene (Norge, Tyskland …) med arket nede, og steder så ut til å åpne seg med et
@@ -2368,11 +2383,24 @@ function App() {
         detail: `${count(list.length, 'game')} · ${list[0].year}–${list[list.length - 1].year}`,
         series: name,
       }));
+    // Står søket i navnet på en epoke eller et tema («wild west», «ww2», «victorian»), kommer den som en snarvei
+    const collectionItems: SearchSuggestion[] = normalized.length < 3 ? [] : (['era', 'theme'] as const)
+      .flatMap(kind => COLLECTIONS[kind]
+        .filter(def => (kind === 'era' || collectionGames(def).length >= 5)
+          && [def.name, def.heading, ...(def.aliases ?? [])].some(term => normalizeSearch(term).includes(normalized)))
+        .map(def => ({
+          id: `${kind}:${def.slug}`,
+          kind: 'collection' as const,
+          label: def.name,
+          detail: `${kind === 'theme' ? 'Theme' : 'Era'} · ${count(collectionGames(def).length, 'game')}`,
+          collection: { kind, slug: def.slug },
+        })))
+      .slice(0, 2);
     // Lista viser fem spill; flere treff får en rad som åpner alle i panelet (24 Assassin's Creed-spill)
     const allItem: SearchSuggestion[] = filteredHits.length > gameItems.length
       ? [{ id: 'all', kind: 'all', label: `Show all ${count(filteredHits.length, 'game')}`, detail: '' }]
       : [];
-    return [...seriesItems, ...(titleMatch ? [...gameItems, ...placeItems] : [...placeItems, ...gameItems]), ...allItem];
+    return [...seriesItems, ...collectionItems, ...(titleMatch ? [...gameItems, ...placeItems] : [...placeItems, ...gameItems]), ...allItem];
   }, [filteredHits, query, search, places.size]);
 
   const emptyMessage = query && activeFilters > 0
@@ -2437,6 +2465,7 @@ function App() {
               setSelectedGameId(undefined);
               moveMap({ kind: 'bounds', positions: searchPositions(filteredHits).filter(isValidPosition) });
             } else if (suggestion.kind === 'series' && suggestion.series) showSeries(suggestion.series, false);
+            else if (suggestion.kind === 'collection' && suggestion.collection) showCollection(suggestion.collection.kind, suggestion.collection.slug, 'search');
             else if (suggestion.kind === 'game' && suggestion.game) showGame(suggestion.game, false);
             else if (suggestion.position) showPlace(suggestion.position);
             return;
@@ -2514,9 +2543,9 @@ function App() {
                       <>
                         {/* Ikon i stedet for ordene «Game» og «Place» i en egen grå kolonne; ordet står for skjermlesere */}
                         <span className="gt-search-icon" aria-hidden="true">
-                          {item.kind === 'game' ? <Gamepad2 size={18} strokeWidth={1.75} /> : item.kind === 'series' ? <Layers size={18} strokeWidth={1.75} /> : <MapPin size={18} strokeWidth={1.75} />}
+                          {item.kind === 'game' ? <Gamepad2 size={18} strokeWidth={1.75} /> : item.kind === 'series' ? <Layers size={18} strokeWidth={1.75} /> : item.kind === 'collection' ? <History size={18} strokeWidth={1.75} /> : <MapPin size={18} strokeWidth={1.75} />}
                         </span>
-                        <span className="sr-only">{item.kind === 'game' ? 'Game' : item.kind === 'series' ? 'Series' : 'Place'}: </span>
+                        <span className="sr-only">{item.kind === 'game' ? 'Game' : item.kind === 'series' ? 'Series' : item.kind === 'collection' ? 'Era or theme' : 'Place'}: </span>
                         {/* Tittelen får hele bredden og detaljene står under: side om side ble «Assassin's Creed: …»
                             tre ganger, og spillene i en serie kunne ikke skilles */}
                         <span className="flex min-w-0 flex-1 flex-col py-1.5">
@@ -2769,6 +2798,23 @@ function App() {
                             className={`${chipClass} ${active ? 'border-ink bg-ink text-on-ink' : 'border-ink/25 bg-card text-ink hover:border-ink'}`}
                           >
                             {era.label}
+                          </button>
+                        );
+                      })}
+                    </div>
+                    <h3 className="mt-3 text-sm font-semibold">Themes</h3>
+                    <div className="flex flex-wrap gap-1.5" role="group" aria-label="Themes">
+                      {themes.filter(theme => collectionGames(theme).length >= 5).map(theme => {
+                        const open = view?.mode === 'collection' && view.slug === theme.slug;
+                        return (
+                          <button
+                            key={theme.slug}
+                            type="button"
+                            aria-pressed={open}
+                            onClick={() => showCollection('theme', theme.slug, 'filter')}
+                            className={`${chipClass} ${open ? 'border-ink bg-ink text-on-ink' : 'border-ink/25 bg-card text-ink hover:border-ink'}`}
+                          >
+                            {theme.name}
                           </button>
                         );
                       })}
@@ -3121,6 +3167,7 @@ function App() {
             wikipediaUrl={canonicalPlaces.find(p => p.id === panelRecordIds[0])?.wikipediaUrl}
             mapsUrl={(() => { const record = canonicalPlaces.find(p => p.id === panelRecordIds[0]); return record ? googleMapsUrl(record) : undefined; })()}
             description={openCollectionDef?.intro ?? canonicalPlaces.find(p => p.id === panelRecordIds[0])?.description}
+            placeCount={openCollectionDef ? new Set(collectionLocations(openCollectionDef).map(location => posKey(location.position))).size : undefined}
             autoFocus={panel.autoFocus}
             focusRequest={panel.seq}
             restoreScrollTop={scrollRestore?.seq === panel.seq ? scrollRestore.top : undefined}

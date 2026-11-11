@@ -65,6 +65,7 @@ export function LocationFlyout({
   wikipediaUrl,
   mapsUrl,
   description,
+  placeCount: placeCountOverride,
   atlasContent,
   autoFocus,
   focusRequest,
@@ -109,6 +110,8 @@ export function LocationFlyout({
   mapsUrl?: string;
   // Hva stedet er, en setning eller to; fra Wikipedia-sammendraget når posten ikke har egen tekst
   description?: string;
+  // Antall steder på kartet for en epoke eller et tema: bare de i utsnittet, ikke alle stedene spillene har
+  placeCount?: number;
   autoFocus: boolean;
   focusRequest: number;
   // Rulleposisjonen tilbake-knappen gjenoppretter for dette panelet
@@ -690,7 +693,7 @@ export function LocationFlyout({
               <>
                 <span className="font-semibold text-ink">{count(allGames.length, 'game')}</span>
                 {allGames.length > 1 && <> · {allGames[0].year}–{allGames[allGames.length - 1].year}</>}
-                {' · '}{count(new Set(allGames.flatMap(game => game.locations.map(l => `${l.position[0]},${l.position[1]}`))).size, 'place')}
+                {' · '}{count(placeCountOverride ?? new Set(allGames.flatMap(game => game.locations.map(l => `${l.position[0]},${l.position[1]}`))).size, 'place')}
               </>
             ) : variant === 'game' && allGames[0] ? (
               <>
